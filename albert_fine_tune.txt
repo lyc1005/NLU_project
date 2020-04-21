@@ -1,0 +1,25 @@
+srun --nodes=1 --cpus-per-task=1 --time=1:00:00 --gres=gpu:1  --mem=64GB --pty /bin/bash
+module purge
+module load anaconda3/5.3.1
+module load cuda/10.0.130
+module load gcc/6.3.0
+NETID=zc674
+source activate /scratch/${NETID}/nlu/env
+cd /scratch/${NETID}/nlu/code/transformers
+pip install -r ./examples/requirements.txt
+pip install boto3 filelock requests tqdm sentencepiece sacremoses tokenizers
+export PYTHONPATH=/scratch/${NETID}/nlu/code/transformers/src:$PYTHONPATH
+BIO_DIR=/scratch/${NETID}/nlu/data/BioASQ-67b/BioASQ-7b
+python ./examples/run_squad.py \
+  --model_type albert \
+  --model_name_or_path albert-base-v1\
+  --do_train \
+  --do_eval \
+  --train_file $BIO_DIR/train/Full-Abstract/BioASQ-train-factoid-7b-full-annotated.json \
+  --predict_file $BIO_DIR/test/Full-Abstract/BioASQ-test-factoid-7b-1.json \
+  --per_gpu_train_batch_size 12 \
+  --learning_rate 3e-5 \
+  --num_train_epochs 2.0 \
+  --max_seq_length 384 \
+  --doc_stride 128 \
+  --output_dir /tmp/debug_squad/
