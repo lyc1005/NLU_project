@@ -1,0 +1,982 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c0117fd133db5eb7800002a_001",
+              "question": "When did delafloxacin receive its first approval in the USA for acute bacterial skin and skin structure infections?"
+            }
+          ],
+          "context": "The drug is being investigated or considered as a treatment for various bacterial infections and in June 2017 received approval in the USA for the treatment of acute bacterial skin and skin structure infections. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c78080e7c78d694710000ae_001",
+              "question": "What is the cause of Sandhoff disease?"
+            }
+          ],
+          "context": "Sandhoff disease (SD) is a genetic disorder caused by a mutation of the \u03b2-subunit gene \u03b2-hexosaminidase B (HexB) in humans, which results in the massive accumulation of the ganglioside GM2 and related glycosphingolipids in the nervous system."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c78080e7c78d694710000ae_002",
+              "question": "What is the cause of Sandhoff disease?"
+            }
+          ],
+          "context": "Sandhoff disease, one of the GM2 gangliosidoses, is a lysosomal storage disorder characterized by the absence of \u03b2-hexosaminidase A and B activity and the concomitant lysosomal accumulation of its substrate, GM2 ganglioside. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c78080e7c78d694710000ae_003",
+              "question": "What is the cause of Sandhoff disease?"
+            }
+          ],
+          "context": "Sandhoff disease results from the defective activity of \u03b2-hexosaminidase, leading to accumulation of ganglioside GM2."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c78080e7c78d694710000ae_004",
+              "question": "What is the cause of Sandhoff disease?"
+            }
+          ],
+          "context": "Sandhoff disease (SD) results from mutations in the HEXB gene, subsequent deficiency of N-acetyl-\u03b2-hexosaminidase (Hex) and accumulation of GM2 gangliosides"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65468ce842deac6700001e_001",
+              "question": "Name one CCR4 targeted drug."
+            }
+          ],
+          "context": "Mogamulizumab (Anti-CCR4) in HTLV-1-Associated Myelopathy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65468ce842deac6700001e_002",
+              "question": "Name one CCR4 targeted drug."
+            }
+          ],
+          "context": "We evaluated mogamulizumab, a humanized anti-CCR4 monoclonal antibody that targets infected cells, in patients with HAM-TSP."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c53191a7e3cb0e231000016_001",
+              "question": "What periodontal disease associated bacteria is also associated with Alzheimer's disease?"
+            }
+          ],
+          "context": "Among bacteria special attention is focused on spirochetes family and on periodontal pathogens such as Porphyromonas gingivalis or Treponema denticola that could cause chronic periodontitis and possibly contribute to the clinical onset of AD."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c53191a7e3cb0e231000016_002",
+              "question": "What periodontal disease associated bacteria is also associated with Alzheimer's disease?"
+            }
+          ],
+          "context": " working hypothesis links extrinsic inflammation as a secondary cause of AD. This hypothesis suggests a compromised oral hygiene leads to a dysbiotic oral microbiome whereby Porphyromonas gingivalis, a keystone periodontal pathogen, with its companion species, orchestrates immune subversion in the host."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c53191a7e3cb0e231000016_003",
+              "question": "What periodontal disease associated bacteria is also associated with Alzheimer's disease?"
+            }
+          ],
+          "context": "Periodontitis is a chronic oral inflammatory disease produced by bacteria. Gingival retraction and bone and connective tissues resorption are the hallmarks of this disease. Chronic periodontitis may contribute to the risk of onset or progression of neuroinflammatory pathological conditions, such as Alzheimer's disease. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7813f57c78d694710000b0_001",
+              "question": "How does the Cholera toxin enter a cell?"
+            }
+          ],
+          "context": "Cholera toxin (CT), which is secreted by V. cholerae, can enter host cells by binding to GM1, a monosialoganglioside widely distributed on the plasma membrane surface of various animal epithelial cells. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7813f57c78d694710000b0_002",
+              "question": "How does the Cholera toxin enter a cell?"
+            }
+          ],
+          "context": "The five B-subunits (CTB5) of the Vibrio cholerae (cholera) toxin can bind to the intestinal cell surface so the entire AB5 toxin can enter the cell. Simultaneous binding can occur on more than one of the monosialotetrahexosylganglioside (GM1) units present on the cell surface. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7813f57c78d694710000b0_003",
+              "question": "How does the Cholera toxin enter a cell?"
+            }
+          ],
+          "context": "we test the role of glycolipid crosslinking as a raft targeting and ordering mechanism using the well-studied raft marker cholera toxin B pentamer (CTxB) that binds up to five GM1 glycosphingolipids to enter host cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c51f01e07ef653866000002_001",
+              "question": "Which algorithm has been developed for finding conserved non-coding elements (CNEs) in genomes?"
+            }
+          ],
+          "context": "CNEFinder: finding conserved non-coding elements in genomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c51f01e07ef653866000002_002",
+              "question": "Which algorithm has been developed for finding conserved non-coding elements (CNEs) in genomes?"
+            }
+          ],
+          "context": "We fill this gap by presenting CNEFinder; a tool for identifying CNEs between two given DNA sequences with user-defined criteria. The results presented here show the tool's ability of identifying CNEs accurately and efficiently."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c531d8f7e3cb0e231000017_001",
+              "question": "What causes Bathing suit Ichthyosis(BSI)?"
+            }
+          ],
+          "context": "Bathing suit ichthyosis (BSI) is an uncommon phenotype classified as a minor variant of autosomal recessive congenital ichthyosis (ARCI).OBJECTIVES: We report a case of BSI in a 3-year-old Tunisian girl with a novel mutation of the transglutaminase 1 gene (TGM1)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7839edd774d04240000003_001",
+              "question": "When is serum AFP used as marker?"
+            }
+          ],
+          "context": "AFP serum were considered independent predictors for macrovascular invasion in HCC patients"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7839edd774d04240000003_002",
+              "question": "When is serum AFP used as marker?"
+            }
+          ],
+          "context": "Post-hepatectomy HLs of AFP and DCP are predictors of long-term outcome in patients with HCC."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7839edd774d04240000003_003",
+              "question": "When is serum AFP used as marker?"
+            }
+          ],
+          "context": "Ovarian Sertoli-Leydig cell tumors (SLCTs) are uncommon neoplasms that are occasionally associated with an elevated level of serum alpha fetoprotein (AFP), a marker of germ cell neoplasms, particularly yolk sac tumor (YST). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7839edd774d04240000003_004",
+              "question": "When is serum AFP used as marker?"
+            }
+          ],
+          "context": "Serum \u03b1-Fetoprotein (AFP) is a widely used diagnostic biomarker, but it has limited sensitivity and is not elevated in all HCC cases so, we incorporate a second blood-based biomarker, des'\u03b3 carboxy-prothrombin (DCP), that has shown potential as a screening marker for HCC."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7839edd774d04240000003_005",
+              "question": "When is serum AFP used as marker?"
+            }
+          ],
+          "context": "In addition, AFP, a hepatic stem cell marker, was expressed at the highest level in the control groups."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7aae9dd774d0424000000a_001",
+              "question": "What is the function of the protein encoded by the gene STING?"
+            }
+          ],
+          "context": "Stimulator of interferon genes (STING) is an adaptor protein that plays an important role in the activation of type I interferons in response to cytosolic nucleic acid ligands. Recent evidence indicates involvement of the STING pathway in the induction of antitumor immune response. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7aae9dd774d0424000000a_002",
+              "question": "What is the function of the protein encoded by the gene STING?"
+            }
+          ],
+          "context": "STING (stimulator of interferon genes) is a cytosolic sensor for cyclic dinucleotides and also an adaptor molecule for intracellular DNA receptors. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7aae9dd774d0424000000a_003",
+              "question": "What is the function of the protein encoded by the gene STING?"
+            }
+          ],
+          "context": "The production of cytokines in response to DNA-damage events may be an important host defense response to help prevent the escape of pre-cancerous cells. The innate immune pathways involved in these events are known to be regulated by cellular molecules such as stimulator of interferon genes (STING), which controls type I interferon and pro-inflammatory cytokine production in response to the presence of microbial DNA or cytosolic DNA that has escaped from the nucleus."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c51f9dd07ef653866000005_001",
+              "question": "Which random forest method has been developed for detecting Copy Numbers Variants (CNVs)?"
+            }
+          ],
+          "context": "CNV-RF Is a Random Forest-Based Copy Number Variation Detection Method Using Next-Generation Sequencing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c51f9dd07ef653866000005_002",
+              "question": "Which random forest method has been developed for detecting Copy Numbers Variants (CNVs)?"
+            }
+          ],
+          "context": "We describe the development and implementation of a bioinformatics algorithm, copy number variation-random forest (CNV-RF), that incorporates a machine learning component to identify CNVs from targeted NGS data."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c54d1a207647bbc4b000007_001",
+              "question": "What is nyctinasty in plants?"
+            }
+          ],
+          "context": "Leguminous plants open their leaves during the daytime and close them at night as if sleeping, a type of movement that follows circadian rhythms, and is known as nyctinastic movement"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c54d1a207647bbc4b000007_002",
+              "question": "What is nyctinasty in plants?"
+            }
+          ],
+          "context": "The chemical aspects of the circadian leaf movement known as \"nyctinasty\" are discussed in this paper."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c54d1a207647bbc4b000007_003",
+              "question": "What is nyctinasty in plants?"
+            }
+          ],
+          "context": "Periodic leaf-movement of legumes is called nyctinasty and has been known since the age of Alexander the Great. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7fb27c78d6947100002d_001",
+              "question": "Burosumab is used for treatment of which disease?"
+            }
+          ],
+          "context": "In particular, a humanized monoclonal antibody for FGF23 (burosumab) is a promising treatment in patients with XLH and TIO. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7fb27c78d6947100002d_002",
+              "question": "Burosumab is used for treatment of which disease?"
+            }
+          ],
+          "context": "In February 2018, the EMA granted subcutaneous burosumab conditional marketing authorization for the treatment of X-linked hypophosphataemia (XLH) with radiographic evidence of bone disease in children one year of age and older and adolescents with growing skeletons. In April 2018, the US FDA approved burosumab for the treatment of XLH in adults and children one year of age and older. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7fb27c78d6947100002d_003",
+              "question": "Burosumab is used for treatment of which disease?"
+            }
+          ],
+          "context": "CONCLUSIONS: In children with X-linked hypophosphatemia, treatment with burosumab improved renal tubular phosphate reabsorption, serum phosphorus levels, linear growth, and physical function and reduced pain and the severity of rickets."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7fb27c78d6947100002d_004",
+              "question": "Burosumab is used for treatment of which disease?"
+            }
+          ],
+          "context": "Burosumab-twza (Crysvita) for a rare inherited form of rickets; ibalizumab-uiyk (Trogarzo) for human immunodeficiency virus type 1 infection; and tildrakizumab-asmn (Ilumya) for adults with moderate-to-severe plaque psoriasis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7fb27c78d6947100002d_005",
+              "question": "Burosumab is used for treatment of which disease?"
+            }
+          ],
+          "context": "A Randomized, Double-Blind, Placebo-Controlled, Phase 3 Trial Evaluating the Efficacy of Burosumab, an Anti-FGF23 Antibody, in Adults With X-Linked Hypophosphatemia: Week 24 Primary Analysis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7fb27c78d6947100002d_006",
+              "question": "Burosumab is used for treatment of which disease?"
+            }
+          ],
+          "context": "These data support the conclusion that burosumab is a novel therapeutic addressing an important medical need in adults with XLH."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7fb27c78d6947100002d_007",
+              "question": "Burosumab is used for treatment of which disease?"
+            }
+          ],
+          "context": "A novel therapy for XLH directly targeting fibroblast growth factor-23 via a humanized monoclonal antibody (burosumab-twza/CRYSVITA, henceforth referred to just as burosumab) has emerged as an effective, and recently approved, pharmacological treatment for both children and adults. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7fb27c78d6947100002d_008",
+              "question": "Burosumab is used for treatment of which disease?"
+            }
+          ],
+          "context": "Burosumab in X-linked hypophosphatemia: a profile of its use in the USA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7fb27c78d6947100002d_009",
+              "question": "Burosumab is used for treatment of which disease?"
+            }
+          ],
+          "context": "Burosumab (Crysvita\u00ae), a fully human IgG1 monoclonal antibody directed at fibroblast growth factor 23 (FGF23), is indicated for the treatment of X-linked hypophosphatemia (XLH), a condition associated with excessive FGF23 production. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7fb27c78d6947100002d_010",
+              "question": "Burosumab is used for treatment of which disease?"
+            }
+          ],
+          "context": "In clinical trials, subcutaneous burosumab increased serum phosphorus levels in pediatric and adult patients with XLH, as well as significantly improving the severity of rickets in children, and improving pain, stiffness, physical functioning, and fracture/pseudofracture healing in adults. Burosumab is well tolerated by children and adults with XLH, with most treatment-emergent adverse events being of mild to moderate severity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c51fb7a07ef653866000006_001",
+              "question": "Which deep learning algorithm has been developed for variant calling?"
+            }
+          ],
+          "context": "Despite rapid advances in sequencing technologies, accurately calling genetic variants present in an individual genome from billions of short, errorful sequence reads remains challenging. Here we show that a deep convolutional neural network can call genetic variation in aligned next-generation sequencing read data by learning statistical relationships between images of read pileups around putative variant and true genotype calls. The approach, called DeepVariant, outperforms existing state-of-the-art tools. The learned model generalizes across genome builds and mammalian species, allowing nonhuman sequencing projects to benefit from the wealth of human ground-truth data. We further show that DeepVariant can learn to call variants in a variety of sequencing technologies and experimental designs, including deep whole genomes from 10X Genomics and Ion Ampliseq exomes, highlighting the benefits of using more automated and generalizable techniques for variant calling."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b810e7c78d6947100002e_001",
+              "question": "Cerliponase alfa is apprived for treatment of which disease?"
+            }
+          ],
+          "context": "Study of Intraventricular Cerliponase Alfa for CLN2 Disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b810e7c78d6947100002e_002",
+              "question": "Cerliponase alfa is apprived for treatment of which disease?"
+            }
+          ],
+          "context": "BACKGROUND: Recombinant human tripeptidyl peptidase 1 (cerliponase alfa) is an enzyme-replacement therapy that has been developed to treat neuronal ceroid lipofuscinosis type 2 (CLN2) disease, a rare lysosomal disorder that causes progressive dementia in children."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b810e7c78d6947100002e_003",
+              "question": "Cerliponase alfa is apprived for treatment of which disease?"
+            }
+          ],
+          "context": "CONCLUSIONS: Intraventricular infusion of cerliponase alfa in patients with CLN2 disease resulted in less decline in motor and language function than that in historical controls. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b810e7c78d6947100002e_004",
+              "question": "Cerliponase alfa is apprived for treatment of which disease?"
+            }
+          ],
+          "context": "Immunogenicity to cerliponase alfa intracerebroventricular enzyme replacement therapy for CLN2 disease: Results from a Phase 1/2 study."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b810e7c78d6947100002e_005",
+              "question": "Cerliponase alfa is apprived for treatment of which disease?"
+            }
+          ],
+          "context": "Treatment with intracerebroventricular (ICV)-delivered cerliponase alfa enzyme replacement therapy (ERT) in a Phase 1/2 study of 24 subjects with CLN2 disease resulted in a meaningful preservation of motor and language (ML) function and was well tolerated. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b810e7c78d6947100002e_006",
+              "question": "Cerliponase alfa is apprived for treatment of which disease?"
+            }
+          ],
+          "context": "Cerliponase alfa (Brineura\u2122) is a recombinant human tripeptidyl peptidase-1 (TPP1) being developed by BioMarin Pharmaceutical Inc. for use in patients with neuronal ceroid lipofuscinosis type 2 (CLN2), a paediatric neurodegenerative disease caused by a deficiency in TPP1. CLN2 is characterised by progressive impairment of motor function, language deficiencies, seizures, ataxia, blindness and early death, and intracerebroventricular infusion of cerliponase alfa has been shown to reduce the progression of functional decline. This article summarizes the milestones in the development of cerliponase alfa leading to its first global approval in the USA for the treatment of motor function loss in paediatric patients \u22653\u00a0years of age with CLN2, and subsequent approval in the EU for CLN2 in all ages."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c51fe8907ef653866000007_001",
+              "question": "What is the percentage of individuals at risk of dominant medically actionable disease?"
+            }
+          ],
+          "context": "1 in 38 individuals at risk of a dominant medically actionable disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c51fe8907ef653866000007_002",
+              "question": "What is the percentage of individuals at risk of dominant medically actionable disease?"
+            }
+          ],
+          "context": "Our study shows that 1 in 38 healthy individuals (2.7%) has a (likely) pathogenic variant in one of 59 medically actionable dominant disease genes for which the American College of Medical Genetics and Genomics (ACMG) recommends disclosure."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c571dd307647bbc4b000016_001",
+              "question": "What organism causes hepatic capillariasis?"
+            }
+          ],
+          "context": "hepatic capillariasis, caused by the parasite Capillaria hepatica,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c571dd307647bbc4b000016_002",
+              "question": "What organism causes hepatic capillariasis?"
+            }
+          ],
+          "context": "Capillaria hepatica which accidentally infects humans is a zoonotic parasite of mammalian liver, primarily rodents and causes hepatic capillariasis"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c571dd307647bbc4b000016_003",
+              "question": "What organism causes hepatic capillariasis?"
+            }
+          ],
+          "context": "Capillaria hepatica (C. hepatica) is a parasitic nematode causing hepatic capillariasis in numerous mammals"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f29a81a4c55d80b00001f_001",
+              "question": "What is the indication for Truvada?"
+            }
+          ],
+          "context": "pre-exposure prophylaxis (PrEP) and the recent approval by the FDA of the supplemental indication for Truvada as PrEP"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f29a81a4c55d80b00001f_002",
+              "question": "What is the indication for Truvada?"
+            }
+          ],
+          "context": " tenofovir disoproxil fumarate 300 mg (TDF)/emtricitabine 200 mg (FTC) (Truvada, Gilead Sciences) as antiretroviral preexposure prophylaxis (PrEP) to reduce the risk for HIV acquisition "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e05f37c78d69471000049_001",
+              "question": "RV3-BB vaccine is used for prevention of which viral infection?"
+            }
+          ],
+          "context": "Serological responses to rotavirus NSP2 following administration of RV3-BB human neonatal rotavirus vaccine."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e05f37c78d69471000049_002",
+              "question": "RV3-BB vaccine is used for prevention of which viral infection?"
+            }
+          ],
+          "context": "Serological responses to rotavirus NSP2 occur following wild-type infection; however, it is unknown if serological responses to NSP2 occur following administration of rotavirus vaccines. The phase IIa immunogenicity trial of RV3-BB provided an opportunity to investigate the serological responses to NSP2 following vaccination."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e05f37c78d69471000049_003",
+              "question": "RV3-BB vaccine is used for prevention of which viral infection?"
+            }
+          ],
+          "context": "Molecular characterisation of rotavirus strains detected during a clinical trial of the human neonatal rotavirus vaccine (RV3-BB) in Indonesia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e05f37c78d69471000049_004",
+              "question": "RV3-BB vaccine is used for prevention of which viral infection?"
+            }
+          ],
+          "context": "BACKGROUND: The RV3-BB human neonatal rotavirus vaccine aims to provide protection from severe rotavirus disease from birth."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e05f37c78d69471000049_005",
+              "question": "RV3-BB vaccine is used for prevention of which viral infection?"
+            }
+          ],
+          "context": "Rotavirus specific maternal antibodies and immune response to RV3-BB neonatal rotavirus vaccine in New Zealand."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e05f37c78d69471000049_006",
+              "question": "RV3-BB vaccine is used for prevention of which viral infection?"
+            }
+          ],
+          "context": "This study aimed to investigate the effect of rotavirus specific maternal antibodies on the serum IgA response or stool excretion of vaccine virus after any dose of an oral rotavirus vaccine, RV3-BB, in parallel to a Phase IIa clinical trial conducted at Dunedin Hospital, New Zealand."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e05f37c78d69471000049_007",
+              "question": "RV3-BB vaccine is used for prevention of which viral infection?"
+            }
+          ],
+          "context": "RESULTS: Forty infants received 3 doses of RV3-BB rotavirus vaccine and were included in the analysis of the neonatal and infant groups."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e05f37c78d69471000049_008",
+              "question": "RV3-BB vaccine is used for prevention of which viral infection?"
+            }
+          ],
+          "context": "CONCLUSIONS: The level of IgA in colostrum or breast milk and level of placental IgG and SNA did not impact on the serum IgA response or stool excretion following 3 doses of RV3-BB Rotavirus Vaccine administered using either a neonatal or infant schedule in New Zealand infants."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e05f37c78d69471000049_009",
+              "question": "RV3-BB vaccine is used for prevention of which viral infection?"
+            }
+          ],
+          "context": "Rotavirus shedding following administration of RV3-BB human neonatal rotavirus vaccine."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e05f37c78d69471000049_010",
+              "question": "RV3-BB vaccine is used for prevention of which viral infection?"
+            }
+          ],
+          "context": "The RV3-BB human neonatal rotavirus vaccine aims to provide protection from severe rotavirus disease from birth. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c674c287c78d6947100001a_001",
+              "question": "What is anophthalmia?"
+            }
+          ],
+          "context": "Microphthalmia, anophthalmia are the malformations of the eye, referring to a congenital absence, and a reduced size of the eyeball."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e0f537c78d6947100004a_001",
+              "question": "Which molecule is inhibited by larotrectinib?"
+            }
+          ],
+          "context": "We evaluated the efficacy and safety of larotrectinib, a highly selective TRK inhibitor, in adults and children who had tumors with these fusions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e0f537c78d6947100004a_002",
+              "question": "Which molecule is inhibited by larotrectinib?"
+            }
+          ],
+          "context": "CONCLUSIONS: Larotrectinib had marked and durable antitumor activity in patients with TRK fusion-positive cancer, regardless of the age of the patient or of the tumor type."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e0f537c78d6947100004a_003",
+              "question": "Which molecule is inhibited by larotrectinib?"
+            }
+          ],
+          "context": "Larotrectinib, a highly selective small-molecule inhibitor of the TRK kinases, had shown activity in preclinical models and in adults with tumours harbouring TRK fusions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e0f537c78d6947100004a_004",
+              "question": "Which molecule is inhibited by larotrectinib?"
+            }
+          ],
+          "context": "INTERPRETATION: The TRK inhibitor larotrectinib was well tolerated in paediatric patients and showed encouraging antitumour activity in all patients with TRK fusion-positive tumours."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e0f537c78d6947100004a_005",
+              "question": "Which molecule is inhibited by larotrectinib?"
+            }
+          ],
+          "context": "In the 2017 American Society for Clinical Oncology annual meeting, larotrectinib (LOXO-101), Loxooncology's oral, potent, and selective inhibitor of tropomyosin receptor kinases (TRK), demonstrated unprecedented efficacy on unresectable or metastatic solid tumors with neurotrophic tropomyosin receptor kinase (NTRK)-fusion proteins in adult and pediatric patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e0f537c78d6947100004a_006",
+              "question": "Which molecule is inhibited by larotrectinib?"
+            }
+          ],
+          "context": "Larotrectinib Has Antitumor Activity in TRK"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e0f537c78d6947100004a_007",
+              "question": "Which molecule is inhibited by larotrectinib?"
+            }
+          ],
+          "context": "Larotrectinib achieved a 93% response rate in pediatric patients with TRK fusion-positive tumors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e0f537c78d6947100004a_008",
+              "question": "Which molecule is inhibited by larotrectinib?"
+            }
+          ],
+          "context": "To recapitulate resistance observed from type I NTRK kinase inhibitors entrectinib and larotrectinib, we generated NIH-3T3 cells exogenously expressing TPM3-NTRK1 wild-type, or acquired mutations G595R and G667C in vitro and in vivo."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bec987c78d69471000033_001",
+              "question": "What is the most common pediatric glioma?"
+            }
+          ],
+          "context": "High-grade gliomas (HGG) are the most common malignant brain tumors in the pediatric population and account for a large subset of all pediatric central nervous system neoplasms. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bec987c78d69471000033_002",
+              "question": "What is the most common pediatric glioma?"
+            }
+          ],
+          "context": "Gliomas are the most common type of brain cancer in the pediatric patients, constituting about 50% of all childhood intracranial tumors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bec987c78d69471000033_003",
+              "question": "What is the most common pediatric glioma?"
+            }
+          ],
+          "context": "Gliomas are the most common malignant primary brain tumors, of which glioblastoma is the most malignant form (WHO grade IV), and notorious for treatment resistance."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bec987c78d69471000033_004",
+              "question": "What is the most common pediatric glioma?"
+            }
+          ],
+          "context": "Pilocytic astrocytoma (PA) is the most common glioma in pediatric patients and occurs in different locations. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bec987c78d69471000033_005",
+              "question": "What is the most common pediatric glioma?"
+            }
+          ],
+          "context": "Gliomas are the most common primary central nervous system (CNS) neoplasms in children and adolescents and are thought to arise from their glial progenitors or stem cells"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bec987c78d69471000033_006",
+              "question": "What is the most common pediatric glioma?"
+            }
+          ],
+          "context": "Pilocytic astrocytomas (PAs) are benign glial tumors and one of the most common childhood posterior fossa tumors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e16eb7c78d6947100004e_001",
+              "question": "Sweat Chloride Testing is used  for which disease?"
+            }
+          ],
+          "context": "Screen-positive newborns and patients with high clinical suspicion for CF are always recommended to undergo confirmatory sweat chloride testing with interpretations based on updated reference intervals."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e16eb7c78d6947100004e_002",
+              "question": "Sweat Chloride Testing is used  for which disease?"
+            }
+          ],
+          "context": "BACKGROUND: Sweat chloride testing for diagnosis of cystic fibrosis (CF) involves sweat induction, collection and handling, and measurement in an analytical lab."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e16eb7c78d6947100004e_003",
+              "question": "Sweat Chloride Testing is used  for which disease?"
+            }
+          ],
+          "context": "CFTR dysfunction can be demonstrated using sweat chloride testing, CFTR molecular genetic analysis, or CFTR physiologic tests."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e16eb7c78d6947100004e_004",
+              "question": "Sweat Chloride Testing is used  for which disease?"
+            }
+          ],
+          "context": "In eighty-three patients (26.4%) CFTR mutational analysis was done without corresponding sweat chloride testing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e16eb7c78d6947100004e_005",
+              "question": "Sweat Chloride Testing is used  for which disease?"
+            }
+          ],
+          "context": "Herein we report the first characterization of the sweat metabolome from screen-positive CF infants and identify metabolites associated with disease status that complement sweat chloride testing. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e16eb7c78d6947100004e_006",
+              "question": "Sweat Chloride Testing is used  for which disease?"
+            }
+          ],
+          "context": "Objective: To conduct a descriptive analysis of the sweat test (ST), associating ST results with epidemiological data, CFTR (cystic fibrosis transmembrane conductance regulator) mutations and reasons to indicate the ST, as well as correlating sweat sodium and sweat chloride concentrations in subjects."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e16eb7c78d6947100004e_007",
+              "question": "Sweat Chloride Testing is used  for which disease?"
+            }
+          ],
+          "context": "Conclusions: ST data showed wide variability dependent on age, sex, reason for examination indication, CFTR mutations, and weight of the collected sweat sample. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c71d6d27c78d6947100006a_001",
+              "question": "Fecal transplantation is used to treat infection with what bacteria?"
+            }
+          ],
+          "context": "Fecal microbiota transplantation is a highly effective intervention for patients suffering from recurrent Clostridium difficile, a common hospital-acquired infection"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c71d6d27c78d6947100006a_002",
+              "question": "Fecal transplantation is used to treat infection with what bacteria?"
+            }
+          ],
+          "context": "Mini-Fecal Microbiota Transplantation for Treatment of Clostridium difficile Proctitis Following Total Colectomy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c71d6d27c78d6947100006a_003",
+              "question": "Fecal transplantation is used to treat infection with what bacteria?"
+            }
+          ],
+          "context": "We aimed to assess the asymptomatic Clostridium difficile carriage rates following fecal microbiota transplantation"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c71d7ca7c78d6947100006b_001",
+              "question": "Erenumab, used to treat migraine headaches, binds to what protein?"
+            }
+          ],
+          "context": "Monoclonal antibodies (mAbs) targeting calcitonin gene-related peptide (CGRP) signaling are being explored as prophylactic treatments for migraine. Erenumab (AMG 334) is the first potent, selective, and competitive human mAb antagonist of the CGRP receptor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c71d7ca7c78d6947100006b_002",
+              "question": "Erenumab, used to treat migraine headaches, binds to what protein?"
+            }
+          ],
+          "context": "Monoclonal antibodies (mAbs) targeting the calcitonin-gene-related peptide (CGRP) pathway have been developed for episodic and chronic migraine prevention, either through binding the CGRP ligand (eptinezumab, fremanezumab, galcanezumab) or the CGRP receptor (erenumab)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c71d7ca7c78d6947100006b_003",
+              "question": "Erenumab, used to treat migraine headaches, binds to what protein?"
+            }
+          ],
+          "context": "monoclonal antibodies against calcitonin gene-related peptide (eptinezumab, galcanezumab, fremanezumab) and the calcitonin gene-related peptide receptor (erenumab). To date, these monoclonal antibodies have shown promising efficacy in clinical trials, with no major safety concerns. If ongoing long-term studies show that their efficacy can be maintained, this may herald a new era for effective antimigraine therapies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5b268986df2b9174000019_001",
+              "question": "Which is the database of somatic mutations in normal cells?"
+            }
+          ],
+          "context": "DSMNC: a database of somatic mutations in normal cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5b268986df2b9174000019_002",
+              "question": "Which is the database of somatic mutations in normal cells?"
+            }
+          ],
+          "context": "Luckily, the recent development of single-cell genomics biotechnologies enables the screening and collection of the somatic mutations, especial single nucleotide variations (SNVs), occurring in normal cells. Here, we established DSMNC: a database of somatic mutations in normal cells (http://dsmnc.big.ac.cn/), which provides most comprehensive catalogue of somatic SNVs in single cells from various normal tissues. In the current version, the database collected \u223c0.8 million SNVs accumulated in \u223c600 single normal cells (579 human cells and 39 mouse cells). The database interface supports the user-friendly capability of browsing and searching the SNVs and their annotation information. DSMNC, which serves as a timely and valuable collection of somatic mutations in individual normal cells, has made it possible to analyze the burdens and signatures of somatic mutations in various types of heterogeneous normal cells. Therefore, DSMNC will significantly improve our understanding of the characteristics of somatic mutations in normal cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7039207c78d69471000065_001",
+              "question": "Which molecule is targeted by upadacitinib?"
+            }
+          ],
+          "context": "We summarise the development and recent application of Janus kinase (JAK) inhibitors in the treatment of IMIDs, including first-generation pan-JAK inhibitors (tofacitinib, baricitinib, ruxolitinib, peficitinib) and second-generation selective JAK inhibitors (decernotinib, filgotinib, upadacitinib)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7039207c78d69471000065_002",
+              "question": "Which molecule is targeted by upadacitinib?"
+            }
+          ],
+          "context": "Upadacitinib is a Janus kinase 1 inhibitor currently being evaluated in phase III rheumatoid arthritis trials."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7039207c78d69471000065_003",
+              "question": "Which molecule is targeted by upadacitinib?"
+            }
+          ],
+          "context": "BACKGROUND AND OBJECTIVES: Upadacitinib is a janus kinase (JAK) 1 inhibitor being developed for the treatment of rheumatoid arthritis (RA) and other inflammatory diseases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7039207c78d69471000065_004",
+              "question": "Which molecule is targeted by upadacitinib?"
+            }
+          ],
+          "context": "RESULTS: In randomised controlled trials primary efficacy endpoints were met for tofacitinib (JAK 1/3 inhibitor-phase III), upadacitinib (JAK 1 inhibitor-phase II) and AJM300 (\u03b14-integrin antagonist-phase II) in ulcerative colitis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7039207c78d69471000065_005",
+              "question": "Which molecule is targeted by upadacitinib?"
+            }
+          ],
+          "context": "Upadacitinib is a Janus kinase 1 inhibitor under development for the treatment of several inflammatory disorders including rheumatoid arthritis (RA). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5b4a941a4c55d80b000002_001",
+              "question": "Mutations in which gene have been found in patients with the CLAPO syndrome?"
+            }
+          ],
+          "context": "CLAPO syndrome: identification of somatic activating PIK3CA mutations and delineation of the natural history and phenotype."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5b4a941a4c55d80b000002_002",
+              "question": "Mutations in which gene have been found in patients with the CLAPO syndrome?"
+            }
+          ],
+          "context": "CLAPO syndrome is a rare vascular disorder characterized by capillary malformation of the lower lip, lymphatic malformation predominant on the face and neck, asymmetry, and partial/generalized overgrowth. Here we tested the hypothesis that, although the genetic cause is not known, the tissue distribution of the clinical manifestations in CLAPO seems to follow a pattern of somatic mosaicism.METHODS: We clinically evaluated a cohort of 13 patients with CLAPO and screened 20 DNA blood/tissue samples from 9 patients using high-throughput, deep sequencing.RESULTS: We identified five activating mutations in the PIK3CA gene in affected tissues from 6 of the 9 patients studied; one of the variants (NM_006218.2:c.248T>C; p.Phe83Ser) has not been previously described in developmental disorders."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ade07c78d69471000070_001",
+              "question": "Which enzyme is inhibited by a drug Lorlatinib?"
+            }
+          ],
+          "context": "PURPOSE OF REVIEW: We describe recent developments in the rapidly evolving field of anaplastic lymphoma kinase-targeting agents.RECENT FINDINGS: Five targeted drugs are currently available in the clinic via regular approval or named patient programs, including crizotinib, ceritinib, alectinib, brigatinib and lorlatinib."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ade07c78d69471000070_002",
+              "question": "Which enzyme is inhibited by a drug Lorlatinib?"
+            }
+          ],
+          "context": "IMPORTANCE: The identification of anaplastic lymphoma kinase (ALK) rearrangements in 2-5% of non-small cell lung cancer (NSCLC) patients led to the rapid clinical development of its oral tyrosine kinase inhibitor (TKI). Crizotinib was the first ALK inhibitor approved and utilised in the treatment of ALK+ NSCLC patients in the second line setting first and subsequently in the first line one. Since then many other ALK inhibitors have been developed (ceritinib, alectinib, brigatinib, lorlatinib,etc) and the treatment paradigm of these patients has considerably drifted. The questions regarding their treatment at progression remains unanswered at the moment."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ade07c78d69471000070_003",
+              "question": "Which enzyme is inhibited by a drug Lorlatinib?"
+            }
+          ],
+          "context": "RESULTS: ALK T1151Sins mutation was detected when the patient developed resistance to ceritinib, and undetectable when she responded to lorlatinib. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ade07c78d69471000070_004",
+              "question": "Which enzyme is inhibited by a drug Lorlatinib?"
+            }
+          ],
+          "context": "ALK G1202R, the most frequent plasma mutation detected after progression on a second-generation TKI, was consistently suppressed during treatment with lorlatinib."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ade07c78d69471000070_005",
+              "question": "Which enzyme is inhibited by a drug Lorlatinib?"
+            }
+          ],
+          "context": "Among patients treated with the third-generation ALK TKI lorlatinib, variant 3 was associated with a significantly longer progression-free survival than variant 1 (hazard ratio, 0.31; 95% CI, 0.12 to 0.79; P = .011). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c629937e842deac67000008_001",
+              "question": "What is the most common monogenic cause of common variable immunodeficiency (CVID) in Europeans?"
+            }
+          ],
+          "context": "Loss-of-function nuclear factor \u03baB subunit 1 (NFKB1) variants are the most common monogenic cause of common variable immunodeficiency in Europeans."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c629937e842deac67000008_002",
+              "question": "What is the most common monogenic cause of common variable immunodeficiency (CVID) in Europeans?"
+            }
+          ],
+          "context": "The genetic cause of primary immunodeficiency disease (PID) carries prognostic information.OBJECTIVE: We conducted a whole-genome sequencing study assessing a large proportion of the NIHR BioResource-Rare Diseases cohort.METHODS: In the predominantly European study population of principally sporadic unrelated PID cases (n\u00a0=\u00a0846), a novel Bayesian method identified nuclear factor \u03baB subunit 1 (NFKB1) as one of the genes most strongly associated with PID, and the association was explained by 16 novel heterozygous truncating, missense, and gene deletion variants."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c629937e842deac67000008_003",
+              "question": "What is the most common monogenic cause of common variable immunodeficiency (CVID) in Europeans?"
+            }
+          ],
+          "context": "We show that heterozygous loss-of-function variants in NFKB1 are the most common known monogenic cause of CVID, which results in a temporally progressive defect in the formation of immunoglobulin-producing B cells."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

@@ -1,0 +1,1117 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c5607aa07647bbc4b00000e_001",
+              "question": "Is durvalumab used for lung cancer treatment?"
+            }
+          ],
+          "context": "The immunomodulatory and abscopal effects of radiotherapy can be further enhanced by combining with systemic immunotherapies. The phase III START trial proved that liposomal vaccine - tecemotide (L-BLP25) administered as maintenance therapy after concurrent chemoradiotherapy (CRT) in LA-NSCLC prolongs survival. In the phase III PACIFIC trial consolidation with durvalumab, an anti-PDL-1 antibody, was associated with survival benefit in patients diagnosed with LA-NSCLC who responded to concurrent chemoradiotherapy. SUMMARY: PACIFIC trial results are expected to definitely establish durvalumab as standard consolidation strategy in LA-NSCLC."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5607aa07647bbc4b00000e_002",
+              "question": "Is durvalumab used for lung cancer treatment?"
+            }
+          ],
+          "context": "METHODS: An electronic literature search was performed of public databases (MEDLINE, Excerpta Medica dataBASE [EMBASE], and Cochrane) and conference proceedings for trials using PD-1 inhibitors (nivolumab and pembrolizumab) and PD-L1 inhibitors (atezolizumab, durvalumab, and avelumab) in patients with NSCLC."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5607aa07647bbc4b00000e_003",
+              "question": "Is durvalumab used for lung cancer treatment?"
+            }
+          ],
+          "context": "Durvalumab in non-small-cell lung cancer patients: current developments. Immune checkpoint inhibitors (ICIs) are a key component of treating advanced cancer patients, principally antibodies against CTLA-4 and PD-1 or PD-L1. Durvalumab (MEDI4736) is a selective, high-affinity, human IgG1 monoclonal antibody that blocks PD-L1, which binds to PD-1 and CD80, but not to PD-L2."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5607aa07647bbc4b00000e_004",
+              "question": "Is durvalumab used for lung cancer treatment?"
+            }
+          ],
+          "context": "Immune checkpoint inhibitors (ICIs) are a key component of treating advanced cancer patients, principally antibodies against CTLA-4 and PD-1 or PD-L1. Durvalumab (MEDI4736) is a selective, high-affinity, human IgG1 monoclonal antibody that blocks PD-L1, which binds to PD-1 and CD80, but not to PD-L2. Single-agent durvalumab showed clinical efficacy and a manageable safety profile in advanced non-small-cell lung cancer, particularly the \u226525% PD-L1+ population. Durvalumab is under evaluation in early, locally advanced and advanced disease as monotherapy and combined with ICIs, targeted therapies, chemotherapy and radiotherapy. Impressive activity has been recently reported after chemoradiation in locally advanced patients; promising activity was observed with other ICI combinations, and potentially with other drugs including platinum-based chemotherapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5607aa07647bbc4b00000e_005",
+              "question": "Is durvalumab used for lung cancer treatment?"
+            }
+          ],
+          "context": "Checkpoint receptor blockers, known to act by blocking the pathways that inhibit immune cell activation and stimulate immune responses against tumor cells, have been immensely successful in the treatment of cancer. Among several checkpoint receptors of immune cells, cytotoxic T-lymphocyte-associated protein-4 (CTLA-4), programmed cell death protein-1 (PD-1), T-cell immunoglobulin and ITIM domain (TIGIT), T-cell immunoglobulin-3 (TIM-3) and lymphocyte activation gene 3 (LAG-3) are the most commonly targeted checkpoints for cancer immunotherapy. Six drugs including one CTLA-4 blocker (ipilimumab), two PD-1 blockers (nivolumab and pembrolizumab) and three PD-L1 blockers (atezolizumab, avelumab and durvalumab) are approved for the treatment of different types of cancers including both solid tumors such as melanoma, lung cancer, head and neck cancer, bladder cancer and Merkel cell cancer as well as hematological tumors such as classic Hodgkin's lymphoma. The main problem with checkpoint blockers is that only a fraction of patients respond to the therapy. Insufficient immune activation is considered as one of the main reason for low response rates and combination of checkpoint blockers has been proposed to increase the response rates."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5607aa07647bbc4b00000e_006",
+              "question": "Is durvalumab used for lung cancer treatment?"
+            }
+          ],
+          "context": "PURPOSE OF REVIEW: The therapeutic armamentarium for advanced non-small-cell lung cancer has evolved considerably over the past years. Immune checkpoint inhibitors targeting programmed cell death-1 such as pembrolizumab and nivolumab or programmed cell death ligand 1 such as atezolizumab, durvalumab and avelumab have shown favorable efficacy results in this patient population in the first-line and second-line setting."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5607aa07647bbc4b00000e_007",
+              "question": "Is durvalumab used for lung cancer treatment?"
+            }
+          ],
+          "context": "In addition, preclinical and early clinical evidence suggests that chemotherapy and radiation may work synergistically with anti-PD-1/PD-L1 therapy to promote antitumor immunity, which has led to the initiation of clinical trials testing these drugs in patients with stage III NSCLC. A preliminary report of a randomized phase III trial, the PACIFIC trial, demonstrated an impressive increase in median progression-free survival with consolidative durvalumab, a PD-L1 inhibitor, compared with observation after cCRT."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be44bef133db5eb78000014_001",
+              "question": "Are there microbes in human breast milk?"
+            }
+          ],
+          "context": "Contrary to long-held dogma, human milk is not sterile. Instead, it provides infants a rich source of diverse bacteria, particularly microbes belonging to the Staphylococcus, Streptococcus, and Pseudomonas genera."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be44bef133db5eb78000014_002",
+              "question": "Are there microbes in human breast milk?"
+            }
+          ],
+          "context": "Instead, it provides infants a rich source of diverse bacteria, particularly microbes belonging to the Staphylococcus, Streptococcus, and Pseudomonas genera. Very little is known about factors that influence variation in the milk microbiome among women and populations, although time postpartum, delivery mode, and maternal factors such as diet and antibiotic use might be important. The origins of the bacteria in milk are thought to include the maternal gastrointestinal tract (via an entero-mammary pathway) and through bacterial exposure of the breast during nursing. Currently, almost nothing is known about whether variation in microbe consumption by the infant via human milk and that of the mammary gland, itself, impacts short-term and/or long-term infant and maternal health although several studies suggest this is likely. We urge the clinical and public health communities to be patient, however, in order to allow human milk and lactation researchers to first understand what constitutes 'normal' in terms of the milk microbiome (as well as factors that impact microbial community structure) prior to jumping the gun to investigate if and how this important source of microbes impacts maternal and infant health."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bacae842deac67000001_001",
+              "question": "Is cariprazine effective for treatment of bipolar disorder?"
+            }
+          ],
+          "context": "BACKGROUND: We evaluated the safety/tolerability of longer-term open-label treatment with cariprazine in patients who had responded to cariprazine for acute bipolar mania."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bacae842deac67000001_002",
+              "question": "Is cariprazine effective for treatment of bipolar disorder?"
+            }
+          ],
+          "context": "Clinically relevant response and remission outcomes in cariprazine-treated patients with bipolar I disorder. BACKGROUND: Rates of response and remission are measures that endorse the clinical significance of treatment."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bacae842deac67000001_003",
+              "question": "Is cariprazine effective for treatment of bipolar disorder?"
+            }
+          ],
+          "context": "BACKGROUND: Rates of response and remission are measures that endorse the clinical significance of treatment. Cariprazine is FDA approved for the acute treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder in adults. Post hoc analyses of pooled data from 3 pivotal trials of cariprazine in manic/mixed episodes associated with bipolar I disorder were conducted to investigate the effect of cariprazine on various criteria of response and remission."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bacae842deac67000001_004",
+              "question": "Is cariprazine effective for treatment of bipolar disorder?"
+            }
+          ],
+          "context": "DISCUSSION: Cariprazine-treated patients with bipolar I disorder attained clinically significant improvement in manic symptoms as shown by significantly greater rates of response and remission versus placebo; improvement in manic symptoms did not induce depressive symptoms."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61bacae842deac67000001_005",
+              "question": "Is cariprazine effective for treatment of bipolar disorder?"
+            }
+          ],
+          "context": "OBJECTIVE: Cariprazine, a dopamine D3/D2 partial agonist atypical antipsychotic with preferential binding to D3 receptors, is approved for the treatment of schizophrenia and manic or mixed episodes associated with bipolar I disorder."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c55d75807647bbc4b000008_001",
+              "question": "Is Bobble head doll syndrome associated with hydrocephalus?"
+            }
+          ],
+          "context": "Treatment is surgical. The authors present 2 cases of BHDS. The first is a 14-year-old boy with BHDS associated with aqueductal obstruction and triventricular hydrocephalus secondary to a tectal tumor. He was successfully treated by endoscopic third ventriculostomy, and all symptoms resolved immediately in the recovery room. This case is unusual in its late age of symptom onset, the primacy of lateral (\"no-no\")"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c55d75807647bbc4b000008_002",
+              "question": "Is Bobble head doll syndrome associated with hydrocephalus?"
+            }
+          ],
+          "context": "A Case Report of Surgically Treated Stereotypy and Hypomania. A 22-year-old man was admitted with gradually aggravating stereotypic head movement with hypomania. Brain magnetic resonance imaging showed a large suprasellar arachnoid cyst extending into the third ventricle, with obstructive hydrocephalus, characteristic of bobble-head doll syndrome. Endoscopic fenestration of the suprasellar arachnoid cyst was performed. Stereotypic head movement stopped immediately after surgery and hypomanic symptoms gradually improved within a month."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c55d75807647bbc4b000008_003",
+              "question": "Is Bobble head doll syndrome associated with hydrocephalus?"
+            }
+          ],
+          "context": "It is mostly associated with cystic lesions around the third ventricle, choroid plexus papilloma, aqueductal stenosis and other rare disorders. An eleven year old child presented in the outpatient department with continuous to and fro movement of the head and declining vision for the last one month. MRI Scan showed a large contrast-enhanced lesion in the region of the third ventricle along with gross hydrocephalus. Ventriculo-peritoneal shunt was inserted and the movements of the head disappeared completely. Bobble-head doll syndrome is a rare condition and therefore this case is presented and the literature reviewed."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c55d75807647bbc4b000008_004",
+              "question": "Is Bobble head doll syndrome associated with hydrocephalus?"
+            }
+          ],
+          "context": "Bobble-head doll syndrome is usually associated with dilation of the third ventricle, but is rarely associated with posterior fossa disease.PATIENT: We describe an infant with fetal hydrocephalus and an arachnoid cyst of the posterior fossa."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c55d75807647bbc4b000008_005",
+              "question": "Is Bobble head doll syndrome associated with hydrocephalus?"
+            }
+          ],
+          "context": "The etiology of this syndrome remains unknown and no standard treatment has yet been established. We hereby report four cases treated at our department. All the patients presented a psychomotor retardation due to an obstructive hydrocephalus. All the patients were treated using neuroendoscopic techniques: two with ventriculocystostomy, and two with ventriculocystocisternostomy. Cyst decompression was achieved in all four cases and clinical recovery was evident in three of the four patients observed."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be44f50133db5eb78000017_001",
+              "question": "Can breastfeeding confer protection from type I diabetes?"
+            }
+          ],
+          "context": "In the mother, breastfeeding has been suggested to reduce the incidence of type 2 diabetes mellitus, the metabolic syndrome and cardiovascular disease. Moreover, it appears to reduce the risk of premenopausal breast cancer and ovarian cancer. In the neonate and infant, among other benefits, lactation confers protection from future both type 1 and type 2 diabetes. Whether lactation protects women with gestational diabetes mellitus and their offspring from future T2DM remains to be answered. Importantly, for diabetic mothers, antidiabetic treatment itself may affect breastfeeding."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58447f07647bbc4b000021_001",
+              "question": "Is the PINES framework being used for the prediction of coding variants?"
+            }
+          ],
+          "context": "PINES: phenotype-informed tissue weighting improves prediction of pathogenic noncoding variants. Functional characterization of the noncoding genome is essential for biological understanding of gene regulation and disease. Here, we introduce the computational framework PINES (Phenotype-Informed Noncoding Element Scoring), which predicts the functional impact of noncoding variants by integrating epigenetic annotations in a phenotype-dependent manner."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58447f07647bbc4b000021_002",
+              "question": "Is the PINES framework being used for the prediction of coding variants?"
+            }
+          ],
+          "context": "Here, we introduce the computational framework PINES (Phenotype-Informed Noncoding Element Scoring), which predicts the functional impact of noncoding variants by integrating epigenetic annotations in a phenotype-dependent manner. PINES enables analyses to be customized towards genomic annotations from cell types of the highest relevance given the phenotype of interest. We illustrate that PINES identifies functional noncoding variation more accurately than methods that do not use phenotype-weighted knowledge, while at the same time being flexible and easy to use via a dedicated web portal."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be47bff133db5eb78000018_001",
+              "question": "Can pets affect infant microbiomed?"
+            }
+          ],
+          "context": "BACKGROUND: Early-life exposure to household pets has the capacity to reduce risk for overweight and allergic disease, especially following caesarean delivery. Since there is some evidence that pets also alter the gut microbial composition of infants, changes to the gut microbiome are putative pathways by which pet exposure can reduce these risks to health. To investigate the impact of pre- and postnatal pet exposure on infant gut microbiota following various birth scenarios, this study employed a large subsample of 746 infants from the Canadian Healthy Infant Longitudinal Development Study (CHILD) cohort, whose mothers were enrolled during pregnancy between 2009 and 2012. Participating mothers were asked to report on household pet ownership at recruitment during the second or third trimester and 3\u00a0months postpartum."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be47bff133db5eb78000018_002",
+              "question": "Can pets affect infant microbiomed?"
+            }
+          ],
+          "context": "All of these associations were independent of maternal asthma/allergy status, siblingship, breastfeeding exclusivity and other home characteristics. CONCLUSIONS: The impact of pet ownership varies under different birth scenarios; however, in common, exposure to pets increased the abundance of two bacteria, Ruminococcus and Oscillospira, which have been negatively associated with childhood atopy and obesity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be47bff133db5eb78000018_003",
+              "question": "Can pets affect infant microbiomed?"
+            }
+          ],
+          "context": "As a common effect in all birth scenarios, pre- and postnatal pet exposure enriched the abundance of Oscillospira and/or Ruminococcus (P < 0.05) with more than a twofold greater likelihood of high abundance. Among vaginally born infants with maternal intrapartum antibiotic prophylaxis exposure, Streptococcaceae were substantially and significantly reduced by pet exposure (P < 0.001, FDRp = 0.03), reflecting an 80% decreased likelihood of high abundance (OR 0.20, 95%CI, 0.06-0.70) for pet exposure during pregnancy alone and a 69% reduced likelihood (OR 0.31, 95%CI, 0.16-0.58) for exposure in the pre- and postnatal time periods."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be47bff133db5eb78000018_004",
+              "question": "Can pets affect infant microbiomed?"
+            }
+          ],
+          "context": "Exposure to household furry pets influences the gut microbiota of infant at 3-4\u00a0months following various birth scenarios. BACKGROUND: Early-life exposure to household pets has the capacity to reduce risk for overweight and allergic disease, especially following caesarean delivery."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c56033607647bbc4b00000c_001",
+              "question": "Is Tisagenlecleucel effective for B-Cell Lymphoma?"
+            }
+          ],
+          "context": "Value in Using CAR T Cells for DLBCL. The phase II JULIET trial suggests that the CD19-targeting CAR T-cell therapy tisagenlecleucel produces durable responses in patients with relapsed and refractory diffuse large B-cell lymphoma. Three months after the therapy, 32% of the patients showed complete responses and 6% showed partial responses. After 6 months, those rates were 30% and 7%."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c56033607647bbc4b00000c_002",
+              "question": "Is Tisagenlecleucel effective for B-Cell Lymphoma?"
+            }
+          ],
+          "context": "Tisagenlecleucel in Children and Young Adults with B-Cell Lymphoblastic Leukemia. BACKGROUND: In a single-center phase 1-2a study, the anti-CD19 chimeric antigen receptor (CAR) T-cell therapy tisagenlecleucel produced high rates of complete remission and was associated with serious but mainly reversible toxic effects in children and young adults with relapsed or refractory B-cell acute lymphoblastic leukemia (ALL)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c56033607647bbc4b00000c_003",
+              "question": "Is Tisagenlecleucel effective for B-Cell Lymphoma?"
+            }
+          ],
+          "context": "BACKGROUND: In a single-center phase 1-2a study, the anti-CD19 chimeric antigen receptor (CAR) T-cell therapy tisagenlecleucel produced high rates of complete remission and was associated with serious but mainly reversible toxic effects in children and young adults with relapsed or refractory B-cell acute lymphoblastic leukemia (ALL)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c56033607647bbc4b00000c_004",
+              "question": "Is Tisagenlecleucel effective for B-Cell Lymphoma?"
+            }
+          ],
+          "context": "CONCLUSIONS: In this global study of CAR T-cell therapy, a single infusion of tisagenlecleucel provided durable remission with long-term persistence in pediatric and young adult patients with relapsed or refractory B-cell ALL, with transient high-grade toxic effects."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c56033607647bbc4b00000c_005",
+              "question": "Is Tisagenlecleucel effective for B-Cell Lymphoma?"
+            }
+          ],
+          "context": "Translating anti-CD19 CAR T-cell therapy into clinical practice for relapsed/refractory diffuse large B-cell lymphoma. Chimeric antigen receptor T cells demonstrate efficacy in B-cell malignancies, leading to US Food and Drug Administration approval of axicabtagene ciloleucel (October 2017) and tisagenlecleucel (May 2018) for large B-cell lymphomas after 2 prior lines of therapy. Durable remissions are seen in 30% to 40% of study-treated patients, but toxicities of cytokine release syndrome and neurotoxicity require administration in specialized centers. This article reviews data of current diffuse large B-cell lymphoma management, focusing on axicabtagene ciloleucel, tisagenlecleucel, and lisocabtagene maraleucel."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c56033607647bbc4b00000c_006",
+              "question": "Is Tisagenlecleucel effective for B-Cell Lymphoma?"
+            }
+          ],
+          "context": "Chimeric antigen receptor T cells demonstrate efficacy in B-cell malignancies, leading to US Food and Drug Administration approval of axicabtagene ciloleucel (October 2017) and tisagenlecleucel (May 2018) for large B-cell lymphomas after 2 prior lines of therapy. Durable remissions are seen in 30% to 40% of study-treated patients, but toxicities of cytokine release syndrome and neurotoxicity require administration in specialized centers. This article reviews data of current diffuse large B-cell lymphoma management, focusing on axicabtagene ciloleucel, tisagenlecleucel, and lisocabtagene maraleucel."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be48282133db5eb7800001b_001",
+              "question": "Is there any association between the human gut microbiome and depression?"
+            }
+          ],
+          "context": "At the intersection between neuroscience, microbiology, and psychiatry, the enteric microbiome has potential to become a novel paradigm for studying the psychobiological underpinnings of mental illness. Several studies provide support for the view that the enteric microbiome influences behavior through the microbiota-gut-brain axis. Moreover, recent findings are suggestive of the possibility that dysregulation of the enteric microbiota (i.e., dysbiosis) and associated bacterial translocation across the intestinal epithelium may be involved in the pathophysiology of stress-related psychiatric disorders, particularly depression. The current article reviews preliminary evidence linking the enteric microbiota and its metabolites to psychiatric illness, along with separate lines of empirical inquiry on the potential involvement of psychosocial stressors, proinflammatory cytokines and neuroinflammation, the hypothalamic-pituitary-adrenal axis, and vagal nerve activation, respectively, in this relationship. Finally, and drawing on these independent lines of research, an integrative conceptual model is proposed in which stress-induced enteric dysbiosis and intestinal permeability confer risk for negative mental health outcomes through immunoregulatory, endocrinal, and neural pathways."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c2f8127133db5eb78000032_001",
+              "question": "Are whole-genome duplications more divergent than small-scale duplications in yeast?"
+            }
+          ],
+          "context": "However, similar results were obtained using a recontructed hypothetical metabolic network of the pre-WGD ancestor. We show that the retention of genes in duplicate in the model, corresponds nicely with those retained in duplicate after the ancestral WGD in S. cerevisiae. Also, we observe that transporter and glycolytic genes have a higher probability to be retained in duplicate after WGD and subsequent gene loss, both in the model as in S. cerevisiae, which leads to an increase in glycolytic flux after WGD. Furthermore, the model shows that WGD leads to better adaptation than small-scale duplications, in environments for which duplication of a whole pathway instead of single reactions is needed to increase fitness. This is indeed the case for adaptation to high glucose levels."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c2f8127133db5eb78000032_002",
+              "question": "Are whole-genome duplications more divergent than small-scale duplications in yeast?"
+            }
+          ],
+          "context": "Using the metabolic network of Saccharomyces cerevisiae as an example, we primarily study the outcome of WGD on yeast as it currently is. However, similar results were obtained using a recontructed hypothetical metabolic network of the pre-WGD ancestor. We show that the retention of genes in duplicate in the model, corresponds nicely with those retained in duplicate after the ancestral WGD in S. cerevisiae. Also, we observe that transporter and glycolytic genes have a higher probability to be retained in duplicate after WGD and subsequent gene loss, both in the model as in S. cerevisiae, which leads to an increase in glycolytic flux after WGD. Furthermore, the model shows that WGD leads to better adaptation than small-scale duplications, in environments for which duplication of a whole pathway instead of single reactions is needed to increase fitness."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c2f8127133db5eb78000032_003",
+              "question": "Are whole-genome duplications more divergent than small-scale duplications in yeast?"
+            }
+          ],
+          "context": "Furthermore, the model shows that WGD leads to better adaptation than small-scale duplications, in environments for which duplication of a whole pathway instead of single reactions is needed to increase fitness. This is indeed the case for adaptation to high glucose levels. Thus, our model confirms the hypothesis that WGD has been important in the adaptation of yeast to the new, glucose-rich environment that arose after the appearance of angiosperms. Moreover, the model shows that WGD is almost always detrimental on the short term in environments to which the lineage is preadapted, but can have immediate fitness benefits in \"new\" environments. This explains why WGD, while pivotal in the evolution of many lineages and an apparent \"easy\" genetic operator, occurs relatively rarely."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c2f8127133db5eb78000032_004",
+              "question": "Are whole-genome duplications more divergent than small-scale duplications in yeast?"
+            }
+          ],
+          "context": "RESULTS: We find a number of quantifiable differences between these data sets. Whole-genome duplicates tend to exhibit less profound phenotypic effects when deleted, are functionally less divergent, and are associated with a different set of functions than their small-scale duplicate counterparts. At first sight, either of these latter two features could provide a plausible mechanism by which the difference in dispensability might arise. However, we uncover no evidence suggesting that this is the case."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c2f8127133db5eb78000032_005",
+              "question": "Are whole-genome duplications more divergent than small-scale duplications in yeast?"
+            }
+          ],
+          "context": "Our work combines network analysis and modeling of the large-scale structure of the interactions stemming from the WGD. CONCLUSIONS: The results uncover the WGD as a major source for the evolution of a complex interconnected block of transcriptional pathways. The inheritance of interactions among WGD duplicates follows elementary \"duplication subgraphs\", relating ancestral interactions with newly formed ones. Duplication subgraphs are correlated with their neighbours and give rise to higher order circuits with two elementary properties: newly formed transcriptional pathways remain connected (paths are not broken), and are preferentially cross-connected with ancestral ones."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c2f8127133db5eb78000032_006",
+              "question": "Are whole-genome duplications more divergent than small-scale duplications in yeast?"
+            }
+          ],
+          "context": "These observations validated previous theoretic predictions about instability of genetic redundancy. However, departing from the general neutral mode, intriguingly, our analysis revealed the presence of natural selection in stabilizing functional overlap between SSD pairs. These selected pairs, both WGD and SSD, tend to have decelerated functional evolution, have higher propensities of co-clustering into the same protein complexes, and share common interacting partners. Our study revealed the general principles for the long-term retention of genetic redundancy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c2f8127133db5eb78000032_007",
+              "question": "Are whole-genome duplications more divergent than small-scale duplications in yeast?"
+            }
+          ],
+          "context": "Moreover, we find additional transcriptional profiles that are suggestive of neo- and subfunctionalization of duplicate gene copies. These patterns are strongly correlated with the functional dependencies and sequence divergence profiles of gene copies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c2f8127133db5eb78000032_008",
+              "question": "Are whole-genome duplications more divergent than small-scale duplications in yeast?"
+            }
+          ],
+          "context": "The Phenotypic Plasticity of Duplicated Genes in Saccharomyces cerevisiae and the Origin of Adaptations. Gene and genome duplication are the major sources of biological innovations in plants and animals. Functional and transcriptional divergence between the copies after gene duplication has been considered the main driver of innovations . However, here we show that increased phenotypic plasticity after duplication plays a more major role than thought before in the origin of adaptations. We perform an exhaustive analysis of the transcriptional alterations of duplicated genes in the unicellular eukaryote Saccharomyces cerevisiae when challenged with five different environmental stresses."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f0c5a1a4c55d80b00000f_001",
+              "question": "Is  LRP1 interacting with Urokinase receptor?"
+            }
+          ],
+          "context": "The urokinase receptor (uPAR/CD87) is highly expressed in malignant tumours. uPAR, as a GPI anchored protein, is preferentially located at the cell surface, where it interacts with its ligands urokinase (uPA) and the extracellular matrix protein vitronectin, thus promoting plasmin generation, cell-matrix interactions and intracellular signalling events. Interaction with a complex formed by uPA and its inhibitor PAI-1 induces cell surface down regulation and recycling of the receptor via the clathrin-coated pathway, a process dependent on the association to LRP-1. METHODOLOGY/PRINCIPAL FINDINGS: In this study, we have found that along with the ligand-induced down-regulation, uPAR also internalizes and recycles constitutively through a second pathway that is independent of LRP-1 and clathrin but shares some properties with macropinocytosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f0c5a1a4c55d80b00000f_002",
+              "question": "Is  LRP1 interacting with Urokinase receptor?"
+            }
+          ],
+          "context": "Direct binding of occupied urokinase receptor (uPAR) to LDL receptor-related protein is required for endocytosis of uPAR and regulation of cell surface urokinase activity. Low-density lipoprotein receptor-related protein (LRP) mediates internalization of urokinase:plasminogen activator inhibitor complexes (uPA:PAI-1) and the urokinase receptor (uPAR). Here we investigated whether direct interaction between uPAR, a glycosyl-phosphatidylinositol-anchored protein, and LRP, a transmembrane receptor, is required for clearance of uPA: PAI-1, regeneration of unoccupied uPAR, activation of plasminogen, and the ability of HT1080 cells to invade extracellular matrix. We found that in the absence of uPA:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f0c5a1a4c55d80b00000f_003",
+              "question": "Is  LRP1 interacting with Urokinase receptor?"
+            }
+          ],
+          "context": "PAI-1 promotes formation of uPAR-LRP complexes and initiates redistribution of occupied uPAR to clathrin-coated pits. uPAR-LRP complexes are endocytosed via clathrin-coated vesicles and traffic together to early endosomes (EE) because they can be coimmunoprecipitated from immunoisolated EE, and internalization is blocked by depletion of intracellular K(+). Direct binding of domain 3 (D3) of uPAR to LRP is required for clearance of uPA-PAI-1-occupied uPAR because internalization is blocked by incubation with recombinant D3. Moreover, uPA-dependent plasmin generation and the ability of HT1080 cells to migrate through Matrigel-coated invasion chambers are also inhibited in the presence of D3. These results demonstrate that GPI-anchored uPAR is endocytosed by piggybacking on LRP and that direct binding of occupied uPAR to LRP is essential for internalization of occupied uPAR, regeneration of unoccupied uPAR, plasmin generation, and invasion and migration through extracellular matrix."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58a74e86df2b917400000d_001",
+              "question": "Is Baloxavir effective for influenza?"
+            }
+          ],
+          "context": "Baloxavir marboxil (Xofluza\u2122; baloxavir) is an oral cap-dependent endonuclease inhibitor that has been developed by Roche and Shionogi. The drug blocks influenza virus proliferation by inhibiting the initiation of mRNA synthesis. In February 2018, baloxavir received its first global approval in Japan for the treatment of influenza A or B virus infections."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58a74e86df2b917400000d_002",
+              "question": "Is Baloxavir effective for influenza?"
+            }
+          ],
+          "context": "In February 2018, baloxavir received its first global approval in Japan for the treatment of influenza A or B virus infections. Phase III development is underway in the USA, EU and other countries for this indication. This article summarized the milestones in the development of baloxavir leading to this first global approval for influenza A or B virus infections."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58a74e86df2b917400000d_003",
+              "question": "Is Baloxavir effective for influenza?"
+            }
+          ],
+          "context": "Characterization of influenza virus variants induced by treatment with the endonuclease inhibitor baloxavir marboxil. Baloxavir acid (BXA), derived from the prodrug baloxavir marboxil (BXM), potently and selectively inhibits the cap-dependent endonuclease within the polymerase PA subunit of influenza A and B viruses. In clinical trials, single doses of BXM profoundly decrease viral titers as well as alleviating influenza symptoms. Here, we characterize the impact on BXA susceptibility and replicative capacity of variant viruses detected in the post-treatment monitoring of the clinical studies. We find that the PA I38T substitution is a major pathway for reduced susceptibility to BXA, with 30- to 50-fold and 7-fold EC changes in A and B viruses, respectively."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58a74e86df2b917400000d_004",
+              "question": "Is Baloxavir effective for influenza?"
+            }
+          ],
+          "context": "Characterization of influenza virus variants induced by treatment with the endonuclease inhibitor baloxavir marboxil. Baloxavir acid (BXA), derived from the prodrug baloxavir marboxil (BXM), potently and selectively inhibits the cap-dependent endonuclease within the polymerase PA subunit of influenza A and B viruses. In clinical trials, single doses of BXM profoundly decrease viral titers as well as alleviating influenza symptoms."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58a74e86df2b917400000d_005",
+              "question": "Is Baloxavir effective for influenza?"
+            }
+          ],
+          "context": "Baloxavir Marboxil for Uncomplicated Influenza in Adults and Adolescents. BACKGROUND: Baloxavir marboxil is a selective inhibitor of influenza cap-dependent endonuclease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58a74e86df2b917400000d_006",
+              "question": "Is Baloxavir effective for influenza?"
+            }
+          ],
+          "context": "BACKGROUND: Baloxavir marboxil is a selective inhibitor of influenza cap-dependent endonuclease. It has shown therapeutic activity in preclinical models of influenza A and B virus infections, including strains resistant to current antiviral agents."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58a74e86df2b917400000d_007",
+              "question": "Is Baloxavir effective for influenza?"
+            }
+          ],
+          "context": "CONCLUSIONS: Single-dose baloxavir was without evident safety concerns, was superior to placebo in alleviating influenza symptoms, and was superior to both oseltamivir and placebo in reducing the viral load 1 day after initiation of the trial regimen in patients with uncomplicated influenza."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c34794fda8336e21a000001_001",
+              "question": "Do yeast LTR give rise to circular DNA?"
+            }
+          ],
+          "context": "Circular retrotransposition products generated by a LINE retrotransposon. Non-long terminal repeat (non-LTR) retrotransposons are highly abundant elements that are present in chromosomes throughout the eukaryotic domain of life. The long interspersed nuclear element (LINE-1)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c34794fda8336e21a000001_002",
+              "question": "Do yeast LTR give rise to circular DNA?"
+            }
+          ],
+          "context": "Formation of Extrachromosomal Circular DNA from Long Terminal Repeats of Retrotransposons in Saccharomyces cerevisiae. Extrachromosomal circular DNA (eccDNA) derived from chromosomal Ty retrotransposons in yeast can be generated in multiple ways. Ty eccDNA can arise from the circularization of extrachromosomal linear DNA during the transpositional life cycle of retrotransposons, or from circularization of genomic Ty DNA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c34794fda8336e21a000001_003",
+              "question": "Do yeast LTR give rise to circular DNA?"
+            }
+          ],
+          "context": "Formation of Extrachromosomal Circular DNA from Long Terminal Repeats of Retrotransposons in Saccharomyces cerevisiae. Extrachromosomal circular DNA (eccDNA) derived from chromosomal Ty retrotransposons in yeast can be generated in multiple ways. Ty eccDNA can arise from the circularization of extrachromosomal linear DNA during the transpositional life cycle of retrotransposons, or from circularization of genomic Ty DNA. Circularization may happen through nonhomologous end-joining (NHEJ) of long terminal repeats (LTRs) flanking Ty elements, by Ty autointegration, or by LTR-LTR recombination. By performing an in-depth investigation of sequence reads stemming from Ty eccDNAs obtained from populations of Saccharomyces cerevisiae S288c, we find that eccDNAs predominantly correspond to full-length Ty1 elements."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c34794fda8336e21a000001_004",
+              "question": "Do yeast LTR give rise to circular DNA?"
+            }
+          ],
+          "context": "Extrachromosomal circular DNA (eccDNA) derived from chromosomal Ty retrotransposons in yeast can be generated in multiple ways. Ty eccDNA can arise from the circularization of extrachromosomal linear DNA during the transpositional life cycle of retrotransposons, or from circularization of genomic Ty DNA. Circularization may happen through nonhomologous end-joining (NHEJ) of long terminal repeats (LTRs) flanking Ty elements, by Ty autointegration, or by LTR-LTR recombination. By performing an in-depth investigation of sequence reads stemming from Ty eccDNAs obtained from populations of Saccharomyces cerevisiae S288c, we find that eccDNAs predominantly correspond to full-length Ty1 elements. Analyses of sequence junctions reveal no signs of NHEJ or autointegration events."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c34794fda8336e21a000001_005",
+              "question": "Do yeast LTR give rise to circular DNA?"
+            }
+          ],
+          "context": "Transposable elements and circular DNAs. Circular DNAs are extra-chromosomal fragments that become circularized by genomic recombination events. We have recently shown that yeast LTR elements generate circular DNAs through recombination events between their flanking long terminal repeats (LTRs). Similarly, circular DNAs can be generated by recombination between LTRs residing at different genomic loci, in which case the circular DNA will contain the intervening sequence. In yeast, this can result in gene copy number variations when circles contain genes and origins of replication."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c34794fda8336e21a000001_006",
+              "question": "Do yeast LTR give rise to circular DNA?"
+            }
+          ],
+          "context": "Circular DNAs are extra-chromosomal fragments that become circularized by genomic recombination events. We have recently shown that yeast LTR elements generate circular DNAs through recombination events between their flanking long terminal repeats (LTRs). Similarly, circular DNAs can be generated by recombination between LTRs residing at different genomic loci, in which case the circular DNA will contain the intervening sequence. In yeast, this can result in gene copy number variations when circles contain genes and origins of replication. Here, I speculate on the potential and implications of circular DNAs generated through recombination between human transposable elements."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c34794fda8336e21a000001_007",
+              "question": "Do yeast LTR give rise to circular DNA?"
+            }
+          ],
+          "context": "The generation of circular DNAs is a relatively unrecognized type of genomic structural variation, but recent findings point to a possible role of circular DNAs in the movement of transposable elements. Circularization of genomic DNA is observed across eukaryotic species, in a range of different cell types, and from all parts of the genome. A recent study on circular DNAs in yeast found that transposable element sequence residing in circular structures mostly corresponded to full-length transposable elements. Transposable elements are mobile genetic elements scattered across eukaryotic genomes. Different classes of transposable elements move either through a copy-and-paste or a cut-and-paste."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c644c3de842deac67000018_001",
+              "question": "Is cohesin linked to myeloid differentiation?"
+            }
+          ],
+          "context": "Consistent with a role for inflammatory signals in promoting myeloid differentiation of hematopoietic stem and progenitor cells (HPSCs), cohesin mutations in HSPCs led to reduced inflammatory gene expression and increased resistance to differentiation-inducing inflammatory stimuli. These findings uncover an unexpected dependence of inducible gene expression on cohesin, link cohesin with myeloid differentiation, and may help explain the prevalence of cohesin mutations in human acute myeloid leukemia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be49287133db5eb7800001e_001",
+              "question": "Is pembrolizumab effective against Ewing's sarcoma?"
+            }
+          ],
+          "context": "No patients with leiomyosarcoma (n=10) had an objective response. Two (5%) of 40 patients with bone sarcoma had an objective response, including one (5%) of 22 patients with osteosarcoma and one (20%) of five patients with chondrosarcoma. None of the 13 patients with Ewing's sarcoma had an objective response. The most frequent grade 3 or worse adverse events were anaemia (six [14%]), decreased lymphocyte count (five [12%]), prolonged activated partial thromboplastin time (four [10%]), and decreased platelet count (three [7%]) in the bone sarcoma group, and anaemia, decreased lymphocyte count, and prolonged activated partial thromboplastin time in the soft-tissue sarcoma group (three [7%] each). Nine (11%) patients (five [12%] in the bone sarcoma group and four [10%] in the soft-tissue sarcoma group) had treatment-emergent serious adverse events (SAEs), five of whom had immune-related SAEs, including two with adrenal insufficiency, two with pneumonitis, and one with nephritis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be49287133db5eb7800001e_002",
+              "question": "Is pembrolizumab effective against Ewing's sarcoma?"
+            }
+          ],
+          "context": "This trial is registered with ClinicalTrials.gov, number NCT02301039. FINDINGS: Between March 13, 2015, and Feb 18, 2016, we enrolled 86 patients, 84 of whom received pembrolizumab (42 in each disease cohort) and 80 of whom were evaluable for response (40 in each disease cohort). Median follow-up was 17\u00b78 months (IQR 12\u00b73-19\u00b73). Seven (18%) of 40 patients with soft-tissue sarcoma had an objective response, including four (40%) of ten patients with undifferentiated pleomorphic sarcoma, two (20%) of ten patients with liposarcoma, and one (10%) of ten patients with synovial sarcoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5be94b87133db5eb78000020_001",
+              "question": "Can gene therapy restore auditory function?"
+            }
+          ],
+          "context": "Gene therapy restores auditory and vestibular function in a mouse model of Usher syndrome type 1c. Because there are currently no biological treatments for hearing loss, we sought to advance gene therapy approaches to treat genetic deafness. We focused on Usher syndrome, a devastating genetic disorder that causes blindness, balance disorders and profound deafness, and studied a knock-in mouse model, Ush1c"
+        },
+        {
+          "qas": [
+            {
+              "id": "5be94b87133db5eb78000020_002",
+              "question": "Can gene therapy restore auditory function?"
+            }
+          ],
+          "context": "We demonstrate recovery of gene and protein expression, restoration of sensory cell function, rescue of complex auditory function and recovery of hearing and balance behavior to near wild-type levels. The data represent unprecedented recovery of inner ear function and suggest that biological therapies to treat deafness may be suitable for translation to humans with genetic inner ear disorders."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c647c52e842deac6700001c_001",
+              "question": "Is erythropoietin effective for treatment of amyotrophic lateral sclerosis?"
+            }
+          ],
+          "context": "This study was performed to validate the ALS-MITOS as a 6-month proxy of survival in 200 ALS patients followed up to 18 months.METHODS: Analyses were performed on data from the recombinant human erythropoietin RCT that failed to demonstrate differences between groups for both primary and secondary outcomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c647c52e842deac6700001c_002",
+              "question": "Is erythropoietin effective for treatment of amyotrophic lateral sclerosis?"
+            }
+          ],
+          "context": "CONCLUSIONS: RhEPO 40,000 IU fortnightly did not change the course of ALS."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c647c52e842deac6700001c_003",
+              "question": "Is erythropoietin effective for treatment of amyotrophic lateral sclerosis?"
+            }
+          ],
+          "context": "At 12 months, the annualised rate of death (rhEPO 0.11, 95% CI 0.06 to 0.20; placebo: 0.08, CI 0.04 to 0.17), tracheotomy or >23 h NIV (rhEPO 0.16, CI 0.10 to 0.27; placebo 0.18, CI 0.11 to 0.30) did not differ between groups, also after stratification by onset and ALSFRS-R at baseline."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6638717c78d69471000012_001",
+              "question": "Is celecoxib effective for treatment of amyotrophic lateral sclerosis?"
+            }
+          ],
+          "context": "NTERPRETATION: At the dosage studied, celecoxib did not have a beneficial effect on research subjects with ALS, and it was safe. A biological effect of celecoxib was not demonstrated in the cerebrospinal fluid. Further studies of celecoxib at a dosage of 800 mg/day in ALS are not warranted."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c531e887e3cb0e231000018_001",
+              "question": "Are ultraconserved enhancers important for normal development?"
+            }
+          ],
+          "context": "Non-coding \"ultraconserved\" regions containing hundreds of consecutive bases of perfect sequence conservation across mammalian genomes can function as distant-acting enhancers. However, initial deletion studies in mice revealed that loss of such extraordinarily constrained sequences had no immediate impact on viability. Here, we show that ultraconserved enhancers are required for normal development. Focusing on some of the longest ultraconserved sites genome wide, located near the essential neuronal transcription factor Arx, we used genome editing to create an expanded series of knockout mice lacking individual or combinations of ultraconserved enhancers. Mice with single or pairwise deletions of ultraconserved enhancers were viable and fertile but in nearly all cases showed neurological or growth abnormalities, including substantial alterations of neuron populations and structural brain\u00a0defects."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c531e887e3cb0e231000018_002",
+              "question": "Are ultraconserved enhancers important for normal development?"
+            }
+          ],
+          "context": "However, initial deletion studies in mice revealed that loss of such extraordinarily constrained sequences had no immediate impact on viability. Here, we show that ultraconserved enhancers are required for normal development."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f12d91a4c55d80b000016_001",
+              "question": "Is chlorotoxin a peptide?"
+            }
+          ],
+          "context": "Evaluating the sensitivity to anti-cancer agents, we found U251MG-P1 cells were sensitive to doxorubicin with IC at 200 nM. Although doxorubicin has serious side-effects, establishment of an efficient therapy targeting undifferentiated glioblastoma cell population is necessary. We previously designed a chlorotoxin peptide fused to human IgG Fc region without hinge sequence (M-CTX-Fc), which exhibited a stronger growth inhibitory effect on the glioblastoma cell line A172 than an original chlorotoxin peptide. Combining these results together, we designed M-CTX-Fc conjugated liposomes encapsulating doxorubicin and used U251MG-P1 cells as the target model in this study. The liposome modified with M-CTX-Fc was designed with a diameter of approximately 100-150 nm and showed high encapsulation efficiency, adequate loading capacity of anticancer drug, enhanced antitumor effects demonstrating increasing uptake into the cells in vitro; M-CTX-Fc-L-Dox shows great promise in its ability to suppress tumor growth in vivo and it could serve as a template for targeted delivery of other therapeutics."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f12d91a4c55d80b000016_002",
+              "question": "Is chlorotoxin a peptide?"
+            }
+          ],
+          "context": "Chlorotoxin (CTX) is a 36-amino-acid disulfide-containing peptide derived from the venom of the scorpion Leiurus quinquestriatus."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f12d91a4c55d80b000016_003",
+              "question": "Is chlorotoxin a peptide?"
+            }
+          ],
+          "context": "The cDNA encoding Odontobuthus doriae chlorotoxin was isolated from the library, and its putative peptide was characterized by some bioinformatics software such as protein blast, SignalP4.0, DISULFIND and Clustal Omega. Results: The mature Odontobuthus doriae chlorotoxin peptide has a 35-amino-acid residue and four disulfide bounds. This putative chlorotoxin is a small, compact, and stable molecule. Moreover, based on the open reading frame sequence similarity, this peptide is similar to Buthus martensii Karsch chlorotoxin like toxin and Bm12-b neurotoxins from the Chinese scorpion Mesobuthus martensii."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f12d91a4c55d80b000016_004",
+              "question": "Is chlorotoxin a peptide?"
+            }
+          ],
+          "context": "Lysine to arginine mutagenesis of chlorotoxin enhances its cellular uptake. Chlorotoxin (CTX), a disulfide-rich peptide from the scorpion Leiurus quinquestriatus, has several promising biopharmaceutical properties, including preferential affinity for certain cancer cells, high serum stability, and cell penetration. These properties underpin its potential for use as a drug design scaffold, especially for the treatment of cancer; indeed, several analogs of CTX have reached clinical trials. Here, we focus on its ability to internalize into cells-a trait associated with a privileged subclass of peptides called cell-penetrating peptides-and whether it can be improved through conservative substitutions. Mutants of CTX were made using solid-phase peptide synthesis and internalization into human cervical carcinoma (HeLa) cells was monitored by fluorescence and confocal microscopy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_001",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "Child weight status is measured by a full distribution of child weight, from severely thin to obese, using data from a z-score for body mass index and cognition is measured by the Spanish version of the Picture Peabody Vocabulary Test (PPVT). This relationship is studied at age five and age eight (school age), and disaggregated across socioeconomic factors of gender, urban/rural setting and indigenous/nonindigenous status. The initial results suggests that obese children have higher cognitive scores and that this result is driven by those who are female, non-indigenous and live in an urban region. However, after correcting for possible bias due to unobservable heterogeneity, there is little evidence of this relationship. The one exception is for a weakly significant relationship between obese female children and higher cognition, a relationship which tends to weaken between the ages of five and eight."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_002",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "However, after correcting for possible bias due to unobservable heterogeneity, there is little evidence of this relationship. The one exception is for a weakly significant relationship between obese female children and higher cognition, a relationship which tends to weaken between the ages of five and eight. On the other end of the weight distribution, indigenous children who are severely thin or thin have significantly lower cognitive scores, a relationship that holds after correcting for possible bias and appears to strengthen between ages of five and eight. This paper contributes to a very small set of literature on child cognition and obesity, points to the importance of controlling for unobserved heterogeneity in estimation, and is the first of its kind to study this relationship in a developing country."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_003",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "Sample size for obese population was not very large. CONCLUSIONS: Obesity is associated with decreased cognitive function, reduced gray matter volume, and impaired white matter integrity in cognition-related brain areas in patients with MDD."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_004",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "In a second search, we added key words related to neuropathology including words \"Alzheimer's disease,\" \"vascular dementia,\" and \"mild cognitive impairment. \" RESULTS: The data suggest that being overweight or obese in midlife may be more detrimental to subsequent age-related cognitive decline than being overweight or obese at later stages of the life span. These effects are likely mediated by the accelerated effects obesity has on the integrity of neural structures, including both gray and white matter. Further epidemiological studies have provided evidence that obesity in midlife is linked to an increased risk for Alzheimer's disease and vascular dementia, most likely via an increased accumulation of Alzheimer's disease pathology."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_005",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "Poor cognitive performance was present in 37% of the sample. General obesity (BMI>or = 25) and poor cognition were strongly associated in the presence of abdominal obesity. Poor cognition was negatively associated with overweight (BMI 23-25) with normal waist circumference."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_006",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "CONCLUSION: With increased rates of obesity in schizophrenia, it is important to highlight the potentially deleterious effect of obesity on cognition. BMI could be used as a candidate risk marker to identify people at higher risk of cognitive deficits, and as an intervention target for modifications of cognitive outcomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_007",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "Effect of obesity on cognition in adults with and without a mood disorder: study design and methods. INTRODUCTION: Obesity is a common medical illness that is increasingly recognised as conferring risk of decline in cognitive performance, independent of other comorbid medical conditions. Individuals with mood disorders (bipolar disorder (BD) or major depressive disorder (MDD)) display an increased prevalence of both obesity and risk factors for cardiovascular diseases. Moreover, BD and MDD are associated with impairment in cognitive functioning across multiple domains."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_008",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "Overweight and obesity are associated with an increased risk of subnormal intellectual performance in young adult males. Subjects with low birth weight and adolescent overweight/obesity are at particular risk of subnormal performance."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_009",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "Furthermore, access to this palatable diet attenuated the physiological effects of acute stress (restraint), indicating that it could act as a comfort food. In more chronic studies, the diet also attenuated anxiety-like behavior in rats exposed to stress (maternal separation) early in life, but these rats may suffer greater metabolic harm than rats exposed to the early life stressor but not provided with the palatable diet. Impairments in cognitive function have been associated with obesity in both people and rodents. However, as little as 1 week of exposure to a high fat, high sugar diet selectively impaired place but not object recognition memory in the rat. Excess sugar alone had similar effects, and both diets were linked to increased inflammatory markers in the hippocampus, a critical region involved in memory."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_010",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "Obesity in the pre-school years was associated with poorer outcomes for some cognitive measures in this study. Stronger relationships between obesity and cognition or educational attainment may emerge later in childhood."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0e838b133db5eb7800002e_011",
+              "question": "Is obesity related to cognitive decline?"
+            }
+          ],
+          "context": "Adverse effects of consuming high fat-sugar diets on cognition: implications for understanding obesity. There is increasing evidence for important roles of key cognitive processes, including attention, memory and learning, in the short-term decision making about eating. There is parallel evidence that people who are overweight or obese tend to perform worse on a variety of cognitive tasks. In this review, the evidence for these two ideas is summarised and then the idea that overconsumption of Western-style high-fat (HF)-high-sugar diets may underlie the association between obesity and poorer cognitive performance is explored. In particular, evidence in animals and human subjects that repeated consumption of HF or HF and sugar (HFS) diets leads to specific impairments in the functioning of the hippocampus, which underpin the consequent changes in cognition is summarised."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c00f38e133db5eb78000023_001",
+              "question": "Does vesatolimod inhibit TLR7?"
+            }
+          ],
+          "context": "Safety, efficacy and pharmacodynamics of vesatolimod (GS-9620) in virally suppressed patients with chronic hepatitis B. BACKGROUND & AIMS: Vesatolimod (GS-9620) is an oral agonist of toll-like receptor 7, an activator of innate and adaptive immune responses. Herein the safety and efficacy of vesatolimod is assessed after once-weekly treatment in patients with chronic hepatitis B (CHB) infection suppressed on oral antiviral treatment. METHODS:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f21a81a4c55d80b00001c_001",
+              "question": "Is selenocysteine an aminoacid?"
+            }
+          ],
+          "context": "Challenges of site-specific selenocysteine incorporation into proteins by Escherichia coli. Selenocysteine (Sec), a rare genetically encoded amino acid with unusual chemical properties, is of great interest for protein engineering. Sec is synthesized on its cognate tRNA (tRNA) by the concerted action of several enzymes. While all other aminoacyl-tRNAs are delivered to the ribosome by the elongation factor Tu (EF-Tu), Sec-tRNA requires a dedicated factor, SelB. Incorporation of Sec into protein requires recoding of the stop codon UGA aided by a specific mRNA structure, the SECIS element. This unusual biogenesis restricts the use of Sec in recombinant proteins, limiting our ability to study the properties of selenoproteins."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f21a81a4c55d80b00001c_002",
+              "question": "Is selenocysteine an aminoacid?"
+            }
+          ],
+          "context": "Selenocysteine inhibits human osteosarcoma cells growth through triggering mitochondrial dysfunction and ROS-mediated p53 phosphorylation. Osteosarcoma represents the most common primary malignant bone tumor in children and adolescents, which shows severe resistance toward standard chemotherapy because of high invasive capacity and growing incidence. Selenocysteine (SeC) is a naturally available Se-containing amino acid that displays splendid anticancer activities against several human tumors. However, little information about SeC-induced growth inhibition against human osteosarcoma is available. Herein, the anticancer efficiency and underlying mechanism of SeC against human osteosarcoma were evaluated in vitro and in vivo."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58923c86df2b9174000005_001",
+              "question": "Is Tecovirimat effective for smallpox?"
+            }
+          ],
+          "context": "Oral Tecovirimat for the Treatment of Smallpox. BACKGROUND: Smallpox was declared eradicated in 1980, but variola virus (VARV), which causes smallpox, still exists."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58923c86df2b9174000005_002",
+              "question": "Is Tecovirimat effective for smallpox?"
+            }
+          ],
+          "context": "CONCLUSIONS: On the basis of its efficacy in two animal models and pharmacokinetic and safety data in humans, tecovirimat is being advanced as a therapy for smallpox in accordance with the FDA Animal Rule."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58923c86df2b9174000005_003",
+              "question": "Is Tecovirimat effective for smallpox?"
+            }
+          ],
+          "context": "Effects of Treatment Delay on Efficacy of Tecovirimat Following Lethal Aerosol Monkeypox Virus Challenge in Cynomolgus Macaques. Background: Tecovirimat (ST-246) is being developed as an antiviral therapeutic for smallpox for use in the event of an accidental or intentional release. The last reported case of smallpox was 1978 but the potential for use of variola virus for biowarfare has renewed interest in smallpox antiviral therapeutics. Methods: Cynomolgus macaques were challenged with a lethal dose of monkeypox virus (MPXV) by aerosol as a model for human smallpox and treated orally with 10 mg/kg tecovirimat once daily starting up to 8 days following challenge."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58923c86df2b9174000005_004",
+              "question": "Is Tecovirimat effective for smallpox?"
+            }
+          ],
+          "context": "Conclusions: Tecovirimat treatment initiated up to 8 days following a lethal aerosol MPXV challenge improves survival and, when initiated earlier than 5 days after challenge, provides protection from clinical effects of disease, supporting the conclusion that it is a promising smallpox antiviral therapeutic candidate."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58923c86df2b9174000005_005",
+              "question": "Is Tecovirimat effective for smallpox?"
+            }
+          ],
+          "context": "Tecovirimat: First Global Approval. Tecovirimat (TPOXX) is an orthopoxvirus-specific antiviral drug developed by SIGA Technologies in conjunction with the US Department of Health and Human Services' Biomedical Advances Research and Development Authority. It acts by inhibiting the activity of the orthopoxvirus"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58923c86df2b9174000005_006",
+              "question": "Is Tecovirimat effective for smallpox?"
+            }
+          ],
+          "context": "It acts by inhibiting the activity of the orthopoxvirus VP37 envelope wrapping protein, thereby preventing the formation of egress-competent enveloped virions, which are essential for dissemination of the virus in the host. In July 2018, oral tecovirimat was approved in the USA for the treatment of human smallpox disease caused by variola virus in adults and paediatric patients weighing \u2265\u00a013\u00a0kg. Tecovirimat was approved under the US FDA's Animal Rule, in which marketing approval is based on its efficacy in relevant animal models. An intravenous formulation of tecovirimat is undergoing phase I development for the treatment of smallpox infection."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58923c86df2b9174000005_007",
+              "question": "Is Tecovirimat effective for smallpox?"
+            }
+          ],
+          "context": "In July 2018, oral tecovirimat was approved in the USA for the treatment of human smallpox disease caused by variola virus in adults and paediatric patients weighing \u2265\u00a013\u00a0kg. Tecovirimat was approved under the US FDA's Animal Rule, in which marketing approval is based on its efficacy in relevant animal models. An intravenous formulation of tecovirimat is undergoing phase I development for the treatment of smallpox infection. This article summarises the milestones in the development of tecovirimat leading to this first approval for the treatment of human smallpox disease in adults and paediatric patients weighing \u2265\u200913\u00a0kg."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58923c86df2b9174000005_008",
+              "question": "Is Tecovirimat effective for smallpox?"
+            }
+          ],
+          "context": "Multiple antivirals are recommended due in large part to the propensity of viruses to become resistant to antiviral therapy, especially monotherapy. Advances in synthetic biology heighten concerns that a bioterror attack with variola would utilize engineered resistance to antivirals and potentially vaccines. Brincidofovir, an oral antiviral in late stage development, has proven effective against orthopoxviruses in vitro and in vivo, has a different mechanism of action from tecovirimat (the only oral smallpox antiviral currently in the US Strategic National Stockpile), and has a resistance profile that reduces concerns in the scenario of a bioterror attack using genetically engineered smallpox. Given the devastating potential of smallpox as a bioweapon, preparation of a multi-pronged defense that accounts for the most obvious bioengineering possibilities is strategically imperative."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58923c86df2b9174000005_009",
+              "question": "Is Tecovirimat effective for smallpox?"
+            }
+          ],
+          "context": "Treatment with the smallpox antiviral tecovirimat (ST-246) alone or in combination with ACAM2000 vaccination is effective as a postsymptomatic therapy for monkeypox virus infection. The therapeutic efficacies of smallpox vaccine ACAM2000 and antiviral tecovirimat given alone or in combination starting on day 3 postinfection were compared in a cynomolgus macaque model of lethal monkeypox virus infection. Postexposure administration of ACAM2000 alone did not provide any protection against severe monkeypox disease or mortality."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c010e09133db5eb78000024_001",
+              "question": "Can simvastatin alleviate depressive symptoms?"
+            }
+          ],
+          "context": "Simvastatin-treated patients experienced significantly more reductions in HDRS scores compared to the placebo group by the end of the trial (p=0.02). Early improvement and response rates were significantly greater in the simvastatin group than the placebo group (p=0.02 and p=0.01, respectively) but remission rate was not significantly different between the two groups (p=0.36)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c010e09133db5eb78000024_002",
+              "question": "Can simvastatin alleviate depressive symptoms?"
+            }
+          ],
+          "context": "Early improvement and response rates were significantly greater in the simvastatin group than the placebo group (p=0.02 and p=0.01, respectively) but remission rate was not significantly different between the two groups (p=0.36). No serious adverse event was reported during this trial. In conclusion, simvastatin seems to be a safe and effective adjuvant therapy for patients suffering from major depressive disorder. However, more confirmatory studies are warranted."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f2b771a4c55d80b000020_001",
+              "question": "Is P. gingivalis bacteria found in brain?"
+            }
+          ],
+          "context": "BACKGROUND: The results from cross sectional and longitudinal studies show that periodontitis is closely associated with cognitive impairment (CI) and Alzhemer's Disease (AD). Further, studies using animal model of periodontitis and human post-mortem brain tissues from subjects with AD strongly suggest that a gram-negative periodontal pathogen, Porphyromonas gingivalis (Pg) and/or its product gingipain is/are translocated to the brain. However, neuropathology resulting from Pg oral application is not known. In this work, we tested the hypothesis that repeated exposure of wild type C57BL/6 mice to orally administered Pg results in neuroinflammation, neurodegeneration, microgliosis, astrogliosis and formation of intra- and extracellular amyloid plaque and neurofibrillary tangles (NFTs) which are pathognomonic signs of AD."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f2b771a4c55d80b000020_002",
+              "question": "Is P. gingivalis bacteria found in brain?"
+            }
+          ],
+          "context": "Cerebral Oxidative Stress and Microvasculature Defects in TNF-\u03b1 Expressing Transgenic and Porphyromonas gingivalis-Infected ApoE-/- Mice. The polymicrobial dysbiotic subgingival biofilm microbes associated with periodontal disease appear to contribute to developing pathologies in distal body sites, including the brain. This study examined oxidative stress, in the form of increased protein carbonylation and oxidative protein damage, in the tumor necrosis factor-\u03b1 (TNF-\u03b1) transgenic mouse that models inflammatory TNF-\u03b1 excess during bacterial infection; and in the apolipoprotein knockout (ApoE-/-) mouse brains, following Porphyromonas gingivalis gingival monoinfection. Following 2,4-dinitrophenylhydrazine derivatization, carbonyl groups were detected in frontal lobe brain tissue lysates by immunoblotting and immunohistochemical analysis of fixed tissue sections from the frontotemporal lobe and the hippocampus."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_001",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "Recent developments of c-Met as a therapeutic target in hepatocellular carcinoma. Aberrant c-Met activity has been implicated in the development of hepatocellular carcinoma (HCC), suggesting that c-Met inhibition may have therapeutic potential. However, clinical trials of nonselective kinase inhibitors with c-Met activity (tivantinib, cabozantinib, foretinib, and golvatinib) in patients with HCC have failed so far to demonstrate significant efficacy. This lack of observed efficacy is likely due to several factors, including trial design, lack of patient selection according to tumor c-Met status, and the prevalent off-target activity of these agents, which may indicate that c-Met inhibition is incomplete. In contrast, selective c-Met inhibitors (tepotinib, capmatinib) can be dosed at a level predicted to achieve complete inhibition of tumor c-Met activity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_002",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "In 2016, a clear survival benefit of regorafenib over placebo was demonstrated in HCC patients showing disease progression after sorafenib treatment. A year later, in 2017, lenvatinib has been shown to be non-inferior to sorafenib, in terms of the overall survival, in chemo-na\u00efve patients with advanced HCC. More recently, promising outcomes have also been reported with new agents, such as nivolumab and cabozantinib. At present, various novel combination regimens including these agents are currently under development. Hepatic arterial infusion chemotherapy (HAIC) is frequently adopted for the treatment of locally advanced HCC in Japan, based on reports of high response rates and favorable long-term outcomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_003",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "Hepatocellular carcinomas (HCCs) are characterised by considerable phenotypic and molecular heterogeneity. Treating HCC and designing clinical trials are particularly challenging because co-existing liver disease, present in most patients, limits aggressive therapeutic options. Positive results in recent phase III clinical trials have confirmed the high value of anti-angiogenic therapies for HCC in both first (sorafenib and lenvatinib) and second line (regorafenib and cabozantinib) treatment modalities. However, failure of several large randomised controlled clinical trials over the last 10\u202fyears underlines the necessity for innovative treatment strategies and implementation of translational findings to overcome the unmet clinical need. Furthermore, the promising results from novel immunotherapies are likely to complement the landscape of active compounds for HCC and will require a completely different approach to patients, as well as the development of prognostic/predictive biomarkers."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_004",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "Expert opinion: Based on favorable phase III clinical trial data, sorafenib and lenvatinib are considered promising agents for HCC as first-line systemic chemotherapy. Moreover, regorafenib and cabozantinib are useful second-line therapies after the failure of sorafenib."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_005",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "Cabozantinib in Patients with Advanced and Progressing Hepatocellular Carcinoma. BACKGROUND: Cabozantinib inhibits tyrosine kinases, including vascular endothelial growth factor receptors 1, 2, and 3, MET, and AXL, which are implicated in the progression of hepatocellular carcinoma and the development of resistance to sorafenib, the standard initial treatment for advanced disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_006",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "BACKGROUND: Cabozantinib inhibits tyrosine kinases, including vascular endothelial growth factor receptors 1, 2, and 3, MET, and AXL, which are implicated in the progression of hepatocellular carcinoma and the development of resistance to sorafenib, the standard initial treatment for advanced disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_007",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "Median overall survival was 10.2 months with cabozantinib and 8.0 months with placebo (hazard ratio for death, 0.76; 95% confidence interval [CI], 0.63 to 0.92; P=0.005). Median progression-free survival was 5.2 months with cabozantinib and 1.9 months with placebo (hazard ratio for disease progression or death, 0.44; 95% CI, 0.36 to 0.52; P<0.001), and the objective response rates were 4% and less than 1%, respectively (P=0.009)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_008",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "CONCLUSIONS: Among patients with previously treated advanced hepatocellular carcinoma, treatment with cabozantinib resulted in longer overall survival and progression-free survival than placebo."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_009",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "A more and more common and well tolerated locoregional therapy approach based on study data is selective internal radio therapy (SIRT), although studies did not show an improvement in outcome comparing SIRT to transarterial chemotherapy (TACE) in BCLC B or sorafenib in BCLC C. SYSTEMIC THERAPY APPROACHES: Looking at targeted therapies regorafenib is approved for patients under treatment with sorafenib and disease progression as a second line therapy. Positive phase III-study data have been published for lenvatinib as first-line and cabozantinib as second-line therapy. Nivolumab was approved by the FDA as second-line therapy after positive phase I/II-study outcomes. A study on nivolumab versus sorafenib as first-line therapy will be published in 2018."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_010",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "Systemic therapy for intermediate and advanced hepatocellular carcinoma: Sorafenib and beyond. The hepatocellular carcinoma (HCC) treatment landscape changed a decade ago, with sorafenib demonstrating survival benefit in the first-line setting and becoming the first systemic therapy to be approved for HCC. More recently, regorafenib and nivolumab have received approval in the second-line setting after sorafenib, with further positive phase 3 studies emerging in the first line (lenvatinib non-inferior to sorafenib) and second line versus placebo (cabozantinib and ramucirumab). A key recommendation in the management of patients receiving sorafenib is to promote close communication between the patient and the physician so that adverse events (AEs) are detected early and severe AEs can be prevented. Sorafenib-related AEs have been identified as clinical biomarkers for sorafenib efficacy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c589ddb86df2b917400000b_011",
+              "question": "Is cabozantinib effective for hepatocellular carcinoma?"
+            }
+          ],
+          "context": "Sorafenib-related AEs have been identified as clinical biomarkers for sorafenib efficacy. Healthcare professionals have become more efficient in managing AEs, identifying patients who are likely to benefit from treatment, and assessing response to treatment, resulting in a trend towards increased overall survival in the sorafenib arms of clinical studies. The rapidly changing treatment landscape due to the emergence of new treatment options (sorafenib and lenvatinib equally effective in first line; regorafenib, cabozantinib, and ramucirumab showing OS benefit in second line with nivolumab approved by the FDA based on response rate) underscores the importance of re-assessing the role of the first approved systemic agent in HCC, sorafenib."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_001",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "Ocrelizumab reduced 12-week confirmed disability progression (CDP) by 24% versus placebo. Siponimod, a selective sphingosine-1-phosphate receptor modulator, reduced 3-month CDP by 21% versus placebo in SPMS. Ibudilast slowed brain atrophy in PPMS and SPMS patients in a multicenter phase 2b study. Smaller early phase studies of alpha-lipoic acid and simvastatin each found slowing of rate of whole brain atrophy in SPMS patients. Reasons now exist for optimism in the search for DMTs for progressive MS."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_002",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "BACKGROUND: There are limited treatments for progressive multiple sclerosis. Ibudilast inhibits several cyclic nucleotide phosphodiesterases, macrophage migration inhibitory factor, and toll-like receptor 4 and can cross the blood-brain barrier, with potential salutary effects in progressive multiple sclerosis. METHODS: We enrolled patients with primary or secondary progressive multiple sclerosis in a phase 2 randomized trial of oral ibudilast (\u2264100 mg daily) or placebo for 96 weeks."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_003",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "CONCLUSIONS: In a phase 2 trial involving patients with progressive multiple sclerosis, ibudilast was associated with slower progression of brain atrophy than placebo but was associated with higher rates of gastrointestinal side effects, headache, and depression."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_004",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "The treatment of both PPMS and SPMS, collectively referred to as progressive MS, has proven quite challenging due to the multifactorial and poorly understood pathophysiology of multiple sclerosis in general, specifically that of progressive disease. The purpose of this article is to discuss important clinical and pathophysiologic differences between relapsing and progressive forms of MS, review previous notable trials of drugs in progressive MS, examine current literature regarding recent and promising progressive MS treatments, and discuss future considerations for progressive MS therapeutics and management. Specifically, the current evidence regarding treatment of progressive MS with ocrelizumab, simvastatin, ibudilast, alpha-lipoic acid, high-dose biotin, siponimod, and cell-based therapies are discussed."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_005",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "Treatment of progressive multiple sclerosis: Challenges and promising perspectives. Management of progressive multiple sclerosis (MS) is one of the main challenges of the new century. Based on our knowledge of pathophysiology, three therapeutic strategies are proposed: anti-inflammatory (ocrelizumab, siponimod\u2026); remyelinating (opicinumab); and neuroprotective (high-dose biotin, ibudilast, simvastatin\u2026). Nevertheless, despite recent promising positive clinical trials, new methodological approaches for therapeutic protocols with adaptable outcomes to assess progression are still needed."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_006",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "Additional advantages of IBD, such as crossing the blood-brain barrier, good tolerance and activity by oral administration, makes it a promising therapeutic candidate for treating neuroinflammatory conditions, where the currently available treatment remains unsatisfying due to poor tolerability and/or sub\u2011optimal efficacy. IBD has no direct receptor affinity with exemption of some undefined effect on adenosine receptors that makes the drug devoid of its receptors\u2011mediated adverse effects. Current article provides an overview of the pharmacology of IBD with a focus on preclinical and clinical data supporting its potential neuroprotective benefits for neurological conditions, including multiple sclerosis, neuropathic pain, medication overuse headache, stroke, opioid, alcohol and methamphetamine abuse."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_007",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "Design, rationale, and baseline characteristics of the randomized double-blind phase II clinical trial of ibudilast in progressive multiple sclerosis. BACKGROUND: Primary and secondary progressive multiple sclerosis (MS), collectively called progressive multiple sclerosis (PMS), is characterized by gradual progression of disability."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_008",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "METHODS: SPRINT-MS is a randomized, placebo-controlled, phase II trial of ibudilast in patients with PMS."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_009",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "CONCLUSION: SPRINT-MS is designed to evaluate the safety and efficacy of ibudilast as a treatment for PMS while simultaneously validating five different imaging biomarkers as outcome metrics for use in future phase II proof-of-concept PMS trials."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_010",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "Ibudilast for the treatment of multiple sclerosis. INTRODUCTION: Multiple sclerosis (MS) is an autoimmune disorder of the central nervous system (CNS) characterized by inflammatory demyelination and progressive axonal loss."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58ac2286df2b917400000f_011",
+              "question": "Is ibudilast effective for multiple sclerosis?"
+            }
+          ],
+          "context": "AREAS COVERED: This article reviews various studies looking at ibudilast as a potential therapy for MS. It summarizes prior and current clinical trials of ibudilast in MS as well as its pharmacology.EXPERT OPINION: Although ibudilast has not been found to decrease the focal inflammatory activity in relapsing MS, it was shown to have an effect on preserving brain volume and disability progression. Ibudilast may have a role in the treatment of progressive MS phenotypes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0114ec133db5eb78000028_001",
+              "question": "Does gepotidacin activate bacterial topoisomerase?"
+            }
+          ],
+          "context": "The metabolism and disposition of GSK2140944 in healthy human subjects. 1. GSK2140944 is a novel bacterial topoisomerase inhibitor in development for the treatment of bacterial infections. The metabolism and disposition in healthy human subjects was investigated. 2."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

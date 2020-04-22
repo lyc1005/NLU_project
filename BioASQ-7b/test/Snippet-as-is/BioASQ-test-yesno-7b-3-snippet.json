@@ -1,0 +1,820 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c6d97497c78d69471000040_001",
+              "question": "Are there graph kernel libraries available implemented in JAVA?"
+            }
+          ],
+          "context": "graphkernels: R and Python packages for graph comparison."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d97497c78d69471000040_002",
+              "question": "Are there graph kernel libraries available implemented in JAVA?"
+            }
+          ],
+          "context": "Measuring the similarity of graphs is a fundamental step in the analysis of graph-structured data, which is omnipresent in computational biology. Graph kernels have been proposed as a powerful and efficient approach to this problem of graph comparison. Here we provide graphkernels, the first R and Python graph kernel libraries including baseline kernels such as label histogram based kernels, classic graph kernels such as random walk based kernels, and the state-of-the-art Weisfeiler-Lehman graph kernel. The core of all graph kernels is implemented in C\u2009++ for efficiency. Using the kernel matrices computed by the package, we can easily perform tasks such as classification, regression and clustering on graph-structured samples."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6da11e7c78d69471000042_001",
+              "question": "Are there tools for reviewing variant calls?"
+            }
+          ],
+          "context": "VIPER: a web application for rapid expert review of variant calls."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6da11e7c78d69471000042_002",
+              "question": "Are there tools for reviewing variant calls?"
+            }
+          ],
+          "context": "With the rapid development in next-generation sequencing, cost and time requirements for genomic sequencing are decreasing, enabling applications in many areas such as cancer research. Many tools have been developed to analyze genomic variation ranging from single nucleotide variants to whole chromosomal aberrations. As sequencing throughput increases, the number of variants called by such tools also grows. Often employed manual inspection of such calls is thus becoming a time-consuming procedure. We developed the Variant InsPector and Expert Rating tool (VIPER) to speed up this process by integrating the Integrative Genomics Viewer into a web application. Analysts can then quickly iterate through variants, apply filters and make decisions based on the generated images and variant metadata. VIPER was successfully employed in analyses with manual inspection of more than 10 000 calls.Availability and implementation: VIPER is implemented in Java and Javascript and is freely available at https://github.com/MarWoes/viper."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65484ee842deac6700001f_001",
+              "question": "Can mogamulizumab be used for the treatment of cutaneous T-cell lymphoma?"
+            }
+          ],
+          "context": "In the large international phase III MAVORIC trial, patients with previously treated cutaneous T-cell lymphoma who received the anti-CCR4 monoclonal antibody mogamulizumab experienced significantly longer progression-free survival and higher response rates, as well as better quality of life, than those who received vorinostat, a standard therapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7a9e7c78d69471000029_001",
+              "question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
+            }
+          ],
+          "context": "However, clinical trials of nonselective kinase inhibitors with c-Met activity (tivantinib, cabozantinib, foretinib, and golvatinib) in patients with HCC have failed so far to demonstrate significant efficacy. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7a9e7c78d69471000029_002",
+              "question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
+            }
+          ],
+          "context": "Rationale for use, clinical trial data, and current recommendations for cabozantinib in renal cell cancer, thyroid cancer, prostate cancer, hepatocellular cancer, and lung cancer are detailed in this article."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7a9e7c78d69471000029_003",
+              "question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
+            }
+          ],
+          "context": "More recently, promising outcomes have also been reported with new agents, such as nivolumab and cabozantinib."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7a9e7c78d69471000029_004",
+              "question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
+            }
+          ],
+          "context": "Positive results in recent phase III clinical trials have confirmed the high value of anti-angiogenic therapies for HCC in both first (sorafenib and lenvatinib) and second line (regorafenib and cabozantinib) treatment modalities. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7a9e7c78d69471000029_005",
+              "question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
+            }
+          ],
+          "context": "More recently, regorafenib and nivolumab have received approval in the second-line setting after sorafenib, with further positive phase 3 studies emerging in the first line (lenvatinib non-inferior to sorafenib) and second line versus placebo (cabozantinib and ramucirumab). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7a9e7c78d69471000029_006",
+              "question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
+            }
+          ],
+          "context": "The rapidly changing treatment landscape due to the emergence of new treatment options (sorafenib and lenvatinib equally effective in first line; regorafenib, cabozantinib, and ramucirumab showing OS benefit in second line with nivolumab approved by the FDA based on response rate) underscores the importance of re-assessing the role of the first approved systemic agent in HCC, sorafenib."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7a9e7c78d69471000029_007",
+              "question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
+            }
+          ],
+          "context": " Positive phase III-study data have been published for lenvatinib as first-line and cabozantinib as second-line therapy. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7a9e7c78d69471000029_008",
+              "question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
+            }
+          ],
+          "context": "Cabozantinib in Patients with Advanced and Progressing Hepatocellular Carcinoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7a9e7c78d69471000029_009",
+              "question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
+            }
+          ],
+          "context": "BACKGROUND: Cabozantinib inhibits tyrosine kinases, including vascular endothelial growth factor receptors 1, 2, and 3, MET, and AXL, which are implicated in the progression of hepatocellular carcinoma and the development of resistance to sorafenib, the standard initial treatment for advanced disease. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7a9e7c78d69471000029_010",
+              "question": "Is cabozantinib effective for Hepatocellular Carcinoma?"
+            }
+          ],
+          "context": "CONCLUSIONS: Among patients with previously treated advanced hepatocellular carcinoma, treatment with cabozantinib resulted in longer overall survival and progression-free survival than placebo."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c65495be842deac67000021_001",
+              "question": "Has ivosidenib been FDA approved for use against acute myeloid leukemia?"
+            }
+          ],
+          "context": "The FDA approved ivosidenib for patients with IDH1-mutant relapsed/refractory acute myeloid leukemia. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7bee7c78d6947100002a_001",
+              "question": "Is dupilumab effective for treatment of asthma?"
+            }
+          ],
+          "context": "The appropriate use of these biologics, and of those in development (e.g., benralizumab and dupilumab), should be aided by further understanding of asthma phenotypes and endotypes, utilizing appropriate biomarkers."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7bee7c78d6947100002a_002",
+              "question": "Is dupilumab effective for treatment of asthma?"
+            }
+          ],
+          "context": "Simultaneous targeting of both IL-4 and IL-13 by blocking IL-4 receptor \u03b1 using dupilumab has yielded more consistent results in reducing asthma exacerbations and improving lung function, especially in patients with increased blood eosinophils."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7bee7c78d6947100002a_003",
+              "question": "Is dupilumab effective for treatment of asthma?"
+            }
+          ],
+          "context": "In a pivotal, phase 2b study (NCT01854047), dupilumab reduced severe exacerbations, improved lung function and quality of life, and was generally well tolerated in patients with uncontrolled persistent asthma despite using medium-to-high-dose inhaled corticosteroids plus long-acting \u03b22-agonists."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7bee7c78d6947100002a_004",
+              "question": "Is dupilumab effective for treatment of asthma?"
+            }
+          ],
+          "context": "CONCLUSIONS: Dupilumab 300\u00a0mg q2w significantly improved AR-associated nasal symptoms in patients with uncontrolled persistent asthma and comorbid PAR."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7bee7c78d6947100002a_005",
+              "question": "Is dupilumab effective for treatment of asthma?"
+            }
+          ],
+          "context": "Small molecules (e.g. ligustrazine and SP600125) and large molecule antibodies (e.g. lebrikizumab, benralizumab, dupilumab) are being considered as novel agents for the pharmacotherapy of asthma. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7bee7c78d6947100002a_006",
+              "question": "Is dupilumab effective for treatment of asthma?"
+            }
+          ],
+          "context": "Dupilumab Efficacy and Safety in Moderate-to-Severe Uncontrolled Asthma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7bee7c78d6947100002a_007",
+              "question": "Is dupilumab effective for treatment of asthma?"
+            }
+          ],
+          "context": "CONCLUSIONS: In this trial, patients who received dupilumab had significantly lower rates of severe asthma exacerbation than those who received placebo, as well as better lung function and asthma control. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c51f44c07ef653866000004_001",
+              "question": "Are Copy Number Variants (CNVs) depleted in regions of low mappability?"
+            }
+          ],
+          "context": "Human copy number variants are enriched in regions of low mappability."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c51f44c07ef653866000004_002",
+              "question": "Are Copy Number Variants (CNVs) depleted in regions of low mappability?"
+            }
+          ],
+          "context": "Applying PopSV to 640 human genomes, we find that low-mappability regions are approximately 5\u00a0times more likely to harbor germline CNVs, in stark contrast to the nearly uniform distribution observed for somatic CNVs in 95 cancer genomes. In addition to known enrichments in segmental duplication and near centromeres and telomeres, we also report that CNVs are enriched in specific types of satellite and in some of the most recent families of transposable elements. Finally, using this comprehensive approach, we identify 3455 regions with recurrent CNVs that were missing from existing catalogs. In particular, we identify 347 genes with a novel exonic CNV in low-mappability regions, including 29 genes previously associated with disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b82a17c78d6947100002f_001",
+              "question": "Is verubecestat effective for Alzheimer\u2019s Disease?"
+            }
+          ],
+          "context": " The lack of efficacy of verubecestat in mild-to-moderate AD raises important questions about the timing of intervention with BACE-1 inhibitors, and anti-amyloid therapies in general, in AD treatment."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b82a17c78d6947100002f_002",
+              "question": "Is verubecestat effective for Alzheimer\u2019s Disease?"
+            }
+          ],
+          "context": "This reaction was applied to the preparation of verubecestat, which is currently undergoing clinical evaluation for the treatment of Alzheimer's disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b82a17c78d6947100002f_003",
+              "question": "Is verubecestat effective for Alzheimer\u2019s Disease?"
+            }
+          ],
+          "context": "Verubecestat is an inhibitor of \u03b2-site amyloid precursor protein cleaving enzyme 1 (BACE1) being evaluated in clinical trials for the treatment of Alzheimer's disease. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b82a17c78d6947100002f_004",
+              "question": "Is verubecestat effective for Alzheimer\u2019s Disease?"
+            }
+          ],
+          "context": "CONCLUSIONS: Verubecestat did not reduce cognitive or functional decline in patients with mild-to-moderate Alzheimer's disease and was associated with treatment-related adverse events. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c52028807ef653866000009_001",
+              "question": "Can mitochondria be inherited by both parents in humans?"
+            }
+          ],
+          "context": "Biparental Inheritance of Mitochondrial DNA in Humans."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c52028807ef653866000009_002",
+              "question": "Can mitochondria be inherited by both parents in humans?"
+            }
+          ],
+          "context": "Although there has been considerable debate about whether paternal mitochondrial DNA (mtDNA) transmission may coexist with maternal transmission of mtDNA, it is generally believed that mitochondria and mtDNA are exclusively maternally inherited in humans. Here, we identified three unrelated multigeneration families with a high level of mtDNA heteroplasmy (ranging from 24 to 76%) in a total of 17 individuals. Heteroplasmy of mtDNA was independently examined by high-depth whole mtDNA sequencing analysis in our research laboratory and in two Clinical Laboratory Improvement Amendments and College of American Pathologists-accredited laboratories using multiple approaches. A comprehensive exploration of mtDNA segregation in these families shows biparental mtDNA transmission with an autosomal dominantlike inheritance mode. Our results suggest that, although the central dogma of maternal inheritance of mtDNA remains valid, there are some exceptional cases where paternal mtDNA could be passed to the offspring. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c57216e07647bbc4b000018_001",
+              "question": "In clinical trials, the H3 R antagonist CEP-26401 has a positive effect on cognition, yes or no?"
+            }
+          ],
+          "context": "CEP-26401 is a novel orally active, brain-penetrant, high-affinity histamine H3 receptor (H3R) antagonist, with potential therapeutic utility in cognition enhancement"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c57216e07647bbc4b000018_002",
+              "question": "In clinical trials, the H3 R antagonist CEP-26401 has a positive effect on cognition, yes or no?"
+            }
+          ],
+          "context": "hese results demonstrate potent behavioral effects of CEP-26401 in rodent models and suggest that this novel H\u2083R antagonist may have therapeutic utility in the treatment of cognitive and attentional disorders"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6df86b7c78d69471000045_001",
+              "question": "Is baricitinib effective for rheumatoid arthritis?"
+            }
+          ],
+          "context": "CONCLUSION: Baricitinib 2\u2009mg and 4\u2009mg administered once daily, in combination with DMARD, were efficacious interventions for active RA that had no significant risk of TEAE development."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6df86b7c78d69471000045_002",
+              "question": "Is baricitinib effective for rheumatoid arthritis?"
+            }
+          ],
+          "context": "CONCLUSIONS: The efficacy and safety profile of baricitinib was maintained during long-term treatment of Japanese patients with RA and background methotrexate therapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6df86b7c78d69471000045_003",
+              "question": "Is baricitinib effective for rheumatoid arthritis?"
+            }
+          ],
+          "context": "CONCLUSION: In a phase IIb study in RA, the safety and tolerability profile of baricitinib, up to 128 weeks, remained consistent with earlier observations, without unexpected late signals. Clinical improvements seen in the 24-week blinded period were maintained during the OLE."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6df86b7c78d69471000045_004",
+              "question": "Is baricitinib effective for rheumatoid arthritis?"
+            }
+          ],
+          "context": "CONCLUSION: Data for baricitinib, with/without methotrexate, in Japanese subpopulations across all stages of the RA treatment continuum accord with the efficacy/safety profile in overall study populations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6df86b7c78d69471000045_005",
+              "question": "Is baricitinib effective for rheumatoid arthritis?"
+            }
+          ],
+          "context": "Conclusion: Baricitinib demonstrated a consistent, beneficial treatment effect in bDMARD-refractory patients across subgroups based on baseline characteristics and prior bDMARD use."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5723a007647bbc4b000019_001",
+              "question": "Have yeast prions become important models for the study of the basic mechanisms underlying human amyloid diseases?"
+            }
+          ],
+          "context": "Endogenous yeast amyloids that control heritable traits and are frequently used as models for human amyloid diseases are termed yeast prions"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5723a007647bbc4b000019_002",
+              "question": "Have yeast prions become important models for the study of the basic mechanisms underlying human amyloid diseases?"
+            }
+          ],
+          "context": "Fibrous cross-\u03b2 aggregates (amyloids) and their transmissible forms (prions) cause diseases in mammals (including humans) and control heritable traits in yeast. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5723a007647bbc4b000019_003",
+              "question": "Have yeast prions become important models for the study of the basic mechanisms underlying human amyloid diseases?"
+            }
+          ],
+          "context": "These infectious yeast amyloidoses are outstanding models for the many common human amyloid-based diseases that are increasingly found to have some infectious characteristics."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5723a007647bbc4b000019_004",
+              "question": "Have yeast prions become important models for the study of the basic mechanisms underlying human amyloid diseases?"
+            }
+          ],
+          "context": "Yeast prions (infectious proteins) were discovered by their outr\u00e9 genetic properties and have become important models for an array of human prion and amyloid diseases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f2cef1a4c55d80b000022_001",
+              "question": "There is no drug available to prevent HIV infection, Pre-exposure prophylaxis (PrEP), yes or no?"
+            }
+          ],
+          "context": "pre-exposure prophylaxis with generic tenofovir disoproxil fumarate/emtrictabine in London - analysis of pharmacokinetics, safety and outcomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f2cef1a4c55d80b000022_002",
+              "question": "There is no drug available to prevent HIV infection, Pre-exposure prophylaxis (PrEP), yes or no?"
+            }
+          ],
+          "context": "The antiviral agent tenofovir is highly effective for the treatment of HIV and hepatitis B virus infections, and the older prodrug tenofovir disoproxil fumarate (TDF) is also a component of daily preexposure prophylaxis (PrEP) to reduce the risk of HIV infection in high-risk populations. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c52cde87e3cb0e23100000e_001",
+              "question": "Does allele phasing improve the phylogenetic utility of ultraconserved elements?"
+            }
+          ],
+          "context": "Allele Phasing Greatly Improves the Phylogenetic Utility of Ultraconserved Elements."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c52cde87e3cb0e23100000e_002",
+              "question": "Does allele phasing improve the phylogenetic utility of ultraconserved elements?"
+            }
+          ],
+          "context": "Our empirical analyses of Ultraconserved Element (UCE) locus data collected from the South American hummingbird genus Topaza demonstrate that phased allele sequences carry sufficient phylogenetic information to infer the genetic structure, lineage divergence, and biogeographic history of a genus that diversified during the last three million years. The phylogenetic results support the recognition of two species, and suggest a high rate of gene flow across large distances of rainforest habitats but rare admixture across the Amazon River. Our simulations provide evidence that analyzing allele sequences leads to more accurate estimates of tree topology and divergence times than the more common approach of using contig sequences."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d441d7c78d69471000037_001",
+              "question": "Does Eucommia ulmoides leaf extract ameliorates steatosis/fatty liver induced by high-fat diet?"
+            }
+          ],
+          "context": "These results demonstrate that the Du-zhong leaf extract exhibits antihyperlipidemic properties by suppressing hepatic fatty acid and cholesterol biosynthesis with the simultaneous reduction of plasma and hepatic lipids in high fat-fed hamsters."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d441d7c78d69471000037_002",
+              "question": "Does Eucommia ulmoides leaf extract ameliorates steatosis/fatty liver induced by high-fat diet?"
+            }
+          ],
+          "context": " Together, these results suggest that EUE and its active components enhance lysosomal activity, resulting in decreased ER stress and hepatic dyslipidemi"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f15577c78d69471000053_001",
+              "question": "Is galcanezumab effective for treatment of migraine?"
+            }
+          ],
+          "context": "Importance: Galcanezumab (LY2951742), a monoclonal antibody against calcitonin gene-related peptide (CGRP), is one of a novel class of new medicines for migraine prevention."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f15577c78d69471000053_002",
+              "question": "Is galcanezumab effective for treatment of migraine?"
+            }
+          ],
+          "context": "Conclusions and Relevance: Monthly subcutaneous injections of galcanezumab, both 120 mg and 300 mg, demonstrated efficacy (repeated-measures analysis) for the preventive treatment of migraine and support further development in larger phase 3 studies. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f15577c78d69471000053_003",
+              "question": "Is galcanezumab effective for treatment of migraine?"
+            }
+          ],
+          "context": "PURPOSE OF REVIEW: Monoclonal antibodies (mAbs) targeting the calcitonin-gene-related peptide (CGRP) pathway have been developed for episodic and chronic migraine prevention, either through binding the CGRP ligand (eptinezumab, fremanezumab, galcanezumab) or the CGRP receptor (erenumab)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f15577c78d69471000053_004",
+              "question": "Is galcanezumab effective for treatment of migraine?"
+            }
+          ],
+          "context": "Background Safety findings from a Phase 2b study of galcanezumab, a humanized monoclonal antibody against calcitonin gene-related peptide, for prevention of migraine (NCT02163993) are reported here."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f15577c78d69471000053_005",
+              "question": "Is galcanezumab effective for treatment of migraine?"
+            }
+          ],
+          "context": "Safety of galcanezumab in patients with episodic migraine: A randomized placebo-controlled dose-ranging Phase 2b study."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f15577c78d69471000053_006",
+              "question": "Is galcanezumab effective for treatment of migraine?"
+            }
+          ],
+          "context": "Currently, there is considerable excitement regarding monoclonal antibodies against calcitonin gene-related peptide (eptinezumab, galcanezumab, fremanezumab) and the calcitonin gene-related peptide receptor (erenumab). To date, these monoclonal antibodies have shown promising efficacy in clinical trials, with no major safety concerns. If ongoing long-term studies show that their efficacy can be maintained, this may herald a new era for effective antimigraine therapies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f15577c78d69471000053_007",
+              "question": "Is galcanezumab effective for treatment of migraine?"
+            }
+          ],
+          "context": "CGRP receptor antagonists such as ubrogepant are effective for acute relief of migraine headache, whereas monoclonal antibodies against CGRP (eptinezumab, fremanezumab and galcanezumab) or the CGRP receptor (erenumab) effectively prevent migraine attacks. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f15577c78d69471000053_008",
+              "question": "Is galcanezumab effective for treatment of migraine?"
+            }
+          ],
+          "context": "Four monoclonal antibodies (mAbs) targeting the CGRP pathway are currently under evaluation for the prevention of episodic and chronic migraine: eptinezumab (ALD403), fremanezumab (TEV-48125), galcanezumab (LY2951742), and erenumab (AMG334). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f15577c78d69471000053_009",
+              "question": "Is galcanezumab effective for treatment of migraine?"
+            }
+          ],
+          "context": "Introduction Galcanezumab is a humanized monoclonal antibody binding calcitonin gene-related peptide, used for migraine prevention."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f15577c78d69471000053_010",
+              "question": "Is galcanezumab effective for treatment of migraine?"
+            }
+          ],
+          "context": "Efficacy and safety of galcanezumab for the prevention of episodic migraine: Results of the EVOLVE-2 Phase 3 randomized controlled clinical trial."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c71648b7c78d69471000067_001",
+              "question": "Can Diazepam be beneficial  in the treatment of  traumatic brain injury?"
+            }
+          ],
+          "context": "he present experiment examined the effects of diazepam, a positive modulator at the GABA(A) receptor, on survival and cognitive performance in traumatically brain-injured animals. I"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c71648b7c78d69471000067_002",
+              "question": "Can Diazepam be beneficial  in the treatment of  traumatic brain injury?"
+            }
+          ],
+          "context": "We suggest that diazepam may be useful in assessing speech in selected people with severe head injuries."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6ae37c78d69471000054_001",
+              "question": "Is Lasmiditan effective for migraine?"
+            }
+          ],
+          "context": "Amongst the ditans, lasmiditan: (i) fails to constrict human coronary arteries; and (ii) is effective for the acute treatment of migraine in preliminary Phase III clinical trials."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6ae37c78d69471000054_002",
+              "question": "Is Lasmiditan effective for migraine?"
+            }
+          ],
+          "context": "Although ongoing phase III clinical trials are needed to confirm its efficacy and safety, lasmiditan might offer an alternative to treat acute migraine with no associated cardiovascular risk."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6ae37c78d69471000054_003",
+              "question": "Is Lasmiditan effective for migraine?"
+            }
+          ],
+          "context": "Lasmiditan is considered to be the first member of a new drug category, the neurally acting anti-migraine agent (NAAMA)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6ae37c78d69471000054_004",
+              "question": "Is Lasmiditan effective for migraine?"
+            }
+          ],
+          "context": "Lasmiditan for the treatment of acute migraine: a review and potential role in clinical practice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6ae37c78d69471000054_005",
+              "question": "Is Lasmiditan effective for migraine?"
+            }
+          ],
+          "context": "Lasmiditan, a highly selective 5-HT1F agonist, has completed two Phase III randomized, double blind, placebo-controlled clinical trials, with a third - a long-term, open-label safety study - still underway. Research to date suggests lasmiditan lacks vasoconstrictive properties and may be a safe and effective treatment option in patients refractory to current acute migraine medications or who have cardiovascular risk factors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6ae37c78d69471000054_006",
+              "question": "Is Lasmiditan effective for migraine?"
+            }
+          ],
+          "context": "Lasmiditan is an effective acute treatment for migraine: A phase 3 randomized study."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6ae37c78d69471000054_007",
+              "question": "Is Lasmiditan effective for migraine?"
+            }
+          ],
+          "context": "Compared with placebo, more patients dosed with lasmiditan 200 mg were free of headache pain at 2 hours after dosing (32.2% vs 15.3%; odds ratio [OR] 2.6, 95% confidence interval [CI] 2.0-3.6, p< 0.001), similar to those dosed with lasmiditan 100 mg (28.2%; OR 2.2, 95% CI 1.6-3.0, p< 0.001). Furthermore, compared with those dosed with placebo, more patients dosed with lasmiditan 200 mg (40.7% vs 29.5%; OR 1.6, 95% CI 1.3-2.1, p< 0.001) and lasmiditan 100 mg (40.9%; OR 1.7, 95% CI, 1.3-2.2, p< 0.001) were free of their MBS at 2 hours after dosing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6ae37c78d69471000054_008",
+              "question": "Is Lasmiditan effective for migraine?"
+            }
+          ],
+          "context": "CONCLUSIONS: Lasmiditan dosed at 200 and 100 mg was efficacious and well tolerated in the treatment of acute migraine among patients with a high level of cardiovascular risk factors"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6ae37c78d69471000054_009",
+              "question": "Is Lasmiditan effective for migraine?"
+            }
+          ],
+          "context": "CLASSIFICATION OF EVIDENCE: This study provides Class I evidence that for adult patients with migraine, lasmiditan increases the proportion of subjects who are headache pain free at 2 hours after treating a migraine attack."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5839e707647bbc4b00001f_001",
+              "question": "Is there a link between BCL11B haploinsufficiency and syndromic neurodevelopmental delay?"
+            }
+          ],
+          "context": "BCL11B mutations in patients affected by a neurodevelopmental disorder with reduced type 2 innate lymphoid cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5839e707647bbc4b00001f_002",
+              "question": "Is there a link between BCL11B haploinsufficiency and syndromic neurodevelopmental delay?"
+            }
+          ],
+          "context": "Using massively parallel sequencing we identified 13 patients bearing heterozygous germline alterations in BCL11B. Notably, all of them are affected by global developmental delay with speech impairment and intellectual disability; however, none displayed overt clinical signs of immune deficiency. Six frameshift mutations, two nonsense mutations, one missense mutation, and two chromosomal rearrangements resulting in diminished BCL11B expression, arose de novo. A further frameshift mutation was transmitted from a similarly affected mother. Interestingly, the most severely affected patient harbours a missense mutation within a zinc-finger domain of BCL11B, probably affecting the DNA-binding structural interface, similar to the recently published patient. Furthermore, the most C-terminally located premature termination codon mutation fails to rescue the progenitor cell proliferation defect in hippocampal slice cultures from Bcl11b-deficient mice. Concerning the role of BCL11B in the immune system, extensive immune phenotyping of our patients revealed alterations in the T cell compartment and lack of peripheral type 2 innate lymphoid cells (ILC2s), consistent with the findings described in Bcl11b-deficient mice. Unsupervised analysis of 102 T lymphocyte subpopulations showed that the patients clearly cluster apart from healthy children, further supporting the common aetiology of the disorder. Taken together, we show here that mutations leading either to BCL11B haploinsufficiency or to a truncated BCL11B protein clinically cause a non-syndromic neurodevelopmental delay. In addition, we suggest that missense mutations affecting specific sites within zinc-finger domains might result in distinct and more severe clinical outcomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6d997c78d69471000055_001",
+              "question": "Is pimavanserin effective for Parkinson's disease psychosis?"
+            }
+          ],
+          "context": "Two cases of Parkinson's disease with an unusual delusional misidentification, intermetamorphosis, are presented, along with their improvement with pimavanserin, a novel atypical antipsychotic medication."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6d997c78d69471000055_002",
+              "question": "Is pimavanserin effective for Parkinson's disease psychosis?"
+            }
+          ],
+          "context": "RATIONALE: Pimavanserin, a selective serotonin 2A receptor inverse agonist, is a promising candidate for treating Parkinson's disease psychosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6d997c78d69471000055_003",
+              "question": "Is pimavanserin effective for Parkinson's disease psychosis?"
+            }
+          ],
+          "context": "OBJECTIVE: Our aim was to describe the efficacy and tolerability of pimavanserin, a highly selective serotonin 5-HT2A receptor inverse agonist/antagonist indicated for the treatment of hallucinations and delusions associated with Parkinson's disease psychosis (PDP), using the metrics of number needed to treat (NNT) and number needed to harm (NNH)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6d997c78d69471000055_004",
+              "question": "Is pimavanserin effective for Parkinson's disease psychosis?"
+            }
+          ],
+          "context": "Pimavanserin: novel pharmacotherapy for Parkinson's disease psychosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6d997c78d69471000055_005",
+              "question": "Is pimavanserin effective for Parkinson's disease psychosis?"
+            }
+          ],
+          "context": "INTRODUCTION: Pimavanserin is the first FDA-approved atypical antipsychotic drug indicated for the treatment of hallucinations and delusions associated with Parkinson's disease psychosis (PDP)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6d997c78d69471000055_006",
+              "question": "Is pimavanserin effective for Parkinson's disease psychosis?"
+            }
+          ],
+          "context": "A pivotal phase III clinical trial demonstrated significant improvement in PDP symptoms in patients receiving pimavanserin compared to placebo-treated patients. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f6d997c78d69471000055_007",
+              "question": "Is pimavanserin effective for Parkinson's disease psychosis?"
+            }
+          ],
+          "context": "Pimavanserin's mechanism of action might contribute to its unique psychopharmacological properties in the improved treatment of PDP, and perhaps psychosis in other diseases including schizophrenia and dementia-related psychosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5b2f4b1a4c55d80b000001_001",
+              "question": "Is Adar3 involved in learning and memory?"
+            }
+          ],
+          "context": "Adar3 Is Involved in Learning and Memory in Mice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5b2f4b1a4c55d80b000001_002",
+              "question": "Is Adar3 involved in learning and memory?"
+            }
+          ],
+          "context": " The newest member of the A-I editing family of ADAR proteins, the vertebrate-specific ADAR3, is highly expressed in the brain, but its functional significance is unknown. In vitro studies have suggested that ADAR3 acts as a negative regulator of A-I RNA editing but the scope and underlying mechanisms are also unknown. Meta-analysis of published data indicates that mouse Adar3 expression is highest in the hippocampus, thalamus, amygdala, and olfactory region. Consistent with this, we show that mice lacking exon 3 of Adar3 (which encodes two double stranded RNA binding domains) have increased levels of anxiety and deficits in hippocampus-dependent short- and long-term memory formation. RNA sequencing revealed a dysregulation of genes involved in synaptic function in the hippocampi of Adar3-deficient mice. We also show that ADAR3 transiently translocates from the cytoplasm to the nucleus upon KCl-mediated activation in SH-SY5Y cells. These results indicate that ADAR3 contributes to cognitive processes in mammals."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5b52731a4c55d80b000003_001",
+              "question": "Is deletion at 6q24.2-26 associated with longer survival of patients with high-grade serous ovarian carcinoma (HGSOCs)?"
+            }
+          ],
+          "context": "Deletion at 6q24.2-26 predicts longer survival of high-grade serous epithelial ovarian cancer patients."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5b52731a4c55d80b000003_002",
+              "question": "Is deletion at 6q24.2-26 associated with longer survival of patients with high-grade serous ovarian carcinoma (HGSOCs)?"
+            }
+          ],
+          "context": "We found that loss at 6q24.2-26 was significantly associated with the cluster of longer survival independently from other confounding factors (HR = 0.06, 95%CI = 0.01-0.43, Padj = 0.005). The prognostic value of this deletion was validated in two independent series, one consisting of 36 HGSOCs analyzed by fluorescent in situ hybridization (P = 0.04) and another comprised of 411 HGSOCs from the Cancer Genome Atlas study (TCGA) (HR = 0.67, 95%CI = 0.48-0.93, Padj = 0.019). In addition, we confirmed the association of low expression of the genes from the region with longer survival in 799 HGSOCs (HR = 0.74, 95%CI = 0.61-0.90, log-rank P = 0.002) and 675 high-FIGO stage HGSOCs (HR = 0.76, 95%CI = 0.61-0.96, log-rank P = 0.02) available from the online tool KM-plotter. Finally, by integrating copy number, RNAseq and survival data of 296 HGSOCs from TCGA we propose a few candidate genes that can potentially explain the association. Altogether our findings indicate that the 6q24.2-26 deletion is an independent marker of favorable outcome in HGSOCs with potential clinical value as it can be analyzed by FISH on tumor sections and guide the selection of patients towards more conservative therapeutic strategies in order to reduce side-effects and improve quality of life."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ba807c78d69471000076_001",
+              "question": "Is avelumab effective for bladder cancer?"
+            }
+          ],
+          "context": "BACKGROUND: Avelumab has recently been approved by the Food and Drug Administration for the therapy of Merkel cell carcinoma and urothelial carcinoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ba807c78d69471000076_002",
+              "question": "Is avelumab effective for bladder cancer?"
+            }
+          ],
+          "context": "Six drugs including one CTLA-4 blocker (ipilimumab), two PD-1 blockers (nivolumab and pembrolizumab) and three PD-L1 blockers (atezolizumab, avelumab and durvalumab) are approved for the treatment of different types of cancers including both solid tumors such as melanoma, lung cancer, head and neck cancer, bladder cancer and Merkel cell cancer as well as hematological tumors such as classic Hodgkin's lymphoma. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ba807c78d69471000076_003",
+              "question": "Is avelumab effective for bladder cancer?"
+            }
+          ],
+          "context": "The Food and Drug Administration has already approved a number of checkpoint inhibitors such as anti-cytotoxic T-lymphocyte-associated protein 4 (CTLA4) monoclonal antibodies including ipilimumab; anti-PD-1 monoclonal antibodies including nivolumab and pembrolizumab; anti-PD-L1 antibodies including atezolizumab, avelumab, and durvalumab. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ba807c78d69471000076_004",
+              "question": "Is avelumab effective for bladder cancer?"
+            }
+          ],
+          "context": "Five immune CPI have recently been approved for aUC/mUC by the US Food and Drug Administration (FDA) including atezolizumab, nivolumab, pembrolizumab, durvalumab and avelumab. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ba807c78d69471000076_005",
+              "question": "Is avelumab effective for bladder cancer?"
+            }
+          ],
+          "context": "RECENT FINDINGS: Since May 2016, five different agents targeting the PD-1/PD-L1 pathway (atezolizumab, pembrolizumab, nivolumab, avelumab, durvalumab) have received FDA approval for the treatment of aUC in the platinum-refractory setting, while pembrolizumab and atezolizumab are FDA-approved for cisplatin-ineligible patients in the first-line setting."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ba807c78d69471000076_006",
+              "question": "Is avelumab effective for bladder cancer?"
+            }
+          ],
+          "context": "Avelumab for the treatment of urothelial cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ba807c78d69471000076_007",
+              "question": "Is avelumab effective for bladder cancer?"
+            }
+          ],
+          "context": "Avelumab, a PD-1 ligand (PD-L1) inhibitor, is currently being investigated for the treatment of UC. Areas covered: This article will review the pharmacological characteristics of avelumab, the efficacy studies which led to its approval, its safety profile, as well as its place within the management of urothelial carcinoma with immunotherapy. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72ba807c78d69471000076_008",
+              "question": "Is avelumab effective for bladder cancer?"
+            }
+          ],
+          "context": "Expert commentary: Avelumab has shown promising antitumor activity and a manageable safety profile in patients with UC. "
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

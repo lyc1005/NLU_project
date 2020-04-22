@@ -1,0 +1,496 @@
+{
+  "version": "BioASQ6b", 
+  "data": [
+    {
+      "title": "BioASQ6b", 
+      "paragraphs": [
+        {
+          "context": "Association of genetic variants of xenobiotic metabolic pathway with systemic lupus erythematosus. In view of documented evidence that catechol estrogen-DNA adducts serve as epitopes for binding of anti-nuclear antibodies, genetic polymorphisms of the xenobiotic metabolic pathway involved in estrogen metabolism might contribute towards pathophysiology of systemic lupus erythematosus (SLE). To test this hypothesis, a case-control study was conducted. Cytochrome P 450 1A1 (CYP1A1) m4 (OR: 4.93, 95% CI: 1.31-18.49), catecholamine-o-methyl transferase (COMT) H108L (OR: 1.39, 95% CI: 1.03-1.88) and glutathione-S-transferase (GST) T1 null (OR: 1.83, 95% CI: 1.11- 3.01) variants showed association with SLE risk. SHEsis web-based platform analysis showed mild to moderate linkage disequilibrium between the CYP1A1 ml, m2 and m4 variants (D': 0.19-0.37). Among the different haplotypes of CYP1A1, CAC-haplotype harboring CYP1A1 ml variant showed association with SLE risk (OR: 1.46, 95% CI: 1.11-1.92). Multifactor dimensionality reduction analysis (MDR) showed potential gene-gene interactions between the phase II variants i.e. COMT H108L x GSTT1 null x GSTM1 null (p < 0.0001) and also between the phase II and I variants i.e. COMT H108L x GSTTI null x CYP1A1 ml x CYP1A1 m2 in inflating the risk of SLE by 3.33-folds (95% CI: 2.30-4.82) and 4.00-folds (95% CI: 2.77-5.78), respectively. To conclude, hyperinducibility of CYP1A1 due to ml and m4 variants and defective phase-II detoxification due to COMT H108L and GSTT1 null variants increase the susceptibility to SLE.", 
+          "qas": [
+            {
+              "question": "Which metabolic pathways have been associated with Systemic Lupus Erythematosus?", 
+              "id": "5c34a761da8336e21a000005_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Association of estrogen and aromatase gene polymorphisms with systemic lupus erythematosus. Experimental and animal studies suggested that estrogens play an important role in the development of systemic lupus erythematosus (SLE) through a variety of mechanisms involved in the regulation of the immune system. The objective of this study was to investigate the association between genetic variations in estrogen metabolic pathway genes, including estrogen receptor alpha (ESR1), estrogen receptor beta (ESR2), and aromatase (CYP19A1), and risk of SLE. We performed a genetic study of SLE among 46 medical record-confirmed female SLE cases and 102 female controls participating in an Internet-based case-control study of SLE. Polymorphisms analysed included: ESR1 PvuII, XbaI, and GT repeat; ESR2 RsaI, AluI, and CA repeat; and CYP19A1 RsaI, SfaN1, and TTTA repeat. We found significant association of the ESR1 PvuII (PP vs. pp, odds ratio (OR): 3.1, 95% confidence interval (CI): 1.1-9.3) and XbaI (XX vs. xx, adjusted OR: 3.4, 95% CI: 1.1-10.5) with SLE. Carrying the PPXX genotype conferred the highest risk (PPXX vs. ppxx, OR: 4.6, 95% CI: 1.3-15.9). We also found an association of SLE with the ESR2 CA repeat (SS vs. LL, OR: 2.8, 95% CI: 1.0-8.0). Our results support a role of estrogen in pathogenesis of SLE and suggested that genetic variants in the estrogen receptor genes might influence susceptibility.", 
+          "qas": [
+            {
+              "question": "Which metabolic pathways have been associated with Systemic Lupus Erythematosus?", 
+              "id": "5c34a761da8336e21a000005_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Epigenetic modulation of RFC1, MHC2TA and HLA-DR in systemic lupus erythematosus: association with serological markers and six functional polymorphisms of one-carbon metabolic pathway. The current study was conducted to elucidate the effect of genetic variations in one-carbon metabolism on the epigenetic regulation of major histocompatibility complex II transactivator (MHC2TA), reduced folate carrier 1 (RFC1/SLC19A1) and human leukocyte antigen (HLA)-DR in systemic lupus erythematosus (SLE). PCR-RFLP/AFLP, bisulfite-sequencing and real-time PCR approaches were used for genetic, epigenetic and expression analysis respectively. SLE cases exhibited elevated plasma homocysteine levels compared to healthy controls (24.93 \u00b1 1.3 vs. 11.67 \u00b1 0.48 \u03bcmol/l), while plasma folate levels showed no association (7.10 \u00b1 2.49 vs. 7.64 \u00b1 2.09 ng/ml). The RFC1 80G>A polymorphism showed 1.32-fold risk (95% CI: 1.02-1.72) for SLE, while glutamate carboxypeptidase II (GCPII) 1561C>T showed reduced risk (OR: 0.47, 95% CI: 0.24-0.90). The expression of RFC1 (0.37 \u00b1 0.09 vs. 0.60 \u00b1 0.17) and HLA-DR (0.68 \u00b1 0.17 vs. 0.98 \u00b1 0.02) was down regulated in the SLE cases. The hypermethylation of RFC1 as observed in the current study may contribute for its down regulation. Plasma folate and thymidylate synthase (TYMS) 5'-UTR 28 bp tandem repeat showed an inverse association with methylation of RFC1 and MHC2TA. SLE cases with hypocomplementemia showed hypermethylation of RFC1, hypomethylation/up regulation of MHC2TA and down regulation of HLA-DR. The hypermethylation of MHC2TA and down regulation of RFC1, MHC2TA and HLA-DR were observed in anti-cardiolipin antibody positive SLE cases. The up regulation of RFC1 and HLA-DR was observed in anti-dsDNA antibody positive SLE cases. The hypomethylation/upregulation of RFC1 and MHC2TA was observed in anti-RNP antibody positive cases. To conclude, one-carbon genetic variants influence epigenetic of MHC2TA and RFC1, thus contributing to phenotypic heterogeneity of SLE.", 
+          "qas": [
+            {
+              "question": "Which metabolic pathways have been associated with Systemic Lupus Erythematosus?", 
+              "id": "5c34a761da8336e21a000005_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Multifactor dimensionality reduction analysis to elucidate the cross-talk between one-carbon and xenobiotic metabolic pathways in multi-disease models. Putatively functional polymorphisms of one-carbon and xenobiotic metabolic pathways influence susceptibility for wide spectrum of diseases. The current study was aimed to explore gene-gene interactions among these two metabolic pathways in four diseases i.e. breast cancer, systemic lupus erythematosus (SLE), coronary artery disease (CAD) and Parkinson's disease (PD). Multifactor dimensionality reduction analysis was carried out on four case-control datasets. Cross-talk was observed between one-carbon and xenobiotic pathways in breast cancer (RFC 80 G>A, COMT H108L and TYMS 5'-UTR 28 bp tandem repeat) and SLE (CYP1A1 m1, MTRR 66 A>G and GSTT1). Gene-gene interactions within one-carbon metabolic pathway were observed in CAD (GCPII 1561 C>T, SHMT 1420 C>T and MTHFR 677 C>T) and PD (cSHMT 1420 C>T, MTRR 66 A>G and RFC1 80 G>A). These interaction models showed good predictability of risk for PD (The area under the receiver operating characteristic curve (C) = 0.83) and SLE (C = 0.73); and moderate predictability of risk for breast cancer (C = 0.64) and CAD (C = 0.63). Cross-talk between one-carbon and xenobiotic pathways was observed in diseases with female preponderance. Gene-gene interactions within one-carbon metabolic pathway were observed in diseases with male preponderance.", 
+          "qas": [
+            {
+              "question": "Which metabolic pathways have been associated with Systemic Lupus Erythematosus?", 
+              "id": "5c34a761da8336e21a000005_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Reducing FLI1 levels in the MRL/lpr lupus mouse model impacts T cell function by modulating glycosphingolipid metabolism. Systemic Lupus erythematosus (SLE) is an autoimmune disease caused, in part, by abnormalities in cells of the immune system including B and T cells. Genetically reducing globally the expression of the ETS transcription factor FLI1 by 50% in two lupus mouse models significantly improves disease measures and survival through an unknown mechanism. In this study we analyze the effects of reducing FLI1 in the MRL/lpr lupus prone model on T cell function. We demonstrate that adoptive transfer of MRL/lpr Fli1(+/+) or Fli1(+/-) T cells and B cells into Rag1-deficient mice results in significantly decreased serum immunoglobulin levels in animals receiving Fli1(+/-) lupus T cells compared to animals receiving Fli1(+/+) lupus T cells regardless of the genotype of co-transferred lupus B cells. Ex vivo analyses of MRL/lpr T cells demonstrated that Fli1(+/-) T cells produce significantly less IL-4 during early and late disease and exhibited significantly decreased TCR-specific activation during early disease compared to Fli1(+/+) T cells. Moreover, the Fli1(+/-) T cells expressed significantly less neuraminidase 1 (Neu1) message and decreased NEU activity during early disease and significantly decreased levels of glycosphingolipids during late disease compared to Fli1(+/+) T cells. FLI1 dose-dependently activated the Neu1 promoter in mouse and human T cell lines. Together, our results suggest reducing FLI1 in lupus decreases the pathogenicity of T cells by decreasing TCR-specific activation and IL-4 production in part through the modulation of glycosphingolipid metabolism. Reducing the expression of FLI1 or targeting the glycosphingolipid metabolic pathway in lupus may serve as a therapeutic approach to treating lupus.", 
+          "qas": [
+            {
+              "question": "Which metabolic pathways have been associated with Systemic Lupus Erythematosus?", 
+              "id": "5c34a761da8336e21a000005_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Neopterin in the diagnosis of disorders associated with immune system activation. While the knowledge concerning the role of the immune system in many internal disorders has grown rapidly in recent years, there are few methods to assess immune system activation in clinical practice. Measurement of urine neopterin, product of a metabolic pathway controlled by interferon-gamma, has been found useful in many clinical conditions. The present study concerns neopterin excretion in 157 patients with different internal disorders. As expected, we found an increase in urine neopterin in patients with malignant tumors, autoimmune disorders like systemic lupus erythematosus or inflammatory bowel disease, and infections. Elevated neopterin levels were also observed in acute pancreatitis and in acute myocardial infarction. In addition, significant correlations between urine neopterin and zinc and neopterin and copper excretion were found suggesting a physiological role of neopterin as urine antioxidant.", 
+          "qas": [
+            {
+              "question": "Which metabolic pathways have been associated with Systemic Lupus Erythematosus?", 
+              "id": "5c34a761da8336e21a000005_005"
+            }
+          ]
+        }, 
+        {
+          "context": "[Study on intervention effect of Jieduquyuziyin prescription systemic lupus erythematosus by HPLC-Q-TOF/MS]. To establish a metabonomic method based on high performance liquid chromatography-quadrupole-time of flight mass spectrometry (HPLC-Q-TOF/MS), in order to study the changes in serum metabolites of systemic lupus erythematosus (SLE) mice after treatment of Jieduquyuziyin prescription, the pathogenesis of SLE and mechanism of drug action. The orthogonal partial least squares (OPLS) was applied for the pattern recognition of experimental data, finding a significant difference in the control group, the SLE model group, the Jieduquyuziyin prescription-treated group and the prednisone acetate-treated group. According to the OPLS load diagram, 12 differential metabolites, including traumatic acid, PAF, 12 (S)-HEPE, 15(S)-HETrE and Hepoxilin B3 were identified by using accurate mass combined with MS/MS data After treatment with Jieduquyuziyin prescription, the relative contents of PAF, 12 (S)-HETE were close to the level of the control group. According to the analysis on metabolic pathway, SLE could cause significant changes in unsaturated fatty acid and amino acid metabolism pathway, while Jieduquyuziyin prescription has a effect in regulating disorder of unsaturated fatty acid metabolism pathway.", 
+          "qas": [
+            {
+              "question": "Which metabolic pathways have been associated with Systemic Lupus Erythematosus?", 
+              "id": "5c34a761da8336e21a000005_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Growth Differentiation Factor-15 and Risk of CKD Progression. Growth differentiation factor-15 (GDF-15) is a member of the TGF- cytokine superfamily that is widely expressed and may be induced in response to tissue injury. Elevations in GDF-15 may identify a novel pathway involved in loss of kidney function among patients with CKD. Among participants in the Clinical Phenotyping and Resource Biobank (C-PROBE) study and the Seattle Kidney Study (SKS), we tested whether kidney tissue expression of  mRNA correlates with circulating levels of GDF-15 and whether elevations in circulating GDF-15 are associated with decline in kidney function. In matching samples of 24 patients with CKD from the C-PROBE study, circulating GDF-15 levels significantly correlated with intrarenal  transcript levels (=0.54, =0.01). Among the 224 C-PROBE and 297 SKS participants, 72 (32.1%) and 94 (32.0%) patients, respectively, reached a composite end point of 30% decline in eGFR or progression to ESRD over a median of 1.8 and 2.0 years of follow up, respectively. In multivariable models, after adjusting for potential confounders, every doubling of GDF-15 level associated with a 72% higher (95% confidence interval, 1.21 to 4.45; =0.003) and 65% higher (95% confidence interval, 1.08 to 2.50; =0.02) risk of progression of kidney disease in C-PROBE and SKS participants, respectively. These results show that circulating GDF-15 levels strongly correlated with intrarenal expression of  and significantly associated with increased risk of CKD progression in two independent cohorts. Circulating GDF-15 may be a marker for intrarenal -related signaling pathways associated with CKD and CKD progression.", 
+          "qas": [
+            {
+              "question": "In what states are GDF15 expression increased?", 
+              "id": "5ad303970340b9f05800001a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "First Behavioural Characterisation of a Knockout Mouse Model for the Transforming Growth Factor (TGF)-\u03b2 Superfamily Cytokine, MIC-1/GDF15. Macrophage inhibitory cytokine-1 (MIC-1), also known as growth differentiation factor 15 (GDF15), is a stress response cytokine. MIC-1/GDF15 is secreted into the cerebrospinal fluid and increased levels of MIC-1/GDF15 are associated with a variety of diseases including cognitive decline. Furthermore, Mic-1/Gdf15 knockout mice (Mic-1 KO) weigh more, have increased adiposity, associated with increased spontaneous food intake, and exhibit reduced basal energy expenditure and physical activity. The current study was designed to comprehensively determine the role of MIC-1/GDF15 on behavioural domains of male and female knockout mice including locomotion, exploration, anxiety, cognition, social behaviours, and sensorimotor gating. Mic-1 KO mice exhibited a task-dependent increase in locomotion and exploration and reduced anxiety-related behaviours across tests. Spatial working memory and social behaviours were not affected by Mic-1/Gdf15 deficiency. Interestingly, knockout mice formed an increased association with the conditioned stimulus in fear conditioning testing and also displayed significantly improved prepulse inhibition. Overall sex effects were evident for social behaviours, fear conditioning, and sensorimotor gating. This is the first study defining the role of Mic-1/Gdf15 in a number of behavioural domains. Whether the observed impact is based on direct actions of Mic-1/Gdf15 deficiency on the CNS or whether the behavioural effects are mediated by indirect actions on e.g. other neurotransmitter systems must be clarified in future studies.", 
+          "qas": [
+            {
+              "question": "In what states are GDF15 expression increased?", 
+              "id": "5ad303970340b9f05800001a_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Growth Differentiation Factor 15 as a Biomarker in Cardiovascular Disease. BACKGROUND: Growth differentiation factor 15 (GDF-15) is expressed and secreted in response to inflammation, oxidative stress, hypoxia, telomere erosion, and oncogene activation. Cardiovascular (CV) disease is a major driver of GDF-15 production. GDF-15 has favorable preanalytic characteristics and can be measured in serum and plasma by immunoassay. CONTENT: In community-dwelling individuals higher concentrations of GDF-15 are associated with increased risks of developing CV disease, chronic kidney disease, and cancer, independent of traditional CV risk factors, renal function, and other biomarkers (C-reactive protein, B-type natriuretic peptide, cardiac troponin). Low concentrations of GDF-15 are closely associated with longevity. GDF-15 is as an independent marker of all-cause mortality and CV events in patients with coronary artery disease, and may help select patients with non-ST-elevation acute coronary syndrome for early revascularization and more intensive medical therapies. GDF-15 is independently associated with mortality and nonfatal events in atrial fibrillation and heart failure (HF) with preserved or reduced ejection fraction. GDF-15 reflects chronic disease burden and acute perturbations in HF and responds to improvements in hemodynamic status. GDF-15 is independently associated with major bleeding in patients receiving antithrombotic therapies and has been included in a new bleeding risk score, which may become useful for decision support. SUMMARY: GDF-15 captures distinct aspects of CV disease development, progression, and prognosis, which are not represented by clinical risk predictors and other biomarkers. The usefulness of GDF-15 to guide management decisions and discover new treatment targets should be further explored.", 
+          "qas": [
+            {
+              "question": "In what states are GDF15 expression increased?", 
+              "id": "5ad303970340b9f05800001a_002"
+            }
+          ]
+        }, 
+        {
+          "context": "The Relationship between Metabolic Parameters, Cardiac Parameters and MIC-1/GDF15 in Obese Children. Childhood obesity which is a predictor of adulthood obesity is associated with type 2 diabetes, metabolic syndrome, dyslipidemia, coronary artery diseases and subclinical inflammation. Growth differentiation factor-15, also known as macrophage inhibitory cytokine-1 (MIC-1/GDF15) is a member of the transforming growth factor- \u03b2 super family and increases during inflammatory states. Adults with obesity have increased serum concentrations of MIC-1/GDF15. MIC-1/GDF15 is associated with cardio metabolic risk in adults.  Identification of obese children at higher risk for cardio metabolic complications is important. The relations of MIC-1/GDF15 to parameters of obesity in children have never been studied.  We measured serum MIC-1/GDF15 concentration in obese children by EL\u0130SA and evaluated its relationship with anthropometric, biochemical and echocardiographic parameters.  No significant difference in serum MIC-1/GDF15 between normal-weight and obese children was observed. MIC-1/GDF15 was positively correlated with CRP, ALT and aortic dimension when normal-weight and obese children were analyzed together.  MIC-1/GDF15 may provide a link between childhood obesity and cardio metabolic complications that will occur in time course. Further work would be required to find out if MIC-1/GDF15 has any role in the early inflammatory, cardiac and metabolic changes in childhood obesity.", 
+          "qas": [
+            {
+              "question": "In what states are GDF15 expression increased?", 
+              "id": "5ad303970340b9f05800001a_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Anorexia-cachexia syndrome in hepatoma tumour-bearing rats requires the area postrema but not vagal afferents and is paralleled by increased MIC-1/GDF15. BACKGROUND: The cancer-anorexia-cachexia syndrome (CACS) negatively affects survival and therapy success in cancer patients. Inflammatory mediators and tumour-derived factors are thought to play an important role in the aetiology of CACS. However, the central and peripheral mechanisms contributing to CACS are insufficiently understood. The area postrema (AP) and the nucleus tractus solitarii are two important brainstem centres for the control of eating during acute sickness conditions. Recently, the tumour-derived macrophage inhibitory cytokine-1 (MIC-1) emerged as a possible mediator of cancer anorexia because lesions of these brainstem areas attenuated the anorectic effect of exogenous MIC-1 in mice. METHODS: Using a rat hepatoma tumour model, we examined the roles of the AP and of vagal afferents in the mediation of CACS. Specifically, we investigated whether a lesion of the AP (APX) or subdiaphragmatic vagal deafferentation (SDA) attenuate anorexia, body weight, muscle, and fat loss. Moreover, we analysed MIC-1 levels in this tumour model and their correlation with tumour size and the severity of the anorectic response. RESULTS: In tumour-bearing sham-operated animals mean daily food intake significantly decreased. The anorectic response was paralleled by a significant loss of body weight and muscle mass. APX rats were protected against anorexia, body weight loss, and muscle atrophy after tumour induction. In contrast, subdiaphragmatic vagal deafferentation did not attenuate cancer-induced anorexia or body weight loss. Tumour-bearing rats had substantially increased MIC-1 levels, which positively correlated with tumour size and cancer progression and negatively correlated with food intake. CONCLUSIONS: These findings demonstrate the importance of the AP in the mediation of cancer-dependent anorexia and body weight loss and support a pathological role of MIC-1 as a tumour-derived factor mediating CACS, possibly via an AP-dependent action.", 
+          "qas": [
+            {
+              "question": "In what states are GDF15 expression increased?", 
+              "id": "5ad303970340b9f05800001a_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Got bacteria? The astounding, yet not-so-surprising, microbiome of human milk. Contrary to long-held dogma, human milk is not sterile. Instead, it provides infants a rich source of diverse bacteria, particularly microbes belonging to the Staphylococcus, Streptococcus, and Pseudomonas genera. Very little is known about factors that influence variation in the milk microbiome among women and populations, although time postpartum, delivery mode, and maternal factors such as diet and antibiotic use might be important. The origins of the bacteria in milk are thought to include the maternal gastrointestinal tract (via an entero-mammary pathway) and through bacterial exposure of the breast during nursing. Currently, almost nothing is known about whether variation in microbe consumption by the infant via human milk and that of the mammary gland, itself, impacts short-term and/or long-term infant and maternal health although several studies suggest this is likely. We urge the clinical and public health communities to be patient, however, in order to allow human milk and lactation researchers to first understand what constitutes 'normal' in terms of the milk microbiome (as well as factors that impact microbial community structure) prior to jumping the gun to investigate if and how this important source of microbes impacts maternal and infant health.", 
+          "qas": [
+            {
+              "question": "What are the 3 main bacteria found in human milk?", 
+              "id": "5be44d8b133db5eb78000015_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Sex-dependent insulin like growth factor-1 expression in preattachment equine embryos. An adjustment of sex ratio of offspring to the conditions present at conception is seen in many mammals including horses. This depends on preferential survival of male embryos under conditions of high energy intake. In several species, growth factors including insulin like growth factor (IGF)-1 have been shown to promote embryonic development by decreasing apoptosis and increasing cell proliferation. We hypothesized that sex-related differences in IGF-1 expression in equine embryos during the phase of maternal recognition of pregnancy might exist and thus contribute to preferential survival of embryos from either of both sexes under specific environmental conditions. Insulin like growth factor-1 mRNA expression of in\u00a0vivo-produced equine embryos on different days of pregnancy (Day 8, N = 6; Day 10, N = 8; Day 12, N = 14) was analyzed. Insulin like growth factor-1 mRNA expression was evaluated by reverse transcription quantitative polymerase chain reaction. The sex of the embryo was determined by detection of X-inactivation specific transcript (Xist) RNA and equine sex determining region of the Y chromosome DNA. Embryos positive for Xist expression were classified as female, and Xist negative and equine sex determining region of the Y chromosome positive embryos were classified as male. From 28 embryos tested, 15 (54%) showed positive Xist expression and were thus classified as female. Insulin like growth factor-1 mRNA expression was influenced by sex (P\u00a0= 0.01) but not by day of pregnancy (relative expression of IGF-1 in relation to \u03b2-actin, Day 8: male 5.1 \u00b1 2.1, female 11.4; Day 10: male 5.2 \u00b1 1.6, female 17.4 \u00b1 6.7; Day 12: male 2.6 \u00b1 0.3, female 11.6 \u00b1 2.4). Results demonstrate an increased expression of IGF-1 in female equine embryos. Sex-related influences on expression of the IGF system are probably related to a gradual X chromosome inactivation.", 
+          "qas": [
+            {
+              "question": "In which tissues is the lincRNA Xist expressed?", 
+              "id": "5be2a070133db5eb78000013_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Expression of the X-inactivation-associated gene XIST during spermatogenesis. Mammalian X-chromosome inactivation is thought to be controlled by the X inactivation centre (XIC, X-controlling element -Xce-in mice). A human gene, XIST and its mouse counterpart, Xist, which map to the XIC/Xce, are expressed exclusively from inactive X chromosomes, suggesting their involvement in the process of X-inactivation. We now report the presence of Xist/XIST transcripts in newborn and adult mouse testes, and in human testicular tissue with normal spermatogenesis, but not in the testes of patients who lack germ cells. Our results indicate that while the X chromosome in males is active in somatic cells, it undergoes inactivation during spermatogenesis.", 
+          "qas": [
+            {
+              "question": "In which tissues is the lincRNA Xist expressed?", 
+              "id": "5be2a070133db5eb78000013_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Evaluation of Xist expression in preattachment equine embryos. Until now, sex determination in equine embryos has been performed by detection of Y-chromosome-specific sequences only. In the present study, expression of a Barr-body-specific marker, the X-inactivated-specific transcript (Xist) gene, whose gene product consists of RNA which coats and thereby inactivates one of the X chromosomes, was investigated in equine embryos produced in vivo. Preattachment embryos at different times after ovulation (Day 8: n = 9; Day 10: n = 12; Day 12: n = 15) were analyzed for Xist RNA expression using quantitative and qualitative reverse transcription-polymerase chain reaction (RT-PCR). Female and male primary equine dermal cell cultures were used as positive and negative controls, respectively. Embryos tested negative for Xist were evaluated for expression of the male-specific eSRY gene by qualitative PCR at the DNA level. From 36 embryos assessed by qualitative RT-PCR, 18 showed positive Xist expression (50%). From 29 embryos tested by quantitative RT-PCR, 16 showed positive Xist expression (55%). All of the Xist-negative equine embryos tested by quantitative PCR were positive for eSRY. We also demonstrated by strand-specific RT-PCR that in the horse, as in humans, the counter transcript Tsix seems to be truncated not reaching Exon 1. In contrast to many other species, neither Xist nor Tsix was expressed in equine male testicular tissue. The results demonstrate that expression of Xist is restricted to female equine embryos. Xist can thus be considered an X-inactivation-specific marker which can be used in concert with Y-specific markers for sex determination.", 
+          "qas": [
+            {
+              "question": "In which tissues is the lincRNA Xist expressed?", 
+              "id": "5be2a070133db5eb78000013_002"
+            }
+          ]
+        }, 
+        {
+          "context": "X inactive-specific transcript (Xist) expression and X chromosome inactivation in the preattachment bovine embryo. Expression of the X inactive-specific transcript (Xist) is thought to be essential for the initiation of X chromosome inactivation and dosage compensation during female embryo development. In the present study, we analyzed the patterns of Xist transcription and the onset of X chromosome inactivation in bovine preattachment embryos. Reverse transcription-polymerase chain reaction (RT-PCR) revealed the presence of Xist transcripts in all adult female somatic tissues evaluated. In contrast, among the male tissues examined, Xist expression was detected only in testis. No evidence for Xist transcription was observed after a single round of RT-PCR from pools of in vitro-derived embryos at the 2- to 4-cell stage. Xist transcripts were detected as a faint amplicon at the 8-cell stage initially, and consistently thereafter in all stages examined up to and including the expanded blastocyst stage. Xist transcripts, however, were subsequently detected from the 2-cell stage onward after nested RT-PCR. Preferential [3H]thymidine labeling indicative of late replication of one of the X chromosomes was noted in female embryos of different developmental ages as follows: 2 of 7 (28.5%) early blastocysts, 6 of 13 (46.1%) blastocysts, 8 of 11 (72.1%) expanded blastocysts, and 14 of 17 (77.7%) hatched blastocysts. These results suggest that Xist expression precedes the onset of late replication in the bovine embryo, in a pattern compatible with a possible role of bovine Xist in the initiation of X chromosome inactivation.", 
+          "qas": [
+            {
+              "question": "In which tissues is the lincRNA Xist expressed?", 
+              "id": "5be2a070133db5eb78000013_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Expression of selected genes escaping from X inactivation in the 41, XX(Y)* mouse model for Klinefelter's syndrome. AIM: We hypothesized that patients with Klinefelter's syndrome (KS) not only undergo X inactivation, but also that genes escape from inactivation. Their transcripts would constitute a significant difference, as male metabolism is not adapted to a 'female-like' gene dosage. We evaluated the expression of selected X-linked genes in our 41, XX(Y)* male mice to determine whether these genes escape inactivation and whether tissue-specific differences occur. METHODS: Correct X inactivation was identified by Xist expression. Relative expression of X-linked genes was examined in liver, kidney and brain tissue by real-time PCR in adult XX(Y)* and XY* males and XX females. RESULTS: Expression of genes known to escape X inactivation was analysed. Relative mRNA levels of Pgk1 (control, X inactivated), and the genes Eif2s3x, Kdm5c, Ddx3x and Kdm6a escaping from X inactivation were quantified from liver, kidney and brain. Pgk1 mRNA expression showed no difference, confirming correct X inactivation. In kidney and liver, XX(Y)* males resembled the female expression pattern in all four candidate genes and were distinguishable from XY* males. Contrastingly, in brain tissue XX(Y)* males expressed all four genes higher than male and female controls. CONCLUSION: Altered expression of genes escaping X inactivation probably contributes directly to the XX(Y)* phenotype.", 
+          "qas": [
+            {
+              "question": "In which tissues is the lincRNA Xist expressed?", 
+              "id": "5be2a070133db5eb78000013_004"
+            }
+          ]
+        }, 
+        {
+          "context": "The incidence of sexually dimorphic gene expression varies greatly between tissues in the rat. The sexually dimorphic expression of genes across 26 somatic rat tissues was using Affymetrix RAE-230 genechips. We considered probesets to be sexually dimorphically expressed (SDE) if they were measurably expressed above background in at least one sex, there was at least a two-fold difference in expression (dimorphism) between the sexes, and the differences were statistically significant after correcting for false discovery. 14.5% of expressed probesets were SDE in at least one tissue, with higher expression nearly twice as prevalent in males compared to females. Most were SDE in a single tissue. Surprisingly, nearly half of the probesets that were (SDE) in multiple tissues were oppositely sex biased in different tissues, and most SDE probesets were also expressed without sex bias in other tissues. Two genes were widely SDE: Xist (female-only) and Eif2s3y (male-only). The frequency of SDE probesets varied widely between tissues, and was highest in the duodenum (6.2%), whilst less than 0.05% in over half of the surveyed tissues. The occurrence of SDE probesets was not strongly correlated between tissues. Within individual tissues, however, relational networks of SDE genes were identified. In the liver, networks relating to differential metabolism between the sexes were seen. The estrogen receptor was implicated in differential gene expression in the duodenum. To conclude, sexually dimorphic gene expression is common, but highly tissue-dependent. Sexually dimorphic gene expression may provide insights into mechanisms underlying phenotypic sex differences. Online data are provided as a resource for further analyses (GEO reference GSE63362).", 
+          "qas": [
+            {
+              "question": "In which tissues is the lincRNA Xist expressed?", 
+              "id": "5be2a070133db5eb78000013_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Site-specific effect of estradiol on gene expression in the adipose tissue of ob/ob mice. Sex hormones are likely to be involved in sex differences in adipose tissue distribution. To test whether estrogen regulates genes expressed in the adipose tissue in a site-specific manner, we studied the effect of exogenous estradiol on the gene expression in visceral and subcutaneous adipose tissues of male ob/ob mice. We screened genes expressed in a site- and sex-specific manner, and genes that were affected by exogenous estradiol by DNA chip analysis. They were verified by real-time PCR. Myosin heavy chain 2B (Myh4) and phosphoglycerate mutase muscle-specific subunit (Pgam) were expressed specifically in the subcutaneous adipose tissue, and uroplakin IIIb (UP3) was expressed specifically in the visceral adipose tissue. DEAD-box Y RNA helicase (DBY) and eukaryotic initiation factor 2 gamma Y (eIF2gamma Y) were expressed only in male adipose tissue. X-chromosome inactive specific transcript (Xist) was expressed only in female adipose tissue. When estradiol was subcutaneously administrated to male mice, the expression of monocyte-chemoattractant protein-1 (MCP-1) and androgen receptor (AR) genes was regulated in a site-specific manner. The difference in the amount of estrogen receptor did not account for the site-specific effect of estrogen. Our findings show that estrogen affects the expression of some adipocyte genes in a site-specific manner.", 
+          "qas": [
+            {
+              "question": "In which tissues is the lincRNA Xist expressed?", 
+              "id": "5be2a070133db5eb78000013_006"
+            }
+          ]
+        }, 
+        {
+          "context": "CXCR4-Specific Nanobodies as Potential Therapeutics for WHIM syndrome. WHIM syndrome is a rare congenital immunodeficiency disease, named after its main clinical manifestations: warts, hypogammaglobulinemia, infections, and myelokathexis, which refers to abnormal accumulation of mature neutrophils in the bone marrow. The disease is primarily caused by C-terminal truncation mutations of the chemokine receptor CXCR4, giving these CXCR4-WHIM mutants a gain of function in response to their ligand CXCL12. Considering the broad functions of CXCR4 in maintaining leukocyte homeostasis, patients are panleukopenic and display altered immune responses, likely as a consequence of impairment in the differentiation and trafficking of leukocytes. Treatment of WHIM patients currently consists of symptom relief, leading to unsatisfactory clinical responses. As an alternative and potentially more effective approach, we tested the potency and efficacy of CXCR4-specific nanobodies on inhibiting CXCR4-WHIM mutants. Nanobodies are therapeutic proteins based on the smallest functional fragments of heavy chain antibodies. They combine the advantages of small-molecule drugs and antibody-based therapeutics due to their relative small size, high stability, and high affinity. We compared the potential of monovalent and bivalent CXCR4-specific nanobodies to inhibit CXCL12-induced CXCR4-WHIM-mediated signaling with the small-molecule clinical candidate AMD3100. The CXCR4-targeting nanobodies displace CXCL12 binding and bind CXCR4-wild type and CXCR4-WHIM (R334X/S338X) mutants and with (sub-) nanomolar affinities. The nanobodies' epitope was mapped to extracellular loop 2 of CXCR4, overlapping with the binding site of CXCL12. Monovalent, and in particular bivalent, nanobodies were more potent than AMD3100 in reducing CXCL12-mediated G protein activation. In addition, CXCR4-WHIM-dependent calcium flux and wound healing of human papillomavirus-immortalized cell lines in response to CXCL12 was effectively inhibited by the nanobodies. Based on these in vitro results, we conclude that CXCR4 nanobodies hold significant potential as alternative therapeutics for CXCR4-associated diseases such as WHIM syndrome.", 
+          "qas": [
+            {
+              "question": "List four features of the WHIM syndrome.", 
+              "id": "5c55de1607647bbc4b00000a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "[Late diagnosis of WHIM sydrome]. WHIM syndrome is a primary autosomal dominant immuno deficiency due to CXCR4 mutations characterized by mucocutaneous warts, hypogammaglobulinemia, recurrent bacterial infections and myelokathesis. Treatment consists in prophylactic antibiotics, immunoglobulin replacement and granulocyte or granulocyte/monocyte colony stimulating factors. We present the case of a 21 year old woman who showed leukopenia at 10 months of age and one year later multiple infections with hypogammaglobulinemia requiring intravenous immunoglobulin. During follow up she developed chronic neutropenia. A bone marrow aspiration showed increased myeloid series with predominance of immature elements. On the basis of infections, low levels of IgG, IgA, IgM and lymphopenia with absent memory B cells, a diagnosis of common variable immunodeficiency was made. She started intravenous immunoglobulin replacement and prophylactic antibiotics. At age 20, small warts in hands that progressed to forearms, knees, abdomen and face were recorded. CXCR4 gene sequencing was done detecting a heterozygous p.Arg334STOP mutation, confirming WHIM syndrome. This disease is infrequent and difficult to diagnose.", 
+          "qas": [
+            {
+              "question": "List four features of the WHIM syndrome.", 
+              "id": "5c55de1607647bbc4b00000a_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Cxcr4-haploinsufficient bone marrow transplantation corrects leukopenia in an unconditioned WHIM syndrome model. For gene therapy of gain-of-function autosomal dominant diseases, either correcting or deleting the disease allele is potentially curative. To test whether there may be an advantage of one approach over the other for WHIM (warts, hypogammaglobulinemia, infections, and myelokathexis) syndrome - a primary immunodeficiency disorder caused by gain-of-function autosomal dominant mutations in chemokine receptor CXCR4 - we performed competitive transplantation experiments using both lethally irradiated WT (Cxcr4+/+) and unconditioned WHIM (Cxcr4+/w) recipient mice. In both models, hematopoietic reconstitution was markedly superior using BM cells from donors hemizygous for Cxcr4 (Cxcr4+/o) compared with BM cells from Cxcr4+/+ donors. Remarkably, only approximately 6% Cxcr4+/o hematopoietic stem cell (HSC) chimerism after transplantation in unconditioned Cxcr4+/w recipient BM supported more than 70% long-term donor myeloid chimerism in blood and corrected myeloid cell deficiency in blood. Donor Cxcr4+/o HSCs differentiated normally and did not undergo exhaustion as late as 465 days after transplantation. Thus, disease allele deletion resulting in Cxcr4 haploinsufficiency was superior to disease allele repair in a mouse model of gene therapy for WHIM syndrome, allowing correction of leukopenia without recipient conditioning.", 
+          "qas": [
+            {
+              "question": "List four features of the WHIM syndrome.", 
+              "id": "5c55de1607647bbc4b00000a_002"
+            }
+          ]
+        }, 
+        {
+          "context": "How I treat warts, hypogammaglobulinemia, infections, and myelokathexis syndrome. Warts, hypogammaglobulinemia, infections, and myelokathexis (WHIM) syndrome is a genetic disease characterized by neutropenia, lymphopenia, susceptibility to infections, and myelokathexis, which describes degenerative changes of mature neutrophils and hyperplasia of bone marrow myeloid cells. Some patients present with hypogammaglobulinemia and/or refractory warts of skin and genitalia. Congenital cardiac defects constitute uncommon manifestations of the disease. The disorder, which is inherited as an autosomal dominant trait, is caused by heterozygous mutations of the chemokine receptor CXCR4. These mutations lead to an increased sensitivity of neutrophils and lymphocytes to the unique ligand CXCL12 and to an increased accumulation of mature neutrophils in the bone marrow. Despite greatly improved knowledge of the disease, therapeutic choices are insufficient to prevent some of the disease outcomes, such as development of bronchiectasis, anogenital dysplasia, or invasive cancer. The available therapeutic measures aimed at preventing the risk for infection in WHIM patients are discussed. We critically evaluate the diagnostic criteria of WHIM syndrome, particularly when WHIM syndrome should be suspected in patients with congenital neutropenia and lymphopenia despite the absence of hypogammaglobulinemia and/or warts. Finally, we discuss recent results of trials evaluating plerixafor, a selective antagonist of CXCR4, as a mechanism-oriented strategy for treatment of WHIM patients.", 
+          "qas": [
+            {
+              "question": "List four features of the WHIM syndrome.", 
+              "id": "5c55de1607647bbc4b00000a_003"
+            }
+          ]
+        }, 
+        {
+          "context": "CXCL12 Mediates Aberrant Costimulation of B Lymphocytes in Warts, Hypogammaglobulinemia, Infections, Myelokathexis Immunodeficiency. The Warts, Hypogammaglobulinemia, Infections, Myelokathexis (WHIM) syndrome is an immunodeficiency caused by mutations in chemokine receptor CXCR4. WHIM patient adaptive immunity defects remain largely unexplained. We have previously shown that WHIM-mutant T cells form unstable immunological synapses, affecting T cell activation. Here, we show that, in WHIM patients and WHIM CXCR4 knock-in mice, B cells are more apoptosis prone. Intriguingly, WHIM-mutant B cells were also characterized by spontaneous activation. Searching for a mechanistic explanation for these observations, we uncovered a novel costimulatory effect of CXCL12, the CXCR4 ligand, on WHIM-mutant but not wild-type B cells. The WHIM CXCR4-mediated costimulation led to increased B-cell activation, possibly involving mTOR, albeit without concurrently promoting survival. A reduction in antigenic load during immunization in the mouse was able to circumvent the adaptive immunity defects. These results suggest that WHIM-mutant CXCR4 may lead to spontaneous aberrant B-cell activation, via CXCL12-mediated costimulation, impairing B-cell survival and thus possibly contributing to the WHIM syndrome defects in adaptive immunity.", 
+          "qas": [
+            {
+              "question": "List four features of the WHIM syndrome.", 
+              "id": "5c55de1607647bbc4b00000a_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Dysplasia of Granulocytes in a Patient with HPV Disease, Recurrent Infections, and B Lymphopenia: A Novel Variant of WHIM Syndrome? WHIM syndrome is a condition in which affected persons have chronic peripheral neutropenia, lymphopenia, abnormal susceptibility to human papilloma virus infection, and myelokathexis. Myelokathexis refers to the retention of mature neutrophils in the bone marrow (BM), which accounts for degenerative changes and hypersegmentation. Most patients present heterozygous autosomal dominant mutations of the gene encoding CXCR4. Consequently, aberrant CXCL12/CXCR4 signaling impairs the receptor downregulation causing hyperactivation (gain-of-function) that affects BM homing for myelopoiesis and lymphopoiesis and the release of neutrophils in the bloodstream. We report the case of a 26-year-old female with severe foot and hand cutaneous warts since childhood, recalcitrant genital condylomatas, bacterial infections, and intraepithelial cervical neoplasia. Laboratory tests revealed severe B lymphopenia and HPV high and low risk types. HIV testing was negative. Not only CXCR4 but also GATA2, NEMO, and CD40L gene mutations were excluded. BM smears revealed, in the presence of a normal cellularity, hyperplasia of myeloid cells (MPO positive) and karyorrhexis, especially in neutrophils and eosinophils. Of note, neutrophils with altered lobation of nuclei connected by long thin chromatin filaments were observed. Our patient presented a clinical and histological picture reminiscent of WHIM in the presence of normal peripheral neutrophil counts and wild-type CXCR4 gene. Although the BM did not reveal a classical pattern of myelokathexis, the observation of consistent signs of neutrophil dysplasia has fuelled the hypothesis of a novel WHIM variant or a novel immunodeficiency. We speculate that abnormalities that affect CXCR4/CXCL12 pair, including GRK levels or activity, might be responsible for this WHIM-like disorder.", 
+          "qas": [
+            {
+              "question": "List four features of the WHIM syndrome.", 
+              "id": "5c55de1607647bbc4b00000a_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Detection of the senescence-associated secretory phenotype (SASP). Cellular senescence suppresses cancer by eliminating potentially oncogenic cells, participates in tissue repair, contributes to cancer therapy, and promotes organismal aging. Numerous activities of senescent cells depend on the aptitude of these cells to secrete myriads of bioactive molecules, a behavior termed the senescence-associated secretory phenotype (SASP). The SASP supports cell-autonomous functions like the senescence-associated growth arrest, and mediates paracrine interactions between senescent cells and their surrounding microenvironment. The biological functions and the regulation of the SASP are beginning to emerge, and current SASP assessment techniques include the analysis of SASP factors at the mRNA level, the direct measurement of factors inside or outside the cell (i.e., secreted), and the detection of SASP-provoked cellular responses. Here, we focus on a simple approach to collect SASP-conditioned media in order to directly measure secreted SASP factors using sandwich enzyme-linked immunosorbent assay. As an example, we discuss the assessment of the major SASP factor interleukin-6 in senescent human fibroblasts. Supplemental notes are provided to easily adapt this procedure to other SASP factors, change cell types, or scale the techniques for different volumes or high-throughput measurements. These techniques should facilitate the discovery of novel functions and regulators of the SASP.", 
+          "qas": [
+            {
+              "question": "What forms part of the senescence associated secretory phenotype, or SASP?", 
+              "id": "5c0e82b2133db5eb7800002d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "SASP: Tumor Suppressor or Promoter? Yes! Cellular senescence is a permanent growth arrest in cells with damage or stress that could lead to transformation. Some tumor cells also undergo senescence in response to chemotherapy. Senescent cells secrete cytokines and other factors of the senescence-associated secretory phenotype (SASP) that contribute to tumor suppression by enforcing arrest and recruiting immune cells that remove these damaged or oncogene-expressing cells from organisms. However, some cells can develop a SASP comprising factors that are immunosuppressive and protumorigenic by paracrine mechanisms. Likewise, the SASP in treated cancers can either contribute to durable responses or drive relapse. Here, we discuss the studies that have demonstrated a complex and often conflicting role for the SASP in tumorigenesis and treatment response.", 
+          "qas": [
+            {
+              "question": "What forms part of the senescence associated secretory phenotype, or SASP?", 
+              "id": "5c0e82b2133db5eb7800002d_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Whole Chromosome Instability induces senescence and promotes SASP. Age-related accumulation of ploidy changes is associated with decreased expression of genes controlling chromosome segregation and cohesin functions. To determine the consequences of whole chromosome instability (W-CIN) we down-regulated the spindle assembly checkpoint component BUB1 and the mitotic cohesin SMC1A, and used four-color-interphase-FISH coupled with BrdU incorporation and analyses of senescence features to reveal the fate of W-CIN cells. We observed significant correlations between levels of not-diploid cells and senescence-associated features (SAFs). W-CIN induced DNA double strand breaks and elevated oxidative stress, but caused low apoptosis. SAFs of W-CIN cells were remarkably similar to those induced by replicative senescence but occurred in only 13 days versus 4 months. Cultures enriched with not-diploid cells acquired a senescence-associated secretory phenotype (SASP) characterized by IL1B, CXCL8, CCL2, TNF, CCL27 and other pro-inflammatory factors including a novel SASP component CLEC11A. These findings suggest that W-CIN triggers premature senescence, presumably to prevent the propagation of cells with an abnormal DNA content. Cells deviating from diploidy have the ability to communicate with their microenvironment by secretion of an array of signaling factors. Our results suggest that aneuploid cells that accumulate during aging in some mammalian tissues potentially contribute to age-related pathologies and inflammation through SASP secretion.", 
+          "qas": [
+            {
+              "question": "What forms part of the senescence associated secretory phenotype, or SASP?", 
+              "id": "5c0e82b2133db5eb7800002d_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Anti-TNF-\u03b1 treatment modulates SASP and SASP-related microRNAs in endothelial cells and in circulating angiogenic cells. Endothelial cell senescence is characterized by acquisition of senescence-associated secretory phenotype (SASP), able to promote inflammaging and cancer progression. Emerging evidence suggest that preventing SASP development could help to slow the rate of aging and the progression of age-related diseases, including cancer. Aim of this study was to evaluate whether and how adalimumab, a monoclonal antibody directed against tumor necrosis factor-\u03b1 (TNF-\u03b1), a major SASP component, can prevent the SASP. A three-pronged approach has been adopted to assess the if adalimumab is able to: i) modulate a panel of classic and novel senescence- and SASP-associated markers (interleukin [IL]-6, senescence associated-\u03b2-galactosidase, p16/Ink4a, plasminogen activator inhibitor 1, endothelial nitric oxide synthase, miR-146a-5p/Irak1 and miR-126-3p/Spred1) in human umbilical vein endothelial cells (HUVECs); ii) reduce the paracrine effects of senescent HUVECs' secretome on MCF-7 breast cancer cells, through wound healing and mammosphere assay; and iii) exert significant decrease of miR-146a-5p and increase of miR-126-3p in circulating angiogenic cells (CACs) from psoriasis patients receiving adalimumab in monotherapy.TNF-\u03b1 blockade associated with adalimumab induced significant reduction in released IL-6 and significant increase in eNOS and miR-126-3p expression levels in long-term HUVEC cultures.A significant reduction in miR-146a-5p expression levels both in long-term HUVEC cultures and in CACs isolated from psoriasis patients was also evident. Interestingly, conditioned medium from senescent HUVECs treated with adalimumab was less consistent than medium from untreated cells in inducing migration- and mammosphere- promoting effects on MCF-7 cells.Our findings suggest that adalimumab can induce epigenetic modifications in cells undergoing senescence, thus contributing to the attenuation of SASP tumor-promoting effects.", 
+          "qas": [
+            {
+              "question": "What forms part of the senescence associated secretory phenotype, or SASP?", 
+              "id": "5c0e82b2133db5eb7800002d_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Detecting the Senescence-Associated Secretory Phenotype (SASP) by High Content Microscopy Analysis. The diverse arrays of proteins secreted by senescent cells have been described to influence aging and to have both pro-tumorigenic and anti-tumorigenic influences on the surrounding microenvironment. Further characterization of these proteins, known as the senescence-associated secretory phenotype (SASP), and their regulators is required to understand and further manipulate such activities. The use of high-throughput technology allows us to obtain visual and quantitative data on a large number of samples quickly and easily. Not only is this an invaluable tool for conducting large-scale RNAi or compound screenings, but also allows rapid validation of candidates of interest. Here, we describe how we use the Widefield High-Content Analysis Systems to characterize the phenotypes of cells following modulation by potential regulators of Oncogene-Induced Senescence (OIS) by measuring numerous markers of senescence, including the SASP. This approach can be also used to screen for siRNA able to perturb the expression of SASP components during OIS.", 
+          "qas": [
+            {
+              "question": "What forms part of the senescence associated secretory phenotype, or SASP?", 
+              "id": "5c0e82b2133db5eb7800002d_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Targeting the SASP to combat ageing: Mitochondria as possible intracellular allies? Anti-senescence therapies, such as drugs that specifically kill senescent cells, to stave off ageing are currently under investigation. While these interventions show promise, their potential pitfalls are discussed herein. We have shown that the mitochondria are essential for development of senescence and many of the associated phenotypes, including the often detrimental senescence-associated secretory phenotype (SASP). Here, we disentangle many ways in which the mitochondria may influence senescence and development of the SASP and focus on possible pathways that could be exploited for future generation of anti-senescence therapies with a clear aim; to specifically eliminate the problematic features of senescent cells, while maintaining their beneficial characteristics.", 
+          "qas": [
+            {
+              "question": "What forms part of the senescence associated secretory phenotype, or SASP?", 
+              "id": "5c0e82b2133db5eb7800002d_005"
+            }
+          ]
+        }, 
+        {
+          "context": "SASP mediates chemoresistance and tumor-initiating-activity of mesothelioma cells. Here we show that pemetrexed-treated mesothelioma cells undergo accelerated senescence. This is characterized by the secretion of proinflammatory and mitogenic cytokines, reminiscent of an SASP (senescence-associated secretory phenotype). Conditioned media from senescent MPM (malignant pleural mesothelioma) cells trigger the emergence of EMT (epithelial-to-mesenchymal)-like, clonogenic and chemoresistant cell subpopulations, expressing high levels of ALDH (aldehyde dehydrogenase) activity (ALDH(bright) cells). We show by fluorescence-activated cell sorting of purified ALDH(bright) and ALDH(low) cells, that both cell-autonomous and cell-non-autonomous mechanisms converge to maintain the SASP-induced, EMT-like cell subpopulations. Chemoresistant ALDH(bright) cells exist within primary MPM specimens and enrichment for ALDH(bright) cells correlates with an earlier tumor onset into NOD/SCID mice. We show that RAS(v12) expression induces SASP-like changes in untransformed human mesothelial cells, and that p53 ablation increases the effect of RAS(v12) expression. We identify STAT3 activation as a crucial event downstream to SASP signaling. In fact, small hairpin RNA-mediated ablation of STAT3 deeply attenuates the induction of EMT genes and the increase of ALDH(bright) cells induced by SASP-cytokines. This strongly affects the chemoresistance of MPM cells in vitro and leads to anticancer effects in vivo.", 
+          "qas": [
+            {
+              "question": "What forms part of the senescence associated secretory phenotype, or SASP?", 
+              "id": "5c0e82b2133db5eb7800002d_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Exposure to household furry pets influences the gut microbiota of infant at 3-4\u00a0months following various birth scenarios. BACKGROUND: Early-life exposure to household pets has the capacity to reduce risk for overweight and allergic disease, especially following caesarean delivery. Since there is some evidence that pets also alter the gut microbial composition of infants, changes to the gut microbiome are putative pathways by which pet exposure can reduce these risks to health. To investigate the impact of pre- and postnatal pet exposure on infant gut microbiota following various birth scenarios, this study employed a large subsample of 746 infants from the Canadian Healthy Infant Longitudinal Development Study (CHILD) cohort, whose mothers were enrolled during pregnancy between 2009 and 2012. Participating mothers were asked to report on household pet ownership at recruitment during the second or third trimester and 3\u00a0months postpartum. Infant gut microbiota were profiled with 16S rRNA sequencing from faecal samples collected at the mean age of 3.3\u00a0months. Two categories of pet exposure (i) only during pregnancy and (ii) pre- and postnatally were compared to no pet exposure under different birth scenarios. RESULTS: Over half of studied infants were exposed to at least one furry pet in the prenatal and/or postnatal periods, of which 8% were exposed in pregnancy alone and 46.8% had exposure during both time periods. As a common effect in all birth scenarios, pre- and postnatal pet exposure enriched the abundance of Oscillospira and/or Ruminococcus (P\u2009<\u20090.05) with more than a twofold greater likelihood of high abundance. Among vaginally born infants with maternal intrapartum antibiotic prophylaxis exposure, Streptococcaceae were substantially and significantly reduced by pet exposure (P\u2009<\u20090.001, FDRp\u2009=\u20090.03), reflecting an 80% decreased likelihood of high abundance (OR 0.20, 95%CI, 0.06-0.70) for pet exposure during pregnancy alone and a 69% reduced likelihood (OR 0.31, 95%CI, 0.16-0.58) for exposure in the pre- and postnatal time periods. All of these associations were independent of maternal asthma/allergy status, siblingship, breastfeeding exclusivity and other home characteristics. CONCLUSIONS: The impact of pet ownership varies under different birth scenarios; however, in common, exposure to pets increased the abundance of two bacteria, Ruminococcus and Oscillospira, which have been negatively associated with childhood atopy and obesity.", 
+          "qas": [
+            {
+              "question": "Which bacteria are enriched in the gut microbiome of infants following exposure to fury pets?", 
+              "id": "5be47df8133db5eb78000019_000"
+            }
+          ]
+        }, 
+        {
+          "context": "INTERACT: an object oriented protein-protein interaction database. MOTIVATION: Protein-protein interactions provide vital information concerning the function of proteins, complexes and networks. Currently there is no widely accepted repository of this interaction information. Our aim is to provide a single database with the necessary architecture to fully store, query and analyse interaction data. RESULTS: An object oriented database has been created which provides scientists with a resource for examining existing protein-protein interactions and inferring possible interactions from the data stored. It also provides a basis for examining networks of interacting proteins, via analysis of the data stored. The database contains over a thousand interactions. CONTACT: k.eilbeck@stud.man.ac.uk", 
+          "qas": [
+            {
+              "question": "List the main PPI databases.", 
+              "id": "5ad4eddf133db5eb78000009_000"
+            }
+          ]
+        }, 
+        {
+          "context": "[Cellular adhesion signal transduction network of tumor necrosis factor-alpha induced hepatocellular carcinoma cells]. OBJECTIVE: To systemically explore the cellular adhesion signal transduction network of tumor necrosis factor-alpha (TNF-\u03b1)-induced hepatocellular carcinoma cells with bioinformatics tools. METHODS: Published microarray dataset of TNF-\u03b1-induced HepG2, human transcription factor database HTRI and human protein-protein interaction database HPRD were used to construct and analyze the signal transduction network. RESULTS: In the signal transduction network, MYC and SP1 were the key nodes of signaling transduction. Several genes from the network were closely related with cellular adhesion.Epidermal growth factor receptor (EGFR) is a possible key gene of effectively regulating cellular adhesion during the induction of TNF-\u03b1. CONCLUSION: EGFR is a possible key gene for TNF-\u03b1-induced metastasis of hepatocellular carcinoma.", 
+          "qas": [
+            {
+              "question": "List the main PPI databases.", 
+              "id": "5ad4eddf133db5eb78000009_001"
+            }
+          ]
+        }, 
+        {
+          "context": "The MIPS mammalian protein-protein interaction database. The MIPS mammalian protein-protein interaction database (MPPI) is a new resource of high-quality experimental protein interaction data in mammals. The content is based on published experimental evidence that has been processed by human expert curators. We provide the full dataset for download and a flexible and powerful web interface for users with various requirements.", 
+          "qas": [
+            {
+              "question": "List the main PPI databases.", 
+              "id": "5ad4eddf133db5eb78000009_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Insight into the Epigenetics of Alzheimer's Disease: A Computational Study from Human Interactome. BACKGROUND: Alzheimer&amp;#039;s disease (AD) is the most prevalent neurodegenerative disease throughout the world. Most of the clinical symptoms of AD appear at a very later stage, therefore, the identification of disease markers is essential which can help proper detection of AD at an earlier stage and slow down its progression. Studies have implicated that epigenetic biomarkers, such as DNA methylation, histone modification and non coding RNA mediated regulation serve crucial roles in several disease progression including AD. OBJECTIVE: The aim of our study was to identify the topologically significant AD-related proteins from experimentally validated human protein-protein interaction database, HPRD (interactome) and find out novel epigenetic biomarkers. METHOD: In this computational work, we constructed AD specific diseasome from AD genelist and interactome. Using this diseasome we screened the interactome with the help of novel parameters namely degree band and similarity index and identified AD related proteins. Regulatory network involving AD related proteins, not previously known to be associated with AD was constructed. Several network motifs and epigenetic modification patterns of regulators of these motifs were studied. RESULT: Our study identified computationally predicted 22 epigenetic genes and 11 epigenetic miRs, not previously known to be associated with AD, from the network motifs. Most of these genes and miRs show brain specific expression. Further study on the epigenetic modification patterns of these regulators regarding histone modification, CpG island and lncRNAs strengthened their association in AD. CONCLUSION: Computationally predicted genes and miRs identified in our study might provide insight into new epigenetic AD therapeutic targets.", 
+          "qas": [
+            {
+              "question": "List the main PPI databases.", 
+              "id": "5ad4eddf133db5eb78000009_003"
+            }
+          ]
+        }, 
+        {
+          "context": "New perspectives on the mutated NGLY1 enigma. The enzyme N-glycanase 1 (NGLY1) is considered a component of the endoplasmic reticulum-associated degradation (ERAD) machinery and clinical manifestations of its dysfunction include global developmental delay, a movement disorder, peripheral neuropathy, liver disorders, microcephaly, diminished reflexes and seizures. Although several mutations in NGLY1 have been identified, the relation between the defected protein and the above described pathologies is yet unknown. We hypothesised that NGLY1 failure to degrade certain proteins may result in their accumulation and overexpression and used a systems biology approach to identify proteins that may be affected by NGLY1 deficiency. Genes that interact with the NGLY1 gene according to BioGRID database of physical and genetic interactions were analysed with STRING Protein-Protein interaction database. Network analysis identified FAF1 (Fas-Associated Factor 1), an apoptosis-potentiating protein, as a possible degradation substrate of NGLY1. Examination of normal tissue microarrays demonstrated that FAF1-to-NGLY1 ratio is maximal (more than 3:1) in skeletal muscle and brain tissues microarrays. This evidence may explain the pathologies in brain and muscle tissues of patients with mutated NGLY1. To test this hypothesis, laboratory studies that will assess if FAF1 protein is overexpressed in tissues of patients with mutated NGLY1 are required.", 
+          "qas": [
+            {
+              "question": "List the main PPI databases.", 
+              "id": "5ad4eddf133db5eb78000009_004"
+            }
+          ]
+        }, 
+        {
+          "context": "The BioGRID interaction database: 2017 update. The Biological General Repository for Interaction Datasets (BioGRID: https://thebiogrid.org) is an open access database dedicated to the annotation and archival of protein, genetic and chemical interactions for all major model organism species and humans. As of September 2016 (build 3.4.140), the BioGRID contains 1 072 173 genetic and protein interactions, and 38 559 post-translational modifications, as manually annotated from 48 114 publications. This dataset represents interaction records for 66 model organisms and represents a 30% increase compared to the previous 2015 BioGRID update. BioGRID curates the biomedical literature for major model organism species, including humans, with a recent emphasis on central biological processes and specific human diseases. To facilitate network-based approaches to drug discovery, BioGRID now incorporates 27 501 chemical-protein interactions for human drug targets, as drawn from the DrugBank database. A new dynamic interaction network viewer allows the easy navigation and filtering of all genetic and protein interaction data, as well as for bioactive compounds and their established targets. BioGRID data are directly downloadable without restriction in a variety of standardized formats and are freely distributed through partner model organism databases and meta-databases.", 
+          "qas": [
+            {
+              "question": "List the main PPI databases.", 
+              "id": "5ad4eddf133db5eb78000009_005"
+            }
+          ]
+        }, 
+        {
+          "context": "DAPID: a 3D-domain annotated protein-protein interaction database. DAPID is a database of domain-annotated protein interactions inferred from three-dimensional (3D) interacting domains of protein complexes in the Protein Data Bank (PDB). The DAPID data model allows users to visualize 3D interacting domains, contact residues, and molecular details of any predicted protein-protein interactions. Our model derives these interactions by utilizing a new concept, called the ''3D-domain interologs'' which is similar to ''interologs''. In S. cerevisiae, there is 18.6% overlap between our predicted protein-protein interactions and ones in the DIP database. The mean correlation coefficient of the gene expression profiles of our predicted interactions is significantly higher than that for random pairs in S. cerevisiae. In addition, we find several novel interactions which are consistent with the functions of the proteins. The DAPID currently holds 1008 3D-interacting domain pairs and 101511 predicted 3D-domain annotated protein-protein interactions. It is available online at http://gemdock.life.nctu.edu.tw/dapid.", 
+          "qas": [
+            {
+              "question": "List the main PPI databases.", 
+              "id": "5ad4eddf133db5eb78000009_006"
+            }
+          ]
+        }, 
+        {
+          "context": "PPIM: A Protein-Protein Interaction Database for Maize. Maize (Zea mays) is one of the most important crops worldwide. To understand the biological processes underlying various traits of the crop (e.g. yield and response to stress), a detailed protein-protein interaction (PPI) network is highly demanded. Unfortunately, there are very few such PPIs available in the literature. Therefore, in this work, we present the Protein-Protein Interaction Database for Maize (PPIM), which covers 2,762,560 interactions among 14,000 proteins. The PPIM contains not only accurately predicted PPIs but also those molecular interactions collected from the literature. The database is freely available at http://comp-sysbio.org/ppim with a user-friendly powerful interface. We believe that the PPIM resource can help biologists better understand the maize crop.", 
+          "qas": [
+            {
+              "question": "List the main PPI databases.", 
+              "id": "5ad4eddf133db5eb78000009_007"
+            }
+          ]
+        }, 
+        {
+          "context": "Oligomeric state study of prokaryotic rhomboid proteases. Rhomboid peptidases (proteases) play key roles in signaling events at the membrane bilayer. Understanding the regulation of rhomboid function is crucial for insight into its mechanism of action. Here we examine the oligomeric state of three different rhomboid proteases. We subjected Haemophilus influenzae, (hiGlpG), Escherichia coli GlpG (ecGlpG) and Bacillus subtilis (YqgP) to sedimentation equilibrium analysis in detergent-solubilized dodecylmaltoside (DDM) solution. For hiGlpG and ecGlpG, rhomboids consisting of the core 6 transmembrane domains without and with soluble domains respectively, and YqgP, predicted to have 7 transmembrane domains with larger soluble domains at the termini, the predominant species was dimeric with low amounts of monomer and tetramers observed. To examine the effect of the membrane domain alone on oligomeric state of rhomboid, hiGlpG, the simplest form from the rhomboid class of intramembrane proteases representing the canonical rhomboid core of six transmembrane domains, was studied further. Using gel filtration and crosslinking we demonstrate that hiGlpG is dimeric and functional in DDM detergent solution. More importantly co-immunoprecipitation studies demonstrate that the dimer is present in the lipid bilayer suggesting a physiological dimer. Overall these results indicate that rhomboids form oligomers which are facilitated by the membrane domain. For hiGlpG we have shown that these oligomers exist in the lipid bilayer. This is the first detailed oligomeric state characterization of the rhomboid family of peptidases.", 
+          "qas": [
+            {
+              "question": "List intramembrane rhomboid peptidases", 
+              "id": "5c5f03371a4c55d80b000009_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Structural comparison of substrate entry gate for rhomboid intramembrane peptidases. Rhomboids are intramembrane serine peptidases conserved in all kingdoms of life. Their general role is to cleave integral membrane proteins to release signalling molecules. These signals, when disrupted, can contribute to various diseases. Crystal structures of H. influenzae (hiGlpG) and E. coli GlpG (ecGlpG) rhomboids have revealed a structure with six transmembrane helices and a Ser-His catalytic dyad buried within the membrane. One emerging issue was the identification of the mobile element in the protein that allows substrate docking. It has been proposed that the substrate entry gate is composed of helix 5 and loop 5. The present review studies the structures of these two orthologs. In ecGlpG structures, different conformations of loop 5 and helix 5 are observed. Open and closed conformations of ecGlpG structures are compared with each other and with hiGlpG, surveying differences in hydrophobic interactions within loop 5 and helix 5. Furthermore, a comparison of the ecGlpG and hiGlpG structures reveals differences in loop 4. Overall, less variation is observed in loop 4, suggesting this region acts as an anchor for the substrate gate. Functional and regulatory implications of these variations are discussed.", 
+          "qas": [
+            {
+              "question": "List intramembrane rhomboid peptidases", 
+              "id": "5c5f03371a4c55d80b000009_001"
+            }
+          ]
+        }, 
+        {
+          "context": "A novel two-step mechanism for removal of a mitochondrial signal sequence involves the mAAA complex and the putative rhomboid protease Pcp1. The yeast protein cytochrome c peroxidase (Ccp1) is nuclearly encoded and imported into the mitochondrial intermembrane space, where it is involved in degradation of reactive oxygen species. It is known, that Ccp1 is synthesised as a precursor with a N-terminal pre-sequence, that is proteolytically removed during transport of the protein. Here we present evidence for a new processing pathway, involving novel signal peptidase activities. The mAAA protease subunits Yta10 (Afg3) and Yta12 (Rca1) were identified both to be essential for the first processing step. In addition, the Pcp1 (Ygr101w) gene product was found to be required for the second processing step, yielding the mature Ccp1 protein. The newly identified Pcp1 protein belongs to the rhomboid-GlpG superfamily of putative intramembrane peptidases. Inactivation of the protease motifs in mAAA and Pcp1 blocks the respective steps of proteolysis. A model of coupled Ccp1 transport and N-terminal processing by the mAAA complex and Pcp1 is discussed. Similar processing mechanisms may exist, because the mAAA subunits and the newly identified Pcp1 protein belong to ubiquitous protein families.", 
+          "qas": [
+            {
+              "question": "List intramembrane rhomboid peptidases", 
+              "id": "5c5f03371a4c55d80b000009_002"
+            }
+          ]
+        }, 
+        {
+          "context": "PARL partitions the lipid transfer protein STARD7 between the cytosol and mitochondria. Intramembrane-cleaving peptidases of the rhomboid family regulate diverse cellular processes that are critical for development and cell survival. The function of the rhomboid protease PARL in the mitochondrial inner membrane has been linked to mitophagy and apoptosis, but other regulatory functions are likely to exist. Here, we identify the START domain-containing protein STARD7 as an intramitochondrial lipid transfer protein for phosphatidylcholine. We demonstrate that PARL-mediated cleavage during mitochondrial import partitions STARD7 to the cytosol and the mitochondrial intermembrane space. Negatively charged amino acids in STARD7 serve as a sorting signal allowing mitochondrial release of mature STARD7 upon cleavage by PARL On the other hand, membrane insertion of STARD7 mediated by the TIM23 complex promotes mitochondrial localization of mature STARD7. Mitochondrial STARD7 is necessary and sufficient for the accumulation of phosphatidylcholine in the inner membrane and for the maintenance of respiration and cristae morphogenesis. Thus, PARL preserves mitochondrial membrane homeostasis via STARD7 processing and is emerging as a critical regulator of protein localization between mitochondria and the cytosol.", 
+          "qas": [
+            {
+              "question": "List intramembrane rhomboid peptidases", 
+              "id": "5c5f03371a4c55d80b000009_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Dolutegravir/Rilpivirine: A Review in HIV-1 Infection. Dolutegravir/rilpivirine (Juluca) is the first two-drug single-tablet regimen (STR) to be approved for the treatment of HIV-1 infection in adults. The fixed-dose STR combines the integrase strand transfer inhibitor dolutegravir with the non-nucleoside reverse transcriptase inhibitor rilpivirine. In two phase\u00a0III non-inferiority trials (SWORD-1 and SWORD-2) in treatment-experienced patients already virologically suppressed on their current antiretroviral (ART) regimen, switching to once-daily dolutegravir plus rilpivirine maintained virological suppression over 48\u00a0weeks. Switching to a two-drug regimen of dolutegravir plus rilpivirine was also associated with high rates of virological suppression in real-world observational studies. Switching to once-daily dolutegravir plus rilpivirine was generally well tolerated and associated with more favourable renal and bone parameters than remaining on the current ART regimen. Longer-term, dolutegravir plus rilpivirine demonstrated durable maintenance of virological suppression and remained generally well tolerated for up to 100\u00a0weeks. Thus, dolutegravir/rilpivirine provides a convenient alternative treatment option for some adults with HIV-1 infection and no history of virological failure who are already virologically suppressed on (and wish to switch from) their current ART regimen.", 
+          "qas": [
+            {
+              "question": "List two medication included in the Juluca pill.", 
+              "id": "5c61cdd7e842deac67000004_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Acute acalculous cholecystitis in patients with systemic lupus erythematosus: A unique form of disease flare. Objective We aimed to investigate the clinical features of acute acalculous cholecystitis (AAC) in patients with systemic lupus erythematosus (SLE). Methods SLE patients with AAC hospitalized in the Peking Union Medical College Hospital (PUMCH) from January 2001 to September 2015 were retrospectively analyzed. Their medical records were systematically reviewed. The diagnosis of AAC was based on clinical manifestations and confirmed by radiologic findings including a distended gallbladder with thickened wall, pericholecystic fluid and absence of gallstones. Results Among the 8411 hospitalized SLE patients in PUMCH, 13 (0.15%) were identified to have SLE-AAC. Eleven (84.6%) of them were female, with a mean age of 30.1\u2009\u00b1\u20098.6 years. AAC was the initial manifestation of SLE in four (30.8%) cases. Eleven (84.6%) patients complained of fever and abdominal pain, four (30.8%) had positive Murphy's sign and six (46.2%) had elevated liver enzymes. The median SLE Disease Activity Index was 8.0 (range 0-20.0) at the time of AAC. Other affected organs in SLE-AAC included kidney (11, 84.6%) and hematologic system (11, 84.6%), followed by mucocutaneous (seven, 53.8%), musculoskeletal (seven, 53.8%) and neuropsychiatric (two, 15.4%) systems. All patients received treatment of glucocorticoids and immunosuppressants but none underwent surgical intervention. During a median follow-up of 28 months (range, 2-320 months), 12 cases (92.4%) responded to treatment with no relapse and one patient (7.6%) died of septic shock. Conclusion Our study suggests that AAC is a relatively uncommon and underestimated gastrointestinal involvement of SLE that is often associated with active disease. For patients with AAC in SLE, treatment with aggressive glucocorticoids could result in a good prognosis.", 
+          "qas": [
+            {
+              "question": "Which organs are mostly affected in Systemic Lupus Erythematosus (SLE)?", 
+              "id": "5c34a029da8336e21a000003_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Evaluation of the incidence of discoid lupus erythematosus in patients with systemic lupus erythematosus and its relationship to disease activity. BACKGROUND: Systemic lupus erythematosus (SLE) is a chronic autoimmune disease with wide clinical features ranging from cutaneous manifestations to systemic disease. Skin is one of the most commonly affected organs in SLE. OBJECTIVE: To determine whether there is any correlation between discoid lupus erythematosus (DLE) and the severity of SLE. METHODS: In a prospective cross-sectional study, 60 consecutive patients with newly diagnosed SLE were enrolled. Skin biopsy was performed to establish the diagnosis of DLE. Disease activity was determined by the Systemic Lupus Erythematosus Disease Activity Index 2000 (SLEDAI-2K). A SLEDAI-2K score \u2265 10 was considered active and severe disease. RESULTS: Eleven SLE patients (9 females and 2 males) had DLE (18.3%) and 49 patients (46 females and 3 males) had SLE without DLE (81.7%). The mean age of patients with DLE was 30.18 \u00b1 11.07 years and in patients without it was 28.4 \u00b1 10.26 years (p \u200a=\u200a .6). Three of 11 patients with DLE (27.3%) and 14 of 49 patients without DLE (28.6%) had a SLEDAI-2K score \u2265 10 (p \u200a=\u200a 1). CONCLUSION: The presence of DLE in our patients with SLE was not associated with less severe disease.", 
+          "qas": [
+            {
+              "question": "Which organs are mostly affected in Systemic Lupus Erythematosus (SLE)?", 
+              "id": "5c34a029da8336e21a000003_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Cardiac manifestations of systemic lupus erythematosus. The heart is one of the most frequently affected organs in SLE. Any part of the heart can be affected, including the pericardium, myocardium, coronary arteries, valves, and the conduction system. In addition to pericarditis and myocarditis, a high incidence of CAD has become increasingly recognized as a cause of mortality, especially in older adult patients and those with long-standing SLE. Many unanswered questions remain in terms of understanding the pathogenesis of cardiac manifestations of SLE. It is not currently possible to predict the patients who are at greatest risk for the various types of cardiac involvement. However, with the rapid advancement of basic science and translational research approaches, it is now becoming easier to identify specific mutations associated with SLE. A better understanding of these genetic factors may eventually allow clinicians to categorize and predict the patients who are at risk for specific cardiac manifestations of SLE.", 
+          "qas": [
+            {
+              "question": "Which organs are mostly affected in Systemic Lupus Erythematosus (SLE)?", 
+              "id": "5c34a029da8336e21a000003_002"
+            }
+          ]
+        }, 
+        {
+          "context": "18FDG PET and acetazolamide-enhanced 99mTc-HMPAO SPET in systemic lupus erythematosus. In systemic lupus erythematosus (SLE), brain and kidney are the most frequently affected organs. Measurements of cerebral blood flow and metabolism by means of positron emission tomography (PET) and single-photon emission tomography (SPET) can contribute to the diagnostic assessment of the involvement of the central nervous system (CNS) in SLE. Functional imaging has been proven to be more sensitive than morphological imaging (magnetic resonance imaging and computed tomography). In this report, we present the case of a 70-year-old female patient, suffering from SLE without symptoms of CNS involvement. In addition to a SPET study using technetium-99m hexamethylpropylene amine oxime (99mTc-HMPAO) and a PET scan with fluorine-18 deoxyglucose (18FDG), a SPET study after acetazolamide injection was performed in order to assess the cerebral perfusion reserve. While the PET scan showed no major abnormalities, and the baseline SPET study revealed only minor changes, the acetazolamide-enhanced SPET study revealed a marked reduction of the cortical perfusion reserve, particularly in both frontal lobes. It is concluded that \"preclinical\" CNS involvement, mainly caused by pathological mechanisms involving the cerebral blood vessels, can be considered to exist in this patient with SLE.", 
+          "qas": [
+            {
+              "question": "Which organs are mostly affected in Systemic Lupus Erythematosus (SLE)?", 
+              "id": "5c34a029da8336e21a000003_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Small activating RNA restores the activity of the tumor suppressor HIC-1 on breast cancer. HIC-1 is a gene that is hypermethylated in cancer, and commonly downregulated in human breast cancer. However, the precise mechanisms and molecular pathways regulated by HIC-1 remain unclear. We assessed HIC-1 expression on a tissue microarray containing 80 cases of breast cancer. We also analyzed its biological function by restoring HIC-1 expression using 5-aza-2' deoxycytidine (5-CdR) and small-activating RNAs for the reversal of HIC-1 tumor suppressive effects on MCF-7 and MDA-MB-231 cell lines. An Agilent Q44h global expressing microarray was probed after restoring the expression of HIC-1. Data demonstrated that HIC-1 expression was reduced significantly in breast cancer tissues. HIC-1 immunohistochemistry resulted in mean staining scores in cancer tissue and normal ductal epithelia of 3.54 and 8.2, respectively (p<0.01). 5-CdR partially reversed HIC-1 expression, and modulated cell growth and apoptosis. dsHIC1-2998, an saRNA, showed activating efficacy in breast cancer cells. A group of differentially expressed genes were characterized by cDNA microarray. Upon saRNA treatment, genes upregulated included those involved in immune activation, cell cycle interference, the induction of apoptosis, anti-metastasis, and cell differentiation. Downregulated genes included oncogenes and those that play roles in cell invasion, cell growth, and cell division. Our findings may provide valuable resources not only for gene functional studies, but also for potential clinical applications to develop novel drug targets.", 
+          "qas": [
+            {
+              "question": "List 3 diseases for which saRNAs have been evaluated as a potential treatment.", 
+              "id": "5be94f3d133db5eb78000022_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Treatment of Liver Cancer by C/EBPA saRNA. The prognosis for hepatocellular carcinoma (HCC) remains poor and has not improved in over two decades. Most patients with advanced HCC who are not eligible for surgery have limited treatment options due to poor liver function or large, unresectable tumors. Although sorafenib is the standard-of-care treatment for these patients, only a small number respond. For the remaining, the outlook remains bleak. A better approach to target \"undruggable\" molecular pathways that reverse HCC is therefore urgently needed. Small activating RNAs (saRNAs) may provide a novel strategy to activate expression of genes that become dysregulated in chronic disease. The transcription factor CCAAT/enhancer-binding protein alpha (C/EBP\u03b1), a critical regulator of hepatocyte function, is suppressed in many advanced liver diseases. By using an saRNA to activate C/EBP\u03b1, we can exploit the cell's own transcription machinery to enhance gene expression without relying on exogenous vectors that have been the backbone of gene therapy. saRNAs do not integrate into the host genome and can be modified to avoid immune stimulation. In preclinical models of liver disease, treatment with C/EBP\u03b1 saRNA has shown reduction in tumor volume and improvement in serum markers of essential liver function such as albumin, bilirubin, aspartate aminotransferase (AST), and alanine transaminase (ALT). This saRNA that activates C/EBP\u03b1 for advanced HCC is the first saRNA therapy to have entered a human clinical trial. The hope is that this new tool will help break the dismal 20-year trend and provide a more positive prognosis for patients with severe liver disease.", 
+          "qas": [
+            {
+              "question": "List 3 diseases for which saRNAs have been evaluated as a potential treatment.", 
+              "id": "5be94f3d133db5eb78000022_001"
+            }
+          ]
+        }, 
+        {
+          "context": "An orthotopic bladder tumor model and the evaluation of intravesical saRNA treatment. We present a novel method for treating bladder cancer with intravesically delivered small activating RNA (saRNA) in an orthotopic xenograft mouse bladder tumor model. The mouse model is established by urethral catheterization under inhaled general anesthetic. Chemical burn is then introduced to the bladder mucosa using intravesical silver nitrate solution to disrupt the bladder glycosaminoglycan layer and allows cells to attach. Following several washes with sterile water, human bladder cancer KU-7-luc2-GFP cells are instilled through the catheter into the bladder to dwell for 2 hours. Subsequent growth of bladder tumors is confirmed and monitored by in vivo bladder ultrasound and bioluminescent imaging. The tumors are then treated intravesically with saRNA formulated in lipid nanoparticles (LNPs). Tumor growth is monitored with ultrasound and bioluminescence. All steps of this procedure are demonstrated in the accompanying video.", 
+          "qas": [
+            {
+              "question": "List 3 diseases for which saRNAs have been evaluated as a potential treatment.", 
+              "id": "5be94f3d133db5eb78000022_002"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "version": "BioASQ6b", 
+  "data": [
+    {
+      "title": "BioASQ6b", 
+      "paragraphs": [
+        {
+          "context": "Pharmaceutical Approval Update. Aminolevulinic acid hydrochloride (Gleolan) for the visualization of malignant tissue during surgery; delafloxacin (Baxdela) for certain acute bacterial skin infections; and glecaprevir/pibrentasvir (Mavyret) for chronic HCV infection.", 
+          "qas": [
+            {
+              "question": "Which two drugs are included in the MAVYRET pill?", 
+              "id": "5c6e146a7c78d6947100004c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Glecaprevir/Pibrentasvir: First Global Approval. A fixed-dose combination tablet of the hepatitis C virus (HCV) NS3/4A protease inhibitor (PI) glecaprevir and the HCV NS5A inhibitor pibrentasvir [glecaprevir/pibrentasvir; MAVIRET\u2122 (EU); MAVYRET\u2122 (USA)] has been developed by AbbVie. Oral glecaprevir/pibrentasvir 300\u00a0mg/120\u00a0mg (three 100\u00a0mg/40\u00a0mg tablets) taken once daily has been approved by the EMA for the treatment of all major genotypes (genotypes 1-6) of chronic HCV infection in adults. It has also been approved by the US FDA for the treatment of adult patients with chronic HCV genotype 1-6 infection without cirrhosis and with compensated cirrhosis, and for the treatment of adult patients with HCV genotype 1 infection who previously have been treated with a regimen containing either an HCV NS5A inhibitor or an NS3/4A PI, but not both. This article summarizes the milestones in the development of glecaprevir/pibrentasvir leading to its first global approval in the EU and subsequent approval in the USA for chronic HCV infection.", 
+          "qas": [
+            {
+              "question": "Which two drugs are included in the MAVYRET pill?", 
+              "id": "5c6e146a7c78d6947100004c_001"
+            }
+          ]
+        }, 
+        {
+          "context": "De Novo Truncating Mutations in WASF1 Cause Intellectual Disability with Seizures. Next-generation sequencing has been invaluable in the elucidation of the genetic etiology of many subtypes of intellectual disability in recent years. Here, using exome sequencing and whole-genome sequencing, we identified three de novo truncating mutations in WAS protein family member 1 (WASF1) in five unrelated individuals with moderate to profound intellectual disability with autistic features and seizures. WASF1, also known as WAVE1, is part of the WAVE complex and acts as a mediator between Rac-GTPase and actin to induce actin polymerization. The three mutations connected by Matchmaker Exchange were c.1516C>T (p.Arg506Ter), which occurs in three unrelated individuals, c.1558C>T (p.Gln520Ter), and c.1482delinsGCCAGG (p.Ile494MetfsTer23). All three variants are predicted to partially or fully disrupt the C-terminal actin-binding WCA domain. Functional studies using fibroblast cells from two affected individuals with the c.1516C>T mutation showed a truncated WASF1 and a defect in actin remodeling. This study provides evidence that de\u00a0novo heterozygous mutations in WASF1 cause a rare form of intellectual disability.", 
+          "qas": [
+            {
+              "question": "Which de novo truncating mutations in WASF1 cause intellectual disability?", 
+              "id": "5c61f379e842deac67000006_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Factors contributing to measles transmission during an outbreak in Kamwenge District, Western Uganda, April to August 2015. BACKGROUND: In April 2015, Kamwenge District, western Uganda reported a measles outbreak. We investigated the outbreak to identify potential exposures that facilitated measles transmission, assess vaccine effectiveness (VE) and vaccination coverage (VC), and recommend prevention and control measures. METHODS: For this investigation, a probable case was defined as onset of fever and generalized maculopapular rash, plus > 1 of the following symptoms: Coryza, conjunctivitis, or cough. A confirmed case was defined as a probable case plus identification of measles-specific IgM in serum. For case-finding, we reviewed patients' medical records and conducted in-home patient examination. In a case-control study, we compared exposures of case-patients and controls matched by age and village of residence. For children aged 9\u00a0m-5y, we estimated VC using the percent of children among the controls who had been vaccinated against measles, and calculated VE using the formula, VE = 1 - OR, where OR was the Mantel-Haenszel odds ratio associated with having a measles vaccination history. RESULTS: We identified 213 probable cases with onset between April and August, 2015. Of 23 blood specimens collected, 78% were positive for measles-specific IgM. Measles attack rate was highest in the youngest age-group, 0-5y (13/10,000), and decreased as age increased. The epidemic curve indicated sustained propagation in the community. Of the 50 case-patients and 200 controls, 42% of case-patients and 12% of controls visited health centers during their likely exposure period (OR = 6.1; 95% CI = 2.7-14). Among children aged 9\u00a0m-5y, VE was estimated at 70% (95% CI: 24-88%), and VC at 75% (95% CI: 67-83%). Excessive crowding was observed at all health centers; no patient triage-system existed. CONCLUSIONS: The spread of measles during this outbreak was facilitated by patient mixing at crowded health centers, suboptimal VE and inadequate VC. We recommended emergency immunization campaign targeting children <5y in the affected sub-counties, as well as triaging and isolation of febrile or rash patients visiting health centers.", 
+          "qas": [
+            {
+              "question": "Please list symptoms of measles.", 
+              "id": "5c53131e7e3cb0e231000012_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Molecular Pathways: Receptor Ectodomain Shedding in Treatment, Resistance, and Monitoring of Cancer. Proteases known as sheddases cleave the extracellular domains of their substrates from the cell surface. The A Disintegrin and Metalloproteinases ADAM10 and ADAM17 are among the most prominent sheddases, being widely expressed in many tissues, frequently overexpressed in cancer, and promiscuously cleaving diverse substrates. It is increasingly clear that the proteolytic shedding of transmembrane receptors impacts pathophysiology and drug response. Receptor substrates of sheddases include the cytokine receptors TNFR1 and IL6R; the Notch receptors; type-I and -III TGF\u03b2 receptors; receptor tyrosine kinases (RTK) such as HER2, HER4, and VEGFR2; and, in particular, MET and TAM-family RTKs AXL and Mer (MerTK). Activation of receptor shedding by mechanical cues, hypoxia, radiation, and phosphosignaling offers insight into mechanisms of drug resistance. This particularly holds for kinase inhibitors targeting BRAF (such as vemurafenib and dabrafenib) and MEK (such as trametinib and cobimetinib), along with direct sheddase inhibitors. Receptor proteolysis can be detected in patient fluids and is especially relevant in melanoma, glioblastoma, lung cancer, and triple-negative breast cancer where RTK substrates, MAPK signaling, and ADAMs are frequently dysregulated. Translatable strategies to exploit receptor shedding include combination kinase inhibitor regimens, recombinant decoy receptors based on endogenous counterparts, and, potentially, immunotherapy. Clin Cancer Res; 23(3); 623-9. \u00a92016 AACR.", 
+          "qas": [
+            {
+              "question": "What membrane proteins constitute TAM family of receptor tyrosine kinases (RTKs)?", 
+              "id": "5c5315727e3cb0e231000014_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Phosphatidylserine Is the Signal for TAM Receptors and Their Ligands. Nature repeatedly repurposes, in that molecules that serve as metabolites, energy depots, or polymer subunits are at the same time used to deliver signals within and between cells. The preeminent example of this repurposing is ATP, which functions as a building block for nucleic acids, an energy source for enzymatic reactions, a phosphate donor to regulate intracellular signaling, and a neurotransmitter to control the activity of neurons. A series of recent studies now consolidates the view that phosphatidylserine (PtdSer), a common phospholipid constituent of membrane bilayers, is similarly repurposed for use as a signal between cells and that the ligands and receptors of the Tyro3/Axl/Mer (TAM) family of receptor tyrosine kinases (RTKs) are prominent transducers of this signal.", 
+          "qas": [
+            {
+              "question": "What membrane proteins constitute TAM family of receptor tyrosine kinases (RTKs)?", 
+              "id": "5c5315727e3cb0e231000014_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Regulated intramembrane proteolysis of the AXL receptor kinase generates an intracellular domain that localizes in the nucleus of cancer cells. Deregulation of the TAM (TYRO3, AXL, and MERTK) family of receptor tyrosine kinases (RTKs) has recently been demonstrated to predominately promote survival and chemoresistance of cancer cells. Intramembrane proteolysis mediated by presenilin/\u03b3-secretase is known to regulate the homeostasis of some RTKs. In the present study, we demonstrate that AXL, but not TYRO3 or MERTK, is efficiently and sequentially cleaved by \u03b1- and \u03b3-secretases in various types of cancer cell lines. Proteolytic processing of AXL redirected signaling toward a secretase-mediated pathway, away from the classic, well-known, ligand-dependent canonical RTK signaling pathway. The AXL intracellular domain cleavage product, but not full-length AXL, was further shown to translocate into the nucleus via a nuclear localization sequence that harbored a basic HRRKK motif. Of interest, we found that the \u03b3-secretase-uncleavable AXL mutant caused an elevated chemoresistance in non-small-cell lung cancer cells. Altogether, our findings suggest that AXL can undergo sequential processing mediated by various proteases kept in a homeostatic balance. This newly discovered post-translational processing of AXL may provide an explanation for the diverse functions of AXL, especially in the context of drug resistance in cancer cells.-Lu, Y., Wan, J., Yang, Z., Lei, X., Niu, Q., Jiang, L., Passtoors, W. M., Zang, A., Fraering, P. C., Wu, F. Regulated intramembrane proteolysis of the AXL receptor kinase generates an intracellular domain that localizes in the nucleus of cancer cells.", 
+          "qas": [
+            {
+              "question": "What membrane proteins constitute TAM family of receptor tyrosine kinases (RTKs)?", 
+              "id": "5c5315727e3cb0e231000014_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Genome-wide screen of gamma-secretase-mediated intramembrane cleavage of receptor tyrosine kinases. Receptor tyrosine kinases (RTKs) have been demonstrated to signal via regulated intramembrane proteolysis, in which ectodomain shedding and subsequent intramembrane cleavage by gamma-secretase leads to release of a soluble intracellular receptor fragment with functional activity. For most RTKs, however, it is unknown whether they can exploit this new signaling mechanism. Here we used a system-wide screen to address the frequency of susceptibility to gamma-secretase cleavage among human RTKs. The screen covering 45 of the 55 human RTKs identified 12 new as well as all nine previously published gamma-secretase substrates. We biochemically validated the screen by demonstrating that the release of a soluble intracellular fragment from endogenous AXL was dependent on the sheddase disintegrin and metalloprotease 10 (ADAM10) and the gamma-secretase component presenilin-1. Functional analysis of the cleavable RTKs indicated that proliferation promoted by overexpression of the TAM family members AXL or TYRO3 depends on gamma-secretase cleavage. Taken together, these data indicate that gamma-secretase-mediated cleavage provides an additional signaling mechanism for numerous human RTKs.", 
+          "qas": [
+            {
+              "question": "What membrane proteins constitute TAM family of receptor tyrosine kinases (RTKs)?", 
+              "id": "5c5315727e3cb0e231000014_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Enasidenib: First Mutant IDH2 Inhibitor for the Treatment of Refractory and Relapsed Acute Myeloid Leukemia. BACKGROUND: Acute myeloid leukemia is the collective name for different types of leukemias of myeloid origin affecting blood and bone marrow. The overproduction of immature myeloblasts (white blood cells) is the characteristic feature of AML, thus flooding the bone marrow and reducing its capacity to produce normal blood cells. USFDA on August 1, 2017, approved a drug named Enasidenib formerly known as AG-221 which is being marketed under the name Idhifa to treat R/R AML with IDH2 mutation. The present review depicts the broad profile of enasidenib including various aspects of chemistry, preclinical, clinical studies, pharmacokinetics, mode of action and toxicity studies. METHODS: Various reports and research articles have been referred to summarize different aspects related to chemistry and pharmacokinetics of enasidenib. Clinical data was collected from various recently published clinical reports including clinical trial outcomes. RESULT: The various findings of enasidenib revealed that it has been designed to allosterically inhibit mutated IDH2 to treat R/R AML patients. It has also presented good safety and efficacy profile along with 9.3 months overall survival rates of patients in which disease has relapsed. The drug is still under study either in combination or solely to treat hematological malignancies. Molecular modeling studies revealed that enasidenib binds to its target through hydrophobic interaction and hydrogen bonding inside the binding pocket. Enasidenib is found to be associated with certain adverse effects like elevated bilirubin level, diarrhea, differentiation syndrome, decreased potassium and calcium levels, etc. Conclusion: Enasidenib or AG-221was introduced by FDA as an anticancer agent which was developed as a first in class, a selective allosteric inhibitor of the tumor target i.e. IDH2 for Relapsed or Refractory AML. Phase 1/2 clinical trial of Enasidenib resulted in the overall survival rate of 40.3% with CR of 19.3%. Phase III trial on the Enasidenib is still under process along with another trial to test its potency against other cell lines. Edasidenib is associated with certain adverse effects, which can be reduced by investigators by designing its newer derivatives on the basis of SAR studies. Hence, it may come in the light as a potent lead entity for anticancer treatment in the coming years.", 
+          "qas": [
+            {
+              "question": "Name 4 side effects of enasidenib", 
+              "id": "5c658a8f7c78d69471000007_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Drug-induced dyspnea versus cystic fibrosis exacerbation: a diagnostic dilemma. Cystic fibrosis (CF) is a disease caused by a mutation in the cystic fibrosis transmembrane conductance regulator protein in the epithelial membrane, and affects at least 30,000 people in the USA. There are between 900 and 1000 new cases diagnosed every year. Traditionally, CF has been treated symptomatically with pancreatic enzymes, bronchodilators, hypertonic saline, and pulmozyme. In July 2015, the US Food and Drug Administration approved Orkambi (lumacaftor/ivacaftor), a combination drug that works on reversing the effects of the defective cystic fibrosis transmembrane conductance regulator protein. Orkambi and mucolytics decrease the viscosity of mucous secretions, leading to an accumulation of hypoviscous fluid in the alveoli, resulting in dyspnea. This presentation can be mistaken for an infective exacerbation. We present a case in which a young female with CF recently started on Orkambi therapy presented to her primary care physician with dyspnea and increased respiratory secretions and was admitted to the hospital for 2 weeks of intravenous and inhaled antibiotic therapy for a presumed CF exacerbation. We highlight this case to bring awareness and educate patients and clinicians of the side-effect profile of Orkambi therapy with an intent to avoid unnecessary hospitalizations, inpatient antibiotics, and other costly medical services.", 
+          "qas": [
+            {
+              "question": "Which drugs are included in the Orkambi pill?", 
+              "id": "5c73ad087c78d69471000091_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Lumacaftor (VX-809) restores the ability of CF macrophages to phagocytose and kill Pseudomonas aeruginosa. Cystic fibrosis (CF), the most common lethal genetic disease in Caucasians, is characterized by chronic bacterial lung infection and excessive inflammation, which lead to progressive loss of lung function and premature death. Although ivacaftor (VX-770) alone and ivacaftor in combination with lumacaftor (VX-809) improve lung function in CF patients with the Gly551Asp and del508Phe mutations, respectively, the effects of these drugs on the function of human CF macrophages are unknown. Thus studies were conducted to examine the effects of lumacaftor alone and lumacaftor in combination with ivacaftor (i.e., ORKAMBI) on the ability of human CF ( del508Phe/ del508Phe) monocyte-derived macrophages (MDMs) to phagocytose and kill Pseudomonas aeruginosa. Lumacaftor alone restored the ability of CF MDMs to phagocytose and kill P. aeruginosa to levels observed in MDMs obtained from non-CF (WT-CFTR) donors. This effect contrasts with the partial (~15%) correction of del508Phe Cl secretion of airway epithelial cells by lumacaftor. Ivacaftor reduced the ability of lumacaftor to stimulate phagocytosis and killing of P. aeruginosa. Lumacaftor had no effect on P. aeruginosa-stimulated cytokine secretion by CF MDMs. Ivacaftor (5 \u00b5M) alone and ivacaftor in combination with lumacaftor reduced secretion of several proinflammatory cytokines. The clinical efficacy of ORKAMBI may be related in part to the ability of lumacaftor to stimulate phagocytosis and killing of P. aeruginosa by macrophages.", 
+          "qas": [
+            {
+              "question": "Which drugs are included in the Orkambi pill?", 
+              "id": "5c73ad087c78d69471000091_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Personalized medicine in CF: from modulator development to therapy for cystic fibrosis patients with rare CFTR mutations. Cystic fibrosis (CF) is the most common life-shortening genetic disease affecting ~1 in 3,500 of the Caucasian population. CF is caused by mutations in the CF transmembrane conductance regulator (CFTR) gene. To date, more than 2,000 CFTR mutations have been identified, which produce a wide range of phenotypes. The CFTR protein, a chloride channel, is normally expressed on epithelial cells lining the lung, gut, and exocrine glands. Mutations in CFTR have led to pleiotropic effects in CF patients and have resulted in early morbidity and mortality. Research has focused on identifying small molecules, or modulators, that can restore CFTR function. In recent years, two modulators, ivacaftor (Kalydeco) and lumacaftor/ivacaftor (Orkambi), have been approved by the U.S. Food and Drug Administration to treat CF patients with certain CFTR mutations. The development of these modulators has served as proof-of-concept that targeting CFTR by modulators is a viable therapeutic option. Efforts to discover new modulators that could deliver a wider and greater clinical benefit are still ongoing. However, traditional randomized controlled trials (RCTs) require large numbers of patients and become impracticable to test the modulators' efficacy in CF patients with CFTR mutations at frequencies much lower than 1%, suggesting the need for personalized medicine in these CF patients.", 
+          "qas": [
+            {
+              "question": "Which drugs are included in the Orkambi pill?", 
+              "id": "5c73ad087c78d69471000091_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Lipophilicity of the Cystic Fibrosis Drug, Ivacaftor (VX-770), and Its Destabilizing Effect on the Major CF-causing Mutation: F508del. Deletion of phenylalanine at position 508 (F508del) in cystic fibrosis transmembrane conductance regulator (CFTR) is the most common cystic fibrosis (CF)-causing mutation. Recently, ORKAMBI, a combination therapy that includes a corrector of the processing defect of F508del-CFTR (lumacaftor or VX-809) and a potentiator of channel activity (ivacaftor or VX-770), was approved for CF patients homozygous for this mutation. However, clinical studies revealed that the effect of ORKAMBI on lung function is modest and it was proposed that this modest effect relates to a negative impact of VX-770 on the stability of F508del-CFTR. In the current studies, we showed that this negative effect of VX-770 at 10 \u03bcM correlated with its inhibitory effect on VX-809-mediated correction of the interface between the second membrane spanning domain and the first nucleotide binding domain bearing F508del. Interestingly, we found that VX-770 exerted a similar negative effect on the stability of other membrane localized solute carriers (SLC26A3, SLC26A9, and SLC6A14), suggesting that this negative effect is not specific for F508del-CFTR. We determined that the relative destabilizing effect of a panel of VX-770 derivatives on F508del-CFTR correlated with their predicted lipophilicity. Polarized total internal reflection fluorescence microscopy on a supported lipid bilayer model shows that VX-770, and not its less lipophilic derivative, increased the fluidity of and reorganized the membrane. In summary, our findings show that there is a potential for nonspecific effects of VX-770 on the lipid bilayer and suggest that this effect may account for its destabilizing effect on VX-809- rescued F508del-CFTR.", 
+          "qas": [
+            {
+              "question": "Which drugs are included in the Orkambi pill?", 
+              "id": "5c73ad087c78d69471000091_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Can Cystic Fibrosis Patients Finally Catch a Breath With Lumacaftor/Ivacaftor? Cystic fibrosis (CF) is a life-limiting disease caused by defective or deficient cystic fibrosis transmembrane conductance regulator (CFTR) activity. The recent US Food and Drug Administration (FDA) approval of lumacaftor combined with ivacaftor (Orkambi) targets patients with the F508del-CFTR. The question remains: Is this breakthrough combination therapy the \"magic-bullet\" cure for the vast majority of patients with CF? This review covers the contemporary clinical and scientific knowledge-base for lumacaftor/ivacaftor and highlights the emerging issues from recent conflicting literature reports.", 
+          "qas": [
+            {
+              "question": "Which drugs are included in the Orkambi pill?", 
+              "id": "5c73ad087c78d69471000091_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Orkambi\u00ae and amplifier co-therapy improves function from a rare CFTR mutation in gene-edited cells and patient tissue. The combination therapy of lumacaftor and ivacaftor (Orkambi) is approved for patients bearing the major cystic fibrosis (CF) mutation: \u0394F508 It has been predicted that Orkambi could treat patients with rarer mutations of similar \"theratype\"; however, a standardized approach confirming efficacy in these cohorts has not been reported. Here, we demonstrate that patients bearing the rare mutation: c.3700 A>G, causing protein misprocessing and altered channel function-similar to \u0394F508-CFTR, are unlikely to yield a robust Orkambi response. While\u00a0in silico\u00a0and biochemical studies confirmed that this mutation could be corrected and potentiated by lumacaftor and ivacaftor, respectively, this combination led to a minor in\u00a0vitro response in patient-derived tissue. A CRISPR/Cas9-edited bronchial epithelial cell line bearing this mutation enabled studies showing that an \"amplifier\" compound, effective in increasing the levels of immature CFTR protein, augmented the Orkambi response. Importantly, this \"amplifier\" effect was recapitulated in patient-derived nasal cultures-providing the first evidence for its efficacy in augmenting Orkambi in tissues harboring a rare CF-causing mutation. We propose that this multi-disciplinary approach, including creation of CRISPR/Cas9-edited cells to profile modulators together with validation using primary tissue, will facilitate therapy development for patients with rare CF mutations.", 
+          "qas": [
+            {
+              "question": "Which drugs are included in the Orkambi pill?", 
+              "id": "5c73ad087c78d69471000091_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Lumacaftor/ivacaftor, a novel agent for the treatment of cystic fibrosis patients who are homozygous for the F580del CFTR mutation. Cystic Fibrosis (CF) is an autosomal recessive disease affecting up to 90,000 people worldwide. Approximately 73% of patients are homozygous for the F508del cystic fibrosis transmembrane conductance regulator [CFTR] mutation. Traditionally treatment has only included supportive care. Therefore, there is a need for safe and effective novel therapies targeting the underlying molecular defects seen with CF. Areas covered: In 2016, the Food and Drug Administration and the European Commission approved LUM/IVA (Orkambi), a CFTR modulator that includes both a CFTR corrector and potentiator, for CF patients homozygous for the F508del CFTR mutation. This article reviews the pharmacologic features, clinical efficacy, and safety of LUM/IVA and summarize the available pre-clinical and clinical data of LUM/IVA use. Expert commentary: LUM/IVA showed modest, but significant improvements from baseline in percent predicted FEV (ppFEV) as well as a reduction in pulmonary exacerbations by 35% It was shown to be safe for short- and long-term use. Currently, LUM/IVA is the only oral agent in its class available and represents a milestone the development of therapies for the management of CF. Nonetheless, pharmacoeconomic data are necessary to justify its high cost before is use becomes standard of care.", 
+          "qas": [
+            {
+              "question": "Which drugs are included in the Orkambi pill?", 
+              "id": "5c73ad087c78d69471000091_006"
+            }
+          ]
+        }, 
+        {
+          "context": "The human TREX-2 complex is stably associated with the nuclear pore basket. In eukaryotes, mRNA export involves many evolutionarily conserved factors that carry the nascent transcript to the nuclear pore complex (NPC). The THO/TREX complex couples transcription to mRNA export and recruits the mRNA export receptor NXF1 for the transport of messenger ribonucleoprotein particles (mRNP) to the NPC. The transcription and export complex 2 (TREX-2) was suggested to interact with NXF1 and to shuttle between transcription sites and the NPC. Here, we characterize the dynamics of human TREX-2 and show that it stably associates with the NPC basket. Moreover, the association of TREX-2 with the NPC requires the basket nucleoporins NUP153 and TPR, but is independent of transcription. Differential profiles of mRNA nuclear accumulation reveal that TREX-2 functions similarly to basket nucleoporins, but differently from NXF1. Thus, our results show that TREX-2 is an NPC-associated complex in mammalian cells and suggest that it is involved in putative NPC basket-related functions.", 
+          "qas": [
+            {
+              "question": "Which proteins form the nuclear pore basket in human cells?", 
+              "id": "5c72d4c77c78d6947100007c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "The nucleoporin Nup153 is required for nuclear pore basket formation, nuclear pore complex anchoring and import of a subset of nuclear proteins. The nuclear pore complex (NPC) is a large proteinaceous structure through which bidirectional transport of macromolecules across the nuclear envelope (NE) takes place. Nup153 is a peripheral NPC component that has been implicated in protein and RNP transport and in the interaction of NPCs with the nuclear lamina. Here, Nup153 is localized by immunogold electron microscopy to a position on the nuclear ring of the NPC. Nuclear reconstitution is used to investigate the role of Nup153 in nucleo- cytoplasmic transport and NPC architecture. NPCs assembled in the absence of Nup153 lacked several nuclear basket components, were unevenly distributed in the NE and, unlike wild-type NPCs, were mobile within the NE. Importin alpha/beta-mediated protein import into the nucleus was strongly reduced in the absence of Nup153, while transportin-mediated import was unaffected. This was due to a reduction in import complex translocation rather than to defective receptor recycling. Our results therefore reveal functions for Nup153 in NPC assembly, in anchoring NPCs within the NE and in mediating specific nuclear import events.", 
+          "qas": [
+            {
+              "question": "Which proteins form the nuclear pore basket in human cells?", 
+              "id": "5c72d4c77c78d6947100007c_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Nup133 Is Required for Proper Nuclear Pore Basket Assembly and Dynamics in Embryonic Stem Cells. Nup133 belongs to the Y-complex, a key component of the nuclear pore complex (NPC) scaffold. Studies on a null mutation in mice previously revealed that Nup133 is essential for embryonic development but\u00a0not for mouse embryonic stem cell (mESC) proliferation. Using single-pore detection and average NE-fluorescence intensity, we find that Nup133 is dispensable for interphase and postmitotic NPC scaffold assembly in pluripotent mESCs. However, loss of Nup133 specifically perturbs the formation of the nuclear basket as manifested by the absence of Tpr in about half of the NPCs combined with altered dynamics of Nup153. We further demonstrate that its central domain mediates Nup133's role in assembling Tpr and Nup153 into a properly configured nuclear basket. Our findings thus revisit the role of the Y-complex in pore biogenesis and provide insights into the interplay between NPC scaffold architecture, nuclear basket assembly, and the generation of heterogeneity among NPCs.", 
+          "qas": [
+            {
+              "question": "Which proteins form the nuclear pore basket in human cells?", 
+              "id": "5c72d4c77c78d6947100007c_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Nuclear pore basket proteins are tethered to the nuclear envelope and can regulate membrane curvature. Nuclear pore complexes (NPCs) are selective transport channels embedded in the nuclear envelope. The cylindrical NPC core forms a protein coat lining a highly curved membrane opening and has a basket-like structure appended to the nucleoplasmic side. How NPCs interact with lipids, promoting membrane bending and NPC integrity, is poorly understood. Here we show that the NPC basket proteins Nup1 and Nup60 directly induce membrane curvature by amphipathic helix insertion into the lipid bilayer. In a cell-free system, both Nup1 and Nup60 transform spherical liposomes into highly curved membrane structures. In vivo, high levels of the Nup1/Nup60 amphipathic helices cause deformation of the yeast nuclear membrane, whereas adjacent helical regions contribute to anchoring the basket to the NPC core. Basket amphipathic helices are functionally linked to distinct transmembrane nucleoporins of the NPC core, suggesting a key contribution to the membrane remodeling events that underlie NPC assembly.", 
+          "qas": [
+            {
+              "question": "Which proteins form the nuclear pore basket in human cells?", 
+              "id": "5c72d4c77c78d6947100007c_003"
+            }
+          ]
+        }, 
+        {
+          "context": "A nuclear envelope protein linking nuclear pore basket assembly, SUMO protease regulation, and mRNA surveillance. The nuclear pore complex (NPC) is both the major conduit for nucleocytoplasmic trafficking and a platform for organizing macromolecules at the nuclear envelope. We report that yeast Esc1, a non-NPC nuclear envelope protein, is required both for proper assembly of the nuclear basket, a structure extending into the nucleus from the NPC, and for normal NPC localization of the Ulp1 SUMO protease. In esc1Delta cells, Ulp1 and nuclear basket components Nup60 and Mlp1 no longer distribute broadly around the nuclear periphery, but co-localize in a small number of dense-staining perinuclear foci. Loss of Esc1 (or Nup60) alters SUMO conjugate accumulation and enhances ulp1 mutant defects. Similar to previous findings with Mlp1, both Esc1 and Ulp1 help retain unspliced pre-mRNAs in the nucleus. Therefore, these proteins are essential for proper nuclear basket function, which includes mRNA surveillance and regulation of SUMO protein dynamics. The results raise the possibility that NPC-localized protein desumoylation may be a key regulatory event preventing inappropriate pre-mRNA export.", 
+          "qas": [
+            {
+              "question": "Which proteins form the nuclear pore basket in human cells?", 
+              "id": "5c72d4c77c78d6947100007c_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Incorporation of the nuclear pore basket protein nup153 into nuclear pore structures is dependent upon lamina assembly: evidence from cell-free extracts of Xenopus eggs. In cell-free extracts of Xenopus eggs that support the assembly of replication-competent nuclei, we found that lamin B(3) specifically associates with four polypeptides (termed SLAPs, soluble lamin associated proteins). Here, one SLAP is identified as the nuclear pore complex protein Nup153, one member of the F/GXFG motif-containing nucleoporins. In vitro translated Nup153 and lamin B(3) co-immunoprecipitate, and lamin B(3) interacts specifically with the C-terminal domain of Nup153. During nuclear envelope assembly, other F/GXFG-containing nucleoporins are incorporated into the nuclear envelope preceding lamina assembly. Incorporation of Nup153 occurs at the same time as lamina assembly. When lamina assembly is prevented using the dominant-negative mutant XlaminB delta 2+, Nup153 does not appear at the nuclear envelope, while other F/GXFG-containing nucleoporins and Nup93 are recruited normally. When the lamina of pre-assembled nuclei is disrupted using the same dominant-negative mutant, the distribution of other nucleoporins is unaffected. However, Nup153 recruitment at the nuclear envelope is lost. Our results indicate that both the recruitment and maintenance of Nup153 at the pore are dependent upon the integrity of the lamina.", 
+          "qas": [
+            {
+              "question": "Which proteins form the nuclear pore basket in human cells?", 
+              "id": "5c72d4c77c78d6947100007c_005"
+            }
+          ]
+        }, 
+        {
+          "context": "STEF/TIAM2-mediated Rac1 activity at the nuclear envelope regulates the perinuclear actin cap. The perinuclear actin cap is an important cytoskeletal structure that regulates nuclear morphology and re-orientation during front-rear polarisation. The mechanisms regulating the actin cap are currently poorly understood. Here, we demonstrate that STEF/TIAM2, a Rac1 selective guanine nucleotide exchange factor, localises at the nuclear envelope, co-localising with the key perinuclear proteins Nesprin-2G and Non-muscle myosin IIB (NMMIIB), where it regulates perinuclear Rac1 activity. We show that STEF depletion reduces apical perinuclear actin cables (a phenotype rescued by targeting active Rac1 to the nuclear envelope), increases nuclear height and impairs nuclear re-orientation. STEF down-regulation also reduces perinuclear pMLC and decreases myosin-generated tension at the nuclear envelope, suggesting that STEF-mediated Rac1 activity regulates NMMIIB activity to promote stabilisation of the perinuclear actin cap. Finally, STEF depletion decreases nuclear stiffness and reduces expression of TAZ-regulated genes, indicating an alteration in mechanosensing pathways as a consequence of disruption of the actin cap.", 
+          "qas": [
+            {
+              "question": "What are the effects of STEF depletion?", 
+              "id": "5c641179e842deac67000012_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Matchmaker Exchange. In well over half of the individuals with rare disease who undergo clinical or research next-generation sequencing, the responsible gene cannot be determined. Some reasons for this relatively low yield include unappreciated phenotypic heterogeneity; locus heterogeneity; somatic and germline mosaicism; variants of uncertain functional significance; technically inaccessible areas of the genome; incorrect mode of inheritance investigated; and inadequate communication between clinicians and basic scientists with knowledge of particular genes, proteins, or biological systems. To facilitate such communication and improve the search for patients or model organisms with similar phenotypes and variants in specific candidate genes, we have developed the Matchmaker Exchange (MME). MME was created to establish a federated network connecting databases of genomic and phenotypic data using a common application programming interface (API). To date, seven databases can exchange data using the API (GeneMatcher, PhenomeCentral, DECIPHER, MyGene2, matchbox, Australian Genomics Health Alliance Patient Archive, and Monarch Initiative; the latter included for model organism matching). This article guides usage of the MME for rare disease gene discovery. \u00a9 2017 by John Wiley & Sons, Inc.", 
+          "qas": [
+            {
+              "question": "Which databases can exchange data using Matchmaker Exchange's API?", 
+              "id": "5c641c60e842deac67000013_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Multicluster Pcdh diversity is required for mouse olfactory neural circuit assembly. The vertebrate clustered protocadherin (Pcdh) cell surface proteins are encoded by three closely linked gene clusters (Pcdh\u03b1, Pcdh\u03b2, and Pcdh\u03b3). Here, we show that all three gene clusters functionally cooperate to provide individual mouse olfactory sensory neurons (OSNs) with the cell surface diversity required for their assembly into distinct glomeruli in the olfactory bulb. Although deletion of individual Pcdh clusters had subtle phenotypic consequences, the loss of all three clusters (tricluster deletion) led to a severe axonal arborization defect and loss of self-avoidance. By contrast, when endogenous Pcdh diversity is overridden by the expression of a single-tricluster gene repertoire (\u03b1 and \u03b2 and \u03b3), OSN axons fail to converge to form glomeruli, likely owing to contact-mediated repulsion between axons expressing identical combinations of Pcdh isoforms.", 
+          "qas": [
+            {
+              "question": "What are the effects of the deletion of all three Pcdh clusters (tricluster deletion) in mice?", 
+              "id": "5c645313e842deac67000019_000"
+            }
+          ]
+        }, 
+        {
+          "context": "The role of miR-214 in cardiovascular diseases. Cardiovascular disease (CVD) is the leading cause of death throughout the world. The increase in new patients every year leads to a demand for the identification of valid and novel prognostic and diagnostic biomarkers for the prevention and treatment of cardiovascular diseases. MicroRNAs (miRNAs) are critical endogenous small noncoding RNAs that negatively modulate gene expression by regulating its translation. miRNAs are implicated in most physiological processes of the heart and in the pathological progression of cardiovascular diseases. miR-214 is a deregulated miRNA in many pathological conditions, and it contributes to the pathogenesis of multiple human disorders, including cancer and cardiovascular diseases. miR-214 has dual functions in different cardiac pathological circumstances. However, it is considered as a promising marker in the prognosis, diagnosis and treatment of cardiovascular diseases. In this review, we discuss the role of miR-214 in various cardiac disease conditions, including ischaemic heart diseases, cardiac hypertrophy, pulmonary arterial hypertension (PAH), angiogenesis following vascular injury and heart failure.", 
+          "qas": [
+            {
+              "question": "What micro-RNAs are useful in the diagnosis and prognosis of Heart Failure?", 
+              "id": "5c6ffdd47c78d69471000058_000"
+            }
+          ]
+        }, 
+        {
+          "context": "MicroRNAs: a new paradigm in the treatment and diagnosis of heart failure? MicroRNAs (miRNAs) are a group of newly discovered small RNAs, non-coding, which represent one of the most exciting areas of modern medical science as they modulate a huge and complex regulatory network of gene expression. Lines of evidence have recently suggested that miRNAs play a key role in the pathogenesis of heart failure. Some miRNAs highly expressed in the heart, such as miR-1, miR-133 and miR-208, are strongly associated with the development of cardiac hypertrophy, while the exact role of miR-21 in the cardiovascular system remains controversial. Serum levels of circulating miRNAs such as miR-423-5p are being evaluated as potential biomarkers in the diagnosis and prognosis of heart failure. On the other hand, the manipulation of levels of miRNAs using techniques such as mimicking the miRNAs (miRmimics) and antagonistic miRNAs (antagomiRs) is making increasingly evident the enormous potential of miRNAs as promising therapeutic strategies in heart failure.", 
+          "qas": [
+            {
+              "question": "What micro-RNAs are useful in the diagnosis and prognosis of Heart Failure?", 
+              "id": "5c6ffdd47c78d69471000058_001"
+            }
+          ]
+        }, 
+        {
+          "context": "MicroRNAs: new players in heart failure. MicroRNAs (miRNAs) are a class of non-coding small RNAs representing one of the most exciting areas of modern medical science. miRNAs modulate a large and complex regulatory network of gene expression of the majority of the protein-coding genes. Currently, evidences suggest that miRNAs play a crucial role in the pathogenesis of heart failure. Some miRNAs as miR-1, miR-133 and miR-208a are highly expressed in the heart and strongly associated with the development of cardiac hypertrophy. Recent data indicate that these miRNAs as well as miR-206 change their expression quickly in response to physical activity. The differential regulation of miRNAs in response to exercise suggests a potential value of circulating miRNAs (c-miRNAs) as biomarkers of physiological mediators of the cardiovascular adaptation induced by exercise. Likewise, serum levels of c-miRNAs such as miR-423-5p have been evaluated as potential biomarkers in the diagnosis and prognosis of heart failure. On the other hand, the manipulation of miRNAs levels using techniques such as 'miR mimics' and 'antagomiRs' is becoming evident the enormous potential of miRNAs as promising therapeutic strategies in heart failure.", 
+          "qas": [
+            {
+              "question": "What micro-RNAs are useful in the diagnosis and prognosis of Heart Failure?", 
+              "id": "5c6ffdd47c78d69471000058_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Phosphorylation regulates the Star-PAP-PIPKI\u03b1 interaction and directs specificity toward mRNA targets. Star-PAP is a nuclear non-canonical poly(A) polymerase (PAP) that shows specificity toward mRNA targets. Star-PAP activity is stimulated by lipid messenger phosphatidyl inositol 4,5 bisphoshate (PI4,5P2) and is regulated by the associated Type I phosphatidylinositol-4-phosphate 5-kinase that synthesizes PI4,5P2 as well as protein kinases. These associated kinases act as coactivators of Star-PAP that regulates its activity and specificity toward mRNAs, yet the mechanism of control of these interactions are not defined. We identified a phosphorylated residue (serine 6, S6) on Star-PAP in the zinc finger region, the domain required for PIPKI\u03b1 interaction. We show that S6 is phosphorylated by CKI\u03b1 within the nucleus which is required for Star-PAP nuclear retention and interaction with PIPKI\u03b1. Unlike the CKI\u03b1 mediated phosphorylation at the catalytic domain, Star-PAP S6 phosphorylation is insensitive to oxidative stress suggesting a signal mediated regulation of CKI\u03b1 activity. S6 phosphorylation together with coactivator PIPKI\u03b1 controlled select subset of Star-PAP target messages by regulating Star-PAP-mRNA association. Our results establish a novel role for phosphorylation in determining Star-PAP target mRNA specificity and regulation of 3'-end processing.", 
+          "qas": [
+            {
+              "question": "List proteins interacting with Star-PAP", 
+              "id": "5c5f11c31a4c55d80b000015_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Primordial dwarfism gene maintains Lin28 expression to safeguard embryonic stem cells from premature differentiation. Primordial dwarfism (PD) is characterized by global growth failure, both during embryogenesis and postnatally. Loss-of-function germline mutations in\u00a0La ribonucleoprotein domain family, member 7 (LAPR7) have recently been linked to PD. Paradoxically, LARP7 deficiency was previously assumed to\u00a0be associated with increased cell growth and proliferation via activation of positive transcription elongation factor b (P-TEFb). Here, we show that Larp7 deficiency likely does not significantly increase P-TEFb activity. We further discover that Larp7 knockdown does not affect pluripotency but instead primes embryonic stem cells (ESCs) for differentiation via downregulation of Lin28, a positive regulator of organismal growth. Mechanistically, we show that Larp7 interacts with a poly(A) polymerase Star-PAP to maintain Lin28 mRNA stability. We propose that proper regulation of Lin28 and PTEFb is essential for embryonic cells to achieve a sufficient number of cell divisions prior to differentiation and ultimately to maintain proper organismal size.", 
+          "qas": [
+            {
+              "question": "List proteins interacting with Star-PAP", 
+              "id": "5c5f11c31a4c55d80b000015_001"
+            }
+          ]
+        }, 
+        {
+          "context": "A PtdIns4,5P2-regulated nuclear poly(A) polymerase controls expression of select mRNAs. Phosphoinositides are a family of lipid signalling molecules that regulate many cellular functions in eukaryotes. Phosphatidylinositol-4,5-bisphosphate (PtdIns4,5P2), the central component in the phosphoinositide signalling circuitry, is generated primarily by type I phosphatidylinositol 4-phosphate 5-kinases (PIPKIalpha, PIPKIbeta and PIPKIgamma). In addition to functions in the cytosol, phosphoinositides are present in the nucleus, where they modulate several functions; however, the mechanism by which they directly regulate nuclear functions remains unknown. PIPKIs regulate cellular functions through interactions with protein partners, often PtdIns4,5P2 effectors, that target PIPKIs to discrete subcellular compartments, resulting in the spatial and temporal generation of PtdIns4,5P2 required for the regulation of specific signalling pathways. Therefore, to determine roles for nuclear PtdIns4,5P2 we set out to identify proteins that interacted with the nuclear PIPK, PIPKIalpha. Here we show that PIPKIalpha co-localizes at nuclear speckles and interacts with a newly identified non-canonical poly(A) polymerase, which we have termed Star-PAP (nuclear speckle targeted PIPKIalpha regulated-poly(A) polymerase) and that the activity of Star-PAP can be specifically regulated by PtdIns4,5P2. Star-PAP and PIPKIalpha function together in a complex to control the expression of select mRNAs, including the transcript encoding the key cytoprotective enzyme haem oxygenase-1 (refs 8, 9) and other oxidative stress response genes by regulating the 3'-end formation of their mRNAs. Taken together, the data demonstrate a model by which phosphoinositide signalling works in tandem with complement pathways to regulate the activity of Star-PAP and the subsequent biosynthesis of its target mRNA. The results reveal a mechanism for the integration of nuclear phosphoinositide signals and a method for regulating gene expression.", 
+          "qas": [
+            {
+              "question": "List proteins interacting with Star-PAP", 
+              "id": "5c5f11c31a4c55d80b000015_002"
+            }
+          ]
+        }, 
+        {
+          "context": "The poly A polymerase Star-PAP controls 3'-end cleavage by promoting CPSF interaction and specificity toward the pre-mRNA. Star-PAP is a poly (A) polymerase (PAP) that is putatively required for 3'-end cleavage and polyadenylation of a select set of pre-messenger RNAs (mRNAs), including heme oxygenase (HO-1) mRNA. To investigate the underlying mechanism, the cleavage and polyadenylation of pre-mRNA was reconstituted with nuclear lysates. siRNA knockdown of Star-PAP abolished cleavage of HO-1, and this phenotype could be rescued by recombinant Star-PAP but not PAP\u03b1. Star-PAP directly associated with cleavage and polyadenylation specificity factor (CPSF) 160 and 73 subunits and also the targeted pre-mRNA. In vitro and in vivo Star-PAP was required for the stable association of CPSF complex to pre-mRNA and then CPSF 73 specifically cleaved the mRNA at the 3'-cleavage site. This mechanism is distinct from canonical PAP\u03b1, which is recruited to the cleavage complex by interacting with CPSF 160. The data support a model where Star-PAP binds to the RNA, recruits the CPSF complex to the 3'-end of pre-mRNA and then defines cleavage by CPSF 73 and subsequent polyadenylation of its target mRNAs.", 
+          "qas": [
+            {
+              "question": "List proteins interacting with Star-PAP", 
+              "id": "5c5f11c31a4c55d80b000015_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Continuous manufacturing of co-crystals: challenges and prospects. The last decade has witnessed extensive growth in the field of co-crystallization for mitigating the solubility and dissolution-related issues of poorly soluble drugs. This is largely because co-crystals can modify the physicochemical properties of drugs without any covalent modification in the drug molecules. The US Food and Drug Administration (FDA) now considers drug products that are designed to contain a new co-crystal, analogous to new polymorph of the active pharmaceutical ingredient (API). This positive change in regulatory perspective coupled with successful commercialization of valsartan-sacubitril co-crystal (Entresto, Novartis) has now brought co-crystals into focus, in both industries as well as academia. Co-crystal prediction, screening, and synthesis have been reported in literature; however, co-crystal production at a larger scale needs further investigations. With this aim, the article describes various continuous methods for co-crystal production, along with in-line monitoring during co-crystal production, emphasizing on process analytical technology (PAT). In addition, the scale-up issues of continuous and batch co-crystallization and other suitable techniques for pharmaceutical scale up are detailed. Quality control aspects and regulatory viewpoint crucial for commercial success are elaborated in the future perspective.", 
+          "qas": [
+            {
+              "question": "Which two drugs are included in the Entresto pill?", 
+              "id": "5c61bd04e842deac67000002_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Profound Vasoplegia During Sacubitril/Valsartan Treatment After Heart Transplantation. Vasoplegia occurs in up to 16% of patients who undergo heart transplantation (HT) and is associated with significant morbidity and mortality. We present a case of a 61-year-old man with ischemic cardiomyopathy receiving sacubitril/valsartan (Entresto; Novartis, Cambridge, MA) who developed profound hypotension after HT. He was treated with intravenous methylene blue and high-dose vasopressors, but developed acute kidney injury requiring dialysis and a prolonged stay in the intensive care unit. This case supports a potent vasodilatory effect of sacubitril/valsartan, and if confirmed by other studies, might warrant consideration for withholding treatment while awaiting HT, particularly in patients with risk factors for vasoplegia.", 
+          "qas": [
+            {
+              "question": "Which two drugs are included in the Entresto pill?", 
+              "id": "5c61bd04e842deac67000002_001"
+            }
+          ]
+        }, 
+        {
+          "context": "A prospective, randomized, double-blind, placebo-controlled pilot study of sacubitril/valsartan (Entresto) in dogs with cardiomegaly secondary to myxomatous mitral valve disease. BACKGROUND: The effects of sacubitril/valsartan (S/V) on the renin-angiotensin-aldosterone system (RAAS) in dogs with cardiomegaly secondary to myxomatous mitral valve disease (MMVD) are currently unknown. OBJECTIVES: To determine the pharmacodynamic effects of S/V on the RAAS, natriuretic peptide concentrations, systolic arterial pressure (SAP), tests of renal function, and serum electrolyte concentrations in dogs with cardiomegaly secondary to MMVD. ANIMALS: Thirteen client-owned dogs weighing 4-15 kg with American College of Veterinary Internal Medicine (ACVIM) Stage B2 MMVD. METHODS: Prospective, randomized, double-blind, placebo-controlled pilot study of S/V in dogs with ACVIM Stage B2 MMVD. RESULTS: Thirteen dogs were recruited: S/V (n = 7) and placebo (n = 6). The median percentage increase in urinary aldosterone to creatinine ratio (UAldo : C) between day 0 and day 30 was significantly lower in the S/V group (12%; P = .032) as compared with the placebo group (195%). The median percentage decrease of NT-proBNP concentration from day 0 to day 30 was not statistically different between groups (P = .68). No statistical differences were seen in echocardiographic, thoracic radiographic, SAP, or serum biochemical test results measured at any time point between groups. No adverse events were observed for dogs in either group. CONCLUSION AND CLINICAL IMPORTANCE: Sacubitril/valsartan may provide a new pharmaceutical method to effectively inhibit the RAAS in dogs with ACVIM Stage B2 MMVD.", 
+          "qas": [
+            {
+              "question": "Which two drugs are included in the Entresto pill?", 
+              "id": "5c61bd04e842deac67000002_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Impact of sacubitril-valsartan combination in patients with chronic heart failure and sleep apnoea syndrome: the ENTRESTO-SAS study design. AIMS: Sleep-disordered breathing (SDB) is a highly prevalent co-morbidity in patients with chronic heart failure (CHF) and can play a detrimental role in the pathophysiology course of CHF. However, the best way to manage SDB in CHF remains a matter of debate. Sacubitril-valsartan has been included in the 2016 European Society of Cardiology guidelines as an alternative to angiotensin-converting enzyme inhibitors to further reduce the risk of progression of CHF, CHF hospitalization, and death in ambulatory patients. Sacubitril and valsartan are good candidates for correcting SDB of CHF patients because their known mechanisms of action are likely to counteract the pathophysiology of SDB in CHF. METHODS AND RESULTS: The ENTRESTO-SAS trial is a 3-month, multicentric, prospective, open-label real-life cohort study. Patients eligible for sacubitril-valsartan treatment (i.e. adults with left ventricular ejection fraction < 35%, who remain symptomatic despite optimal treatment with an angiotensin-converting enzyme inhibitor, a beta-blocker, and a mineralocorticoid receptor antagonist) will be evaluated before and after 3\u00a0months of treatment (nocturnal ventilatory polygraphy, echocardiography, laboratory testing, and quality-of-life and SDB questionnaires). The primary outcome is the change in the Apnoea-Hypopnoea Index, before and after 3\u00a0months of treatment. One hundred twenty patients are required to detect a significant 20% improvement of the Apnoea-Hypopnoea Index with a power of 90% at an alpha risk of 5%. CONCLUSIONS: In the context of the SERVE-HF study, physicians are waiting for new trials and alternative therapies. We sought to assess in the ENTRESTO-SAS trial whether sacubitril-valsartan could improve the outcome of SDB in CHF patients.", 
+          "qas": [
+            {
+              "question": "Which two drugs are included in the Entresto pill?", 
+              "id": "5c61bd04e842deac67000002_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Entresto, a New Panacea for Heart Failure? Heart Failure (HF) is one of the main healthcare burdens in the United States and in the world. Many drugs are approved and used in practice for management of this condition; including beta blockers, diuretics, aldosterone antagonists, Angiotensin Converting Enzyme Inhibitors (ACEI's), and Angiotensin Receptor Blockers (ARBs). Recently, the Food and Drug Administration (FDA) approved a drug with brand name Entresto (Sacubitril/Valsartan or LCZ696), an angiotensin receptor neprilysin inhibitor for the use in Heart Failure with Reduced Ejection Fraction (HFrEF) patients instead of ACEI's and ARBs. The drug works through angiotensin receptor blockage via valsartan as well as neprilysin inhibition with sacubitril. This represented a new milestone in managing heart failure patients and provided yet another therapy in our armamentarium. This article reviews the stages that led to the development of this drug, the failure of its preceding agents, the lessons we have learnt, and the current trials of Entresto for new indications.", 
+          "qas": [
+            {
+              "question": "Which two drugs are included in the Entresto pill?", 
+              "id": "5c61bd04e842deac67000002_004"
+            }
+          ]
+        }, 
+        {
+          "context": "The Combination of Valsartan and Sacubitril in the Treatment of Hypertension and Heart Failure - an Update. A novel antihypertensive drug, LCZ696 (Entresto\u00ae), has recently been introduced, which combines the action of an antagonist of the renin-angiotensin-aldosterone system (RAAS), effectively decreasing the blood pressure, with an inhibition of neprilysin, which is responsible for metabolizing natriuretic peptides exerting antihypertensive and antifibrotic effects. In this MiniReview, we describe the pharmacokinetics and pharmacodynamics, efficacy and side effects of the combined angiotensin receptor antagonist and neprilysin inhibitor LCZ696. We summarize the effect of LCZ696 treatment of patients suffering from hypertension and heart failure (HF) and further highlight the role of this new drug as a treatment option in the future. In the earlier stages of the treatment of patients with heart failure, LCZ696 was superior in lowering the blood pressure compared to olmesartan, while the effect on blood pressure at long-term treatment was comparable for the two drugs. The numbers of adverse effects were comparable. LCZ696 was superior to enalapril in reducing mortality, hospitalizations and HF symptoms. Adverse effects were reduced with a slower up-titrating regimen of 6 weeks. The current results are promising and suggest that LCZ696 will be a new candidate for first-line treatment of HF. However, it needs to be explored whether LCZ696 is safe in pregnant women, what are the effects of long-term LCZ696 treatment on survival and whether the antifibrotic effects can be of major benefit in, for example HF with preserved ejection fraction.", 
+          "qas": [
+            {
+              "question": "Which two drugs are included in the Entresto pill?", 
+              "id": "5c61bd04e842deac67000002_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Anti-CD40-mediated cancer immunotherapy: an update of recent and ongoing clinical trials. The costimulatory molecule CD40 is a member of the tumor necrosis factor (TNF) receptor superfamily and is expressed on various antigen presenting cells (APCs) as well as some tumor cells. The binding to the natural ligand CD40L, which is expressed on T helper cells, leads to APC activation and thus enhancement of immune responses. Treatment with anti-CD40 monoclonal antibodies has been exploited in several cancer immunotherapy studies in mice and led to the development of anti-CD40 antibodies for clinical use. Here, Dacetuzumab and Lucatumumab are in the most advanced stage and are being tested as treatment for malignancies such as chronic lymphatic leukemia (CLL), Multiple Myeloma (MM), and non-Hodgkin's lymphoma (NHL). The promising results from these early clinical trials have encouraged clinical drug development in order to investigate the effect of CD40 mAbs in combination with other cancer immunotherapies, in particular interleukin (IL)-2. An in-depth analysis of this immunotherapy is provided elsewhere. In the present review, we provide an update of the most recent clinical trials with anti-CD40 antibodies. We present and discuss recent and ongoing clinical trials in this field, including clinical studies which combine anti-CD40 treatment with other cancer-treatments, such as Rituximab and Tremelimumab.", 
+          "qas": [
+            {
+              "question": "Name 3 diseases for which lucatumumab is being tested?", 
+              "id": "5c654b3de842deac67000024_000"
+            }
+          ]
+        }, 
+        {
+          "context": "NanoStringNorm: an extensible R package for the pre-processing of NanoString mRNA and miRNA data. MOTIVATION: The NanoString nCounter Platform is a new and promising technology for measuring nucleic acid abundances. It has several advantages over PCR-based techniques, including avoidance of amplification, direct sequence interrogation and digital detection for absolute quantification. These features minimize aspects of experimental error and hold promise for dealing with challenging experimental conditions such as archival formalin-fixed paraffin-embedded samples. However, systematic inter-sample technical artifacts caused by variability in sample preservation, bio-molecular extraction and platform fluctuations must be removed to ensure robust data. RESULTS: To facilitate this process and to address these issues for NanoString datasets, we have written a pre-processing package called NanoStringNorm in the R statistical language. Key features include an extensible environment for method comparison and new algorithm development, integrated gene and sample diagnostics, and facilitated downstream statistical analysis. The package is open-source, is available through the CRAN package repository, includes unit-tests to ensure numerical accuracy, and provides visual and numeric diagnostics. AVAILABILITY: http://cran.r-project.org/web/packages/NanoStringNorm", 
+          "qas": [
+            {
+              "question": "List available R packages for processing NanoString data", 
+              "id": "5c6c46677c78d69471000035_000"
+            }
+          ]
+        }, 
+        {
+          "context": "NanoStringNormCNV: pre-processing of NanoString CNV data. Summary: The NanoString System is a well-established technology for measuring RNA and DNA abundance. Although it can estimate copy number variation, relatively few tools support analysis of these data. To address this gap, we created NanoStringNormCNV, an R package for pre-processing and copy number variant calling from NanoString data. This package implements algorithms for pre-processing, quality-control, normalization and copy number variation detection. A series of reporting and data visualization methods support exploratory analyses. To demonstrate its utility, we apply it to a new dataset of 96 genes profiled on 41 prostate tumour and 24 matched normal samples. Availability and implementation: NanoStringNormCNV is implemented in R and is freely available at http://labs.oicr.on.ca/boutros-lab/software/nanostringnormcnv. Contact: paul.boutros@oicr.on.ca. Supplementary information: Supplementary data are available at Bioinformatics online.", 
+          "qas": [
+            {
+              "question": "List available R packages for processing NanoString data", 
+              "id": "5c6c46677c78d69471000035_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Midostaurin: A Multiple Tyrosine Kinases Inhibitor in Acute Myeloid Leukemia and Systemic Mastocytosis. Midostaurin (PKC412, Rydapt) is an oral multiple tyrosine kinase inhibitor. Main targets are the kinase domain receptor, vascular endothelial-, platelet derived-, and fibroblast growth factor receptor, stem cell factor receptor c-KIT, as well as mutated and wild-type FLT3 kinases. Midostaurin was approved by the Food and Drug Administration (FDA) and the European Medical Agency (EMA) for acute myeloid leukemia with activating FLT3 mutations in combination with intensive induction and consolidation therapy as well as aggressive systemic mastocytosis (ASM), systemic mastocytosis with associated hematological neoplasm (SM-AHN) or mast cell leukemia (MCL). Several clinical trials are active or are planned to further investigate the role of midostaurin in myeloid malignancies and mastocytosis.", 
+          "qas": [
+            {
+              "question": "For which indications has midostaurin received FDA and EMA approval?", 
+              "id": "5c6585287c78d69471000004_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Molecular and pathogenic effects of endoplasmic reticulum aminopeptidases ERAP1 and ERAP2 in MHC-I-associated inflammatory disorders: Towards a unifying view. The inflammatory diseases that are most strongly associated with major histocompatibility Complex class I (MHC-I) alleles are also influenced by endoplasmic reticulum aminopeptidase (ERAP) 1 and/or 2, often in epistasis with the susceptibility MHC-I allele. This review will focus on the four major MHC-I-associated inflammatory disorders: ankylosing spondylitis, birdshot chorioretinopathy, Beh\u00e7et's disease and psoriasis. The genetics of ERAP1/ERAP2 association and the alterations induced by polymorphism of these enzymes on the risk MHC-I allotypes will be examined. A pattern emerges of analogous effects on peptide length, sequence and affinity of disparate peptidomes, suggesting that similar peptide-mediated mechanisms underlie the pathogenesis and the joint contribution of ERAP1/ERAP2 and MHC-I to distinct inflammatory diseases. Processing of specific antigens, peptide-dependent changes in global properties of the MHC-I molecules, such as folding and stability, or both may be pathogenic.", 
+          "qas": [
+            {
+              "question": "List MHC-I-associated inflammatory disorders.", 
+              "id": "5c76c1457c78d694710000a6_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Endoplasmic Reticulum Aminopeptidase 1 (ERAP1) Polymorphism Relevant to Inflammatory Disease Shapes the Peptidome of the Birdshot Chorioretinopathy-Associated HLA-A*29:02 Antigen. Birdshot chorioretinopathy is a rare ocular inflammation whose genetic association with HLA-A*29:02 is the highest between a disease and a major histocompatibility complex (MHC) molecule. It belongs to a group of MHC-I-associated inflammatory disorders, also including ankylosing spondylitis, psoriasis, and Beh\u00e7et's disease, for which endoplasmic reticulum aminopeptidases (ERAP) 1 and/or 2 have been identified as genetic risk factors. Since both enzymes are involved in the processing of MHC-I ligands, it seems reasonable that common peptide-mediated mechanisms may underlie the pathogenesis of these diseases. In this study, comparative immunopeptidomics was used to characterize >5000 A*29:02 ligands and quantify the effects of ERAP1 polymorphism and expression on the A*29:02 peptidome in human cells. The peptides predominant in an active ERAP1 context showed a higher frequency of nonamers and bulkier amino acid side chains at multiple positions, compared with the peptides predominant in a less active ERAP1 background. Thus, ERAP1 polymorphism has a large influence, shaping the A*29:02 peptidome through length-dependent and length-independent effects. These changes resulted in increased affinity and hydrophobicity of A*29:02 ligands in an active ERAP1 context. The results reveal the nature of the functional interaction between A*29:02 and ERAP1 and suggest that this enzyme may affect the susceptibility to birdshot chorioretinopathy by altering the A*29:02 peptidome. The complexity of these alterations is such that not only peptide presentation but also other potentially pathogenic features could be affected.", 
+          "qas": [
+            {
+              "question": "List MHC-I-associated inflammatory disorders.", 
+              "id": "5c76c1457c78d694710000a6_001"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

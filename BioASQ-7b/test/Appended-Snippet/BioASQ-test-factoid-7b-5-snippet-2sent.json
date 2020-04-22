@@ -1,0 +1,757 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c890ad575a4a5d21900000d_001",
+              "question": "Which plant does oleuropein originate from?"
+            }
+          ],
+          "context": "Oleuropein Is Responsible for the Major Anti-Inflammatory Effects of Olive Leaf Extract. Olive leaves are rich in polyphenolic compounds that are known to have antioxidant, antimicrobial, and anti-inflammatory activities. Therefore, olive leaf extract (OLE) is considered as a natural supplement."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c890ad575a4a5d21900000d_002",
+              "question": "Which plant does oleuropein originate from?"
+            }
+          ],
+          "context": "The antibacterial activity of OLE was determined by well diffusion assay. We found a significant decrease in TNF\u03b1 secretion level in PMNCs culture treated with OLE. Oleuropein is the only OLE component that has shown anti-inflammatory effects at a concentration of 20 \u03bcg/mL. Furthermore, OLE exhibited antibacterial activity against some gram positive bacterial strains; however, gram negative bacterial strains were resistant to OLE. Downregulation of TNF\u03b1 secretion in PMNCs culture in response to OLE treatment indicates that this polyphenol-rich extract has an anti-inflammatory effect, and oleuropein is the major OLE component responsible for this effect. The antibacterial activity of OLE is limited to gram positive bacteria."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c890ad575a4a5d21900000d_003",
+              "question": "Which plant does oleuropein originate from?"
+            }
+          ],
+          "context": "We found a significant decrease in TNF\u03b1 secretion level in PMNCs culture treated with OLE. Oleuropein is the only OLE component that has shown anti-inflammatory effects at a concentration of 20 \u03bcg/mL. Furthermore, OLE exhibited antibacterial activity against some gram positive bacterial strains; however, gram negative bacterial strains were resistant to OLE. Downregulation of TNF\u03b1 secretion in PMNCs culture in response to OLE treatment indicates that this polyphenol-rich extract has an anti-inflammatory effect, and oleuropein is the major OLE component responsible for this effect. The antibacterial activity of OLE is limited to gram positive bacteria."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca0bf00ecadf2e73f000045_001",
+              "question": "Reslizumab is a humanized monoclonal antibody to treat what specific type of asthma?"
+            }
+          ],
+          "context": "Development of a robust reporter gene based assay for the bioactivity determination of IL-5-targeted therapeutic antibodies. Eosinophilic asthma is characterized by the eosinophilic inflammation with the allergen independent activation of Th2 lymphocytes. Since IL-5 plays an important role in the maturation, survival and migration of eosinophils, hence the pathogenesis of eosinophilic asthma, biotherapeutics targeting IL-5/IL-5R\u03b1 have been developed and/or marketed, including Mepolizumab, Reslizumab, and Benralizumab. Accurate determination of bioactivity is crucial for the safety and efficacy of therapeutic antibodies. The current mode of action"
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca0bf00ecadf2e73f000045_002",
+              "question": "Reslizumab is a humanized monoclonal antibody to treat what specific type of asthma?"
+            }
+          ],
+          "context": "Reslizumab, a humanized mAb against IL-5, reduces the number of eosinophils in the blood and lungs. Based on efficacy and safety data from pivotal RCTs, reslizumab had been approved for use as an add-on maintenance treatment of severe asthma with an eosinophilic phenotype in adults who have a history of exacerbations despite receiving their current asthma medicines."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca0bf00ecadf2e73f000045_003",
+              "question": "Reslizumab is a humanized monoclonal antibody to treat what specific type of asthma?"
+            }
+          ],
+          "context": "Reslizumab in the treatment of severe eosinophilic asthma:\u00a0an update. A marked heterogeneity is exhibited by asthma both clinically and at the molecular level with different phenotypes driven by diverse mechanistic pathways that require specifically targeted treatments. Biologics aimed at IL-4/13, IL-5 or IgE are proven or potentially effective treatments for patients with difficult to treat eosinophilic asthma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c92869aecadf2e73f000015_001",
+              "question": "What is the function of the protein Magt1?"
+            }
+          ],
+          "context": "magnesium transporter 1 (MAGT1)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c92869aecadf2e73f000015_002",
+              "question": "What is the function of the protein Magt1?"
+            }
+          ],
+          "context": "TRPM7 and MagT1 in the osteogenic differentiation of human mesenchymal stem cells in vitro. Mesenchymal stem cells are fundamental for bone formation and repair since they respond to microenvironmental stimuli by undergoing osteogenic differentiation. We show that the kinase and cation channel TRPM7 and the magnesium transporter MagT1 have a role in harmonizing the osteogenic differentiation of human mesenchymal stem cells. TRPM7 and MagT1 are upregulated in osteogenic differentiation and silencing either one accelerates osteogenic differentiation, partly through the activation of autophagy. Intriguingly, similar results were obtained when the cells were cultured under magnesium deficient conditions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c92869aecadf2e73f000015_003",
+              "question": "What is the function of the protein Magt1?"
+            }
+          ],
+          "context": "The magnesium transporter 1 (MAGT1) is a critical regulator of basal intracellular free magnesium ([Mg2+]i) levels."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990241ecadf2e73f00002d_001",
+              "question": "What is the function of the transcriptional co-activator p300?"
+            }
+          ],
+          "context": "Transcription factor dimerization activates the p300 acetyltransferase. The transcriptional co-activator p300 is a histone acetyltransferase (HAT) that is typically recruited to transcriptional enhancers and regulates gene expression by acetylating chromatin. Here we show that the activation of p300 directly depends on the activation and oligomerization status of transcription factor ligands. Using two model transcription factors, IRF3 and STAT1, we demonstrate that transcription factor dimerization enables the trans-autoacetylation of p300 in a highly conserved and intrinsically disordered autoinhibitory lysine-rich loop, resulting in p300 activation. We describe a crystal structure of p300 in which the autoinhibitory loop invades the active site of a neighbouring HAT domain, revealing a snapshot of a trans-autoacetylation reaction intermediate."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990241ecadf2e73f00002d_002",
+              "question": "What is the function of the transcriptional co-activator p300?"
+            }
+          ],
+          "context": "miR-150 regulates high glucose-induced cardiomyocyte hypertrophy by targeting the transcriptional co-activator p300. p300, a transcriptional co-activator with histone acetyl transferase (HAT) activity, plays an essential role in the pathogenesis of cardiomyocyte hypertrophy in response to multiple pro-hypertrophic stimuli including hyperglycemia. However, the precise mechanisms by which p300 expression is regulated remain unclear. The purpose of this study was to investigate the role of miR-150, a potential p300-targeting microRNA (miRNA), in the post-transcriptional control of p300 expression and cardiomyocyte hypertrophy induced by high glucose. We observed that the expression of miR-150 was significantly reduced, whereas the expression of p300 was strongly elevated, concomitant with cardiomyocyte hypertrophy, in the hearts of diabetic rats compared with normal controls."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c890e6d75a4a5d21900000f_001",
+              "question": "What is another name for the plant Sideritis scardica?"
+            }
+          ],
+          "context": "Sideritis scardica Griseb. (ironwort, mountain tea), an endemic plant of the Balkan Peninsula, has been used in traditional medicine in the treatment of gastrointestinal complaints, inflammation, and rheumatic disorders."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9904eaecadf2e73f00002e_001",
+              "question": "From where is gamabufotalin (GBT) isolated?"
+            }
+          ],
+          "context": "RCFs of cinobufagin to gamabufotalin, bufotalin, bufalin and resibufogenin were determined as 1.05, 0.895, 1.09 and 0.913, respectively. The characteristic chromatogram and QAMS established in this study could effectively control the quality of toad venom and provide scientific evidence for the improvement of the quality standard of the toad venom to be described in Chinese Pharmacopoeia"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9904eaecadf2e73f00002e_002",
+              "question": "From where is gamabufotalin (GBT) isolated?"
+            }
+          ],
+          "context": "Identification of Bufadienolides from the Boreal Toad, Anaxyrus boreas, Active Against a Fungal Pathogen. Amphibian granular glands provide a wide range of compounds on the skin that defend against pathogens and predators. We identified three bufadienolides-the steroid-like compounds arenobufagin, gamabufotalin, and telocinobufagin-from the boreal toad, Anaxyrus boreas, through liquid chromatography mass spectrometry (LC/MS). Compounds were detected both after inducing skin gland secretions and in constitutive mucosal rinses from toads. We described the antimicrobial properties of each bufadienolide against Batrachochytrium dendrobatidis (Bd), an amphibian fungal pathogen linked with boreal toad population declines."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9904eaecadf2e73f00002e_003",
+              "question": "From where is gamabufotalin (GBT) isolated?"
+            }
+          ],
+          "context": "Gamabufotalin triggers c-Myc degradation via induction of WWP2 in multiple myeloma cells. Deciding appropriate therapy for multiple myeloma (MM) is challenging because of the occurrence of multiple chromosomal changes and the fatal nature of the disease. In the current study, gamabufotalin (GBT) was isolated from toad venom, and its tumor-specific cytotoxicity was investigated in human MM cells. We found GBT inhibited cell growth and induced apoptosis with the IC50 values <50 nM. Mechanistic studies using functional approaches identified GBT as an inhibitor of c-Myc. Further analysis showed that GBT especially evoked the ubiquitination and degradation of c-Myc protein, thereby globally repressing the expression of c-Myc target genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9904eaecadf2e73f00002e_004",
+              "question": "From where is gamabufotalin (GBT) isolated?"
+            }
+          ],
+          "context": "Gamabufotalin, a bufadienolide compound from toad venom, suppresses COX-2 expression through targeting IKK\u03b2/NF-\u03baB signaling pathway in lung cancer cells. BACKGROUND: Gamabufotalin (CS-6), a major bufadienolide of Chansu, has been used for cancer therapy due to its desirable metabolic stability and less adverse effect."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9a6693ecadf2e73f000031_001",
+              "question": "What is a mitosome?"
+            }
+          ],
+          "context": "A Single Tim Translocase in the Mitosomes of Giardia intestinalis Illustrates Convergence of Protein Import Machines in Anaerobic Eukaryotes. Mitochondria have evolved diverse forms across eukaryotic diversity in adaptation to anoxia. Mitosomes are the simplest and the least well-studied type of anaerobic mitochondria. Transport of proteins via TIM complexes, composed of three proteins of the Tim17 protein family (Tim17/22/23), is one of the key unifying aspects of mitochondria and mitochondria-derived organelles. However, multiple experimental and bioinformatic attempts have so far failed to identify the nature of TIM in mitosomes of the anaerobic metamonad protist, Giardia intestinalis, one of the few experimental models for mitosome biology."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9a6693ecadf2e73f000031_002",
+              "question": "What is a mitosome?"
+            }
+          ],
+          "context": "Mitochondria of opisthokonts undergo permanent fission and fusion throughout the cell cycle. Here, we investigated the dynamics of the mitosomes, the simplest forms of mitochondria, in the anaerobic protist parasite Giardia intestinalis, a member of the Excavata supergroup of eukaryotes. The mitosomes have abandoned typical mitochondrial traits such as the mitochondrial genome and aerobic respiration and their single role known to date is the formation of iron-sulfur clusters. RESULTS: In live experiments, no fusion events were observed between the mitosomes in G. intestinalis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9a6693ecadf2e73f000031_003",
+              "question": "What is a mitosome?"
+            }
+          ],
+          "context": "A small Tim homohexamer in the relict mitochondrion of Cryptosporidium. The apicomplexan parasite Cryptosporidium parvum possesses a mitosome, a relict mitochondrion with a greatly reduced metabolic capability. This mitosome houses a mitochondrial-type protein import apparatus, but elements of the protein import pathway have been reduced, and even lost, through evolution. The small Tim protein family is a case in point. The genomes of C. parvum and related species of Cryptosporidium each encode just one small Tim protein,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9a6693ecadf2e73f000031_004",
+              "question": "What is a mitosome?"
+            }
+          ],
+          "context": "Localization and targeting of an unusual pyridine nucleotide transhydrogenase in Entamoeba histolytica. Pyridine nucleotide transhydrogenase (PNT) catalyzes the direct transfer of a hydride-ion equivalent between NAD(H) and NADP(H) in bacteria and the mitochondria of eukaryotes. PNT was previously postulated to be localized to the highly divergent mitochondrion-related organelle, the mitosome, in the anaerobic/microaerophilic protozoan parasite Entamoeba histolytica based on the potential mitochondrion-targeting signal. However, our previous proteomic study of isolated phagosomes suggested that PNT is localized to organelles other than mitosomes. An immunofluorescence assay using anti-E. histolytica PNT (EhPNT)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c897082d558e5f232000004_001",
+              "question": "What is the price of KYMRIAH treatment in 2019?"
+            }
+          ],
+          "context": "Chimeric antigen receptor (CAR) T cells represent a medical and scientific breakthrough that may represent a paradigm for the future of personalized medicine in the age of cancer immunotherapy. As with many new cancer agents, such novel and incredible results come with a high price. At the time of the writing of this article, there are two CAR T cells available, Kymriah, produced by Novrtis with a price tag of US$475,000 and Yescarta produced by Gilead Pharmaceuticals with a price tag of US$373,000, neither price including the required hospital admission in order to administer the agent in addition to potential treatment of side effects. There are several issues that are imperative to recognize when understanding the high cost, however the two more pertinent issues are low availability of the agent and no billing code. While only approved for less than a year, there are thoughts about how to bring the price down with more approved CAR T cells and more center with the ability to administer this therapy, however results may be years away before they are realized."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0856decadf2e73f000058_001",
+              "question": "Human dihydroorotate dehydrogenase is a drug target and is involved in what biosynthetic pathway"
+            }
+          ],
+          "context": "Natural products as inhibitors of Leishmania major dihydroorotate dehydrogenase. The flavoenzyme dihydroorotate dehydrogenase (DHODH) catalyzes the fourth reaction of the de novo pyrimidine biosynthetic pathway, which exerts vital functions in the cells, especially within DNA and RNA biosynthesis. Thus, this enzyme stands out as a new key molecular target for parasites causing Neglected Diseases (NDs). Focused on contributing to the development of new therapeutic alternatives for NDs, in this study, for the first time, a screening of 57 natural products for in\u00a0vitro inhibition of Leishmania major DHODH (LmDHODH) was carried out, including cross validation against the human DHODH (HsDHODH). A subset of natural products consisting of 21 sesquiterpene lactones (STLs) was submitted to QSAR studies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0856decadf2e73f000058_002",
+              "question": "Human dihydroorotate dehydrogenase is a drug target and is involved in what biosynthetic pathway"
+            }
+          ],
+          "context": "Selective Cytotoxicity of Dihydroorotate Dehydrogenase Inhibitors to Human Cancer Cells Under Hypoxia and Nutrient-Deprived Conditions. Human dihydroorotate dehydrogenase (HsDHODH) is a key enzyme of pyrimidine de novo biosynthesis pathway. It is located on the mitochondrial inner membrane and contributes to the respiratory chain by shuttling electrons to the ubiquinone pool. We have discovered ascofuranone (1), a natural compound produced by Acremonium sclerotigenum, and its derivatives are a potent class of HsDHODH inhibitors. We conducted a structure-activity relationship study and have identified functional groups of 1 that are essential for the inhibition of HsDHODH enzymatic activity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0856decadf2e73f000058_003",
+              "question": "Human dihydroorotate dehydrogenase is a drug target and is involved in what biosynthetic pathway"
+            }
+          ],
+          "context": "Pyrimidine Pathway-Dependent and -Independent Functions of the Toxoplasma gondii Mitochondrial Dihydroorotate Dehydrogenase. Dihydroorotate dehydrogenase (DHODH) mediates the fourth step of de novo pyrimidine biosynthesis and is a proven drug target for inducing immunosuppression in therapy of human disease as well as a rapidly emerging drug target for treatment of malaria. In Toxoplasma gondii, disruption of the first, fifth, or sixth step of de novo pyrimidine biosynthesis induced uracil auxotrophy. However, previous attempts to generate uracil auxotrophy by genetically deleting the mitochondrion-associated DHODH of T. gondii (TgDHODH) failed. To further address the essentiality of TgDHODH, mutant gene alleles deficient in TgDHODH activity were designed to ablate the enzyme activity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8fe1f10101eac87000000a_001",
+              "question": "What is the effect of NFIA on astrocyte differentiation?"
+            }
+          ],
+          "context": "Here we perform comprehensive and integrated transcriptomic and epigenomic analyses to delineate gene regulatory programs that drive the developmental trajectory from mouse embryonic stem cells to astrocytes. We report molecularly distinct phases of astrogliogenesis that exhibit stage- and lineage-specific transcriptomic and epigenetic signatures with unique primed and active chromatin regions, thereby revealing regulatory elements and transcriptional programs underlying astrocyte generation and maturation. By searching for transcription factors that function at these elements, we identified NFIA and ATF3 as drivers of astrocyte differentiation from neural precursor cells while RUNX2 promotes astrocyte maturation. These transcription factors facilitate stage-specific gene expression programs by switching the chromatin state of their target regulatory elements from primed to active. Altogether, these findings provide integrated insights into the genetic and epigenetic mechanisms steering the trajectory of astrogliogenesis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6407ecadf2e73f000034_001",
+              "question": "Where is the protein protamine 2 expressed?"
+            }
+          ],
+          "context": "Cryoprotective effect of resveratrol on DNA damage and crucial human sperm messenger RNAs, possibly through 5' AMP-activated protein kinase activation. This work aimed at investigating the effect of resveratrol on (1) DNA integrity and (2) fertilizing capacity of sperm by quantifying the presence of key paternal transcripts considered as markers for male fertility (protamine 1 [PRM1] and protamine 2 [PRM2]) and pregnancy success (adducin 1 alpha [ADD1]) in cryopreserved human spermatozoa through modulation of AMP-activated protein kinase (AMPK). The study populations was drawn from 22 normozoospermic healthy volunteers which were incubated with or without AMPK activator (resveratrol [RSV], 15\u00a0\u00b5M) or inhibitor (Compound C [CC], 30\u00a0\u00b5M) for 1\u00a0h and were then cryopreserved. Untreated frozen-thawed spermatozoa served as controls. The RSV-induced AMPK activation decreased the level of DNA fragmentation in comparison with the control ("
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6407ecadf2e73f000034_002",
+              "question": "Where is the protein protamine 2 expressed?"
+            }
+          ],
+          "context": "Gain-of-function assays, which included the CCK-8 assay and EdU flow cytometry assay, indicated that overexpression of OCTN2 significantly promoted epididymal epithelial cell growth and proliferation. Moreover, forced expression of OCTN2 inhibited the cell apoptosis process, and at the same time increased expression of the pro-apoptosis factor BAX, and decreased expression of the anti-apoptosis factors BCL-2 and Survivin. Furthermore, we also found that OCTN2 overexpression dramatically increased the levels of biomarkers associated with spermatogenesis, including azoospermia-like (DAZL), phosphoglycerate kinase 2 (PGK2), and protamine 2 (PRM2). These results demonstrate that OCTN2 plays a positive role in epididymal epithelial cells, and might be useful in the clinical treatment of male infertility by serving as a key regulatory factor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6407ecadf2e73f000034_003",
+              "question": "Where is the protein protamine 2 expressed?"
+            }
+          ],
+          "context": "Selective constraints on protamine 2 in primates and rodents. BACKGROUND: Protamines are sperm nuclear proteins with a crucial role in chromatin condensation. Their function is strongly linked to sperm head morphology and male fertility. Protamines appear to be affected by a complex pattern of selective constraints."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6407ecadf2e73f000034_004",
+              "question": "Where is the protein protamine 2 expressed?"
+            }
+          ],
+          "context": "In this study, we examined the fate of various testicular cells in adult mouse testes following ectopic autografting at 1, 2, 4 and 8 weeks post grafting. Histological examination showed no evidence of re-establishment of spermatogenesis in autografts, and progressive degeneration of seminiferous tubules was detected. Expression of germ cell-specific proteins such as POU5F1, DAZL, TNP1, TNP2, PRM1 and PRM2 revealed that, although proliferating and differentiating spermatogenic germ cells such as spermatogonia, spermatocytes and spermatids could survive in autografts until 4 weeks, only terminally differentiated germ cells such as sperm persisted in autografts until 8 weeks. The presence of Sertoli and peritubular myoid cells, as indicated by expression of WT1 and ACTA2 proteins, respectively, was evident in the autografts until 8 weeks. Interestingly, seminal vesicle weight and serum testosterone level were restored in autografted mice by 8 weeks post grafting."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6407ecadf2e73f000034_005",
+              "question": "Where is the protein protamine 2 expressed?"
+            }
+          ],
+          "context": "Aberrant protamine content in sperm and consequential implications for infertility treatment. Human sperm express two types of protamine: protamine 1 (P1) and the family of protamine 2 (P2) proteins, with P1 and P2 normally existing in a ratio of approximately 1:1. Both the elevation and reduction of this ratio have been linked with male infertility suggesting that abnormalities in protamine expression, processing and replacement may be responsible for effects on semen parameters observed in infertile males affected by deficient protamination, along with abnormalities in associated regulatory processes. Abnormal protamination may result in insufficient condensation in the sperm nucleus, thus rendering paternal DNA susceptible to damage, which could have detrimental consequences upon embryogenesis. Consequently, it is imperative that Assisted Reproductive Technologies (ARTs) endeavour to utilise sperm devoid of protamine abnormalities, especially because retained histones are present in imprinted gene clusters."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c910ae0ecadf2e73f000007_001",
+              "question": "Which company developed opdivo?"
+            }
+          ],
+          "context": "As part of its single technology appraisal (STA) process, the National Institute for Health and Care Excellence (NICE) invited the manufacturer (Bristol-Myers Squibb) of nivolumab (Opdivo\u00ae) to submit evidence of its clinical and cost effectiveness for metastatic or unresectable urothelial cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c960f21ecadf2e73f000020_001",
+              "question": "What are DMARDs?"
+            }
+          ],
+          "context": "Utility of ultrasonography in guiding modification of disease modifying anti-rheumatic drugs and steroid therapy for inflammatory arthritis in routine clinical practice. OBJECTIVE: To determine the utility of ultrasonography in guiding modification of disease-modifying anti-rheumatic drug (DMARD) and steroid therapy for inflammatory arthritis (IA) in routine clinical practice. METHODS: In this retrospective study, we analyzed DMARD and steroid use in IA patients referred to a rheumatologist-led ultrasound clinic. Power Doppler (PD) vascularity and greyscale (GS) synovial hypertrophy joint findings were categorized as positive/negative for each patient."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c960f21ecadf2e73f000020_002",
+              "question": "What are DMARDs?"
+            }
+          ],
+          "context": "BACKGROUND: Rheumatoid arthritis (RA) is the most common chronic inflammatory disorder and is associated with progressive destruction of synovial joints and physical disability. Therapies with known benefits include disease-modifying antirheumatic drugs (DMARDs), such as methotrexate, as well as more recent biologic agents, such as tumor necrosis factor inhibitors (anti-TNF therapy). METHOD: This was a\u00a0retrospective study, which included 205 RA and 112 early RA (ERA) patients from the Rheumatology Clinic at Gaziantep University School of Medicine Research Center as well as 104 healthy controls."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c960f21ecadf2e73f000020_003",
+              "question": "What are DMARDs?"
+            }
+          ],
+          "context": "RA had been diagnosed by a\u00a0rheumatologist in 59% of the cases, 70% reported moderate to severe pain and 46% had functional disability. Between at least 40% (claims data) and up to 68% (respondents) were in specialized rheumatological care. Treatment with disease-modifying antirheumatic drugs (DMARDs) was 61% (claims data) and 63% (respondents) in persons in rheumatological care but only 18% outside rheumatological care. CONCLUSION: The results indicate that specialized rheumatological care is required to provide adequate treatment for patients with RA in Germany."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6e99ecadf2e73f000036_001",
+              "question": "What is the aim of the MitoCeption protocol?"
+            }
+          ],
+          "context": "Interestingly, mitochondria have recently been shown to display the capacity to be transferred between cell types, notably from human mesenchymal stem cells (MSC) to cancer cells in coculture conditions, with metabolic and functional consequences for the mitochondria recipient cells, further enhancing the current interest for the biological properties of these organelles. Evaluating the effects of the transferred MSC mitochondria in the target cells is of primary importance to understand the biological outcome of such cell-cell interactions. The MitoCeption protocol described here allows the transfer of the mitochondria isolated beforehand from the donor cells to the target cells, using MSC mitochondria and glioblastoma stem cells (GSC) as a model system. This protocol has previously been used to transfer mitochondria, isolated from MSCs, to adherent MDA-MB-231 cancer cells. This mitochondria transfer protocol is adapted here for GSCs that present the specific particularity of growing as neurospheres in vitro."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6e99ecadf2e73f000036_002",
+              "question": "What is the aim of the MitoCeption protocol?"
+            }
+          ],
+          "context": "We designed a protocol (MitoCeption) to directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9efde8ecadf2e73f000039_001",
+              "question": "What is the cause of Krabbe disease?"
+            }
+          ],
+          "context": "Large-scale study of clinical and biochemical characteristics of Chinese patients diagnosed with Krabbe disease. Krabbe disease (KD) is a rare disease caused by the deficiency of \u03b2-galactocerebrosidase. This study investigated 22 unrelated Chinese patients, including their clinical presentations, plasma psychosine levels and \u03b2-galactocerebrosidase gene mutations. We found the late-onset form of KD present in 82% of the patients in our study, which was more prevalent than in patients from other populations. Plasma psychosine levels were elevated in KD, which were correlated with the severity of clinical presentations."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9efde8ecadf2e73f000039_002",
+              "question": "What is the cause of Krabbe disease?"
+            }
+          ],
+          "context": "Ameliorates Central and Peripheral Nervous System Disease in Canine Globoid Cell Leukodystrophy (Krabbe Disease). Globoid cell leukodystrophy (GLD), or Krabbe disease, is an inherited, neurologic disorder that results from deficiency of a lysosomal enzyme, galactosylceramidase. Most commonly, deficits of galactosylceramidase result in widespread central and peripheral nervous system demyelination and death in affected infants typically by 2 years of age. Hematopoietic stem-cell transplantation is the current standard of care in children diagnosed prior to symptom onset."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9efde8ecadf2e73f000039_003",
+              "question": "What is the cause of Krabbe disease?"
+            }
+          ],
+          "context": "Consensus guidelines for newborn screening, diagnosis and treatment of infantile Krabbe disease. BACKGROUND: Krabbe disease is a rare neurodegenerative genetic disorder caused by deficiency of galactocerebrosidase. Patients with the infantile form of Krabbe disease can be treated at a presymptomatic stage with human stem cell transplantation which improves survival and clinical outcomes. However, without a family history, most cases of infantile Krabbe disease present after onset of symptoms and are ineligible for transplantation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c89623bf9c2ba6b28000004_001",
+              "question": "Name a CFL2 mutation which is associated with nemaline myopathy?"
+            }
+          ],
+          "context": "Because a mutation in CFL2 was identified in a family with nemaline myopathy, we performed sequence analysis of the gene and a novel homozygous missense mutation in exon 2 (c.19G>A, p.Val7Met) of CFL2 was identified in both siblings."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9789a9ecadf2e73f000024_001",
+              "question": "What cellular process is the gene product of NANOG involved in?"
+            }
+          ],
+          "context": "in early stage oral squamous cell cancer with occult metastases. OBJECTIVE: The objective of this study was to explore the prognostic value of cancer stem cell markers, namely CD133, NANOG, and NOTCH1, in early stage oral squamous cell carcinoma (OSCC). MATERIALS AND METHODS: One hundred forty-four patients with early stage (cT1T2N0) OSCC were identified from a pre-existing database of patients with oral cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9789a9ecadf2e73f000024_002",
+              "question": "What cellular process is the gene product of NANOG involved in?"
+            }
+          ],
+          "context": "The successful development from a single-cell zygote into a complex multicellular organism requires precise coordination of multiple cell-fate decisions. The very first of these is lineage specification into the inner cell mass (ICM) and trophectoderm (TE) during mammalian preimplantation development. In mouse embryos, transcription factors (TFs) such as Oct4, Sox2, and Nanog are enriched in cells of ICM, which gives rise to the fetus and yolk sac. Conversely, TFs such as Cdx2 and Eomes become highly upregulated in TE, which contribute to the placenta. Here, we review the current understanding of key transcriptional control mechanisms and genes responsible for these distinct differences during the first cell lineage specification."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9789a9ecadf2e73f000024_003",
+              "question": "What cellular process is the gene product of NANOG involved in?"
+            }
+          ],
+          "context": "Diallyl trisulfide (DATS), a natural organosulfur compound from the garlic, exhibits effective antitumor properties. However, the role of DATS in regulating breast CSCs activity and the underlying molecular mechanisms remain obscure. In the present study, we reported that DATS efficiently inhibited the viability of breast CSCs as evidenced by reducing turmorspheres formation, decreasing the expression of breast CSCs markers (CD44, ALDH1A1, Nanog, and Oct4), as well as inhibiting proliferation and inducing apoptosis. Furthermore, we showed that DATS downregulated the activity of Wnt/\u03b2-catenin pathway, while LiCl-triggered Wnt/\u03b2-catenin activation diminished DATS inhibition on breast CSCs. Taken together, our results illustrated that DATS suppressed breast CSCs through inhibiting Wnt/\u03b2-catenin pathway activation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9789a9ecadf2e73f000024_004",
+              "question": "What cellular process is the gene product of NANOG involved in?"
+            }
+          ],
+          "context": "For this purpose, using an explant attachment method, WJMSCs were isolated from three different parts of the UC, mainly present towards the placenta (mother part), the center of the whole cord (central part) and the part attached to the fetus (baby part). WJMSCs from all three parts were maintained in normal growth conditions (10% ADMEM) and analyzed for mesenchymal markers, pluripotent genes, proliferation rate and tri-lineage differentiation potential. All WJMSCs were highly proliferative, positively expressed CD90, CD105, CD73 and vimentin, while not expressing CD34, CD45, CD14, CD19 or HLA-DR, differentiated into adipocytes, osteocytes and chondrocytes and expressed pluripotency markers OCT-4, SOX-2 and NANOG at gene and protein levels. Furthermore, MSCs derived from all the parts were shown to have potency towards hepatocyte-like cell differentiation. Human bone marrow-derived MSCs were used as a positive control."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9789a9ecadf2e73f000024_005",
+              "question": "What cellular process is the gene product of NANOG involved in?"
+            }
+          ],
+          "context": "Human fibroblasts were isolated from foreskin of a clinically diagnosed 40-year old patient with idiopathic infertility. The fibroblasts were reprogrammed with the Yamanaka KOSM transcriptional factors using the retroviral vectors. The obtained induced pluripotent stem cell (iPSC) line showed pluripotency verified by the expression of pluripotency markers, NANOG, SOX2, OCT4, TRA-1-60, and SSEA-4. And the iPSC line was demonstrated to have the three germ layers differentiation capacity in vivo by teratoma assay. The iPSC line also showed normal karyotype."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9791d2ecadf2e73f000026_001",
+              "question": "Rickettsia felis was described as a human pathogen almost two decades ago, what is it's main arthropod vector?"
+            }
+          ],
+          "context": "Cat fleas (Ctenocephalides felis) carrying Rickettsia felis and Bartonella species in Hong Kong. Fleas are commonly recorded on stray as well as domestic dogs and cats in Hong Kong. Fleas can be a major cause of pruritus in dogs and cats and also vectors of potentially zoonotic bacteria in the genera Rickettsia and Bartonella."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9791d2ecadf2e73f000026_002",
+              "question": "Rickettsia felis was described as a human pathogen almost two decades ago, what is it's main arthropod vector?"
+            }
+          ],
+          "context": "Fleas are commonly recorded on stray as well as domestic dogs and cats in Hong Kong. Fleas can be a major cause of pruritus in dogs and cats and also vectors of potentially zoonotic bacteria in the genera Rickettsia and Bartonella. Morphological examination of 174 fleas from dogs and cats living in Hong Kong revealed only cat fleas (Ctenocephalides felis). Cytochrome c oxidase subunit 1 gene (cox1) genotyping of 20 randomly selected specimens, revealed three cox1 haplotypes (HK-h1 to HK-h3). The most common haplotype was HK-h1 with 17 specimens (17/20, 85%)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0d647ecadf2e73f000059_001",
+              "question": "What is a exposome?"
+            }
+          ],
+          "context": "Roadmap for investigating epigenome deregulation and environmental origins of cancer. The interaction between the (epi)genetic makeup of an individual and his/her environmental exposure record (exposome) is accepted as a determinant factor for a significant proportion of human malignancies. Recent evidence has highlighted the key role of epigenetic mechanisms in mediating gene-environment interactions and translating exposures into tumorigenesis. There is also growing evidence that epigenetic changes may be risk factor-specific (\"fingerprints\") that should prove instrumental in the discovery of new biomarkers in cancer. Here, we review the state of the science of epigenetics associated with environmental stimuli and cancer risk, highlighting key developments in the field."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0d647ecadf2e73f000059_002",
+              "question": "What is a exposome?"
+            }
+          ],
+          "context": "We discuss the difference between biomarkers that are the result of a chemical reaction (such as lipid peroxides or oxidized proteins that are a result of the reaction of molecules with reactive oxygen species) and those that represent the biological response to stress, such as the transcription factor NRF2 or inflammation and inflammatory cytokines. CRITICAL ISSUES: The high-throughput and holistic approaches to biomarker discovery used extensively in large-scale molecular epidemiological exposome are also discussed in the context of human exposure to environmental stressors. FUTURE DIRECTIONS: We propose to consider the role of biomarkers as signs and to distinguish between signs that are just indicators of biological processes and proxies that one can interact with and modify the disease process."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0d647ecadf2e73f000059_003",
+              "question": "What is a exposome?"
+            }
+          ],
+          "context": "Despite significant advancements in our understanding of SLE over the recent years, its exact mode of onset and disease progression remains elusive. Low concordance rates among monozygotic twins with SLE (as low as 24%), clustering of disease prevalence around polluted regions and an urban-rural difference in prevalence all highlight the importance of environmental influences in SLE. Experimental data strongly suggests a complex interaction between the exposome (or environmental influences) and genome (genetic material) to produce epigenetic changes (epigenome) that can alter the expression of genetic material and lead to development of disease in the susceptible individual. In this review, we focus on the available literature to explore the role of environmental factors in SLE disease onset and progression and to better understand the role of exposome-epigenome-genome interactions in this dreaded disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0d647ecadf2e73f000059_004",
+              "question": "What is a exposome?"
+            }
+          ],
+          "context": "Moreover, practical considerations for the dermatologist's clinical practice are proposed. CONCLUSION: Exposome factors including nutrition, medication, occupational factors, pollutants, climatic factors, and psychosocial and lifestyle factors may impact on the course and severity of acne and on treatment efficacy. Identifying and reducing the impact of exposome is important for an adequate acne disease management."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0d647ecadf2e73f000059_005",
+              "question": "What is a exposome?"
+            }
+          ],
+          "context": "Studies have shown an increased risk for chronic lung allograft dysfunction in patients exposed to traffic-related air pollution, using residential distance to roadways and outdoor pollution. OBJECTIVES: Personal monitoring and the indoor environment post-lung transplantation have not been investigated. The exposome is a novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors, including environmental exposures, as well as changes in exposures over time, to elucidate the complex environmental factors that affect health outcomes. METHODS: We prospectively enrolled newly transplanted double-lung recipients for comprehensive indoor and personal environmental monitoring at 6 and 12 weeks after lung transplantation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c897167d558e5f232000005_001",
+              "question": "What does the strimvelis treatment consist of?"
+            }
+          ],
+          "context": "Gene therapy in rare diseases: the benefits and challenges of developing a patient-centric registry for Strimvelis in ADA-SCID. BACKGROUND: Strimvelis (autologous CD34+ cells transduced to express adenosine deaminase [ADA]) is the first ex vivo stem cell gene therapy approved by the European Medicines Agency (EMA), indicated as a single treatment for patients with ADA-severe combined immunodeficiency (ADA-SCID) who lack a suitable matched related bone marrow donor. Existing primary immunodeficiency registries are tailored to transplantation outcomes and do not capture the breadth of safety and efficacy endpoints required by the EMA for the long-term monitoring of gene therapies. Furthermore, for extended monitoring of Strimvelis, the young age of children treated, small patient numbers, and broad geographic distribution of patients all increase the risk of loss to follow-up before sufficient data have been collected."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0e4a6ecadf2e73f00005b_001",
+              "question": "What is predicted using SURFY?"
+            }
+          ],
+          "context": "Cell-surface proteins are of great biomedical importance, as demonstrated by the fact that 66% of approved human drugs listed in the DrugBank database target a cell-surface protein. Despite this biomedical relevance, there has been no comprehensive assessment of the human surfaceome, and only a fraction of the predicted 5,000 human transmembrane proteins have been shown to be located at the plasma membrane. To enable analysis of the human surfaceome, we developed the surfaceome predictor SURFY, based on machine learning. As a training set, we used experimentally verified high-confidence cell-surface proteins from the Cell Surface Protein Atlas (CSPA) and trained a random forest classifier on 131 features per protein and, specifically, per topological domain. SURFY was used to predict a human surfaceome of 2,886 proteins with an accuracy of 93.5%, which shows excellent overlap with known cell-surface protein classes (i.e., receptors)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c897555d558e5f232000009_001",
+              "question": "Which was the first adeno-associated virus vector gene therapy product approved in the United States?"
+            }
+          ],
+          "context": "However, we observed minimal changes in binding and neutralizing titer when we tested these mutant vectors for evasion of polyclonal sera from mice, macaques, or humans previously exposed to AAV. Taken together, these studies demonstrate the complexity of incorporating mapped neutralizing epitopes and previously identified functional motifs into the design of novel capsids able to evade immune response. IMPORTANCE Gene therapy utilizing viral vectors has experienced recent success, culminating in U.S. Food and Drug Administration approval of the first adeno-associated virus vector gene therapy product in the United States: Luxturna for inherited retinal dystrophy. However, application of this approach to other tissues faces significant barriers. One challenge is the immune response to viral infection or vector administration, precluding patients from receiving an initial or readministered dose of vector, respectively."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c89773ed558e5f23200000a_001",
+              "question": "Which gene therapy treatment is FDA approved for retinal dystrophy?"
+            }
+          ],
+          "context": "However, we observed minimal changes in binding and neutralizing titer when we tested these mutant vectors for evasion of polyclonal sera from mice, macaques, or humans previously exposed to AAV. Taken together, these studies demonstrate the complexity of incorporating mapped neutralizing epitopes and previously identified functional motifs into the design of novel capsids able to evade immune response. IMPORTANCE Gene therapy utilizing viral vectors has experienced recent success, culminating in U.S. Food and Drug Administration approval of the first adeno-associated virus vector gene therapy product in the United States: Luxturna for inherited retinal dystrophy. However, application of this approach to other tissues faces significant barriers. One challenge is the immune response to viral infection or vector administration, precluding patients from receiving an initial or readministered dose of vector, respectively."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9fb428ecadf2e73f000041_001",
+              "question": "Salivary Cortisol is a biomarker for what disease/syndrome/condition?"
+            }
+          ],
+          "context": "Salivary cortisone, as a biomarker for psychosocial stress, is associated with state anxiety and heart rate. BACKGROUND: Stress activates the central nervous, the autonomic nervous, and the endocrine system."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9fb428ecadf2e73f000041_002",
+              "question": "Salivary Cortisol is a biomarker for what disease/syndrome/condition?"
+            }
+          ],
+          "context": "Effects of balneotherapy and spa therapy on levels of cortisol as a stress biomarker: a systematic review. Balneotherapy and spa therapy are well-known practices, even though limited evidence has been produced about their biological effects. This systematic review primarily aims at assessing if balneotherapy, mud/peloid therapy, and spa therapy may influence cortisol levels."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9fb428ecadf2e73f000041_003",
+              "question": "Salivary Cortisol is a biomarker for what disease/syndrome/condition?"
+            }
+          ],
+          "context": "Stress evaluation in adult patients with atopic dermatitis using salivary cortisol. The symptoms of atopic dermatitis (AD) are often aggravated by stress, and AD can also lead to psychological stress due to social isolation and discrimination. The salivary cortisol level reflects psychological stress, and it is a good index to assess chronic stress. In this study, we measured the salivary cortisol levels in patients with AD (n = 30) and compared them with those of healthy control subjects (n = 42). AD patients were also evaluated for general disease severity using the Scoring Atopic Dermatitis (SCORAD) index."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_001",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "Cyclic di-AMP in host-pathogen interactions. Cyclic di-AMP (c-di-AMP) is a bacterial signaling nucleotide synthesized by several human pathogens. This widespread and specific bacterial product is recognized by infected host cells to trigger an innate immune response. Detection of c-di-AMP in the host cytosol leads primarily to the induction of type I interferon via the STING-cGAS signaling axis, while being also entangled in the activation of the NF-\u03baB pathway. During their long-standing interaction, host and pathogens have co-evolved to control c-di-AMP activation of innate immunity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_002",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "Cyclic GMP-AMP synthase (cGAS) has recently been identified as the primary protein that detects cytosolic double stranded DNA to invoke a type I interferon response. The cGAS pathway is vital in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_003",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "The combination of cGAMP and PD-L1 antibody exerted stronger antitumor effects than did either treatment alone. cGAMP treatment activated dendritic cells and enhanced cross-presentation of tumor-associated antigens to CD8 T cells. These results indicate that activation of the cGAS pathway is important for intrinsic antitumor immunity and that cGAMP may be used directly for cancer immunotherapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_004",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "This is observed over a wide length-span of DNA, ranging from the minimal stimulatory length to several kilobases, and is fully dependent on cGAS irrespective of DNA length. Importantly, in vitro studies reveal that long DNA activates recombinant human cGAS more efficiently than short DNA, showing that length-dependent DNA recognition is an intrinsic property of cGAS independent of accessory proteins. Collectively, this work identifies long DNA as the molecular entity stimulating the cGAS pathway upon cytosolic DNA challenge such as viral infections."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_005",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "Moreover, restoring cGAS expression results in an anti-tumour immune response. Clinically, decreased levels of cGAS are associated with poor prognosis for patients with breast cancer harbouring high levels of miR-25/93. Together, these data suggest that inactivation of the cGAS pathway plays a critical role in tumour progression, and reveal a direct link between hypoxia-responsive miRNAs and adaptive immune responses to the hypoxic tumour microenvironment, thus unveiling potential new therapeutic strategies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_006",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "The catalytic mechanism of cyclic GMP-AMP synthase (cGAS) and implications for innate immunity and inhibition. Cyclic GMP-AMP synthase (cGAS) is activated by ds-DNA binding to produce the secondary messenger 2',3'-cGAMP. cGAS is an important control point in the innate immune response; dysregulation of the cGAS pathway is linked to autoimmune diseases while targeted stimulation may be of benefit in immunoncology. We report here the structure of cGAS with dinucleotides and small molecule inhibitors, and kinetic studies of the cGAS mechanism. Our structural work supports the understanding of how ds-DNA activates cGAS, suggesting a site for small molecule binders that may cause cGAS activation at physiological ATP concentrations, and an apparent hotspot for inhibitor binding."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_007",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "The recognition of microbial nucleic acids is a major mechanism by which the immune system detects pathogens. Cyclic GMP-AMP (cGAMP) synthase (cGAS) is a cytosolic DNA sensor that activates innate immune responses through production of the second messenger cGAMP, which activates the adaptor STING. The cGAS-STING pathway not only mediates protective immune defense against infection by a large variety of DNA-containing pathogens but also detects tumor-derived DNA and generates intrinsic antitumor immunity. However, aberrant activation of the cGAS pathway by self DNA can also lead to autoimmune and inflammatory disease. Thus, the cGAS pathway must be properly regulated."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_008",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "In contrast, the presence of enzymatically inactive cGAS mutant did not influence HBV replication. Moreover, knockdown of cGAS in human peripheral blood monocytes led to a higher level of intracellular HBV DNA. Collectively, our data indicate that the cGAS-STING pathway plays a role in the surveillance of HBV infection and may be exploited for development of novel anti-HBV strategies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8fe7cb0101eac87000000c_001",
+              "question": "What does RUNX2 stand for?"
+            }
+          ],
+          "context": "We have previously shown functional expression by osteoblasts of signaling machineries required for neurotransmission in the brain. In this study, we have evaluated possible functional expression of different osseous genes in the brain. In embryonic and adult mouse brains, mRNA expression was invariably seen for the master regulator of osteoblastic differentiation Runt related factor-2 (Runx2), in addition to the partner protein core binding factor-beta and their targets such as osteopontin (OPN) and matrix metalloproteinase-13 (MMP13), but not for collagen-I or osteocalcin. In pluripotent P19 progenitor cells, Runx2 mRNA expression was drastically increased along with mRNA expression of an astrocytic marker, but not with neuronal marker mRNA expression. Both mRNA and corresponding protein were detected for Runx2 in cultured rat neocortical astrocytes and astrocytic C6 glioma cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9ff25eecadf2e73f000043_001",
+              "question": "Where, in the body, would the Cobb-Stainsby excision arthroplasty be performed?"
+            }
+          ],
+          "context": "BACKGROUND: Dislocated metatarsophalangeal joints from clawed or hammer toes can be a disabling consequence of several conditions. The Cobb-Stainsby forefoot arthroplasty combines partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head (Cobb). We present a retrospective, three surgeon case series of 215 toes in 126 patients. METHODS:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c900b9eecadf2e73f000004_001",
+              "question": "Which company produces patisiran?"
+            }
+          ],
+          "context": "Patisiran (ONPATTRO\u2122) is a double-stranded small interfering RNA encapsulated in a lipid nanoparticle for delivery to hepatocytes. By specifically binding to a genetically conserved sequence in the 3' untranslated region of mutant and wild-type transthyretin (TTR) messenger RNA, patisiran causes its degradation (via RNA interference) and subsequently a reduction in serum TTR protein levels and tissue TTR protein deposits. Patisiran has been developed by Alnylam Pharmaceuticals; it was recently approved in the USA for the treatment of the polyneuropathy of hereditary TTR-mediated amyloidosis (hATTR) in adults and subsequently approved in the EU for the treatment of hATTR in adults with stage 1 or 2 polyneuropathy. The recommended dosage, administered as a single intravenous infusion over approximately 80\u00a0min, is 0.3\u00a0mg/kg once every 3\u00a0weeks for patients weighing < 100\u00a0kg and 30\u00a0mg once every 3\u00a0weeks for patients weighing\u00a0 > 100\u00a0kg."
+        },
+        {
+          "qas": [
+            {
+              "id": "5caa0247ecadf2e73f000055_001",
+              "question": "What protein is recruited by Crumbs to regulate tracheal development?"
+            }
+          ],
+          "context": "Conversely, the braided seamless tube cyst phenotype was suppressed by mutations in crumbs or Moesin. Indeed, mutations in Moesin dominantly suppressed seamless tube cyst formation and restored terminal branching. We propose that early endocytosis maintains normal steady-state levels of Crumbs, which recruits apical phosphorylated (active) Moe, which in turn regulates seamless tube shape through modulation of cortical actin filaments."
+        },
+        {
+          "qas": [
+            {
+              "id": "5caa0247ecadf2e73f000055_002",
+              "question": "What protein is recruited by Crumbs to regulate tracheal development?"
+            }
+          ],
+          "context": "Crb accumulates differentially throughout tracheal development and is required for different tracheal events. The earliest requirement for Crb is for tracheal invagination, which is preceded by an enhanced accumulation of Crb in the invagination domain. There, Crb, acting in parallel with the epidermal growth factor receptor (Egfr) pathway, is required for tracheal cell apical constriction and for organising an actomyosin complex, which we propose is mediated by Crb recruitment of moesin (Moe). The ability of a Crb isoform unable to rescue polarity in crb mutants to otherwise rescue their invagination phenotype, and the converse inability of a FERM-binding domain mutant Crb to rescue faulty invagination, support our hypothesis that it is the absence of Crb-dependent Moe enrichment, and not the polarity defect, that mainly underlies the crb invagination phenotype. This hypothesis is supported by the phenotype of lethal giant larvae (lgl); crb double mutants."
+        },
+        {
+          "qas": [
+            {
+              "id": "5caa06d0ecadf2e73f000056_001",
+              "question": "Where in the body, is ghrelin secreted?"
+            }
+          ],
+          "context": "Ghrelin secretion in humans - a role for the vagus nerve? BACKGROUND: Ghrelin, an orexigenic peptide, is secreted from endocrine cells in the gastric mucosa. Circulating levels rise in the preprandial phase, suggesting an anticipatory or cephalic phase of release, and decline in the postprandial phase, suggesting either the loss of a stimulatory factor or inhibition by factors released when nutrients enter the intestine. We hypothesized that vagal signals are not required for the (i) preprandial increase or (ii) postprandial suppression of ghrelin levels."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c840782617e120c34000006_001",
+              "question": "What is resistin?"
+            }
+          ],
+          "context": "Leptin and adiponectin mediate both proatherogenic and antiatherogenic responses. Leptin and adiponectin have been linked to the development of coronary heart disease and may be involved in the underlying biological mechanism of ischemic stroke. Resistin, a pro-inflammatory cytokine, is predictive of atherosclerosis and poor clinical outcomes in patients with coronary artery disease and ischemic stroke. The changes in serum levels of novel adipokines apelin, visfatin are also associated with acute ischemic stroke. These adipokines have been proposed as potential prognostic biomarkers of cardiovascular mortality/morbidity and therapeutic targets in patients with cardiometabolic diseases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c840782617e120c34000006_002",
+              "question": "What is resistin?"
+            }
+          ],
+          "context": "Adipokines in neurovascular diseases. Adipose tissue is now described as an endocrine organ secreting a number of adipokines contributing to the development of inflammation and metabolic imbalance, but also endothelial dysfunction, vascular remodeling, atherosclerosis, and ischemic stroke. Leptin, adiponectin, and resistin are the most studied adipokines which play important roles in the regulation of cardiovascular homeostasis. Leptin and adiponectin mediate both proatherogenic and antiatherogenic responses. Leptin and adiponectin have been linked to the development of coronary heart disease and may be involved in the underlying biological mechanism of ischemic stroke."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca9f846ecadf2e73f000053_001",
+              "question": "What is the function of GvpA?"
+            }
+          ],
+          "context": "Gas vesicles are proteinaceous, gas-filled nanostructures produced by some bacteria and archaea. The hydrophobic major structural protein GvpA forms the ribbed gas vesicle wall."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca9f846ecadf2e73f000053_002",
+              "question": "What is the function of GvpA?"
+            }
+          ],
+          "context": "Their synthesis depends on environmental factors, such as light, oxygen supply, temperature and salt concentration. Fourteen gas vesicle protein (gvp) genes are involved in their formation, and regulation of gvp gene expression occurs at the level of transcription, including the two regulatory proteins, GvpD and GvpE, but also at the level of translation. The gas vesicle wall is solely formed of proteins with the two major components, GvpA and GvpC, and seven additional accessory proteins are also involved. Except for GvpI and GvpH, all of these are required to form the gas permeable wall. The applications of gas vesicles include their use as an antigen presenter for viral or pathogen proteins, but also as a stable ultrasonic reporter for biomedical purposes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c896f60d558e5f232000003_001",
+              "question": "What is the indication for KYMRIAH?"
+            }
+          ],
+          "context": "Two autologous chimeric antigen receptor (CAR) T cell therapies (Kymriah\u2122 and Yescarta\u2122) were recently approved by the FDA. Kymriah\u2122 is for the treatment of pediatric patients and young adults with refractory or relapse (R/R) B cell precursor acute lymphoblastic leukemia and Yescarta\u2122 is for the treatment of adult patients with R/R large B cell lymphoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c93e8bdecadf2e73f00001c_001",
+              "question": "Which syndrome is associated to SAMHD1 gene mutations?"
+            }
+          ],
+          "context": "Recurring roles in cell cycle, viral restriction, cancer, and innate immunity. Sterile alpha motif and histidine-aspartic acid domain-containing protein 1 (SAMHD1) is a deoxynucleotide triphosphate (dNTP) hydrolase that plays an important role in the homeostatic balance of cellular dNTPs. Its emerging role as an effector of innate immunity is affirmed by mutations in the SAMHD1 gene that cause the severe autoimmune disease, Aicardi-Goutieres syndrome (AGS) and that are linked to cancer. Additionally, SAMHD1 functions as a restriction factor for retroviruses, such as HIV. Here, we review the current biochemical and biological properties of the enzyme including its structure, activity, and regulation by post-translational modifications in the context of its cellular function."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb39707ecadf2e73f000060_001",
+              "question": "What is the results of mutations in the gene autoimmune regulator?"
+            }
+          ],
+          "context": "neutralizing autoantibodies impair fungal clearance in murine oropharyngeal candidiasis model. Protection against mucocutaneous candidiasis depends on the T helper (Th)17 pathway, as gene defects affecting its integrity result in inability to clear Candida albicans infection on body surfaces. Moreover, autoantibodies neutralizing Th17 cytokines have been related to chronic candidiasis in a rare inherited disorder called autoimmune polyendocriopathy candidiasis ectodermal dystrophy (APECED) caused by mutations in autoimmune regulator (AIRE) gene. However, the direct pathogenicity of these autoantibodies has not yet been addressed. Here we show that the level of anti-IL17A autoantibodies that develop in aged Aire-deficient mice is not sufficient for conferring susceptibility to oropharyngeal candidiasis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb39707ecadf2e73f000060_002",
+              "question": "What is the results of mutations in the gene autoimmune regulator?"
+            }
+          ],
+          "context": "The autoimmune regulator gene (AIRE) is a transcription factor expressed both in the thymus, by medullary thymic epithelial cells, and in secondary lymphoid organs. AIRE controls the local transcription of organ- specific proteins typically expressed in peripheral tissues, thus allowing the negative selection of self- reactive T cells. The crucial role played by AIRE in central immune tolerance emerged in the studies on the pathogenesis of Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy, a rare inherited polyendocrine/autoimmune disease. Thereafter, several studies found evidences indicating that AIRE impairment might be pathogenically involved in several autoimmune diseases and in tumorigenesis. In this review, we focus on recent advances relative to AIRE's effect on T cell development in physiology and disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb39707ecadf2e73f000060_003",
+              "question": "What is the results of mutations in the gene autoimmune regulator?"
+            }
+          ],
+          "context": "Autoimmune polyendocrine syndrome type 1 (APS-1; OMIM #240300), also referred to as autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED), is a rare monogenic autoimmune disorder caused by mutations in the autoimmune regulator (AIRE) gene."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb39707ecadf2e73f000060_004",
+              "question": "What is the results of mutations in the gene autoimmune regulator?"
+            }
+          ],
+          "context": "The Role of AIRE in the Immunity Against Candida Albicans in a Model of Human Macrophages. Autoimmune-polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED) is a primary immunodeficiency caused by mutations in the autoimmune regulator gene (AIRE). Patients with AIRE mutations are susceptible to Candida albicans infection and present with autoimmune disorders. We previously demonstrated that cytoplasmic AIRE regulates the Syk-dependent Dectin-1 pathway. In this study, we further evaluated direct contact with fungal elements, synapse formation, and the response of macrophage-like THP-1 cells to C. albicans hyphae to determine the role of AIRE upon Dectin receptors function and signaling."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

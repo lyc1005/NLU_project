@@ -1,0 +1,757 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c890ad575a4a5d21900000d_001",
+              "question": "Which plant does oleuropein originate from?"
+            }
+          ],
+          "context": "Oleuropein Is Responsible for the Major Anti-Inflammatory Effects of Olive Leaf Extract."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c890ad575a4a5d21900000d_002",
+              "question": "Which plant does oleuropein originate from?"
+            }
+          ],
+          "context": "Oleuropein is the only OLE component that has shown anti-inflammatory effects at a concentration of 20\u2009\u03bcg/mL."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c890ad575a4a5d21900000d_003",
+              "question": "Which plant does oleuropein originate from?"
+            }
+          ],
+          "context": "Downregulation of TNF\u03b1 secretion in PMNCs culture in response to OLE treatment indicates that this polyphenol-rich extract has an anti-inflammatory effect, and oleuropein is the major OLE component responsible for this effect. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca0bf00ecadf2e73f000045_001",
+              "question": "Reslizumab is a humanized monoclonal antibody to treat what specific type of asthma?"
+            }
+          ],
+          "context": "Since IL-5 plays an important role in the maturation, survival and migration of eosinophils, hence the pathogenesis of eosinophilic asthma, biotherapeutics targeting IL-5/IL-5R\u03b1 have been developed and/or marketed, including Mepolizumab, Reslizumab, and Benralizumab."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca0bf00ecadf2e73f000045_002",
+              "question": "Reslizumab is a humanized monoclonal antibody to treat what specific type of asthma?"
+            }
+          ],
+          "context": "Reslizumab, a humanized mAb against IL-5, reduces the number of eosinophils in the blood and lungs. Based on efficacy and safety data from pivotal RCTs, reslizumab had been approved for use as an add-on maintenance treatment of severe asthma with an eosinophilic phenotype in adults who have a history of exacerbations despite receiving their current asthma medicines. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca0bf00ecadf2e73f000045_003",
+              "question": "Reslizumab is a humanized monoclonal antibody to treat what specific type of asthma?"
+            }
+          ],
+          "context": "Reslizumab in the treatment of severe eosinophilic asthma"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c92869aecadf2e73f000015_001",
+              "question": "What is the function of the protein Magt1?"
+            }
+          ],
+          "context": "magnesium transporter 1 (MAGT1)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c92869aecadf2e73f000015_002",
+              "question": "What is the function of the protein Magt1?"
+            }
+          ],
+          "context": "magnesium transporter MagT1"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c92869aecadf2e73f000015_003",
+              "question": "What is the function of the protein Magt1?"
+            }
+          ],
+          "context": "The magnesium transporter 1 (MAGT1) is a critical regulator of basal intracellular free magnesium ([Mg2+]i) levels. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990241ecadf2e73f00002d_001",
+              "question": "What is the function of the transcriptional co-activator p300?"
+            }
+          ],
+          "context": "The transcriptional co-activator p300 is a histone acetyltransferase (HAT) that is typically recruited to transcriptional enhancers and regulates gene expression by acetylating chromatin."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990241ecadf2e73f00002d_002",
+              "question": "What is the function of the transcriptional co-activator p300?"
+            }
+          ],
+          "context": "p300, a transcriptional co-activator with histone acetyl transferase (HAT) activity, plays an essential role in the pathogenesis of cardiomyocyte hypertrophy in response to multiple pro-hypertrophic stimuli including hyperglycemia. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c890e6d75a4a5d21900000f_001",
+              "question": "What is another name for the plant Sideritis scardica?"
+            }
+          ],
+          "context": "Sideritis scardica Griseb. (ironwort, mountain tea), an endemic plant of the Balkan Peninsula, has been used in traditional medicine in the treatment of gastrointestinal complaints, inflammation, and rheumatic disorders. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9904eaecadf2e73f00002e_001",
+              "question": "From where is gamabufotalin (GBT) isolated?"
+            }
+          ],
+          "context": "RCFs of cinobufagin to gamabufotalin, bufotalin, bufalin and resibufogenin were determined as 1.05, 0.895, 1.09 and 0.913, respectively. The characteristic chromatogram and QAMS established in this study could effectively control the quality of toad venom and provide scientific evidence for the improvement of the quality standard of the toad venom to be described in Chinese Pharmacopoeia "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9904eaecadf2e73f00002e_002",
+              "question": "From where is gamabufotalin (GBT) isolated?"
+            }
+          ],
+          "context": "We identified three bufadienolides-the steroid-like compounds arenobufagin, gamabufotalin, and telocinobufagin-from the boreal toad,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9904eaecadf2e73f00002e_003",
+              "question": "From where is gamabufotalin (GBT) isolated?"
+            }
+          ],
+          "context": "In the current study, gamabufotalin (GBT) was isolated from toad venom"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9904eaecadf2e73f00002e_004",
+              "question": "From where is gamabufotalin (GBT) isolated?"
+            }
+          ],
+          "context": "Gamabufotalin, a bufadienolide compound from toad venom"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9a6693ecadf2e73f000031_001",
+              "question": "What is a mitosome?"
+            }
+          ],
+          "context": "Mitosomes are the simplest and the least well-studied type of anaerobic mitochondria. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9a6693ecadf2e73f000031_002",
+              "question": "What is a mitosome?"
+            }
+          ],
+          "context": "The mitosomes have abandoned typical mitochondrial traits such as the mitochondrial genome and aerobic respiration and their single role known to date is the formation of iron-sulfur clusters"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9a6693ecadf2e73f000031_003",
+              "question": "What is a mitosome?"
+            }
+          ],
+          "context": "a mitosome, a relict mitochondrion with a greatly reduced metabolic capability."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9a6693ecadf2e73f000031_004",
+              "question": "What is a mitosome?"
+            }
+          ],
+          "context": "he highly divergent mitochondrion-related organelle, the mitosome, in the anaerobic/microaerophilic protozoan parasite Entamoeba histolytica based on the potential mitochondrion-targeting signal."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c897082d558e5f232000004_001",
+              "question": "What is the price of KYMRIAH treatment in 2019?"
+            }
+          ],
+          "context": "At the time of the writing of this article, there are two CAR T cells available, Kymriah, produced by Novrtis with a price tag of US$475,000 and Yescarta produced by Gilead Pharmaceuticals with a price tag of US$373,000, neither price including the required hospital admission in order to administer the agent in addition to potential treatment of side effects. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0856decadf2e73f000058_001",
+              "question": "Human dihydroorotate dehydrogenase is a drug target and is involved in what biosynthetic pathway"
+            }
+          ],
+          "context": "The flavoenzyme dihydroorotate dehydrogenase (DHODH) catalyzes the fourth reaction of the de novo pyrimidine biosynthetic pathway, which exerts vital functions in the cells, especially within DNA and RNA biosynthesis. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0856decadf2e73f000058_002",
+              "question": "Human dihydroorotate dehydrogenase is a drug target and is involved in what biosynthetic pathway"
+            }
+          ],
+          "context": "Human dihydroorotate dehydrogenase (HsDHODH) is a key enzyme of pyrimidine de novo biosynthesis pathway"
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0856decadf2e73f000058_003",
+              "question": "Human dihydroorotate dehydrogenase is a drug target and is involved in what biosynthetic pathway"
+            }
+          ],
+          "context": "Dihydroorotate dehydrogenase (DHODH) mediates the fourth step of de novo pyrimidine biosynthesis and is a proven drug target for inducing immunosuppression in therapy of human disease as well as a rapidly emerging drug target for treatment of malaria."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8fe1f10101eac87000000a_001",
+              "question": "What is the effect of NFIA on astrocyte differentiation?"
+            }
+          ],
+          "context": "By searching for transcription factors that function at these elements, we identified NFIA and ATF3 as drivers of astrocyte differentiation from neural precursor cells while RUNX2 promotes astrocyte maturation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6407ecadf2e73f000034_001",
+              "question": "Where is the protein protamine 2 expressed?"
+            }
+          ],
+          "context": "This work aimed at investigating the effect of resveratrol on (1) DNA integrity and (2) fertilizing capacity of sperm by quantifying the presence of key paternal transcripts considered as markers for male fertility (protamine 1 [PRM1] and protamine 2 [PRM2]) "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6407ecadf2e73f000034_002",
+              "question": "Where is the protein protamine 2 expressed?"
+            }
+          ],
+          "context": "biomarkers associated with spermatogenesis, including azoospermia-like (DAZL), phosphoglycerate kinase 2 (PGK2), and protamine 2 (PRM2). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6407ecadf2e73f000034_003",
+              "question": "Where is the protein protamine 2 expressed?"
+            }
+          ],
+          "context": " Protamines are sperm nuclear proteins with a crucial role in chromatin condensation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6407ecadf2e73f000034_004",
+              "question": "Where is the protein protamine 2 expressed?"
+            }
+          ],
+          "context": "Expression of germ cell-specific proteins such as POU5F1, DAZL, TNP1, TNP2, PRM1 and PRM2"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6407ecadf2e73f000034_005",
+              "question": "Where is the protein protamine 2 expressed?"
+            }
+          ],
+          "context": "Human sperm express two types of protamine: protamine 1 (P1) and the family of protamine 2 (P2) proteins,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c910ae0ecadf2e73f000007_001",
+              "question": "Which company developed opdivo?"
+            }
+          ],
+          "context": "As part of its single technology appraisal (STA) process, the National Institute for Health and Care Excellence (NICE) invited the manufacturer (Bristol-Myers Squibb) of nivolumab (Opdivo\u00ae) to submit evidence of its clinical and cost effectiveness for metastatic or unresectable urothelial cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c960f21ecadf2e73f000020_001",
+              "question": "What are DMARDs?"
+            }
+          ],
+          "context": "To determine the utility of ultrasonography in guiding modification of disease-modifying anti-rheumatic drug (DMARD) and steroid therapy for inflammatory arthritis (IA)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c960f21ecadf2e73f000020_002",
+              "question": "What are DMARDs?"
+            }
+          ],
+          "context": "disease-modifying antirheumatic drugs (DMARDs)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c960f21ecadf2e73f000020_003",
+              "question": "What are DMARDs?"
+            }
+          ],
+          "context": "Treatment with disease-modifying antirheumatic drugs (DMARDs) "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6e99ecadf2e73f000036_001",
+              "question": "What is the aim of the MitoCeption protocol?"
+            }
+          ],
+          "context": " The MitoCeption protocol described here allows the transfer of the mitochondria isolated beforehand from the donor cells to the target cells, using MSC mitochondria and glioblastoma stem cells (GSC) as a model system."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9e6e99ecadf2e73f000036_002",
+              "question": "What is the aim of the MitoCeption protocol?"
+            }
+          ],
+          "context": "We designed a protocol (MitoCeption) to directly and quantitatively transfer mitochondria, isolated from cell type A, to recipient cell type B. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9efde8ecadf2e73f000039_001",
+              "question": "What is the cause of Krabbe disease?"
+            }
+          ],
+          "context": "Krabbe disease (KD) is a rare disease caused by the deficiency of \u03b2-galactocerebrosidase. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9efde8ecadf2e73f000039_002",
+              "question": "What is the cause of Krabbe disease?"
+            }
+          ],
+          "context": "Globoid cell leukodystrophy (GLD), or Krabbe disease, is an inherited, neurologic disorder that results from deficiency of a lysosomal enzyme, galactosylceramidase."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9efde8ecadf2e73f000039_003",
+              "question": "What is the cause of Krabbe disease?"
+            }
+          ],
+          "context": "Krabbe disease is a rare neurodegenerative genetic disorder caused by deficiency of galactocerebrosidase. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c89623bf9c2ba6b28000004_001",
+              "question": "Name a CFL2 mutation which is associated with nemaline myopathy?"
+            }
+          ],
+          "context": "Because a mutation in CFL2 was identified in a family with nemaline myopathy, we performed sequence analysis of the gene and a novel homozygous missense mutation in exon 2 (c.19G>A, p.Val7Met) of CFL2 was identified in both siblings. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9789a9ecadf2e73f000024_001",
+              "question": "What cellular process is the gene product of NANOG involved in?"
+            }
+          ],
+          "context": "The objective of this study was to explore the prognostic value of cancer stem cell markers, namely CD133, NANOG, and NOTCH1, in early stage oral squamous cell carcinoma (OSCC)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9789a9ecadf2e73f000024_002",
+              "question": "What cellular process is the gene product of NANOG involved in?"
+            }
+          ],
+          "context": " transcription factors (TFs) such as Oct4, Sox2, and Nanog"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9789a9ecadf2e73f000024_003",
+              "question": "What cellular process is the gene product of NANOG involved in?"
+            }
+          ],
+          "context": "expression of breast CSCs markers (CD44, ALDH1A1, Nanog, and Oct4),"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9789a9ecadf2e73f000024_004",
+              "question": "What cellular process is the gene product of NANOG involved in?"
+            }
+          ],
+          "context": "pluripotency markers OCT-4, SOX-2 and NANOG "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9789a9ecadf2e73f000024_005",
+              "question": "What cellular process is the gene product of NANOG involved in?"
+            }
+          ],
+          "context": "The obtained induced pluripotent stem cell (iPSC) line showed pluripotency verified by the expression of pluripotency markers, NANOG, SOX2, OCT4,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9791d2ecadf2e73f000026_001",
+              "question": "Rickettsia felis was described as a human pathogen almost two decades ago, what is it's main arthropod vector?"
+            }
+          ],
+          "context": "Cat fleas (Ctenocephalides felis) carrying Rickettsia felis and Bartonella species in Hong Kong."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9791d2ecadf2e73f000026_002",
+              "question": "Rickettsia felis was described as a human pathogen almost two decades ago, what is it's main arthropod vector?"
+            }
+          ],
+          "context": " Morphological examination of 174 fleas from dogs and cats living in Hong Kong revealed only cat fleas (Ctenocephalides felis)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0d647ecadf2e73f000059_001",
+              "question": "What is a exposome?"
+            }
+          ],
+          "context": "The interaction between the (epi)genetic makeup of an individual and his/her environmental exposure record (exposome) is accepted as a determinant factor for a significant proportion of human malignancies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0d647ecadf2e73f000059_002",
+              "question": "What is a exposome?"
+            }
+          ],
+          "context": "The high-throughput and holistic approaches to biomarker discovery used extensively in large-scale molecular epidemiological exposome are also discussed in the context of human exposure to environmental stressors"
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0d647ecadf2e73f000059_003",
+              "question": "What is a exposome?"
+            }
+          ],
+          "context": "Experimental data strongly suggests a complex interaction between the exposome (or environmental influences) and genome (genetic material) to produce epigenetic changes (epigenome)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0d647ecadf2e73f000059_004",
+              "question": "What is a exposome?"
+            }
+          ],
+          "context": "Exposome factors including nutrition, medication, occupational factors, pollutants, climatic factors, and psychosocial and lifestyle factors may impact on the course and severity of acne and on treatment efficacy"
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0d647ecadf2e73f000059_005",
+              "question": "What is a exposome?"
+            }
+          ],
+          "context": " The exposome is a novel conceptual framework that allows for concurrent examination of multiple intrinsic and extrinsic factors, including environmental exposures, as well as changes in exposures over time, to elucidate the complex environmental factors that affect health outcomes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c897167d558e5f232000005_001",
+              "question": "What does the strimvelis treatment consist of?"
+            }
+          ],
+          "context": "Strimvelis (autologous CD34+ cells transduced to express adenosine deaminase [ADA]) is the first ex vivo stem cell gene therapy approved by the European Medicines Agency (EMA), indicated as a single treatment for patients with ADA-severe combined immunodeficiency (ADA-SCID) who lack a suitable matched related bone marrow donor. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb0e4a6ecadf2e73f00005b_001",
+              "question": "What is predicted using SURFY?"
+            }
+          ],
+          "context": "o enable analysis of the human surfaceome, we developed the surfaceome predictor SURFY, based on machine learning."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c897555d558e5f232000009_001",
+              "question": "Which was the first adeno-associated virus vector gene therapy product approved in the United States?"
+            }
+          ],
+          "context": "Gene therapy utilizing viral vectors has experienced recent success, culminating in U.S. Food and Drug Administration approval of the first adeno-associated virus vector gene therapy product in the United States: Luxturna for inherited retinal dystrophy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c89773ed558e5f23200000a_001",
+              "question": "Which gene therapy treatment is FDA approved for retinal dystrophy?"
+            }
+          ],
+          "context": "Gene therapy utilizing viral vectors has experienced recent success, culminating in U.S. Food and Drug Administration approval of the first adeno-associated virus vector gene therapy product in the United States: Luxturna for inherited retinal dystrophy. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9fb428ecadf2e73f000041_001",
+              "question": "Salivary Cortisol is a biomarker for what disease/syndrome/condition?"
+            }
+          ],
+          "context": "Salivary cortisone, as a biomarker for psychosocial stress, is associated with state anxiety and heart rate."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9fb428ecadf2e73f000041_002",
+              "question": "Salivary Cortisol is a biomarker for what disease/syndrome/condition?"
+            }
+          ],
+          "context": "ortisol as a stress biomarker"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9fb428ecadf2e73f000041_003",
+              "question": "Salivary Cortisol is a biomarker for what disease/syndrome/condition?"
+            }
+          ],
+          "context": "The salivary cortisol level reflects psychological stress, and it is a good index to assess chronic stress."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_001",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "Cyclic di-AMP (c-di-AMP) is a bacterial signaling nucleotide synthesized by several human pathogens."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_002",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "Cyclic GMP-AMP synthase (cGAS) has recently been identified as the primary protein that detects cytosolic double stranded DNA to invoke a type I interferon response. The cGAS pathway is vital in the recognition of DNA encoded viruses as well as self-DNA leaked from the nucleus of damaged cells. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_003",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "These results indicate that activation of the cGAS pathway is important for intrinsic antitumor immunity and that cGAMP may be used directly for cancer immunotherapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_004",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": " this work identifies long DNA as the molecular entity stimulating the cGAS pathway upon cytosolic DNA challenge such as viral infections."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_005",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "these data suggest that inactivation of the cGAS pathway plays a critical role in tumour progression, and reveal a direct link between hypoxia-responsive miRNAs and adaptive immune responses to the hypoxic tumour microenvironment, thus unveiling potential new therapeutic strategies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_006",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "dysregulation of the cGAS pathway is linked to autoimmune diseases while targeted stimulation may be of benefit in immunoncology. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_007",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "The cGAS-STING pathway not only mediates protective immune defense against infection by a large variety of DNA-containing pathogens but also detects tumor-derived DNA and generates intrinsic antitumor immunity. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8aa082d558e5f23200000c_008",
+              "question": "What is the function of the cGAS pathway?"
+            }
+          ],
+          "context": "our data indicate that the cGAS-STING pathway plays a role in the surveillance of HBV infection and may be exploited for development of novel anti-HBV strategies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8fe7cb0101eac87000000c_001",
+              "question": "What does RUNX2 stand for?"
+            }
+          ],
+          "context": "Runt related factor-2 (Runx2)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9ff25eecadf2e73f000043_001",
+              "question": "Where, in the body, would the Cobb-Stainsby excision arthroplasty be performed?"
+            }
+          ],
+          "context": "The Cobb-Stainsby forefoot arthroplasty combines partial phalangectomy (Stainsby) with extensor tendon transfer to the metatarsal head (Cobb). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c900b9eecadf2e73f000004_001",
+              "question": "Which company produces patisiran?"
+            }
+          ],
+          "context": "Patisiran has been developed by Alnylam Pharmaceuticals; it was recently approved in the USA for the treatment of the polyneuropathy of hereditary TTR-mediated amyloidosis (hATTR) in adults and subsequently approved in the EU for the treatment of hATTR in adults with stage 1 or 2 polyneuropathy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5caa0247ecadf2e73f000055_001",
+              "question": "What protein is recruited by Crumbs to regulate tracheal development?"
+            }
+          ],
+          "context": "We propose that early endocytosis maintains normal steady-state levels of Crumbs, which recruits apical phosphorylated (active) Moe, which in turn regulates seamless tube shape"
+        },
+        {
+          "qas": [
+            {
+              "id": "5caa0247ecadf2e73f000055_002",
+              "question": "What protein is recruited by Crumbs to regulate tracheal development?"
+            }
+          ],
+          "context": "There, Crb, acting in parallel with the epidermal growth factor receptor (Egfr) pathway, is required for tracheal cell apical constriction and for organising an actomyosin complex, which we propose is mediated by Crb recruitment of moesin (Moe)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5caa06d0ecadf2e73f000056_001",
+              "question": "Where in the body, is ghrelin secreted?"
+            }
+          ],
+          "context": "Ghrelin, an orexigenic peptide, is secreted from endocrine cells in the gastric mucosa."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c840782617e120c34000006_001",
+              "question": "What is resistin?"
+            }
+          ],
+          "context": "Resistin, a pro-inflammatory cytokine, is predictive of atherosclerosis and poor clinical outcomes in patients with coronary artery disease and ischemic stroke"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c840782617e120c34000006_002",
+              "question": "What is resistin?"
+            }
+          ],
+          "context": "Leptin, adiponectin, and resistin are the most studied adipokines which play important roles in the regulation of cardiovascular homeostasis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca9f846ecadf2e73f000053_001",
+              "question": "What is the function of GvpA?"
+            }
+          ],
+          "context": "Gas vesicles are proteinaceous, gas-filled nanostructures produced by some bacteria and archaea. The hydrophobic major structural protein GvpA forms the ribbed gas vesicle wall."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca9f846ecadf2e73f000053_002",
+              "question": "What is the function of GvpA?"
+            }
+          ],
+          "context": " The gas vesicle wall is solely formed of proteins with the two major components, GvpA and GvpC, "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c896f60d558e5f232000003_001",
+              "question": "What is the indication for KYMRIAH?"
+            }
+          ],
+          "context": "Two autologous chimeric antigen receptor (CAR) T cell therapies (Kymriah\u2122 and Yescarta\u2122) were recently approved by the FDA. Kymriah\u2122 is for the treatment of pediatric patients and young adults with refractory or relapse (R/R) B cell precursor acute lymphoblastic leukemia and Yescarta\u2122 is for the treatment of adult patients with R/R large B cell lymphoma. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c93e8bdecadf2e73f00001c_001",
+              "question": "Which syndrome is associated to SAMHD1 gene mutations?"
+            }
+          ],
+          "context": "Its emerging role as an effector of innate immunity is affirmed by mutations in the SAMHD1 gene that cause the severe autoimmune disease, Aicardi-Goutieres syndrome (AGS) and that are linked to cancer. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb39707ecadf2e73f000060_001",
+              "question": "What is the results of mutations in the gene autoimmune regulator?"
+            }
+          ],
+          "context": "a rare inherited disorder called autoimmune polyendocriopathy candidiasis ectodermal dystrophy (APECED) caused by mutations in autoimmune regulator (AIRE) gene."
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb39707ecadf2e73f000060_002",
+              "question": "What is the results of mutations in the gene autoimmune regulator?"
+            }
+          ],
+          "context": "The crucial role played by AIRE in central immune tolerance emerged in the studies on the pathogenesis of Autoimmune Polyendocrinopathy-Candidiasis-Ectodermal Dystrophy, a rare inherited polyendocrine/autoimmune disease. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb39707ecadf2e73f000060_003",
+              "question": "What is the results of mutations in the gene autoimmune regulator?"
+            }
+          ],
+          "context": "Autoimmune polyendocrine syndrome type 1 (APS-1; OMIM #240300), also referred to as autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED), is a rare monogenic autoimmune disorder caused by mutations in the autoimmune regulator (AIRE) gene. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5cb39707ecadf2e73f000060_004",
+              "question": "What is the results of mutations in the gene autoimmune regulator?"
+            }
+          ],
+          "context": "Autoimmune-polyendocrinopathy-candidiasis-ectodermal dystrophy (APECED) is a primary immunodeficiency caused by mutations in the autoimmune regulator gene (AIRE)"
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

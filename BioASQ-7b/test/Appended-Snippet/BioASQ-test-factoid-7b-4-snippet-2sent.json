@@ -1,0 +1,1063 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c920f13ecadf2e73f000010_001",
+              "question": "What type of drug is apixaban?"
+            }
+          ],
+          "context": "A Review in Venous Thromboembolism. Apixaban (Eliquis) is an oral, direct factor Xa inhibitor that is available for use in the treatment and secondary prevention of venous thromboembolism (VTE). Like other direct oral anticoagulants (DOACs), apixaban has generally predictable pharmacological properties and does not require routine anticoagulation monitoring. In large phase III trials, oral apixaban was noninferior to subcutaneous enoxaparin sodium overlapped with and followed by oral warfarin (enoxaparin/warfarin) in the treatment of adults with acute VTE over 6\u00a0months with regard to the incidence of recurrent VTE or VTE-related death (AMPLIFY), and was significantly more effective than placebo in the prevention of recurrent VTE or all-cause mortality over 12\u00a0months in patients who had completed 6-12\u00a0months' anticoagulation treatment for VTE (AMPLIFY-EXT). Apixaban was generally well tolerated in these trials; the risks of major bleeding and the composite endpoint of major or clinically relevant nonmajor (CRNM)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b7277c78d69471000073_001",
+              "question": "What the chromsomal location of the gene that is deleted in Potocki-Shaffer syndrome?"
+            }
+          ],
+          "context": "In Potocki-Shaffer syndrome (PSS), the full phenotypic spectrum is manifested when deletions are at least 2.1 Mb in size at 11p11.2"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b7277c78d69471000073_002",
+              "question": "What the chromsomal location of the gene that is deleted in Potocki-Shaffer syndrome?"
+            }
+          ],
+          "context": "Potocki-Shaffer syndrome (PSS, OMIM #601224) is a rare contiguous gene deletion syndrome caused by haploinsufficiency of genes located on the 11p11.2p12."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b7277c78d69471000073_003",
+              "question": "What the chromsomal location of the gene that is deleted in Potocki-Shaffer syndrome?"
+            }
+          ],
+          "context": "Potocki-Shaffer syndrome (PSS) is a contiguous gene deletion syndrome that results from haploinsufficiency of at least two genes within the short arm of chromosome 11[del(11)(p11.2p12)]."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b7277c78d69471000073_004",
+              "question": "What the chromsomal location of the gene that is deleted in Potocki-Shaffer syndrome?"
+            }
+          ],
+          "context": "Construction of a natural panel of 11p11.2 deletions and further delineation of the critical region involved in Potocki-Shaffer syndrome. Potocki-Shaffer syndrome (PSS) is a contiguous gene deletion syndrome that results from haploinsufficiency of at least two genes within the short arm of chromosome 11[del(11)(p11.2p12)]. The clinical features of PSS can include developmental delay, mental retardation, multiple exostoses, parietal foramina, enlarged anterior fontanel, minor craniofacial anomalies, ophthalmologic anomalies, and genital abnormalities in males."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d5ae9d774d04240000010_001",
+              "question": "Which tissue secretes vaspin?"
+            }
+          ],
+          "context": "Vaspin expression is increased in white adipose tissue"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d5ae9d774d04240000010_002",
+              "question": "Which tissue secretes vaspin?"
+            }
+          ],
+          "context": "Visceral adipose tissue-derived serine protease inhibitor (Vaspin) is an adipocytokine that has been shown to exert anti-inflammatory effects and inhibits apoptosis under diabetic conditions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c83fd8e617e120c34000004_001",
+              "question": "Phlorotannin is extracted from what plant?"
+            }
+          ],
+          "context": "Brown algae are rich in polyphenolic compounds, phlorotannins, which have been found to possess high in vitro antioxidant capacity, especially DPPH radical scavenging activity, due to the high number of hydroxyl groups."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c83fd8e617e120c34000004_002",
+              "question": "Phlorotannin is extracted from what plant?"
+            }
+          ],
+          "context": "phlorotannins present in brown seaweeds"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c83fd8e617e120c34000004_003",
+              "question": "Phlorotannin is extracted from what plant?"
+            }
+          ],
+          "context": "Phlorotannins, phenolic compounds produced exclusively by seaweeds"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d5fcfd774d04240000011_001",
+              "question": "Where are pannexins localized?"
+            }
+          ],
+          "context": "Pannexins are a family of integral membrane proteins with distinct post-translational modifications, sub-cellular localization and tissue distribution."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d5fcfd774d04240000011_002",
+              "question": "Where are pannexins localized?"
+            }
+          ],
+          "context": "Pannexins (Panx1, 2, 3) are channel-forming glycoproteins expressed in mammalian tissues."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d5fcfd774d04240000011_003",
+              "question": "Where are pannexins localized?"
+            }
+          ],
+          "context": "Pannexins (Panx) are proteins with a similar membrane topology to connexins, the integral membrane protein of gap junctions. Panx1 channels are generally of major importance in a large number of system and cellular processes and their function has been thoroughly characterized. In contrast, little is known about channel structure and subcellular distribution."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d5fcfd774d04240000011_004",
+              "question": "Where are pannexins localized?"
+            }
+          ],
+          "context": "Pannexins (Panxs) are a multifaceted family of ion and metabolite channels that play key roles in a number of physiological and pathophysiological settings. These single membrane large-pore channels exhibit a variety of tissue, cell type, and subcellular distributions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d5fcfd774d04240000011_005",
+              "question": "Where are pannexins localized?"
+            }
+          ],
+          "context": "Pannexins (Panx) are proteins homologous to the invertebrate gap junction proteins called innexins (Inx) and are traditionally described as transmembrane channels connecting the intracellular and extracellular compartments."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61f767e842deac67000007_001",
+              "question": "Which ploidy-agnostic method has been developed for estimating telomere length from whole genome sequencing data?"
+            }
+          ],
+          "context": "Telomerecat: A ploidy-agnostic method for estimating telomere length from whole genome sequencing data. Telomere length is a risk factor in disease and the dynamics of telomere length are crucial to our understanding of cell replication and vitality. The proliferation of whole genome sequencing represents an unprecedented opportunity to glean new insights into telomere biology on a previously unimaginable scale."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c61f767e842deac67000007_002",
+              "question": "Which ploidy-agnostic method has been developed for estimating telomere length from whole genome sequencing data?"
+            }
+          ],
+          "context": "To this end, a number of approaches for estimating telomere length from whole-genome sequencing data have been proposed. Here we present Telomerecat, a novel approach to the estimation of telomere length. Previous methods have been dependent on the number of telomeres present in a cell being known, which may be problematic when analysing aneuploid cancer data and non-human samples. Telomerecat is designed to be agnostic to the number of telomeres present, making it suited for the purpose of estimating telomere length in cancer studies. Telomerecat also accounts for interstitial telomeric reads and presents a novel approach to dealing with sequencing errors. We show that Telomerecat performs well at telomere length estimation when compared to leading experimental and computational methods. Furthermore, we show that it detects expected patterns in longitudinal data, repeated measurements, and cross-species comparisons. We also apply the method to a cancer cell data, uncovering an interesting relationship with the underlying telomerase genotype."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c929094ecadf2e73f000019_001",
+              "question": "What happens to retrotransposons during ageing?"
+            }
+          ],
+          "context": "Senescent cells undergo dramatic alterations to their chromatin landscape that affect genome accessibility and their transcriptional program. These include the loss of DNA-nuclear lamina interactions, the distension of centromeres, and changes in chromatin composition that can lead to the activation of retrotransposons."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c929094ecadf2e73f000019_002",
+              "question": "What happens to retrotransposons during ageing?"
+            }
+          ],
+          "context": "Retrotransposons are activated as organisms age, based on work from several model systems."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f6b17c78d6947100007f_001",
+              "question": "Which enzyme is deficient in Wolman disease?"
+            }
+          ],
+          "context": "Wolman's disease, also known as lysosomal acid lipase (LIPA) deficiency, is a rare autosomal-recessive disorder characterized by complete absence of the LIPA enzyme. The diagnosis of Wolman's disease was made postnatally by biochemical testing, which indicated absence of LIPA enzyme activity and gene sequencing, which confirmed homozygosity for the G66V mutation within the LIPA gene."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f6b17c78d6947100007f_002",
+              "question": "Which enzyme is deficient in Wolman disease?"
+            }
+          ],
+          "context": "Impact of loss of SOAT2 function on disease progression in the lysosomal acid lipase-deficient mouse. Although only a small proportion of cholesterol in the body is esterified, in several diseases marked expansion of the esterified cholesterol (EC) pool occurs. These include Wolman disease (WD) and Cholesteryl Ester Storage Disease (CESD) which both result from mutations in LIPA, the gene that encodes lysosomal acid lipase (LAL). The respective contributions that our three cholesterol esterifying enzymes make to EC production, especially in disorders like CESD, are not well defined. The current studies represent a detailed exploration of our earlier findings in young male LAL-deficient mice also missing sterol O-acyltransferase 2 (SOAT2, also called ACAT2)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f6b17c78d6947100007f_003",
+              "question": "Which enzyme is deficient in Wolman disease?"
+            }
+          ],
+          "context": "BACKGROUND: Deficiency of lysosomal acid lipase (LAL) causes Wolman disease and cholesterol ester storage disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f6b17c78d6947100007f_004",
+              "question": "Which enzyme is deficient in Wolman disease?"
+            }
+          ],
+          "context": "BACKGROUND: Lysosomal acid lipase deficiency is an autosomal recessive metabolic disease with a wide range of severity from Wolman Disease to Cholesterol Ester Storage Disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f6b17c78d6947100007f_005",
+              "question": "Which enzyme is deficient in Wolman disease?"
+            }
+          ],
+          "context": "RECENT FINDINGS: The essential role of LAL in lipid metabolism has been confirmed in human and mice with LAL deficiency. In humans, loss-of-function mutations of LIPA cause rare lysosomal disorders, Wolman disease, and cholesteryl ester storage disease, in which LAL enzyme replacement therapy has shown significant benefits in a phase 3 clinical trial. Recent studies have revealed the role of LAL-mediated lysosomal lipolysis in regulating macrophage M2 polarization, lipid mediator production, VLDL secretion, lysosomal function and autophagy, extracellular degradation of aggregated-LDL, and adipose tissue lipolysis. Genome-wide association studies and functional genomic studies have identified LIPA as a risk locus for CHD, but the causal variants and mechanisms remain to be determined."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c93e5acecadf2e73f00001a_001",
+              "question": "What is MOV10?"
+            }
+          ],
+          "context": "RNA helicase Mov10 is essential for gastrulation and central nervous system development. BACKGROUND: Mov10 is an RNA helicase that modulates access of Argonaute 2 to microRNA recognition elements in mRNAs. We examined the role of Mov10 in Xenopus laevis development and show a critical role for Mov10 in gastrulation and in the development of the central nervous system (CNS). RESULTS:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c89623bf9c2ba6b28000005_001",
+              "question": "Which cancer is associated with increased levels of Serum alpha fetoprotein (AFP) ?"
+            }
+          ],
+          "context": "In the competing-risk regression, the sum of tumor number and size and of log10 level of AFP were significantly associated with HCC-specific death (P < .001), returning an average c-statistic of 0.780 (95% confidence interval, 0.763-0.798)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c89623bf9c2ba6b28000005_002",
+              "question": "Which cancer is associated with increased levels of Serum alpha fetoprotein (AFP) ?"
+            }
+          ],
+          "context": "Ovarian Sertoli-Leydig cell tumors (SLCTs) are uncommon neoplasms that are occasionally associated with an elevated level of serum alpha fetoprotein (AFP), a marker of germ cell neoplasms, particularly yolk sac tumor (YST)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c89623bf9c2ba6b28000005_003",
+              "question": "Which cancer is associated with increased levels of Serum alpha fetoprotein (AFP) ?"
+            }
+          ],
+          "context": "Serum \u03b1-Fetoprotein (AFP) is a widely used diagnostic biomarker, but it has limited sensitivity and is not elevated in all HCC cases so, we incorporate a second blood-based biomarker, des'\u03b3 carboxy-prothrombin (DCP), that has shown potential as a screening marker for HCC."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c89623bf9c2ba6b28000005_004",
+              "question": "Which cancer is associated with increased levels of Serum alpha fetoprotein (AFP) ?"
+            }
+          ],
+          "context": "Hepatocellular carcinoma in patients with chronic hepatitis C and cirrhosis in Denmark: A nationwide cohort study. Cirrhosis in patients with chronic hepatitis C increases the risk of hepatocellular carcinoma (HCC), and surveillance with ultrasound (US) and alpha-fetoprotein (AFP) is recommended. This study aimed to estimate changes in the HCC incidence rate (IR) over time, HCC stage and prognosis, and AFP and US performed in patients with hepatitis C and cirrhosis. Eligible patients were identified in the Danish Database for Hepatitis B and C, and data from national health registries and patient charts were obtained."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c89623bf9c2ba6b28000005_005",
+              "question": "Which cancer is associated with increased levels of Serum alpha fetoprotein (AFP) ?"
+            }
+          ],
+          "context": "When the actual prevalence rate (0.4-14.3%) was taken into account, the PPV and NPV were modified from 2.1 to 46.7% and 89.3 to 99.7%, respectively. CONCLUSION: The combination of enhancement patterns on CEUS and serum tumor markers (AFP and CA19-9) may be a potentially specific diagnostic method to differentiate CHC from HCC and CC."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8cd26a0101eac870000003_001",
+              "question": "What is the exoproteome?"
+            }
+          ],
+          "context": "Pathogens are known to release in their environment a large range of toxins and other virulence factors. Their pathogenicity relies on this arsenal of exoproteins and their orchestrated release upon changing environmental conditions. Exoproteomics aims at describing and quantifying the proteins found outside of the cells, thus takes advantage of the most recent methodologies of next-generation proteomics. This approach has been applied with great success to a variety of pathogens increasing the fundamental knowledge on pathogenicity. In this chapter, we describe how the exoproteome should be prepared and handled for high-throughput identification of exoproteins and their quantitation by label-free shotgun proteomics."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8cd26a0101eac870000003_002",
+              "question": "What is the exoproteome?"
+            }
+          ],
+          "context": "Particular focus was attributed to interactions of S. aureus with the two other species, because of the high staphylococcal prevalence among chronic wounds. Intriguingly, upon co-cultivation, none of the wound isolates inhibited each other's growth. Since the extracellular proteome of bacterial pathogens is a reservoir of virulence factors, the exoproteomes of the staphylococcal isolates in monoculture and co-culture with B. thuringiensis and K. oxytoca were characterized by Mass Spectrometry to explore the inherent relationships between these co-exisiting bacteria. This revealed a massive reduction in the number of staphylococcal exoproteins upon co-culturing with K. oxytoca or B. thuringiensis. Interestingly, this decrease was particularly evident for extracellular proteins with a predicted cytoplasmic localization, which were recently implicated in staphylococcal virulence and epidemiology."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8cd26a0101eac870000003_003",
+              "question": "What is the exoproteome?"
+            }
+          ],
+          "context": "In this study, we identified vesicle-fusion components that included 22 soluble N-ethylmaleimide-sensitive factor attachment protein receptors (SNAREs), four Sec1/Munc18 (SM) family proteins, and 10 Rab GTPases encoded in the genome of the vascular wilt pathogen Verticillium dahliae Vd991. Targeted deletion of two SNARE-encoding genes in V. dahliae, VdSec22 and VdSso1, significantly reduced virulence of both mutants on cotton, relative to the wild-type Vd991 strain. Comparative analyses of the secreted protein content (exoproteome) revealed that many enzymes involved in carbohydrate hydrolysis were regulated by VdSec22 or VdSso1. Consistent with a role of these enzymes in plant cell-wall degradation, pectin, cellulose, and xylan utilization were reduced in the VdSec22 or VdSso1 mutant strains along with a loss of exoproteome cytotoxic activity on cotton leaves. Comparisons with a pathogenicity-related exoproteome revealed that several known virulence factors were not regulated by VdSec22 or VdSso1, but some of the proteins regulated by VdSec22 or VdSso1 displayed different characteristics, including the lack of a typical signal peptide, suggesting that V. dahliae employs more than one secretory route to transport proteins to extracellular sites during infection."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c632cc1e842deac6700000f_001",
+              "question": "What is the cause of a STAG3 truncating variant?"
+            }
+          ],
+          "context": "STAG3 truncating variant as the cause of primary ovarian insufficiency. Primary ovarian insufficiency (POI) is a distressing cause of infertility in young women. POI is heterogeneous with only a few causative genes having been discovered so far."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c632cc1e842deac6700000f_002",
+              "question": "What is the cause of a STAG3 truncating variant?"
+            }
+          ],
+          "context": "Primary ovarian insufficiency (POI) is a distressing cause of infertility in young women. POI is heterogeneous with only a few causative genes having been discovered so far. Our objective was to determine the genetic cause of POI in a consanguineous Lebanese family with two affected sisters presenting with primary amenorrhoea and an absence of any pubertal development. Multipoint parametric linkage analysis was performed. Whole-exome sequencing was done on the proband. Linkage analysis identified a locus on chromosome 7 where exome sequencing successfully identified a homozygous two base pair duplication (c.1947_48dupCT), leading to a truncated protein p.(Y650Sfs*22) in the STAG3 gene, confirming it as the cause of POI in this family. Exome sequencing combined with linkage analyses offers a powerful tool to efficiently find novel genetic causes of rare, heterogeneous disorders, even in small single families. This is only the second report of a STAG3 variant; the first STAG3 variant was recently described in a phenotypically similar family with extreme POI. Identification of an additional family highlights the importance of STAG3 in POI pathogenesis and suggests it should be evaluated in families affected with POI."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8cdfe50101eac870000004_001",
+              "question": "Which protein is the Mitochondrial carrier homolog 2 (MTCH2) receptor for?"
+            }
+          ],
+          "context": "185 kDa and that the addition of TNF-alpha to these cells leads to the recruitment of tBID and BAX to this complex. Importantly, this recruitment was partially inhibited in FL5.12 cells stably expressing BCL-X(L). These results implicate Mtch2 as a mitochondrial target of tBID and raise the possibility that the Mtch2-resident complex participates in the mitochondrial apoptotic program."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8cdfe50101eac870000004_002",
+              "question": "Which protein is the Mitochondrial carrier homolog 2 (MTCH2) receptor for?"
+            }
+          ],
+          "context": "Mitochondrial Carrier Homolog 2 (MTCH2) acts as a receptor for the BH3 interacting-domain death agonist (BID) in the mitochondrial outer membrane."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8cdfe50101eac870000004_003",
+              "question": "Which protein is the Mitochondrial carrier homolog 2 (MTCH2) receptor for?"
+            }
+          ],
+          "context": "BH3-only proteins such as tBID, together with lipids of the MOM, are thought to play a key role in BAX and BAK activation. In particular, cardiolipin (CL) has been shown to stimulate tBID-induced BAX activation in vitro. However, it is still unclear whether this process also relies on CL in the cell, or whether it is more dependent on MTCH2, a proposed receptor for tBID present in the MOM. To address this issue, we deleted both alleles of cardiolipin synthase in human HCT116 cells by homologous recombination, which resulted in a complete absence of CL. The CL-deficient cells were fully viable in glucose but displayed impaired oxidative phosphorylation and an inability to grow in galactose."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8cdfe50101eac870000004_004",
+              "question": "Which protein is the Mitochondrial carrier homolog 2 (MTCH2) receptor for?"
+            }
+          ],
+          "context": "Acute activation of Fas signaling triggers massive apoptosis in liver. Upon Fas receptor stimulation, the BH3-only protein Bid is cleaved into the active form, tBid. Subsequent tBid recruitment to mitochondria, which is facilitated by its receptor MTCH2 at the outer mitochondrial membrane (OMM), is a critical step for commitment to apoptosis via the effector proteins Bax or Bak. MOAP-1 is a Bax-binding protein enriched at the OMM. Here, we show that MOAP-1-deficient mice are resistant to Fas-induced hepatocellular apoptosis and lethality."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8cdfe50101eac870000004_005",
+              "question": "Which protein is the Mitochondrial carrier homolog 2 (MTCH2) receptor for?"
+            }
+          ],
+          "context": "Recent studies report mitochondrial carrier homolog 2 (MTCH2) as a novel and uncharacterized protein that acts as a receptor-like protein for the truncated BH3-interacting domain death agonist (tBID) protein in the outer membrane of mitochondria."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace87c78d69471000084_001",
+              "question": "Which molecule is inhibited by ivosidenib?"
+            }
+          ],
+          "context": "Different combinations and new formulations of cytotoxic agents, such as clofarabine or CPX-351, are newer options for specific subsets of patients. Finally, targeted agents inhibiting multiple kinases (rigosertib), BCL2 (venetoclax) or mutant IDH1 (ivosidenib), IDH2 (enasidenib), FLT3 (sorafenib, midostaurin) or spliceosome components (H3B-8800) are other novel options."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace87c78d69471000084_002",
+              "question": "Which molecule is inhibited by ivosidenib?"
+            }
+          ],
+          "context": "Discovery of AG-120 (Ivosidenib): A First-in-Class Mutant IDH1 Inhibitor for the Treatment of IDH1 Mutant Cancers."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace87c78d69471000084_003",
+              "question": "Which molecule is inhibited by ivosidenib?"
+            }
+          ],
+          "context": "Elevated 2-HG levels are implicated in epigenetic alterations and impaired cellular differentiation. IDH1 mutations have been described in an array of hematologic malignancies and solid tumors. Here, we report the discovery of AG-120 (ivosidenib), an inhibitor of the IDH1 mutant enzyme that exhibits profound 2-HG lowering in tumor models and the ability to effect differentiation of primary patient AML samples ex vivo. Preliminary data from phase 1 clinical trials enrolling patients with cancers harboring an IDH1 mutation indicate that AG-120 has an acceptable safety profile and clinical activity."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace87c78d69471000084_004",
+              "question": "Which molecule is inhibited by ivosidenib?"
+            }
+          ],
+          "context": "Mutations in the gene encoding isocitrate dehydrogenase 1 ( IDH1) occur in 6 to 10% of patients with acute myeloid leukemia (AML). Ivosidenib (AG-120) is an oral, targeted, small-molecule inhibitor of mutant IDH1. METHODS: We conducted a phase 1 dose-escalation and dose-expansion study of ivosidenib monotherapy in IDH1-mutated AML."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace87c78d69471000084_005",
+              "question": "Which molecule is inhibited by ivosidenib?"
+            }
+          ],
+          "context": "Ivosidenib Deemed Safe, Effective in AML. A phase I study suggests that ivosidenib can induce remission in patients with relapsed or refractory acute myeloid leukemia characterized by IDH1 mutations. The drug spurred complete remission or complete remission with partial hematologic recovery in 30.4% of patients. The most common side effects of at least grade 3 were prolonged QT interval and IDH differentiation syndrome."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace87c78d69471000084_006",
+              "question": "Which molecule is inhibited by ivosidenib?"
+            }
+          ],
+          "context": "The in trans mutations occurred at glutamine 316 (Q316E) and isoleucine 319 (I319M), which are at the interface where enasidenib binds to the IDH2 dimer. The expression of either of these mutant disease alleles alone did not induce the production of 2HG; however, the expression of the Q316E or I319M mutation together with the R140Q mutation in trans allowed 2HG production that was resistant to inhibition by enasidenib. Biochemical studies predicted that resistance to allosteric IDH inhibitors could also occur via IDH dimer-interface mutations in cis, which was confirmed in a patient with acquired resistance to the IDH1 inhibitor ivosidenib (AG-120). Our observations uncover a mechanism of acquired resistance to a targeted therapy and underscore the importance of 2HG production in the pathogenesis of IDH-mutant malignancies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace87c78d69471000084_007",
+              "question": "Which molecule is inhibited by ivosidenib?"
+            }
+          ],
+          "context": "Ivosidenib Gets Go-Ahead for AML. The FDA approved ivosidenib for patients with IDH1-mutant relapsed/refractory acute myeloid leukemia. The approval was based on results of a phase I trial in which 32.8% of patients treated with the drug had a complete remission or a complete remission with a partial hematologic recovery."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c84346b75a4a5d219000001_001",
+              "question": "What organism causes Rhombencephalitis?"
+            }
+          ],
+          "context": "Rhombencephalitis caused by Listeria monocytogenes in a pastured bull. A pastured 2-y-old cross-breed bull developed brainstem encephalitis (rhombencephalitis); Listeria monocytogenes was isolated from the brain. In the brainstem, there was perivascular cuffing, multiple microabscesses, and positive immunostaining for L. monocytogenes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c84346b75a4a5d219000001_002",
+              "question": "What organism causes Rhombencephalitis?"
+            }
+          ],
+          "context": "Metabolic profiling of listeria rhombencephalitis in small ruminants by  H high-resolution magic angle spinning NMR spectroscopy. Listeria rhombencephalitis is caused by infection with Listeria monocytogenes and is associated with a high mortality rate in humans and ruminants. Little is known about the metabolic changes associated with neurolisteriosis in particular and infectious central nervous system (CNS) diseases in general. The purpose of our study was to investigate the metabolic changes associated with listeria rhombencephalitis in small ruminants (goats and sheep) as a model for inflammatory CNS disease by  H high-resolution magic angle spinning nuclear magnetic resonance"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c84346b75a4a5d219000001_003",
+              "question": "What organism causes Rhombencephalitis?"
+            }
+          ],
+          "context": "A pastured 2-y-old cross-breed bull developed brainstem encephalitis (rhombencephalitis); Listeria monocytogenes was isolated from the brai"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c84346b75a4a5d219000001_004",
+              "question": "What organism causes Rhombencephalitis?"
+            }
+          ],
+          "context": "Listeria monocytogenes is associated with rhombencephalitis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acef7c78d69471000088_001",
+              "question": "Which receptor is targeted by Erenumab?"
+            }
+          ],
+          "context": "Monoclonal antibodies (mAbs) targeting calcitonin gene-related peptide (CGRP) signaling are being explored as prophylactic treatments for migraine. Erenumab (AMG 334) is the first potent, selective, and competitive human mAb antagonist of the CGRP receptor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acef7c78d69471000088_002",
+              "question": "Which receptor is targeted by Erenumab?"
+            }
+          ],
+          "context": "Erratum: Calcitonin gene-related peptide receptor as a novel target for the management of people with episodic migraine: current evidence and safety profile of erenumab [Corrigendum]. [This corrects the article on p. 2751 in vol. 10, PMID:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acef7c78d69471000088_003",
+              "question": "Which receptor is targeted by Erenumab?"
+            }
+          ],
+          "context": "PURPOSE OF REVIEW: Monoclonal antibodies (mAbs) targeting the calcitonin-gene-related peptide (CGRP) pathway have been developed for episodic and chronic migraine prevention, either through binding the CGRP ligand (eptinezumab, fremanezumab, galcanezumab) or the CGRP receptor (erenumab)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acef7c78d69471000088_004",
+              "question": "Which receptor is targeted by Erenumab?"
+            }
+          ],
+          "context": "A Phase 3 randomized trial of erenumab for episodic migraine. Background Calcitonin gene-related peptide plays an important role in migraine pathophysiology. Erenumab, a human monoclonal antibody that inhibits the calcitonin gene-related peptide receptor, is being evaluated for migraine prevention. Methods In this randomized, double-blind, placebo-controlled, phase 3 study, 577 adults with episodic migraine were randomized to placebo or 70 mg erenumab; 570 patients were included in efficacy analyses."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acef7c78d69471000088_005",
+              "question": "Which receptor is targeted by Erenumab?"
+            }
+          ],
+          "context": "Initial calcitonin gene-related peptide-focused research led to development of the \"gepant\" small-molecule calcitonin gene-related peptide receptor blockers. Positive efficacy reports concerning the gepants have been tempered by safety findings which led to the discontinuation of some of these agents. Currently, there is considerable excitement regarding monoclonal antibodies against calcitonin gene-related peptide (eptinezumab, galcanezumab, fremanezumab) and the calcitonin gene-related peptide receptor (erenumab). To date, these monoclonal antibodies have shown promising efficacy in clinical trials, with no major safety concerns. If ongoing long-term studies show that their efficacy can be maintained, this may herald a new era for effective antimigraine therapies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c85234775a4a5d219000007_001",
+              "question": "What antibiotic is currently used as the standard of care for Clostridium Difficile infection as of 2018"
+            }
+          ],
+          "context": "A scoring system for prescribing fidaxomicin in Clostridium diff\u00edcile infection. Recurrences of Clostridium difficile infections lead to hospital readmissions and high costs, in addition to the suffering and frustration for the patients. Fidaxomicin has recently been introduced as a new antibiotic that has been shown to significantly reduce the recurrence of this infection. Despite this superiority, its high cost has led to very restrictive policies in its use, as such that many institutions only use it in patients with multiple recurrences. While waiting for new predictive clinical tools, we propose the development of scoring systems that allow the more high-risk patients to be treated earlier."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c85234775a4a5d219000007_002",
+              "question": "What antibiotic is currently used as the standard of care for Clostridium Difficile infection as of 2018"
+            }
+          ],
+          "context": "Outcomes With Fidaxomicin Therapy in Clostridium difficile Infection. BACKGROUND AND GOALS: Fidaxomicin is a new antibiotic used to treat Clostridium difficile infection (CDI). Given limited clinical experience with fidaxomicin, we assessed outcomes in a diverse cohort of patients with CDI treated with fidaxomicin. STUDY:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c85234775a4a5d219000007_003",
+              "question": "What antibiotic is currently used as the standard of care for Clostridium Difficile infection as of 2018"
+            }
+          ],
+          "context": "Outcomes With Fidaxomicin Therapy in Clostridium difficile Infection. BACKGROUND AND GOALS: Fidaxomicin is a new antibiotic used to treat Clostridium difficile infection (CDI)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8973f3d558e5f232000007_001",
+              "question": "Which was the first gene therapy to receive marketing authorization in the European Union?"
+            }
+          ],
+          "context": "Alipogene tiparvovec (Glybera\u00ae) is the first gene therapy to receive Marketing Authorization in the European Union; GENIALL (GENetherapy In the MAnagement of Lipoprotein Lipase Deficiency), a 15-year registry focusing on LPLD was launched in 2014 as part of its Risk Management Plan."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8974bcd558e5f232000008_001",
+              "question": "Which company produces Glybera?"
+            }
+          ],
+          "context": "Interestingly, the RM development cycle seems to obey the Gartner hype cycle, now at the enlightenment phase, after past exaggerated expectations and discouragements, as suggested by increasing numbers of clinical trials and recent market approvals of RM solutions in both Europe (Glybera and Holoclar\u00ae from Chiesi Pharma and Strimvelis\u00ae from GSK) and Japan (Remestemcel-L from Mesoblast\u00ae)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad077c78d69471000090_001",
+              "question": "Safinamide is approved for treatment of which disease?"
+            }
+          ],
+          "context": "Safinamide has been recently approved as an add-on to levodopa therapy for Parkinson disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad077c78d69471000090_002",
+              "question": "Safinamide is approved for treatment of which disease?"
+            }
+          ],
+          "context": "IC = 262 \u00b5M) potentials. We conclude that safinamide inhibits in vivo Glu release from stimulated nerve terminals, likely via blockade of sodium channels at subpopulations of neurons with specific firing patterns. These data are consistent with the anticonvulsant and antiparkinsonian actions of safinamide and provide support for the nondopaminergic mechanism of its action."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad077c78d69471000090_003",
+              "question": "Safinamide is approved for treatment of which disease?"
+            }
+          ],
+          "context": "Safinamide: a new hope for Parkinson's disease? The loss of dopaminergic neurons (DAn) and reduced dopamine (DA) production underlies the reasoning behind the gold standard treatment for Parkinson's disease (PD) using levodopa (L-DOPA). Recently licensed by the European Medicine Agency (EMA) and US Food and Drug Administration (FDA), safinamide [a monoamine oxidase B (MOA-B) inhibitor] is an alternative to L-DOPA; as we discuss here, it enhances dopaminergic transmission with decreased secondary effects compared with L-DOPA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad077c78d69471000090_004",
+              "question": "Safinamide is approved for treatment of which disease?"
+            }
+          ],
+          "context": "The loss of dopaminergic neurons (DAn) and reduced dopamine (DA) production underlies the reasoning behind the gold standard treatment for Parkinson's disease (PD) using levodopa (L-DOPA). Recently licensed by the European Medicine Agency (EMA) and US Food and Drug Administration (FDA), safinamide [a monoamine oxidase B (MOA-B) inhibitor] is an alternative to L-DOPA; as we discuss here, it enhances dopaminergic transmission with decreased secondary effects compared with L-DOPA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad077c78d69471000090_005",
+              "question": "Safinamide is approved for treatment of which disease?"
+            }
+          ],
+          "context": "In addition, nondopaminergic actions (neuroprotective effects) have been reported, with safinamide inhibiting glutamate release and sodium/calcium channels, reducing the excitotoxic input to dopaminergic neuronal death. Effects of safinamide have been correlated with the amelioration of non-motor symptoms (NMS), although these remain under discussion. Overall, safinamide can be considered to have potential antidyskinetic and neuroprotective effects and future trials and/or studies should be performed to provide further evidence for its potential as an anti-PD drug."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad077c78d69471000090_006",
+              "question": "Safinamide is approved for treatment of which disease?"
+            }
+          ],
+          "context": "Real life evaluation of safinamide effectiveness in Parkinson's disease. In this retrospective study, we evaluated both efficacy and effectiveness of safinamide 50 and 100\u00a0mg in the treatment of motor fluctuations and disabling dyskinesias in a cohort of patients with idiopathic Parkinson's disease (PD). Ninety-one PD patients were evaluated during the first year of commercialization of the drug, both prior to starting safinamide and at the last available follow-up."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad077c78d69471000090_007",
+              "question": "Safinamide is approved for treatment of which disease?"
+            }
+          ],
+          "context": "In this retrospective study, we evaluated both efficacy and effectiveness of safinamide 50 and 100 mg in the treatment of motor fluctuations and disabling dyskinesias in a cohort of patients with idiopathic Parkinson's disease (PD)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad077c78d69471000090_008",
+              "question": "Safinamide is approved for treatment of which disease?"
+            }
+          ],
+          "context": "The same results were shown by PD patients treated with safinamide 50\u00a0mg and patients who started safinamide without switching from a previous MAOBI. PD patients with safinamide 100\u00a0mg and patients who started safinamide switching from a previous MAOBI significantly improved in time spent in OFF and LEDD. In conclusion, safinamide is safe and effective in improving motor complications in patients with idiopathic PD and can be considered a useful levodopa sparing strategy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad077c78d69471000090_009",
+              "question": "Safinamide is approved for treatment of which disease?"
+            }
+          ],
+          "context": "Safinamide: an add-on treatment for managing Parkinson's disease. Heterogeneous expression of neurotransmitter deficits results from onset and progression of Parkinson's disease. Intervals, characterized by reappearance of motor and associated certain nonmotor symptoms, determine the end of good tolerability and efficacy of oral levodopa therapy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad077c78d69471000090_010",
+              "question": "Safinamide is approved for treatment of which disease?"
+            }
+          ],
+          "context": "Safinamide (Xadago - Zambon S.p.A) is a monoamine-oxidase B (MAO-B) inhibitor licensed as add-on therapy for people with idiopathic Parkinson's disease who are experiencing motor fluctuations with levodopa."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6ab4c17c78d6947100001d_001",
+              "question": "Under which environment does SELANSI run?"
+            }
+          ],
+          "context": "This work presents SELANSI (SEmi-LAgrangian SImulation of GRNs), a software toolbox for the simulation of stochastic multidimensional gene regulatory networks. SELANSI exploits intrinsic structural properties of gene regulatory networks to accurately approximate the corresponding Chemical Master Equation with a partial integral differential equation that is solved by a semi-lagrangian method with high efficiency. Networks under consideration might involve multiple genes with self and cross regulations, in which genes can be regulated by different transcription factors. Moreover, the validity of the method is not restricted to a particular type of kinetics. The tool offers total flexibility regarding network topology, kinetics and parameterization, as well as simulation options.Availability and implementation: SELANSI runs under the MATLAB environment, and is available under GPLv3 license at https://sites.google.com/view/selansi."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6acb107c78d6947100001f_001",
+              "question": "Which tool is used to visualise the junction sites of chloroplast genomes?"
+            }
+          ],
+          "context": "IRscope: an online program to visualize the junction sites of chloroplast genomes. Motivation: Genome plotting is performed using a wide range of visualizations tools each with emphasis on a different informative dimension of the genome."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6acb107c78d6947100001f_002",
+              "question": "Which tool is used to visualise the junction sites of chloroplast genomes?"
+            }
+          ],
+          "context": "Here, we announce a new visualization tool that is specifically designed for chloroplast genomes. It allows the users to depict the genetic architecture of up to ten chloroplast genomes in the vicinity of the sites connecting the inverted repeats to the short and long single copy regions. The software and its dependent libraries are fully coded in R and the reflected plot is scaled up to realistic size of nucleotide base pairs in the vicinity of the junction sites. We introduce a website for easier use of the program and R source code of the software to be used in case of preferences to be changed and integrated into personal pipelines. The input of the program is an annotation GenBank (.gb) file, the accession or GI number of the sequence or a DOGMA output file. The software was tested using over a 100 embryophyte chloroplast genomes and in all cases a reliable output was obtained.Availability and implementation: Source codes and the online suit available at https://irscope.shinyapps.io/irapp/ or https://github.com/Limpfrog/irscope."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8fee200101eac87000000f_001",
+              "question": "What is the difference between CRISPR-Cas12a and CRISPR-Cpf1?"
+            }
+          ],
+          "context": "CRISPR-Cas systems are classified into two main classes and six types. Cpf1 is a putative type V (class II) CRISPR effector, which has revolutionized the genome editing approaches through multiple distinct features such as using T-rich protospacer-adjacent motif, applying a short guide RNA lacking trans-activating crRNA, introducing a staggered double-strand break, and possessing RNA processing activity in addition to DNA nuclease activity. In the present review, we attempt to highlight most recent advances in CRISPR-Cpf1 (CRISPR-Cas12a) system in particular, considering ground expeditions of the nature and the biology of this system, introducing novel Cpf1 variants that have broadened the versatility and feasibility of CRISPR-Cpf1 system, and lastly the great impact of the CRISPR-Cpf1 system on the manipulation of the genome of prokaryotic, mammalian, and plant models is summarized. With regard to recent developments in utilizing the CRISPR-Cpf1 system in genome editing of various organisms, it can be concluded with confidence that this system is a reliable molecular toolbox of genome editing approaches."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6ad2997c78d69471000020_001",
+              "question": "Which Python tool has been developed for network-based stratification of tumor mutations?"
+            }
+          ],
+          "context": "pyNBS: a Python implementation for network-based stratification of tumor mutations. Summary: We present pyNBS: a modularized Python 2.7 implementation of the network-based stratification (NBS) algorithm for stratifying tumor somatic mutation profiles into molecularly and clinically relevant subtypes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6ad2997c78d69471000020_002",
+              "question": "Which Python tool has been developed for network-based stratification of tumor mutations?"
+            }
+          ],
+          "context": "pyNBS: a Python implementation for network-based stratification of tumor mutations. Summary: We present pyNBS: a modularized Python 2.7 implementation of the network-based stratification (NBS) algorithm for stratifying tumor somatic mutation profiles into molecularly and clinically relevant subtypes. In addition to release of the software, we benchmark its key parameters and provide a compact cancer reference network that increases the significance of tumor stratification using the NBS algorithm. The structure of the code exposes key steps of the algorithm to foster further collaborative development."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8fef490101eac870000010_001",
+              "question": "Through which protein interaction does MLP regulate F-actin dynamics?"
+            }
+          ],
+          "context": "Muscle LIM protein interacts with cofilin 2 and regulates F-actin dynamics in cardiac and skeletal muscle. The muscle LIM protein (MLP) and cofilin 2 (CFL2) are important regulators of striated myocyte function. Mutations in the corresponding genes have been directly associated with severe human cardiac and skeletal myopathies, and aberrant expression patterns have often been observed in affected muscles."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8fef490101eac870000010_002",
+              "question": "Through which protein interaction does MLP regulate F-actin dynamics?"
+            }
+          ],
+          "context": "This interaction has direct implications in actin cytoskeleton dynamics in regulating CFL2-dependent F-actin depolymerization, with maximal depolymerization enhancement at an MLP/CFL2 molecular ratio of 2:1. Deregulation of this interaction by intracellular pH variations, CFL2 phosphorylation, MLP or CFL2 gene mutations, or expression changes, as observed in a range of cardiac and skeletal myopathies, could impair F-actin depolymerization, leading to sarcomere dysfunction and disease."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d15cf0101eac870000009_001",
+              "question": "Where is fatty acid binding protein 2 expressed?"
+            }
+          ],
+          "context": "human intestinal fatty acid binding protein 2 gene (FABP2)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d15cf0101eac870000009_002",
+              "question": "Where is fatty acid binding protein 2 expressed?"
+            }
+          ],
+          "context": "The human fatty acid binding protein (FABP2) is involved in intestinal absorption and intracellular trafficking of long-chain fatty acids."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d15cf0101eac870000009_003",
+              "question": "Where is fatty acid binding protein 2 expressed?"
+            }
+          ],
+          "context": "The human intestinal fatty acid binding protein 2 (FABP2) mediates fat absorption by binding and intracellular trafficking of long-chain free fatty acids."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d15cf0101eac870000009_004",
+              "question": "Where is fatty acid binding protein 2 expressed?"
+            }
+          ],
+          "context": "The presence of neural and intestinal epithelial cells in the grafts was detected. Msi1 was highly expressed in the GFP-positive cells, but not in the GFP-negative cells. The markers for neural cells (Nestin and Tubulin \u03b2 III) and intestinal epithelial cells [FABP2 (fatty acid binding protein 2), Lyz (lysozyme) and ChA (chromogranin A)] were more highly expressed in the grafts from Msi1-positive cells than those from Msi1-negative cells (P<0.05). The grafts from the Msi1-negative cells contained more mesodermal-like tissues than those from the Msi1-positive cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d15cf0101eac870000009_005",
+              "question": "Where is fatty acid binding protein 2 expressed?"
+            }
+          ],
+          "context": "\u00b5g/cm collagen coated plates and transwell plates with serum (2% Fetal bovine serum (FBS) and 10% FBS) and serum-free culture conditions. The cells were differentiated into typical epithelial cobblestone morphology from day 5 onwards in 50% successful cultures. The cultured IEC were characterized by gene expression of epithelial cell markers, cytokeratin and vimentin, and enterocyte markers like villin, zonula occluden (ZO1), fatty acid binding protein 2 (FABP2) and small intestinal peptidase (IP). Based on the morphology and gene expression profile, 10% FBS has been recommended for culturing primary buffalo IEC on collagen coated plates for 10\u00a0days. However, 50% of the successful cultures could not show epithelial phenotype on 10% FBS culture conditions even on collagen coated plates."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f5247c78d6947100007e_001",
+              "question": "Which gene mutation is associated with Woodhouse Sakati syndrome?"
+            }
+          ],
+          "context": "Phenotypic Variability of c.436delC DCAF17 Gene Mutation in Woodhouse-Sakati Syndrome. BACKGROUND Woodhouse-Sakati syndrome (WSS) is a rare autosomal recessive genetic condition that was first described in 1983. Since its original description, approximately 50 cases have been reported with various clinical signs and symptoms."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f5247c78d6947100007e_002",
+              "question": "Which gene mutation is associated with Woodhouse Sakati syndrome?"
+            }
+          ],
+          "context": "CASE REPORT We illustrate the phenotypic variability of 5 patients with WSS due to the previously reported homozygous single nucleotide deletion c.436delC in the DCAF17 gene, identified in 2008."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f5247c78d6947100007e_003",
+              "question": "Which gene mutation is associated with Woodhouse Sakati syndrome?"
+            }
+          ],
+          "context": "BACKGROUND AND PURPOSE: Woodhouse-Sakati syndrome is a rare autosomal recessive disorder characterized by hypogonadism, alopecia, diabetes mellitus, and progressive extrapyramidal signs. The disease is caused by biallelic pathogenic variants in the DCAF17 gene. The purpose of this study was to describe the spectrum of brain MR imaging abnormalities in Woodhouse-Sakati syndrome. MATERIALS AND METHODS:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f5247c78d6947100007e_004",
+              "question": "Which gene mutation is associated with Woodhouse Sakati syndrome?"
+            }
+          ],
+          "context": "Exome sequencing revealed a novel biallelic deletion in the DCAF17 gene underlying Woodhouse Sakati syndrome. Woodhouse Sakati syndrome (WSS, MIM 241080) is a rare autosomal recessive genetic condition characterized by alopecia, hypogonadism, hearing impairment, diabetes mellitus, learning disabilities and extrapydamidal manifestations. Sequence variants in the gene DCAF17, encoding nucleolar substrate receptor, were identified as the underlying cause of inherited WSS. Considerable phenotypic heterogeneity exists in WSS with regard to severity, organs involvement and age of onset, both in inter-familial and intra-familial cases. In this study, the genetic characterization of a consanguineous pedigree showing mild features of WSS was performed, followed by structural analysis of truncated protein."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f5247c78d6947100007e_005",
+              "question": "Which gene mutation is associated with Woodhouse Sakati syndrome?"
+            }
+          ],
+          "context": "Exome sequencing revealed a novel biallelic deletion in the DCAF17 gene underlying Woodhouse Sakati syndrome. Woodhouse Sakati syndrome (WSS, MIM 241080) is a rare autosomal recessive genetic condition characterized by alopecia, hypogonadism, hearing impairment, diabetes mellitus, learning disabilities and extrapydamidal manifestations. Sequence variants in the gene DCAF17, encoding nucleolar substrate receptor, were identified as the underlying cause of inherited WSS."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f5247c78d6947100007e_006",
+              "question": "Which gene mutation is associated with Woodhouse Sakati syndrome?"
+            }
+          ],
+          "context": "Considerable phenotypic heterogeneity exists in WSS with regard to severity, organs involvement and age of onset, both in inter-familial and intra-familial cases. In this study, the genetic characterization of a consanguineous pedigree showing mild features of WSS was performed, followed by structural analysis of truncated protein. Exome sequencing identified a novel single base deletion variant (c.270delA; K90Nfs8*) in third exon of the gene DCAF17 (RefSeq; NM_025000), resulting in a truncated protein. Structural analysis of truncated DCAF17 revealed absence of amino acid residues crucial for interaction with DDB1. Taken together, the data confirmed the single base pair deletion as the underlying cause of this second report of WSS from Pakistan."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f5247c78d6947100007e_007",
+              "question": "Which gene mutation is associated with Woodhouse Sakati syndrome?"
+            }
+          ],
+          "context": "Our patients shared multiple homozygous genomic regions; ten shared regions were >1 Mb in length and constituted 0.99% of the genome. DCAF17, encoding a transmembrane nuclear protein of uncertain function, was the only gene identified in a homozygous region known to cause hypogonadotropic hypogonadism. DCAF17 mutations are associated with Woodhouse-Sakati syndrome, a rare disorder characterized by alopecia, hypogonadotropic hypogonadism, sensorineural hearing loss, diabetes mellitus, and extrapyramidal movements. Sequencing of the coding exons and flanking intronic regions of DCAF17 in the proband revealed homozygosity for a previously described founder mutation (c.436delC). Targeted DCAF17 sequencing of his affected sibling revealed the same homozygous mutation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72f5247c78d6947100007e_008",
+              "question": "Which gene mutation is associated with Woodhouse Sakati syndrome?"
+            }
+          ],
+          "context": "Endocrine disorders in Woodhouse-Sakati syndrome: a systematic review of the literature. First described in 1983, Woodhouse-Sakati syndrome (WSS) is a rare autosomal recessive genetic disorder that leads to a spectrum of hypogonadal symptoms in adolescence. The responsible gene, DCAF17 located on chromosome 2q31.1, was discovered in 2008 and to date nine mutations have been reported in the literature. The aim of the study was to review WSS descriptively in the light of new case reports with focus on endocrine features. Phenotypic description of three patients (two females, one male) with WSS followed in the Endocrinology Department of the University Hospital of Nancy, France, and exhaustive review of the literature using the PUBMED database were performed."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_001",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "Losigamone add-on therapy for focal epilepsy. BACKGROUND: Epilepsy is a common neurologic disorder, affecting approximately 50 million people worldwide; nearly a third of these people have epilepsy that is not well controlled by a single antiepileptic drug (AED) and they usually require treatment with a combination of two or more AEDs."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_002",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "BACKGROUND: Epilepsy is a common neurologic disorder, affecting approximately 50 million people worldwide; nearly a third of these people have epilepsy that is not well controlled by a single antiepileptic drug (AED) and they usually require treatment with a combination of two or more AEDs. In recent years, many newer AEDs have been investigated as add-on therapy for focal epilepsy; losigamone is one of these drugs and is the focus of this systematic review. This is an update of a Cochrane review first published in 2012 (Cochrane Database of Systematic Reviews 2012, Issue 6) and updated in 2015."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_003",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "Both trials assessed losigamone 1200 mg/day or 1500 mg/day as an add-on therapy for focal epilepsy. We assessed one trial as being of good methodological quality while the other was of uncertain quality. For the efficacy outcomes, results did show that participants taking losigamone were significantly more likely to achieve a 50% or greater reduction in seizure frequency (RR 1.76, 95% CI 1.14 to 2.72), but associated with a significant increase of treatment withdrawal when compared with those taking placebo (RR 2.16, 95% CI 1.28 to 3.67). For the safety outcomes, results indicated that the proportion of participants who experienced adverse events in the losigamone group was higher than in the placebo group (RR 1.34, 95% CI 1.00 to 1.80), dizziness was the only adverse event significantly reported in relation to losigamone (RR 3.82, 99% CI 1.69 to 8.64). The proportion of participants achieving seizure freedom was not reported in either trial report."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_004",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "AUTHORS' CONCLUSIONS: The results of this review showed that losigamone did reduce seizure frequency but was associated with more treatment withdrawals when used as an add-on therapy for people with focal epilepsy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_005",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "Losigamone add-on therapy for partial epilepsy. BACKGROUND: Epilepsy is a common neurologic disorder, affecting approximately 50 million people worldwide; nearly a third of these people are not well controlled by a single antiepileptic drug (AED) and usually require treatment with a combination of two or more AEDs."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_006",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "BACKGROUND: Epilepsy is a common neurologic disorder, affecting approximately 50 million people worldwide; nearly a third of these people are not well controlled by a single antiepileptic drug (AED) and usually require treatment with a combination of two or more AEDs. In recent years, many newer AEDs have been investigated as add-on therapy for partial epilepsy; losigamone is one of these drugs and is the focus of this systematic review. This is an update of a Cochrane review first published in 2012 (Cochrane Database of Systematic Reviews 2012, Issue 6)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_007",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "For the efficacy outcomes, results did show patients taking losigamone were significantly more likely to achieve a 50% or greater reduction in seizure frequency (RR 1.76; 95% CI 1.14 to 2.72), but associated with a significant increase of treatment withdrawal when compared with those taking placebo (RR 2.16; 95% CI 1.28 to 3.67)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_008",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "AUTHORS' CONCLUSIONS: The results of this review showed losigamone did reduce seizure frequency but was associated with more treatment withdrawals when used as an add-on therapy for people with partial epilepsy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_009",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "Many act at distinct receptor sites determined by the subunit composition of the holoreceptor. For the benzodiazepines, barbiturates, and loreclezole, actions at the GABAAR are the primary or only known mechanism of antiseizure action. For topiramate, felbamate, retigabine, losigamone and stiripentol, GABAAR modulation is one of several possible antiseizure mechanisms. Allopregnanolone, a progesterone metabolite that enhances GABAAR function, led to the development of ganaxolone. Other agents modulate GABAergic \"tone\" by regulating the synthesis, transport or breakdown of GABA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_010",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "Losigamone add-on therapy for partial epilepsy. BACKGROUND: Epilepsy is a common neurologic disorder, affecting approximately 50 million people worldwide; nearly a third of these people are not well controlled by a single antiepileptic drug and usually require treatment with a combination of two or more antiepileptic drugs."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_011",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "BACKGROUND: Epilepsy is a common neurologic disorder, affecting approximately 50 million people worldwide; nearly a third of these people are not well controlled by a single antiepileptic drug and usually require treatment with a combination of two or more antiepileptic drugs. In recent years, many newer antiepileptic drugs have been investigated as add-on therapy for partial epilepsy; losigamone is one of these drugs and is the focus of this systematic review. OBJECTIVES: To investigate the efficacy and safety of losigamone when used as an add-on therapy for partial epilepsy. SEARCH METHODS:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_012",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "/d as an add-on therapy for partial epilepsy. One trial was assessed as being of good methodologic quality while the other was of uncertain quality. For the efficacy outcomes, results did show patients taking losigamone were significantly more likely to achieve a 50% or greater reduction in seizure frequency (RR 1.75; 95% CI 1.14 to 2.72), but associated with a significant increase of treatment withdrawal when compared with those taking placebo (RR 2.16; 95% CI 1.28 to 3.67). For the safety outcomes, results indicated the proportion of patients who experienced adverse events in the losigamone group was higher than the placebo group (RR 1.34; 95% CI 1.00 to 1.80), dizziness was the only adverse event significantly in relation to losigamone (RR 3.82; 99% CI 1.69 to 8.64). The proportion of patients achieving seizure freedom was not reported in either trial report."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_013",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "AUTHORS' CONCLUSIONS: The results of this review showed losigamone can reduce seizure frequency but was associated with more treatment withdrawals when used as an add-on therapy for people with partial epilepsy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_015",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "CONCLUSIONS: In this systematic review we present information relating to the effectiveness and safety of the following interventions: antiepileptic drugs after a single seizure; monotherapy for partial epilepsy using carbamazepine, gabapentin, lamotrigine, levetiracetam, phenobarbital, phenytoin, sodium valproate, or topiramate; addition of second-line drugs for drug-resistant partial epilepsy (allopurinol, eslicarbazepine, gabapentin, lacosamide, lamotrigine, levetiracetam, losigamone, oxcarbazepine, retigabine, tiagabine, topiramate, vigabatrin, or zonisamide); antiepileptic drug withdrawal for people with partial or generalised epilepsy who are in remission; behavioural and psychological treatments for partial or generalised epilepsy (biofeedback, cognitive behavioural therapy (CBT), educational programmes, family counselling, relaxation therapy (alone or plus behavioural modification therapy, yoga); and surgery for drug-resistant temporal lobe epilepsy ( lesionectomy, temporal lobectomy, vagus nerve stimulation as adjunctive therapy)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_016",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "Many drugs routinely used in the clinical setting, as well as several novel experimental drugs, have shown interactions with VGICs that underpin, at least in part, their anticonvulsant action. We review the physiological roles of voltage gated ion channels that are selective for sodium, potassium and calcium conductance and attempt to highlight their role in the pathology of epilepsy. This is supplemented by the mechanisms of drug action at these important anticonvulsant targets for classical and clinically relevant compounds (e.g. phenytoin, ethosuximide) as well as some important second generation drugs (e.g. gabapentin, levetiracetam) and novel experimental agents (e.g. retigabine, losigamone, safinamide). We also briefly discuss the urgent need for new drugs in this arena and the potential of combinatorial methods and recombinant screening to identify leads."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_017",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "OBJECTIVES: The influence of the new antiepileptic drug losigamone (CAS 112856-44-7/123783-52-8) on the pharmacokinetics of a combined oral contraceptive containing ethinylestradiol (CAS 57-63-6) and levonorgestrel (CAS 797-63-7) was investigated in 16 healthy women."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_018",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "The objective of the study was to investigate the efficacy and safety of two different dosages of Losigamone (LSG) in add-on treatment of partial seizures."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acec7c78d69471000086_019",
+              "question": "Losigamone can be used for treatment of which disease?"
+            }
+          ],
+          "context": "Most events in the LSG groups occurred during the first 4 weeks of double-blind (during or immediately after up-titration) and subsided quickly. Over the last 4 weeks of treatment, the incidence of adverse events in the LSG groups was close to the placebo level. Based on the study's results, LSG is an effective and safe add-on drug for refractory partial epilepsy in adults."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c909b6cecadf2e73f000005_001",
+              "question": "How many pseudokinases are there in the human kinome?"
+            }
+          ],
+          "context": "The human protein kinome comprises 535 proteins that, with the exception of approximately 50 pseudokinases, control intracellular signaling networks by catalyzing the phosphorylation of multiple protein substrates."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d65637c78d69471000038_001",
+              "question": "Which tool has been developed for visualization of non-covalent contacts?"
+            }
+          ],
+          "context": "Visualization and analysis of non-covalent contacts using the Protein Contacts Atlas. Visualizations of biomolecular structures empower us to gain insights into biological functions, generate testable hypotheses, and communicate biological concepts. Typical visualizations (such as ball and stick) primarily depict covalent bonds."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d65637c78d69471000038_002",
+              "question": "Which tool has been developed for visualization of non-covalent contacts?"
+            }
+          ],
+          "context": "Visualizations of biomolecular structures empower us to gain insights into biological functions, generate testable hypotheses, and communicate biological concepts. Typical visualizations (such as ball and stick) primarily depict covalent bonds. In contrast, non-covalent contacts between atoms, which govern normal physiology, pathogenesis, and drug action, are seldom visualized. We present the Protein Contacts Atlas, an interactive resource of non-covalent contacts from over 100,000 PDB crystal structures. We developed multiple representations for visualization and analysis of non-covalent contacts at different scales of organization: atoms, residues, secondary structure, subunits, and entire complexes. The Protein Contacts Atlas enables researchers from different disciplines to investigate diverse questions in the framework of non-covalent contacts, including the interpretation of allostery, disease mutations and polymorphisms, by exploring individual subunits, interfaces, and protein-ligand contacts and by mapping external information."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c920df7ecadf2e73f00000f_001",
+              "question": "What is the route of administration of apixaban?"
+            }
+          ],
+          "context": "Apixaban (Eliquis\u00ae) is an oral, direct factor Xa inhibitor that is available for use in the treatment and secondary prevention of venous thromboembolism (VTE). Like other direct oral anticoagulants (DOACs), apixaban has generally predictable pharmacological properties and does not require routine anticoagulation monitoring. In large phase III trials, oral apixaban was noninferior to subcutaneous enoxaparin sodium overlapped with and followed by oral warfarin (enoxaparin/warfarin) in the treatment of adults with acute VTE over 6 months with regard to the incidence of recurrent VTE or VTE-related death (AMPLIFY), and was significantly more effective than placebo in the prevention of recurrent VTE or all-cause mortality over 12 months in patients who had completed 6-12 months' anticoagulation treatment for VTE (AMPLIFY-EXT)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c920fc3ecadf2e73f000011_001",
+              "question": "What is the tradename of apixaban?"
+            }
+          ],
+          "context": "The direct factor Xa inhibitor apixaban (Eliquis(\u00ae)) has predictable pharmacodynamics and pharmacokinetics and does not require routine anticoagulation monitoring."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c92871decadf2e73f000016_001",
+              "question": "What is the name of the Cas13 based diagnostic test for the Zika and dengue viruses?"
+            }
+          ],
+          "context": "Field-deployable viral diagnostics using CRISPR-Cas13. Mitigating global infectious disease requires diagnostic tools that are sensitive, specific, and rapidly field deployable. In this study, we demonstrate that the Cas13-based SHERLOCK (specific high-sensitivity enzymatic reporter unlocking) platform can detect Zika virus (ZIKV) and dengue virus (DENV) in patient samples at concentrations as low as 1 copy per microliter. We developed HUDSON (heating unextracted diagnostic samples to obliterate nucleases), a protocol that pairs with SHERLOCK for viral detection directly from bodily fluids, enabling instrument-free DENV detection directly from patient samples in <2 hours. We further demonstrate that SHERLOCK can distinguish the four DENV serotypes, as well as region-specific strains of ZIKV from the 2015-2016 pandemic."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c915a8becadf2e73f000009_001",
+              "question": "Which was the first approved tumor treatment using a common biomarker rather than specified tumor locations in the body?"
+            }
+          ],
+          "context": "Molecular classification and precision therapy of cancer: immune checkpoint inhibitors. On May 23, 2017, the US Food and Drug Administration (FDA) approved a treatment for cancer patients with positive microsatellite instability-high (MSI-H) markers or mismatch repair deficient (dMMR) markers. This approach is the first approved tumor treatment using a common biomarker rather than specified tumor locations in the body. FDA previously approved Keytruda for treatment of several types of malignancies, such as metastatic melanoma, metastatic non-small-cell lung cancer, recurrent or metastatic head and neck cancer, refractory Hodgkin lymphoma, and urothelial carcinoma, all of which carry positive programmed death-1/programmed death-ligand 1 biomarkers. Therefore, indications of Keytruda significantly expanded. Several types of malignancies are disclosed by MSI-H status due to dMMR and characterized by increased neoantigen load, which elicits intense host immune response in tumor microenvironment, including portions of colorectal and gastric carcinomas. Currently, biomarker-based patient selection remains a challenge. Pathologists play important roles in evaluating histology and biomarker results and establishing detection methods. Taking gastric cancer as an example, its molecular classification is built on genome abnormalities, but it lacks acceptable clinical characteristics. Pathologists are expected to act as \"genetic interpreters\" or \"genetic translators\" and build a link between molecular subtypes with tumor histological features. Subsequently, by using their findings, oncologists will carry out targeted therapy based on molecular classification."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}
