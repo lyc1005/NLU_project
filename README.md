@@ -28,5 +28,5 @@ Data_processing.ipynb
 ## Acknowledgments
 
 * Thanks for @techno246 and the codes our baseline model is based on.
-
+* Thanks for @wonjininfo and the codes for cleaning BioASQ datasets.
 
