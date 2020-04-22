@@ -1,0 +1,721 @@
+{
+  "version": "BioASQ6b", 
+  "data": [
+    {
+      "title": "BioASQ6b", 
+      "paragraphs": [
+        {
+          "context": "Molecular confirmation of germ line mosaicism for a submicroscopic deletion of chromosome 22q11. Submicroscopic deletions of chromosome 22q11 have been reported in a multiple anomaly syndrome variously labelled as velocardiofacial syndrome, conotruncal anomaly face syndrome, and Di George syndrome. Most 22q11 microdeletions occur sporadically, although in some cases the deletion may be transmitted. We describe two affected sibs with confirmed 22q11 deletions from unaffected parents who are not deleted. Haplotype analysis demonstrates that the deletion in the affected sibs has occurred on the same maternal chromosome 22. Furthermore, an unaffected sib was found to have inherited the same maternal haplotype at 22q11 in an undeleted form. This is the first molecular demonstration of germ line mosaicism for a microdeletion at chromosome 22q11 and highlights the need for caution in estimation of recurrence risks, even when constitutional deletions have been excluded on parental analysis.", 
+          "qas": [
+            {
+              "question": "Velocardial facial syndrome, otherwise known as Di George syndrome  is caused by a deletion in chromosome 21, yes or no?", 
+              "id": "5c97a08becadf2e73f000029_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Parental and chromosomal origins of microdeletion and duplication syndromes involving 7q11.23, 15q11-q13 and 22q11. Non-allelic homologous recombination between chromosome-specific LCRs is the most common mechanism leading to recurrent microdeletions and duplications. To look for locus-specific differences, we have used microsatellites to determine the parental and chromosomal origins of a large series of patients with de novo deletions of chromosome 7q11.23 (Williams syndrome), 15q11-q13 (Angelman syndrome, Prader-Willi syndrome) and 22q11 (Di George syndrome) and duplications of 15q11-q13. Overall the majority of rearrangements were interchromosomal, so arising from unequal meiotic exchange, and there were approximately equal numbers of maternal and paternal deletions. Duplications and deletions of 15q11-q13 appear to be reciprocal products that arise by the same mechanisms. The proportion arising from interchromosomal exchanges varied among deletions with 22q11 the highest and 15q11-q13 the lowest. However, parental and chromosomal origins were not always independent. For 15q11-q13, maternal deletions tended to be interchromosomal while paternal deletions tended to be intrachromosomal; for 22q11 there was a possible excess of maternal cases among intrachromosomal deletions. Several factors are likely to be involved in the formation of recurrent rearrangements and the relative importance of these appear to be locus-specific.", 
+          "qas": [
+            {
+              "question": "Velocardial facial syndrome, otherwise known as Di George syndrome  is caused by a deletion in chromosome 21, yes or no?", 
+              "id": "5c97a08becadf2e73f000029_001"
+            }
+          ]
+        }, 
+        {
+          "context": "[DiGeorge syndrome, a review of 52 patients]. UNLABELLED: The deletion of chromosome 22q11.2 is involved in the majority of DiGeorge or velo-cardiofacial syndrome. The phenotypic variability was noted in the \"CATCH 22\" acronym. This acronym doesn't recapitulate the full spectrum of the symptoms. The diagnosis of this syndrome can be done with the prenatal diagnosis, with fetal pathology or with a child alive. METHODS: Review of 52 cases with the microdeletion 22q11. Six cases were diagnosed during the prenatal period, 12 cases at fetal pathology examination, and 34 cases during infancy. RESULTS: Cardiac malformations were the major indications (75%) to search for the microdeletion. The facial dysmorphy was difficult to diagnose during the antenatal period or in dead foetus, thereby it was not often recognized. The renal anomalies usually present in 35% of cases, were diagnosed in only 6 to 16% of the cases in our study. CONCLUSION: Phenotypic diversity of the DiGeorge syndrome is important. Its knowledge allows to better determine the indications of the research of the microdeletion. 22q11.2.", 
+          "qas": [
+            {
+              "question": "Velocardial facial syndrome, otherwise known as Di George syndrome  is caused by a deletion in chromosome 21, yes or no?", 
+              "id": "5c97a08becadf2e73f000029_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Asporin and osteoarthritis. OBJECTIVE: To provide an overview of the literature describing the role of asporin, a small leucine-rich proteoglycan (SLRP), in osteoarthritis (OA). METHOD: A literature search was performed and reviewed using the narrative approach. RESULTS: As a class I SLRP member, asporin, is distinct from other SLRPs. Accumulating evidence demonstrates the involvement of asporin in OA pathogenesis. Many human studies have been conducted to explore the association between the D-repeat polymorphisms and OA susceptibility, but these yield inconsistent results. Possible mechanisms for the involvement of asporin in OA pathology include its influence on TGF-\u03b2 (transforming growth factor-\u03b2) signaling pathways and collagen mineralization. To date, no studies were found to use an asporin-deficient animal model that would help to understand disease mechanisms. Many issues must be addressed to clarify the link between asporin and OA to provide a novel therapeutic strategy for OA, perhaps through controlling and modifying the TGF-\u03b2-ECM system. CONCLUSIONS: Studies examined demonstrate the involvement of asporin in OA pathogenesis, and possible mechanisms by which asporin may be involved in this process have been proposed. However, large-scale interracial studies should be conducted to investigate the association between asporin and OA, and further investigations are needed to obtain a better understanding of the disease mechanism, develop novel therapeutic strategies, and explore new approaches for diagnosis of OA.", 
+          "qas": [
+            {
+              "question": "Is the protein Asporin related to disease?", 
+              "id": "5c8ab614d558e5f23200000d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Asporin is a stromally expressed marker associated with prostate cancer progression. BACKGROUND: Prostate cancer shows considerable heterogeneity in disease progression and we propose that markers expressed in tumour stroma may be reliable predictors of aggressive tumour subtypes. METHODS: We have used Kaplan-Meier, univariate and multivariate analysis to correlate the expression of Asporin (ASPN) mRNA and protein with prostate cancer progression in independent cohorts. We used immunohistochemistry and H scoring to document stromal localisation of ASPN in a tissue microarray and mouse prostate cancer model, and correlated expression with reactive stroma, defined using Masson Trichrome staining. We used cell cultures of primary prostate cancer fibroblasts treated with serum-free conditioned media from prostate cancer cell lines to examine regulation of ASPN mRNA in tumour stromal cells. RESULTS: We observed increased expression of ASPN mRNA in a data set derived from benign vs tumour microdissected tissue, and a correlation with biochemical recurrence using Kaplan-Meier and Cox proportional hazard analysis. ASPN protein localised to tumour stroma and elevated expression of ASPN was correlated with decreased time to biochemical recurrence, in a cohort of 326 patients with a median follow up of 9.6 years. Univariate and multivariate analysis demonstrated that ASPN was correlated with progression, as were Gleason score, and clinical stage. Additionally, ASPN expression correlated with the presence of reactive stroma, suggesting that it may be a stromal marker expressed in response to the presence of tumour cells and particularly with aggressive tumour subtypes. We observed expression of ASPN in the stroma of tumours induced by p53 inhibition in a mouse model of prostate cancer, and correlation with neuroendocrine marker expression. Finally, we demonstrated that ASPN transcript expression in normal and cancer fibroblasts was regulated by conditioned media derived from the PC3, but not LNCaP, prostate cancer cell lines. CONCLUSIONS: Our results suggest that ASPN is a stromally expressed biomarker that correlates with disease progression, and is observed in reactive stroma. ASPN expression in stroma may be part of a stromal response to aggressive tumour subtypes.", 
+          "qas": [
+            {
+              "question": "Is the protein Asporin related to disease?", 
+              "id": "5c8ab614d558e5f23200000d_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Asporin enhances colorectal cancer metastasis through activating the EGFR/src/cortactin signaling pathway. Asporin has been implicated as an oncogene in various types of human cancers; however, the roles of asporin in the development and progression of colorectal cancer (CRC) have not yet been determined. With clinical samples, we found that asporin was highly expressed in CRC tissues compared to adjacent normal tissues and the asporin expression levels were significantly associated with lymph node metastasis status and TNM stage of the patients. Through knockdown of asporin in CRC cell lines RKO and SW620 or overexpression of asporin in cell lines HT-29 and LoVo, we found that asporin could enhance wound healing, migration and invasion abilities of the CRC cells. Further more, with the human umbilical vein endothelial cells (HUVECs) tube formation assays and the xenograft model, we found that asporin promoted the tumor growth through stimulating the VEGF signaling pathway. The portal vein injection models suggested that asporin overexpression stimulated the liver metastasis of HT29 cell line, while asporin knockdown inhibited the liver metastasis of RKO cell line. In addition, asporin was found to augment the phosphorylation of EGFR/src/cortactin signaling pathway, which might be contributed to the biological functions of asporin in CRC metastasis. These results suggested that asporin promoted the tumor growth and metastasis of CRC, and it could be a potential therapeutic target for CRC patients in future.", 
+          "qas": [
+            {
+              "question": "Is the protein Asporin related to disease?", 
+              "id": "5c8ab614d558e5f23200000d_002"
+            }
+          ]
+        }, 
+        {
+          "context": "The dual role of asporin in breast cancer progression. Asporin has been reported as a tumor suppressor in breast cancer, while asporin-activated invasion has been described in gastric cancer. According to our in silico search, high asporin expresion associates with significantly better relapse free survival (RFS) in patients with low-grade tumors but RFS is significantly worse in patients with grade 3 tumors. In line with other studies, we have confirmed asporin expression by RNA scope in situ hybridization in cancer associated fibroblasts. We have also found asporin expression in the Hs578T breast cancer cell line which we confirmed by quantitative RT-PCR and western blotting. From multiple testing, we found that asporin can be downregulated by bone morphogenetic protein 4 while upregulation may be facilited by serum-free cultivation or by three dimensional growth in stiff Alvetex scaffold. Downregulation by shRNA inhibited invasion of Hs578T as well as of CAFs and T47D cells. Invasion of asporin-negative MDA-MB-231 and BT549 breast cancer cells through collagen type I was enhanced by recombinant asporin. Besides other investigations, large scale analysis of aspartic acid repeat polymorphism will be needed for clarification of the asporin dual role in progression of breast cancer.", 
+          "qas": [
+            {
+              "question": "Is the protein Asporin related to disease?", 
+              "id": "5c8ab614d558e5f23200000d_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Understanding the 3D genome: Emerging impacts on human disease. Recent burst of new technologies that allow for quantitatively delineating chromatin structure has greatly expanded our understanding of how the genome is organized in the three-dimensional (3D) space of the nucleus. It is now clear that the hierarchical organization of the eukaryotic genome critically impacts nuclear activities such as transcription, replication, as well as cellular and developmental events such as cell cycle, cell fate decision and embryonic development. In this review, we discuss new insights into how the structural features of the 3D genome hierarchy are established and maintained, how this hierarchy undergoes dynamic rearrangement during normal development and how its perturbation will lead to human disease, highlighting the accumulating evidence that links the diverse 3D genome architecture components to a multitude of human diseases and the emerging mechanisms by which 3D genome derangement causes disease phenotypes.", 
+          "qas": [
+            {
+              "question": "Can TAD disruption lead to disease?", 
+              "id": "5ca61176ecadf2e73f00004e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "When TADs go bad: chromatin structure and nuclear organisation in human disease. Chromatin in the interphase nucleus is organised as a hierarchical series of structural domains, including self-interacting domains called topologically associating domains (TADs). This arrangement is thought to bring enhancers into closer physical proximity with their target genes, which often are located hundreds of kilobases away in linear genomic distance. TADs are demarcated by boundary regions bound by architectural proteins, such as CTCF and cohesin, although much remains to be discovered about the structure and function of these domains. Recent studies of TAD boundaries disrupted in engineered mouse models show that boundary mutations can recapitulate human developmental disorders as a result of aberrant promoter-enhancer interactions in the affected TADs. Similar boundary disruptions in certain cancers can result in oncogene overexpression, and CTCF binding sites at boundaries appear to be hyper-mutated across cancers. Further insights into chromatin organisation, in parallel with accumulating whole genome sequence data for disease cohorts, are likely to yield additional valuable insights into the roles of noncoding sequence variation in human disease.", 
+          "qas": [
+            {
+              "question": "Can TAD disruption lead to disease?", 
+              "id": "5ca61176ecadf2e73f00004e_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Breaking TADs: How Alterations of Chromatin Domains Result in Disease. Spatial organization is an inherent property of the vertebrate genome to accommodate the roughly 2m of DNA in the nucleus of a cell. In this nonrandom organization, topologically associating domains (TADs) emerge as a fundamental structural unit that is thought to guide regulatory elements to their cognate promoters. In this review we summarize the most recent findings about TADs and the boundary regions separating them. We discuss how the disruption of these structures by genomic rearrangements can result in gene misexpression and disease.", 
+          "qas": [
+            {
+              "question": "Can TAD disruption lead to disease?", 
+              "id": "5ca61176ecadf2e73f00004e_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Chromatin Domains Go on Repeat in Disease. TAD boundaries are insulators of genomic neighborhoods. In this issue, Sun et\u00a0al. show that disease-associated tandem repeats are located to TAD boundaries and affect their insulation. The findings have important implications for TAD function and mechanisms underlying diseases such as fragile X syndrome and Huntington's disease.", 
+          "qas": [
+            {
+              "question": "Can TAD disruption lead to disease?", 
+              "id": "5ca61176ecadf2e73f00004e_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Apolipoprotein A-I mimetic peptide 4F suppresses tumor-associated macrophages and pancreatic cancer progression. Pancreatic cancer is an aggressive malignancy that is unresponsive to conventional radiation and chemotherapy. Therefore, development of novel immune therapeutic strategies is urgently needed. L-4F, an Apolipoprotein A-I (ApoA-I) mimetic peptide, is engineered to mimic the anti-inflammatory and anti-oxidative functionalities of ApoA-I. In this work, H7 cells were orthotopically implanted in C57BL/6 mice and treated with L-4F. Then, pancreatic cancer progression and the inflammatory microenvironment were investigated in vivo. The cytotoxicity of L-4F toward H7 cells was assessed in vitro. Furthermore, we investigated the effects of L-4F on macrophage polarization by analyzing the polarization and genes of mouse bone marrow-derived macrophages in vitro. The results show that L-4F substantially reduced the tumorigenicity of H7 cells. L-4F inhibited inflammation by reducing the accumulation of inflammatory cells, such as IL-17A-, IL-4-, GM-CSF-, IL-1\u03b2-, and IL-6-producing cells and Th1 and Th17. Notably, L-4F also decreased the percentage of macrophages in tumor tissues, especially M2 macrophages (CD11bF4/80CD206), which was also confirmed in vitro. Additionally, the expression of the M2 marker genes Arg1, MRC1, and CCL22 and the inflammatory genes IL-6, iNOS, and IL-12 was decreased by L-4F, indicating that L-4F prevents M2 type macrophage polarization. However, L-4F could not directly attenuate H7 cell invasion or proliferation and did not induce apoptosis. In addition, L-4F potently down-regulated STAT3, JNK and ERK signaling pathways but not affects the phosphorylation of p38 in RAW 264.7 cells. These results suggest that L-4F exhibits an effective therapeutic effect on pancreatic cancer progression by inhibiting tumor-associated macrophages and inflammation.", 
+          "qas": [
+            {
+              "question": "Is L-4F an apoE mimetic peptide?", 
+              "id": "5c8908a475a4a5d21900000c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Identification of novel immunoreactive proteins and delineation of a specific epitope of Anaplasma phagocytophilum. Human granulocytic anaplasmosis (HGA), an increasingly recognized febrile tick-borne illness, is caused by a gram-negative obligate intracellular bacterium Anaplasma phagocytophilum. Because of nonspecific clinical manifestations, diagnosis of HGA highly depends on laboratory tests. Identification of immunoreactive proteins is prerequisite for development of specific and sensitive immunoassays for HGA. In this study, we identified novel immunoreactive proteins of A. phagocytophilum. Previous studies indicated that secreted proteins of A. phagocytophilum and other bacteria can be immunoreactive antigens. Here we in silico screened A. phagocytophilum genome for encoding proteins which bear features of type IV secretion system substrates. Among seventy seven predicted proteins, fourteen proteins were determined for antigenicity and nine proteins were showed to be immunoreactive antigens. In addition, an APH1384 peptide harboring a B cell epitope predicted by bioinformatics was found specifically reacting with anti-A. phagocytophilum sera. Hereby, we identified novel immunoreactive proteins and delineated a specific epitope of A. phagocytophilum, which might be employed for HGA diagnosis.", 
+          "qas": [
+            {
+              "question": "Anaplasma phagocytophilum is an obligate gram-negative, intracellular bacterium, yes  or no", 
+              "id": "5c98ac7fecadf2e73f00002b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Anaplasma spp. in North Africa: A review on molecular epidemiology, associated risk factors and genetic characteristics. The genus Anaplasma belonging to the Anaplasmataceae family (order Rickettsiales) comprises obligate intracellular Gram-negative bacteria of veterinary and public health importance. Six species and five types of strains genetically related are currently assigned to the genus Anaplasma including Anaplasma marginale, A. centrale, A. bovis, A. phagocytophilum, A. ovis and A. platys as classified species, and \"A. capra\", A. odocolei sp. nov., A. phagocytophilum-like 1 (Anaplasma sp.-Japan), A. phagocytophilum-like 2 (Anaplasma sp.-China) and A. platys-like (also named Candidatus Anaplasma camelii) as unclassified strains. Most of these Anaplasma species and strains have been molecularly identified in several animal and/or tick species in the north of Africa. The aim of this review is to summarize the current knowledge about molecular epidemiology, associated risk factors and genetic diversity of Anaplasma species and related strains infecting animals and/or their incriminated tick vectors in North Africa. All these data should be considered when establishing of common management and control programs for anaplasmosis infecting humans and different animal species in North African countries.", 
+          "qas": [
+            {
+              "question": "Anaplasma phagocytophilum is an obligate gram-negative, intracellular bacterium, yes  or no", 
+              "id": "5c98ac7fecadf2e73f00002b_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Oleuropein aglycone: A polyphenol with different targets against amyloid toxicity. BACKGROUND: Many data highlight the benefits of the Mediterranean diet and its main lipid component, extra-virgin olive oil (EVOO). EVOO contains many phenolic compounds that have been found effective against several aging- and lifestyle-related diseases, including neurodegeneration. Oleuropein, a phenolic secoiroid glycoside, is the main polyphenol in the olive oil. It has been reported that the aglycone form of Oleuropein (OleA) interferes in vitro and in vivo with amyloid aggregation of a number of proteins/peptides involved in amyloid, particularly neurodegenerative, diseases avoiding the growth of toxic oligomers and displaying protection against cognitive deterioration. METHODS: In this study, we carried out a cellular and biophysical study on the relationships between the effects of OleA on the aggregation and cell interactions of the D76N \u03b22-microglobulin (D76N b2m) variant associated with a familial form of systemic amyloidosis with progressive bowel dysfunction and extensive visceral amyloid deposits. RESULTS: Our results indicate that OleA protection against D76N b2m cytotoxicity results from i) a modification of the conformational and biophysical properties of its amyloid fibrils; ii) a modification of the cell bilayer surface properties of exposed cells. CONCLUSIONS: This study reveals that OleA remodels not only D76N b2m aggregates but also the cell membrane interfering with the misfolded proteins-cell membrane association, in most cases an early event triggering amyloid-mediated cytotoxicity. GENERAL SIGNIFICANCE: The data provided in the present article focus on OleA protection, featuring this polyphenol as a promising plant molecule useful against amyloid diseases.", 
+          "qas": [
+            {
+              "question": "Can oleuropein aglycone interfere with amyloid aggregation?", 
+              "id": "5c890c3375a4a5d21900000e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Subdural empyema in children. BACKGROUND: Subdural empyema denotes the collection of purulent material in the subdural spaceand is commonly seen in infants and older children. In infants, the most common cause is bacterialmeningitis. In older children, sinusitis and otitis media are usually the source for subdural empyema. Theclinical symptomatology is varied and has a wide range including prolonged or recurrent fever, seizures,meningeal irritation, and raised intracranial pressure. It can mimic as well as complicate meningitis and aheightened clinical awareness is therefore paramount. AIMS AND OBJECTIVES: The clinical profile, etiopathogenesis, imaging features and management of subdural empyema in children is discussed and the relevant literature is reviewed. CONCLUSION: Subdural empyema is a neurosurgical emergency and rapid recognition and treatment canavoid life-threatening complications. In most cases, surgical decompression through burr hole or craniotomyis warranted. Near complete evacuation of the purulent material and appropriate long-term intravenous antibiotics are necessary for a gratifying outcome.", 
+          "qas": [
+            {
+              "question": "Is subdural empyema a complication of sinusitis?", 
+              "id": "5ca0c81eecadf2e73f000047_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Neurological Complications of Acute and Chronic Sinusitis. PURPOSE OF REVIEW: Acute and chronic sinusitis can give rise to a wide array of intracranial and orbital complications. These complications include brain abscess, subdural empyema, epidural abscess, meningitis, venous sinus thrombosis, frontal bone osteomyelitis, and orbital cellulitis and abscess. Despite numerous medical advances, these complications carry a risk of mortality and significant morbidity. RECENT FINDINGS: Recent studies have shown improvement in both the mortality and the morbidity associated with the neurologic complications of acute and chronic sinusitis. However, there are still a large portion of patients with long-term sequelae, and the literature reports a morbidity rate of approximately 30%. The most common post-treatment morbidities include permanent changes in vision, seizures, and hemiparesis. Although the overall incidence of neurologic complications from a sinogenic source are rare, the potential long-term complications can be devastating making prompt diagnosis and treatment vital to improving outcomes.", 
+          "qas": [
+            {
+              "question": "Is subdural empyema a complication of sinusitis?", 
+              "id": "5ca0c81eecadf2e73f000047_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Frontal sinusitis complicated by a brain abscess and subdural empyema. A 49-year-old male was brought to the Emergency Department after being found unresponsive. The patient had multiple seizures and was intubated in the prehospital setting. A computed tomography scan showed bilateral paranasal sinus disease, and magnetic resonance imaging showed a right frontal abscess and subdural empyema. Neurosurgery took the patient to the operating room, performed a craniotomy, and drained a large amount of purulent fluid. He was subsequently discharged for acute rehabilitation. Clinicians should consider complicated frontal sinusitis, especially in the undifferentiated patient presenting with neurologic deficits and signs or symptoms of sinus disease.", 
+          "qas": [
+            {
+              "question": "Is subdural empyema a complication of sinusitis?", 
+              "id": "5ca0c81eecadf2e73f000047_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Apelin and energy metabolism. A wide range of adipokines identified over the past years has allowed considering the white adipose tissue as a secretory organ closely integrated into overall physiological and metabolic control. Apelin, a ubiquitously expressed peptide was known to exert different physiological effects mainly on the cardiovascular system and the regulation of fluid homeostasis prior to its characterization as an adipokine. This has broadened its range of action and apelin now appears clearly as a new player in energy metabolism in addition to leptin and adiponectin. Apelin has been shown to act on glucose and lipid metabolism but also to modulate insulin secretion. Moreover, different studies in both animals and humans have shown that plasma apelin concentrations are usually increased during obesity and type 2 diabetes. This mini-review will focus on the various systemic apelin effects on energy metabolism by addressing its mechanisms of action. The advances concerning the role of apelin in metabolic diseases in relation with the recent reports on apelin concentrations in obese and/or diabetic subjects will also be discussed.", 
+          "qas": [
+            {
+              "question": "Is Apelin usually decreased in diabetes?", 
+              "id": "5caa0806ecadf2e73f000057_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Emerging Role of Adipocytokines in Type 2 Diabetes as Mediators of Insulin Resistance and Cardiovascular Disease. Adipose tissue is an enormously active endocrine organ, secreting various hormones, such as adiponectin, leptin, resistin and visfatin, together with classical cytokines, such as tumor necrosis factor-alpha (TNF-\u03b1) and interleukin-6 (IL-6). All these adipocytokines play significant roles in the regulation of energy metabolism, glucose and lipid metabolism, reproduction, cardiovascular function and immunity. Adipocytokines are significantly regulated by nutritional status and can directly influence other organ systems, including brain, liver and skeletal muscle. Adiponectin plays a key role as an anti-inflammatory hormone. Upregulated expression of resistin, vaspin, apelin and TNF-\u03b1 plays a significant role in induction of insulin resistance linked with obesity and type 2 diabetes. Ghrelin, the circulating peptide, has been found to stimulate appetite and regulate energy balance. Thus, it can be considered 1 of the candidate genes for obesity and type 2 diabetes. Omentin is a novel adipokine produced by visceral adipose tissue. Circulating levels of omentin are decreased in insulin-resistant states, for example, in obesity and diabetes. IL-6 plays a vital role in regulating the accumulation of lipids intramyocardially. Based on the biologic relevance of these adipocytokines, they can no longer be considered as energy storage sites alone but must also be considered in metabolic control. Hence, the present review summarizes the regulatory roles of adipocytokines in diabetes linked with obesity.", 
+          "qas": [
+            {
+              "question": "Is Apelin usually decreased in diabetes?", 
+              "id": "5caa0806ecadf2e73f000057_001"
+            }
+          ]
+        }, 
+        {
+          "context": "MiR-122 inhibits cell proliferation and induces apoptosis by targeting runt-related transcription factors 2 in human glioma. OBJECTIVE: Accumulating evidence has suggested that microRNAs play critical roles in the development and progression of human glioma. The role of miR-122 in glioma tumorigenesis has been poorly defined. The current study is designed to investigate whether and how miR-122 affects proliferation and apoptosis of human glioma cells. PATIENTS AND METHODS: 8 normal brain tissues and 19 glioma tissues (7 for low grade and 12 for high grade) were collected. The expressions of miR-122 and runt-related transcription factors (RUNX2) in normal brain/glioma tissues and normal astrocytes (NHA)/multiple glioma cell lines (U87, U251, and U118) were analyzed by Real-time polymerase chain reaction (PCR). Western blot and luciferase activity assays were performed to validate the predicted relationship between miR-122 and RUNX2. The effects of miR-122 on cell proliferation and apoptosis were assessed by cell counting kit-8 (CCK-8), colony forming, and Annexin V-FITC/PI apoptosis assays using both gain- and loss-of-function approaches. RESULTS: MiR-122 expression is downregulated in glioma tissues compared with normal brain tissues, and is negatively correlated with the WHO grade. In contrast, the RUNX2 expression is upregulated in glioma tissues, and is positively correlated with the WHO grade. In glioma cell lines, the miR-122 expression is also constantly downregulated. MiR-122 functions as a tumor suppressor by inhibiting proliferation and inducing apoptosis, which is achieved by directly targeting RUNX2. Overexpression of RUNX2 can partially abrogate the effect of miR-122 on glioma cells. CONCLUSIONS: These results demonstrate a crucial role of miR-122 in regulating cell proliferation and apoptosis. Identifying the miR-122/RUNX2 signaling provides novel insights into the development of therapeutic targets for glioma.", 
+          "qas": [
+            {
+              "question": "Can miR-122 target RUNX2?", 
+              "id": "5c8fea130101eac87000000d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Is tocilizumab a potential therapeutic option for refractory unicentric Castleman disease? Castleman disease is a rare lymphoproliferative disorder with 2 distinctly defined clinical forms. While multicentric Castleman disease (UCD) poses a potential therapeutic challenge, unicentric variant has historically been considered curable with surgical resection. Hence, little is known to guide management of patients with UCD, refractory to surgical resection and combination chemotherapy. We present a case of a patient, negative for HIV and HHV-8, who had an unsuccessful surgical intervention and no response to radiotherapy and chemotherapy. He had severe paraneoplastic pemphigus and was treated with tocilizumab, an anti-interleukin-6 receptor monoclonal antibody that has demonstrated good response rates in multicentric Castleman disease but demonstrated no clinical response despite 2\u00a0months of treatment. Our report is the first to describe a lack of response to tocilizumab in the rare setting of refractory UCD and discuss potential for distinct disease biology.", 
+          "qas": [
+            {
+              "question": "Tocilizumab is an anti-TNF antibody, yes or no?", 
+              "id": "5c960d88ecadf2e73f00001f_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Tocilizumab in the treatment of adult rheumatoid arthritis. Rheumatoid arthritis (RA) is the most prevalent immune-mediated chronic rheumatic disease and is associated with joint destruction and disability. Therapeutic strategies, including biological disease-modifying antirheumatic drugs (bDMARDs) have improved the prognosis and quality of life of RA patients. Tocilizumab (TCZ) is a humanized monoclonal antibody against IL-6\u00a0receptor licensed in 2009 that has demonstrated clinical efficacy in various adult RA populations. RA management guidelines and recommendations consider TCZ as one of the bDMARDS indicated after methotrexate or other conventional synthetic DMARDs and/or TNF inhibitors failure in adult RA. Of particular interest is the demonstration of its effectiveness in monotherapy in comparison with other bDMARDs. Recent observational studies have shown good results for the safety profile of TCZ with no new alert signals.", 
+          "qas": [
+            {
+              "question": "Tocilizumab is an anti-TNF antibody, yes or no?", 
+              "id": "5c960d88ecadf2e73f00001f_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Restoring Anticancer Immune Response by Targeting Tumor-Derived Exosomes With a HSP70 Peptide Aptamer. BACKGROUND: Exosomes, via heat shock protein 70 (HSP70) expressed in their membrane, are able to interact with the toll-like receptor 2 (TLR2) on myeloid-derived suppressive cells (MDSCs), thereby activating them. METHODS: We analyzed exosomes from mouse (C57Bl/6) and breast, lung, and ovarian cancer patient samples and cultured cancer cells with different approaches, including nanoparticle tracking analysis, biolayer interferometry, FACS, and electron microscopy. Data were analyzed with the Student's t and Mann-Whitney tests. All statistical tests were two-sided. RESULTS: We showed that the A8 peptide aptamer binds to the extracellular domain of membrane HSP70 and used the aptamer to capture HSP70 exosomes from cancer patient samples. The number of HSP70 exosomes was higher in cancer patients than in healthy donors (mean, ng/mL \u00b1 SD = 3.5 \u00b1 1.7 vs 0.17 \u00b1 0.11, respectively, P = .004). Accordingly, all cancer cell lines examined abundantly released HSP70 exosomes, whereas \"normal\" cells did not. HSP70 had higher affinity for A8 than for TLR2; thus, A8 blocked HSP70/TLR2 association and the ability of tumor-derived exosomes to activate MDSCs. Treatment of tumor-bearing C57Bl/6 mice with A8 induced a decrease in the number of MDSCs in the spleen and inhibited tumor progression (n = 6 mice per group). Chemotherapeutic agents such as cisplatin or 5FU increase the amount of HSP70 exosomes, favoring the activation of MDSCs and hampering the development of an antitumor immune response. In contrast, this MDSC activation was not observed if cisplatin or 5FU was combined with A8. As a result, the antitumor effect of the drugs was strongly potentiated. CONCLUSIONS: A8 might be useful for quantifying tumor-derived exosomes and for cancer therapy through MDSC inhibition.", 
+          "qas": [
+            {
+              "question": "Is it possible to analyze exosomes with FACS?", 
+              "id": "5c9e6ab9ecadf2e73f000035_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Size-exclusion chromatography as a stand-alone methodology identifies novel markers in mass spectrometry analyses of plasma-derived vesicles from healthy individuals. Plasma-derived vesicles hold a promising potential for use in biomedical applications. Two major challenges, however, hinder their implementation into translational tools: (a) the incomplete characterization of the protein composition of plasma-derived vesicles, in the size range of exosomes, as mass spectrometric analysis of plasma sub-components is recognizably troublesome and (b) the limited reach of vesicle-based studies in settings where the infrastructural demand of ultracentrifugation, the most widely used isolation/purification methodology, is not available. In this study, we have addressed both challenges by carrying-out mass spectrometry (MS) analyses of plasma-derived vesicles, in the size range of exosomes, from healthy donors obtained by 2 alternative methodologies: size-exclusion chromatography (SEC) on sepharose columns and Exo-Spin\u2122. No exosome markers, as opposed to the most abundant plasma proteins, were detected by Exo-Spin\u2122. In contrast, exosomal markers were present in the early fractions of SEC where the most abundant plasma proteins have been largely excluded. Noticeably, after a cross-comparative analysis of all published studies using MS to characterize plasma-derived exosomes from healthy individuals, we also observed a paucity of \"classical exosome markers.\" Independent of the isolation method, however, we consistently identified 2 proteins, CD5 antigen-like (CD5L) and galectin-3-binding protein (LGALS3BP), whose presence was validated by a bead-exosome FACS assay. Altogether, our results support the use of SEC as a stand-alone methodology to obtain preparations of extracellular vesicles, in the size range of exosomes, from plasma and suggest the use of CD5L and LGALS3BP as more suitable markers of plasma-derived vesicles in MS.", 
+          "qas": [
+            {
+              "question": "Is it possible to analyze exosomes with FACS?", 
+              "id": "5c9e6ab9ecadf2e73f000035_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Cell Propagation of Cholera Toxin CTA ADP-Ribosylating Factor by Exosome Mediated Transfer. In this study, we report how the cholera toxin (CT) A subunit (CTA), the enzyme moiety responsible for signaling alteration in host cells, enters the exosomal pathway, secretes extracellularly, transmits itself to a cell population. The first evidence for long-term transmission of CT's toxic effect via extracellular vesicles was obtained in Chinese hamster ovary (CHO) cells. To follow the CT intracellular route towards exosome secretion, we used a novel strategy for generating metabolically-labeled fluorescent exosomes that can be counted by flow cytometry assay (FACS) and characterized. Our results clearly show the association of CT with exosomes, together with the heat shock protein 90 (HSP90) and Protein Disulfide Isomerase (PDI) molecules, proteins required for translocation of CTA across the ER membrane into the cytoplasm. Confocal microscopy showed direct internalization of CT containing fluorescent exo into CHO cells coupled with morphological changes in the recipient cells that are characteristic of CT action. Moreover, Me665 cells treated with CT-containing exosomes showed an increase in Adenosine 3',5'-Cyclic Monophosphate (cAMP) level, reaching levels comparable to those seen in cells exposed directly to CT. Our results prompt the idea that CT can exploit an exosome-mediated cell communication pathway to extend its pathophysiological action beyond an initial host cell, into a multitude of cells. This finding could have implications for cholera disease pathogenesis and epidemiology.", 
+          "qas": [
+            {
+              "question": "Is it possible to analyze exosomes with FACS?", 
+              "id": "5c9e6ab9ecadf2e73f000035_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Acidic microenvironment plays a key role in human melanoma progression through a sustained exosome mediated transfer of clinically relevant metastatic molecules. BACKGROUND: Microenvironment cues involved in melanoma progression are largely unknown. Melanoma is highly influenced in its aggressive phenotype by the changes it determinates in its microenvironment, such as pH decrease, in turn influencing cancer cell invasiveness, progression and tissue remodelling through an abundant secretion of exosomes, dictating cancer strategy to the whole host. A role of exosomes in driving melanoma progression under microenvironmental acidity was never described. METHODS: We studied four differently staged human melanoma lines, reflecting melanoma progression, under microenvironmental acidic pHs pressure ranging between pH\u00a06.0-6.7. To estimate exosome secretion as a function of tumor stage and environmental pH, we applied a technique to generate native fluorescent exosomes characterized by vesicles integrity, size, density, markers expression, and quantifiable by direct FACS analysis. Functional roles of exosomes were tested in migration and invasion tests. Then we performed a comparative proteomic analysis of acid versus control exosomes to elucidate a specific signature involved in melanoma progression. RESULTS: We found that metastatic melanoma secretes a higher exosome amount than primary melanoma, and that acidic pH increases exosome secretion when melanoma is in an intermediate stage, i.e. metastatic non-invasive. We were thus able to show that acidic pH influences the intercellular cross-talk mediated by exosomes. In fact when exposed to exosomes produced in an acidic medium, pH na\u00efve melanoma cells acquire migratory and invasive capacities likely due to transfer of metastatic exosomal proteins, favoring cell motility and angiogenesis. A Prognoscan-based meta-analysis study of proteins enriched in acidic exosomes, identified 11 genes (HRAS, GANAB, CFL2, HSP90B1, HSP90AB1, GSN, HSPA1L, NRAS, HSPA5, TIMP3,\u00a0HYOU1), significantly correlating with poor prognosis, whose high expression was in part confirmed in bioptic samples of lymph node metastases. CONCLUSIONS: A crucial step of melanoma progression does occur at melanoma intermediate -stage, when extracellular acidic pH induces an abundant release and intra-tumoral uptake of exosomes. Such exosomes are endowed with pro-invasive molecules of clinical relevance, which may provide a signature of melanoma advancement.", 
+          "qas": [
+            {
+              "question": "Is it possible to analyze exosomes with FACS?", 
+              "id": "5c9e6ab9ecadf2e73f000035_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Prevnar 13, the new 13-valent pneumococcal conjugate vaccine. OBJECTIVE: To review the immunogenicity, efficacy, and safety of the 13-valent pneumococcal conjugate vaccine (PCV13) for use in pediatric patients. DATA SOURCES: A MEDLINE search (2000-September 2011) was conducted using the key words Streptococcus pneumoniae and pneumococcal conjugate vaccine for clinical trials, limited to studies conducted in humans and published in English. STUDY SELECTION AND DATA EXTRACTION: Randomized, controlled, multicenter trials were reviewed and included to evaluate the safety and efficacy of PCV13. Literature on the epidemiology and pathology of pneumococcal infections and recommendations from the Advisory Committee on Immunization Practices (ACIP) were also reviewed. DATA SYNTHESIS: PCV13 is approved for routine vaccination of all infants as a 4-dose series at age 2, 4, 6, and 12-15 months for children who previously received 1 or more doses of the 7-valent pneumococcal conjugate vaccine (PCV7), and for children with underlying medical conditions that increase their risk for pneumococcal disease or its complications. PCV13 has comparable immunogenicity to the serotypes common with PCV7 and also provides protection against 6 additional pneumococcal serotypes. PCV13 has also been shown to have a comparable adverse reaction profile to PCV7. CONCLUSIONS: Based on published immunogenicity and safety data, as well as the recent recommendations by the ACIP for routine use in infants and indications for high-risk pediatric patients, PCV13 is a revised formulation of pneumococcal vaccine that should be included on pharmacy formularies.", 
+          "qas": [
+            {
+              "question": "Can prevnar 13 be used in children?", 
+              "id": "5c915e51ecadf2e73f00000c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Cell adhesion-mediated mitochondria transfer contributes to mesenchymal stem cell-induced chemoresistance on T cell acute lymphoblastic leukemia cells. BACKGROUND: Despite the high cure rate of T cell acute lymphoblastic leukemia (T-ALL), drug resistance to chemotherapy remains a significant clinical problem. Bone marrow mesenchymal stem cells (MSCs) protect leukemic cells from chemotherapy, but the underlying mechanisms are poorly understood. In this study, we aimed to uncover the mechanism of MSC-induced chemoresistance in T-ALL cells, thus providing a promising clinical therapy target. METHODS: Cell viability was determined using the viability assay kit CCK-8. The mitochondrial ROS levels were detected using the fluorescent probe MitoSOX\u2122 Red, and fluorescence intensity was measured by flow cytometry. In vitro, MSCs and Jurkat cells were cocultured. MSCs were labeled with green fluorescent protein (GFP), and Jurkat cells were labeled with the mitochondria-specific dye MitoTracker Red. Bidirectional mitochondrial transfer was detected by flow cytometry and confocal microscopy. The mechanism of mitochondria transfer was analyzed by inhibitor assays. Transcripts related to Jurkat cell/MSC adhesion in the coculture system were assessed by qRT-PCR. After treatment with a neutralizing antibody against a key adhesion molecule, mitochondria transfer from Jurkat cells to MSCs was again detected by flow cytometry and confocal microscopy. Finally, we verified our findings using human primary T-ALL cells cocultured with MSCs. RESULTS: Chemotherapeutic drugs caused intracellular oxidative stress in Jurkat cells. Jurkat cells transfer mitochondria to MSCs but receive few mitochondria from MSCs, resulting in chemoresistance. This process of mitochondria transfer is mediated by tunneling nanotubes, which are protrusions that extend from the cell membrane . Moreover, we found that most Jurkat cells adhered to MSCs in the coculture system, which was mediated by the adhesion molecule ICAM-1. Treatment with a neutralizing antibody against ICAM-1 led to a decreased number of adhering Jurkat cells, decreased mitochondria transfer, and increased chemotherapy-induced cell death. CONCLUSIONS: We show evidence that mitochondria transfer from Jurkat cells to MSCs, which is mediated by cell adhesion, may be a potential therapeutic target for T-ALL treatment.", 
+          "qas": [
+            {
+              "question": "Can mitochondria transfer from cell to cell?", 
+              "id": "5c9e738decadf2e73f000037_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Mitochondrial transfer between cells: Methodological constraints in cell culture and animal models. Interest in the recently discovered phenomenon of mitochondrial transfer between mammalian cells has gained momentum since it was first described in cell culture systems more than a decade ago. Mitochondria-targeting fluorescent dyes have been repurposed and are now widely used in these studies and in acute disease models, sometimes without due consideration of their limitations, while vectors containing mitochondrially-imported fluorescent proteins have complemented the use of mitochondria-targeting dyes. Genetic approaches that use mitochondrial DNA polymorphisms have also been used in some in vitro studies and in tumor models and are particularly useful where mtDNA is damaged or deleted. These approaches can also be used to study the long-term consequences of mitochondrial transfer such as in bone marrow and organ transplantation and in tumour biology where inherent mitochondrial damage is often a key feature. As research on intercellular mitochondrial transfer moves from cell culture into animal models and human diseases it will be important to understand the limitations of the various techniques in order to apply appropriate methodologies to address physiological and pathophysiological conditions.", 
+          "qas": [
+            {
+              "question": "Can mitochondria transfer from cell to cell?", 
+              "id": "5c9e738decadf2e73f000037_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Certolizumab pegol and secukinumab for treating active psoriatic arthritis following inadequate response to disease-modifying antirheumatic drugs: a systematic review and economic evaluation. BACKGROUND: Several biologic therapies are approved by the National Institute for Health and Care Excellence (NICE) for psoriatic arthritis (PsA) patients who have had an inadequate response to two or more synthetic disease-modifying antirheumatic drugs (DMARDs). NICE does not specifically recommend switching from one biologic to another, and only ustekinumab (UST; STELARA, Janssen Pharmaceuticals, Inc., Horsham, PA, USA) is recommended after anti-tumour necrosis factor failure. Secukinumab (SEC; COSENTYX, Novartis International AG, Basel, Switzerland) and certolizumab pegol (CZP; CIMZIA, UCB Pharma, Brussels, Belgium) have not previously been appraised by NICE. OBJECTIVE: To determine the clinical effectiveness and cost-effectiveness of CZP and SEC for treating active PsA in adults in whom DMARDs have been inadequately effective. DESIGN: Systematic review and economic model. DATA SOURCES: Fourteen databases (including MEDLINE and EMBASE) were searched for relevant studies from inception to April 2016 for CZP and SEC studies; update searches were run to identify new comparator studies. REVIEW METHODS: Clinical effectiveness data from randomised controlled trials (RCTs) were synthesised using Bayesian network meta-analysis (NMA) methods to investigate the relative efficacy of SEC and CZP compared with comparator therapies. A de novo model was developed to assess the cost-effectiveness of SEC and CZP compared with the other relevant comparators. The model was specified for three subpopulations, in accordance with the NICE scope (patients who have taken one prior DMARD, patients who have taken two or more prior DMARDs and biologic-experienced patients). The models were further classified according to the level of concomitant psoriasis. RESULTS: Nineteen eligible RCTs were included in the systematic review of short-term efficacy. Most studies were well conducted and were rated as being at low risk of bias. Trials of SEC and CZP demonstrated clinically important efficacy in all key clinical outcomes. At 3 months, patients taking 150 mg of SEC [relative risk (RR) 6.27, 95% confidence interval (CI) 2.55 to 15.43] or CZP (RR 3.29, 95% CI 1.94 to 5.56) were more likely to be responders than patients taking placebo. The NMA results for the biologic-naive subpopulations indicated that the effectiveness of SEC and CZP relative to other biologics and each other was uncertain. Limited data were available for the biologic-experienced subpopulation. Longer-term evidence suggested that these newer biologics reduced disease progression, with the benefits being similar to those seen for older biologics. The de novo model generated incremental cost-effectiveness ratios (ICERs) for three subpopulations and three psoriasis subgroups. In subpopulation 1 (biologic-naive patients who had taken one prior DMARD), CZP was the optimal treatment in the moderate-severe psoriasis subgroup and 150 mg of SEC was optimal in the subgroups of patients with mild-moderate psoriasis or no concomitant psoriasis. In subpopulation 2 (biologic-naive patients who had taken two or more prior DMARDs), etanercept (ETN; ENBREL, Pfizer Inc., New York City, NY, USA) is likely to be the optimal treatment in all subgroups. The ICERs for SEC and CZP versus best supportive care are in the region of \u00a320,000-30,000 per quality-adjusted life-year (QALY). In subpopulation 3 (biologic-experienced patients or patients in whom biologics are contraindicated), UST is likely to be the optimal treatment (ICERs are in the region of \u00a321,000-27,000 per QALY). The optimal treatment in subpopulation 2 was sensitive to the choice of evidence synthesis model. In subpopulations 2 and 3, results were sensitive to the algorithm for Health Assessment Questionnaire-Disability Index costs. The optimal treatment is not sensitive to the use of biosimilar prices for ETN and infliximab (REMICADE, Merck Sharp & Dohme, Kenilworth, NJ, USA). CONCLUSIONS: SEC and CZP may be an effective use of NHS resources, depending on the subpopulation and subgroup of psoriasis severity. There are a number of limitations to this assessment, driven mainly by data availability. FUTURE WORK: Trials are needed to inform effectiveness of biologics in biologic-experienced populations. STUDY REGISTRATION: This study is registered as PROSPERO CRD42016033357. FUNDING: The National Institute for Health Research Health Technology Assessment programme.", 
+          "qas": [
+            {
+              "question": "Was stelara developed by Amgen?", 
+              "id": "5c9160bcecadf2e73f00000d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Mitochondria are transported along microtubules in membrane nanotubes to rescue distressed cardiomyocytes from apoptosis. Membrane nanotubes (MNTs) act as \"highways\" between cells to facilitate the transfer of multiple signals and play an important role in many diseases. Our previous work reported on the transfer of mitochondria via MNTs between cardiomyocytes (CMs) and cardiac myofibroblasts (MFs); however, the elucidation of the underlying mechanism and pathophysiological significance of this transfer requires additional study. In this study, we determined that the mean movement velocity of mitochondria in MNTs between CMs and MFs was approximately 17.5 \u00b1 2.1 nm/s. Meanwhile, treatment with microtubule polymerisation inhibitors nocodazole or colcemid in cell culture decreased mitochondrial velocity, and knockdown of the microtubule motor protein kinesin family member 5B (KIF5B) led to a similar effect, indicating that mitochondrial movement was dependent on microtubules and the motor protein KIF5B. Furthermore, we showed that hypoxia/reoxygenation-induced CM apoptosis was attenuated by coculture with intact or hypoxia/reoxygenation-treated MFs, which transferred mitochondria to CMs. This rescue was prevented either by separating the cells using Transwell culture or by impairing mitochondrial transfer with nocodazole or colcemid treatment. In conclusion, as a novel means of intercellular communication, MNTs rescue distressed CMs from apoptosis by transporting mitochondria along microtubules via KIF5B.", 
+          "qas": [
+            {
+              "question": "Can mitochondria pass through membrane nanotubes?", 
+              "id": "5c9e766becadf2e73f000038_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Size-dependent formation of membrane nanotubes: continuum modeling and molecular dynamics simulations. Membrane nanotubes play important functional roles in numerous cell activities such as cellular transport and communication. By exerting an external pulling force over a finite region in a membrane patch, here we investigate the size dependence of the membrane nanotube formation under the continuum and atomistic modeling frameworks. It is shown that the membrane undergoes a discontinuous shape transition as the size of the pulling region and the membrane tension increase. A formula characterizing the nonlinear relationship between the maximum static pulling force and pulling size is identified. During the membrane extraction, lipids in the upper and lower leaflets exhibit different behaviors of structural rearrangements. Moreover, our computational simulations indicate that the steady state pulling force increases linearly with the pulling velocity as well as the size of the pulling region.", 
+          "qas": [
+            {
+              "question": "Can mitochondria pass through membrane nanotubes?", 
+              "id": "5c9e766becadf2e73f000038_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Tumour-associated microglia/macrophages predict poor prognosis in high-grade gliomas and correlate with an aggressive tumour subtype. AIMS: Glioblastomas are highly aggressive and treatment resistant. Increasing evidence suggests that tumour-associated macrophages/microglia (TAMs) facilitate tumour progression by acquiring a M2-like phenotype. Our objective was to investigate the prognostic value of TAMs in gliomas using automated quantitative double immunofluorescence. METHODS: Samples from 240 patients with primary glioma were stained with antibodies against ionized calcium-binding adaptor molecule-1 (IBA-1) and cluster of differentiation 204 (CD204) to detect TAMs and M2-like TAMs. The expression levels were quantified by software-based classifiers. The associations between TAMs, gemistocytic cells and glioblastoma subtype were examined with immuno- and haematoxylin-eosin stainings. Three tissue arrays containing glioblastoma specimens were included to study IBA-1/CD204 levels in central tumour and tumour periphery and to characterize CD204 cells. RESULTS: Our data revealed that the amount of especially CD204 TAMs increases with malignancy grade. In grade III-IV, high CD204 expression was associated with shorter survival, while high IBA-1 intensity correlated with a longer survival. In grade IV, CD204 showed independent prognostic value when adjusting for clinical data and the methylation status of O6-methylguanine-DNA methyltransferase. Our findings were confirmed in two bioinformatics databases. TAMs were more abundant in central tumour tissue, mesenchymal glioblastomas and gliomas with many gemistocytic cells. CD204 TAMs co-expressed proteins related to tumour aggressiveness including matrix metallopeptidase-14 and hypoxia-inducible factor-1\u03b1. CONCLUSIONS: This is the first study to use automated quantitative immunofluorescence to determine the prognostic impact of TAMs. Our results suggest that M2-like TAMs hold an unfavourable prognostic value in high-grade gliomas and may contribute to a pro-tumourigenic microenvironment.", 
+          "qas": [
+            {
+              "question": "Do tumour-associated macrophages have a prognostic role in gliomas?", 
+              "id": "5c92159becadf2e73f000012_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Nuclear expression of interleukin-33 in pancreatic stellate cells. Activated pancreatic stellate cells (PSCs) play a pivotal role in pancreatic fibrosis in chronic pancreatitis and pancreatic cancer. Recent studies have suggested a role of IL-33, a newly identified IL-1 family member, in fibrosis. We here examined the expression of IL-33 and the IL-33-mediated regulation of cell functions in PSCs. PSCs were isolated from human and rat pancreas tissues. The expression of IL-33 was examined by Western blotting, PCR, ELISA, and immunostaining. The roles of IL-33 in the regulation of PSC functions were examined by using recombinant IL-33 and small interfering RNA. Activated PSCs expressed IL-33 in the nucleus, and the expression was increased by IL-1\u03b2, TNF-\u03b1, PDGF-BB, and IFN-\u03b3, but not TGF-\u03b21. Nuclear IL-33 expression was also observed in the pancreatic acinar and ductal cells. IL-1\u03b2 induced IL-33 expression mainly through the activation of NF-\u03baB and ERK pathways and partially through that of p38 MAP kinase, whereas PDGF-BB induced IL-33 expression mainly through the activation of ERK pathway. PSCs expressed soluble ST2, ST2L, and IL-1RAcP, but the expression level of ST2L was relatively low. Recombinant IL-33 did not stimulate key cell functions of PSCs. Decreased IL-33 expression by small interfering RNA resulted in decreased proliferation in response to PDGF-BB. In conclusion, activated PSCs expressed IL-33 in the nucleus. IL-33 might regulate the PDGF-induced proliferation in PSCs.", 
+          "qas": [
+            {
+              "question": "Is TNF-\u03b1 an activator of pancreatic stellate cells?", 
+              "id": "5c9f0dabecadf2e73f00003b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Proteome variations in pancreatic stellate cells upon stimulation with proinflammatory factors. Pancreatic stellate cells are key mediators in chronic pancreatitis and play a central role in the development of pancreatic fibrosis, stromal formation, and progression of pancreatic cancer. This study was aimed at investigating molecular changes at the level of the proteome that are associated with the activation of pancreatic stellate cells by proinflammatory factors, namely TNF-\u03b1, FGF2, IL6, and chemokine (C-C motif) ligand 4 (CCL4). They were added individually to cells growing in serum-free medium next to controls in medium supplemented with serum, thus containing a mixture of them all, or in serum-free medium alone. Variations were detected by means of a microarray of 810 antibodies targeting relevant proteins. All tested factors triggered increased proliferation and migration. Further analysis showed that TNF-\u03b1 is the prime factor responsible for the activation of pancreatic stellate cells. CCL4 is associated with cellular neovascularization, whereas FGF2 and IL6 induction led to better cellular survival and decreased apoptotic activity of the stellate cells. The identified direct effects of individual cytokines on human pancreatic stellate cells provide new insights about their contribution to pancreatic cancer promotion.", 
+          "qas": [
+            {
+              "question": "Is TNF-\u03b1 an activator of pancreatic stellate cells?", 
+              "id": "5c9f0dabecadf2e73f00003b_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Sperm nuclear protamines: A checkpoint to control sperm chromatin quality. Protamines are nuclear proteins which are specifically expressed in haploid male germ cells. Their replacement of histones and binding to DNA is followed by chromatin hypercondensation that protects DNA from negative influences by environmental factors. Mammalian sperm contain two types of protamines: PRM1 and PRM2. While the proportion of the two protamines is highly variable between different species, abnormal ratios within a species are known to be associated with male subfertility. Therefore, it is more than likely that correct protamine expression represents a kind of chromatin checkpoint during sperm development rendering protamines as suitable biomarkers for the estimation of sperm quality. This review presents an overview of our current knowledge on protamines comparing gene and protein structures between different mammalian species with particular consideration given to man, mouse and stallion. At last, recent insights into the possible role of inherited sperm histones for early embryo development are provided.", 
+          "qas": [
+            {
+              "question": "Are protamines ubiquitously expressed?", 
+              "id": "5c9f1b0cecadf2e73f00003c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Crocus sativus Extract Tightens the Blood-Brain Barrier, Reduces Amyloid \u03b2 Load and Related Toxicity in 5XFAD Mice. Crocus sativus, commonly known as saffron or Kesar, is used in Ayurveda and other folk medicines for various purposes as an aphrodisiac, antispasmodic, and expectorant. Previous evidence suggested that Crocus sativus is linked to improving cognitive function in Alzheimer's disease (AD) patients. The aim of this study was to in vitro and in vivo investigate the mechanism(s) by which Crocus sativus exerts its positive effect against AD. The effect of Crocus sativus extract on A\u03b2 load and related toxicity was evaluated. In vitro results showed that Crocus sativus extract increases the tightness of a cell-based blood-brain barrier (BBB) model and enhances transport of A\u03b2. Further in vivo studies confirmed the effect of Crocus sativus extract (50 mg/kg/day, added to mice diet) on the BBB tightness and function that was associated with reduced A\u03b2 load and related pathological changes in 5XFAD mice used as an AD model. Reduced A\u03b2 load could be explained, at least in part, by Crocus sativus extract effect to enhance A\u03b2 clearance pathways including BBB clearance, enzymatic degradation and ApoE clearance pathway. Furthermore, Crocus sativus extract upregulated synaptic proteins and reduced neuroinflammation associated with A\u03b2 pathology in the brains of 5XFAD mice. Crocin, a major active constituent of Crocus sativus and known for its antioxidant and anti-inflammatory effect, was also tested separately in vivo in 5XFAD mice. Crocin (10 mg/kg/day) was able to reduce A\u03b2 load but to a lesser extent when compared to Crocus sativus extract. Collectively, findings from this study support the positive effect of Crocus sativus against AD by reducing A\u03b2 pathological manifestations.", 
+          "qas": [
+            {
+              "question": "Are Crocus sativus compounds being considered against Alzheimer's disease?", 
+              "id": "5c891d5075a4a5d219000011_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Memantine Attenuates Alzheimer's Disease-Like Pathology and Cognitive Impairment. Deficiency of protein phosphatase-2A is a key event in Alzheimer's disease. An endogenous inhibitor of protein phosphatase-2A, inhibitor-1, I1PP2A, which inhibits the phosphatase activity by interacting with its catalytic subunit protein phosphatase-2Ac, is known to be upregulated in Alzheimer's disease brain. In the present study, we overexpressed I1PP2A by intracerebroventricular injection with adeno-associated virus vector-1-I1PP2A in Wistar rats. The I1PP2A rats showed a decrease in brain protein phosphatase-2A activity, abnormal hyperphosphorylation of tau, neurodegeneration, an increase in the level of activated glycogen synthase kinase-3beta, enhanced expression of intraneuronal amyloid-beta and spatial reference memory deficit; littermates treated identically but with vector only, i.e., adeno-associated virus vector-1-enhanced GFP, served as a control. Treatment with memantine, a noncompetitive NMDA receptor antagonist which is an approved drug for treatment of Alzheimer's disease, rescued protein phosphatase-2A activity by decreasing its demethylation at Leu309 selectively and attenuated Alzheimer's disease-like pathology and cognitive impairment in adeno-associated virus vector-1-I1PP2A rats. These findings provide new clues into the possible mechanism of the beneficial therapeutic effect of memantine in Alzheimer's disease patients.", 
+          "qas": [
+            {
+              "question": "Are there any anti-amyloid antibody approved as drug for Alzheimer's disease treatment?", 
+              "id": "5ca0848aecadf2e73f000044_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Have there been improvements in Alzheimer's disease drug discovery over the past 5 years? Alzheimer's disease (AD) is the most important neurodegenerative disorder with a global cost worldwide of over $700 billion. Pharmacological treatment accounts for 10-20% of direct costs; no new drugs have been approved during the past 15\u00a0years; and the available medications are not cost-effective. Areas covered: A massive scrutiny of AD-related PubMed publications (ps)(2013-2017) identified 42,053ps of which 8,380 (19.60%) were associated with AD treatments. The most prevalent pharmacological categories included neurotransmitter enhancers (11.38%), multi-target drugs (2.45%), anti-Amyloid agents (13.30%), anti-Tau agents (2.03%), natural products and derivatives (25.58%), novel drugs (8.13%), novel targets (5.66%), other (old) drugs (11.77%), anti-inflammatory drugs (1.20%), neuroprotective peptides (1.25%), stem cell therapy (1.85%), nanocarriers/nanotherapeutics (1.52%), and others (<1% each). Expert opinion: Unsuccessful outcomes in AD therapeutics are attributed to pathogenic misconceptions, erratic procedures in drug development and inappropriate regulations. Recommendations for the future are as follows: (i) the reconsideration of dominant pathogenic theories, (ii) the identification of reliable biomarkers, (iii) the redefinition of diagnostic criteria, (iv) new guidelines for disease management, (v) the reorientation of drug discovery programs, (vi) the updating of regulatory requirements, (vii) the introduction of pharmacogenomics in drug development and personalized treatments, and (viii) the implementation of preventive programs.", 
+          "qas": [
+            {
+              "question": "Are there any anti-amyloid antibody approved as drug for Alzheimer's disease treatment?", 
+              "id": "5ca0848aecadf2e73f000044_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Crocus sativus Extract Tightens the Blood-Brain Barrier, Reduces Amyloid \u03b2 Load and Related Toxicity in 5XFAD Mice. Crocus sativus, commonly known as saffron or Kesar, is used in Ayurveda and other folk medicines for various purposes as an aphrodisiac, antispasmodic, and expectorant. Previous evidence suggested that Crocus sativus is linked to improving cognitive function in Alzheimer's disease (AD) patients. The aim of this study was to in vitro and in vivo investigate the mechanism(s) by which Crocus sativus exerts its positive effect against AD. The effect of Crocus sativus extract on A\u03b2 load and related toxicity was evaluated. In vitro results showed that Crocus sativus extract increases the tightness of a cell-based blood-brain barrier (BBB) model and enhances transport of A\u03b2. Further in vivo studies confirmed the effect of Crocus sativus extract (50 mg/kg/day, added to mice diet) on the BBB tightness and function that was associated with reduced A\u03b2 load and related pathological changes in 5XFAD mice used as an AD model. Reduced A\u03b2 load could be explained, at least in part, by Crocus sativus extract effect to enhance A\u03b2 clearance pathways including BBB clearance, enzymatic degradation and ApoE clearance pathway. Furthermore, Crocus sativus extract upregulated synaptic proteins and reduced neuroinflammation associated with A\u03b2 pathology in the brains of 5XFAD mice. Crocin, a major active constituent of Crocus sativus and known for its antioxidant and anti-inflammatory effect, was also tested separately in vivo in 5XFAD mice. Crocin (10 mg/kg/day) was able to reduce A\u03b2 load but to a lesser extent when compared to Crocus sativus extract. Collectively, findings from this study support the positive effect of Crocus sativus against AD by reducing A\u03b2 pathological manifestations.", 
+          "qas": [
+            {
+              "question": "Do Crocus sativus extracts loosen the blood-brain barrier?", 
+              "id": "5c891e5575a4a5d219000012_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Artificial Red Blood Cells as Potential Photosensitizers in Dye Laser Treatment Against Port-Wine Stains. We suggest a novel method that uses artificial blood cells (hemoglobin vesicles, Hb-Vs) as photosensitizers in dye laser treatment (at 595-nm wavelength) for port-wine stains (i.e., capillary malformations presenting as red birthmarks) based on the results of animal experiments. As compared with human red blood cells, Hb-Vs have the same absorbance of 595 nm wavelength light and produce the same level of heat following dye laser irradiation. Small sized Hb-Vs (250 nm) distribute in the plasma phase in blood and tend to flow in the marginal zone of microvessels. Intravenous injections of Hb-Vs caused the dilatation of microvessels, and dye laser treatment with Hb-Vs destroyed the vessel wall effectively. Following the intravenous injection of Hb-Vs, the microvessels contained more Hb that absorbed laser photons and produced heat. This extra Hb tended to flow near the endothelial cells, which were the target of the laser treatment. These attributes of Hb-Vs will potentially contribute to enhancing the efficacy of dye laser treatment for port-wine stains. Hemoglobin is a type of porphyrin. Thus, our proposed treatment may have aspects of photodynamic therapy using porphyrin that leads to a cytotoxicity effect by active oxygen.", 
+          "qas": [
+            {
+              "question": "Are artificial blood cells available?", 
+              "id": "5ca0fa96ecadf2e73f000048_000"
+            }
+          ]
+        }, 
+        {
+          "context": "[Artificial blood - coming soon or never reaching clinical maturity?]. Formerly developed resuscitation fluids solely imitated the main function of the blood -oxygen transport. A research driven by the army requested an oxygen carrier that does not need cross typing and cooled storage. Artificial oxygen carriers (AOC) use either the molecular oxygen bondage to hemoglobin: HBOC- \"hemoglobin based oxygen carriers\" or the physical dissolution of oxygen in the blood plasma compartment by hyperbaric pressure in perfluorocarbon emulsions (PFC). Decades of preclinical and clinical research did pass but the results were disappointing- in Russia, a not well designed PFC is available locally and the only approved HBOC in South Africa is not being used much. Other products, just prior to filing for FDA approval, did not achieve convincing study results and research and production was stopped. Some trials have been stopped by the FDA for safety reasons, half of trials with the primary endpoint reduction of allogeneic transfusion requirement were unsuccessful or offset by an increased blood requirement later. However, some ventures currently are trying to use the knowledge gained so far and are investigating third and fourth generation products of artificial blood components. These imitate the cellular structure of red cells as micells, nanocapsules, (ABC- artificial blood cells) or gas bubbles (microbubbles), admixture of volume substitutes such as starches, gelatin or albumin or use hyperbaric oxygenation [38]. Artificial platelets are in clinical phase IIa, recombinant albumin in phase III. In this article, a short overview about the current situation on artificial blood products is given. The critical point for the break through for artificial blood products did not come yet but could be ahead-", 
+          "qas": [
+            {
+              "question": "Are artificial blood cells available?", 
+              "id": "5ca0fa96ecadf2e73f000048_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Anti-inflammatory and cholesterol-reducing properties of apolipoprotein mimetics: a review. Reduced levels of HDL cholesterol (HDL-C) are a strong independent predictor of coronary artery disease (CAD) risk. The major anti-atherogenic function of HDL is to mediate reverse cholesterol transport. This response is highly dependent on apoA-I and apoE, protein components of HDL. Randomized clinical trials have assessed effects of several classes of drugs on plasma cholesterol levels in CAD patients. Agents including cholestyramine, fibrates, niacin, and statins significantly lower LDL cholesterol (LDL-C) and induce modest increases in HDL-C, but tolerance issues and undesirable side effects are common. Additionally, residual risk may be present in patients with persistently low HDL-C and other complications despite a reduction in LDL-C. These observations have fueled interest in the development of new pharmacotherapies that positively impact circulating lipoproteins. The goal of this review is to discuss the therapeutic potential of synthetic apolipoprotein mimetic peptides. These include apoA-I mimetic peptides that have undergone initial clinical assessment. We also discuss newer apoE mimetics that mediate the clearance of atherogenic lipids from the circulation and possess anti-inflammatory properties. One of these (AEM-28) has recently been given orphan drug status and is undergoing clinical trials.", 
+          "qas": [
+            {
+              "question": "Have apolipoprotein mimetics been used in clinical trials?", 
+              "id": "5c895cf0f9c2ba6b28000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Nuclear actin: ancient clue to evolution in eukaryotes? Until recently it was widely accepted that the dynamic cytoskeletal matrix is exclusive to the cytoplasm of eukaryotes, evolving before the emergence of the cell nucleus to enable phagocytosis, cell motility and the sophisticated functioning of the endomembrane system within the cytosol. The discovery of the existence of a prokaryotic cytoskeleton has changed this picture significantly. As a result, the idea has taken shape that the appearance of actin occurred in the very first cell; therefore, the emergence of microfilaments precedes that of the eukaryotic cytoskeleton. The discovery of nuclear actin opened new perspective on the field, suggesting that the nuclear activities of actin reflect the functions of primordial actin-like proteins. In this paper, we review the recent literature to explore the evolutionary origin of nuclear actin. We conclude that both ancient and eukaryotic features of the actin world can be detected in the nucleus today, which supports the idea that the cytoskeleton attained significant eukaryotic innovations before the tandem evolution of the cytoskeleton and nucleus occurred.", 
+          "qas": [
+            {
+              "question": "Is actin present in the nucleus?", 
+              "id": "5ca0fdb0ecadf2e73f000049_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Nuclear Actin: From Discovery to Function. While actin was discovered in the nucleus over 50 years ago, research lagged for decades due to strong skepticism. The revitalization of research into nuclear actin occurred after it was found that cellular stresses induce the nuclear localization and alter the structure of actin. These studies provided the first hints that actin has a nuclear function. Subsequently, it was established that the nuclear import and export of actin is highly regulated. While the structures of nuclear actin remain unclear, it can function as monomers, polymers, and even rods. Furthermore, even within a given structure, distinct pools of nuclear actin that can be differentially labeled have been identified. Numerous mechanistic studies have uncovered an array of functions for nuclear actin. It regulates the activity of RNA polymerases, as well as specific transcription factors. Actin also modulates the activity of several chromatin remodeling complexes and histone deacetylases, to ultimately impinge on transcriptional programing and DNA damage repair. Further, nuclear actin mediates chromatin movement and organization. It has roles in meiosis and mitosis, and these functions may be functionally conserved from ancient bacterial actin homologs. The structure and integrity of the nuclear envelope and sub-nuclear compartments are also regulated by nuclear actin. Furthermore, nuclear actin contributes to human diseases like cancer, neurodegeneration, and myopathies. Here, we explore the early discovery of actin in the nucleus and discuss the forms and functions of nuclear actin in both normal and disease contexts. Anat Rec, 301:1999-2013, 2018. \u00a9 2018 Wiley Periodicals, Inc.", 
+          "qas": [
+            {
+              "question": "Is actin present in the nucleus?", 
+              "id": "5ca0fdb0ecadf2e73f000049_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Nuclear myosin/actin-motored contact between homologous chromosomes is initiated by ATM kinase and homology-directed repair proteins at double-strand DNA breaks to suppress chromosome rearrangements. We provide evidence for a mechanism of DNA repair that requires nuclear myosin/actin-dependent contact between homologous chromosomes to prevent formation of chromosomal rearrangement in human cells. We recently showed that DNA double strand breaks (DSBs) induced by \u03b3-rays or endonucleases cause ATM-dependent contact formation between homologous chromosomes at damaged sites of transcriptionally active chromatin in G/G-phase cells. Here, we report that the mechanism of contact generation between homologous chromosomes also requires homology-directed repair proteins, including BRCA1, RAD51 and RAD52, and nuclear myosin/actin-motors. Moreover, inhibition of ATM kinase or deficiency in nuclear actin polymerization causes carcinogenic RET/PTC chromosome rearrangements after DSBs induction in human cells. These data suggest that DSBs in transcriptionally active euchromatin in G/G-phase cells are repaired through a mechanism that requires contact formation between homologous chromosomes and that this mechanism is mediated by HDR proteins and nuclear myosin/actin motors.", 
+          "qas": [
+            {
+              "question": "Is actin present in the nucleus?", 
+              "id": "5ca0fdb0ecadf2e73f000049_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Dynamizing nuclear actin filaments. While it is long known that actin is part of the nuclear proteome, its properties and functions as regulated, functional and dynamically assembled actin filaments are only recently emerging. Thus, newly uncovered roles for intranuclear actin filaments are opening new perspectives on how the nucleus and its genomic content may be organized in particular with regard to a given stage of the cell cycle. Here, we summarize recent studies on actin filament polymerization and turnover within the nuclear compartment of mammalian cells. We emphasize and discuss novel findings, in which transient and dynamic nuclear actin filaments have been visualized in physiological contexts, and focus on aspects of signalling mechanisms, chromatin reorganization and DNA repair. Further, a better understanding of the spatiotemporal control of nuclear actin-regulating factors in mammalian cells will ultimately provide a more detailed view on how the nuclear F-actin cytoskeleton contributes to genome organization and nuclear architecture.", 
+          "qas": [
+            {
+              "question": "Is actin present in the nucleus?", 
+              "id": "5ca0fdb0ecadf2e73f000049_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Nuclear ARP2/3 drives DNA break clustering for homology-directed repair. DNA double-strand breaks repaired by non-homologous end joining display limited DNA end-processing and chromosomal mobility. By contrast, double-strand breaks undergoing homology-directed repair exhibit extensive processing and enhanced motion. The molecular basis of this movement is unknown. Here, using Xenopus laevis cell-free extracts and mammalian cells, we establish that nuclear actin, WASP, and the actin-nucleating ARP2/3 complex are recruited to damaged chromatin undergoing homology-directed repair. We demonstrate that nuclear actin polymerization is required for the migration of a subset of double-strand breaks into discrete sub-nuclear clusters. Actin-driven movements specifically affect double-strand breaks repaired by homology-directed repair in G2 cell cycle phase; inhibition of actin nucleation impairs DNA end-processing and homology-directed repair. By contrast, ARP2/3 is not enriched at double-strand breaks repaired by non-homologous end joining and does not regulate non-homologous end joining. Our findings establish that nuclear actin-based mobility shapes chromatin organization by generating repair domains that are essential for homology-directed repair in eukaryotic cells.", 
+          "qas": [
+            {
+              "question": "Is actin present in the nucleus?", 
+              "id": "5ca0fdb0ecadf2e73f000049_004"
+            }
+          ]
+        }, 
+        {
+          "context": "A novel three-way Philadelphia Variant t(9;22;17)(q34;q11.2;q12) in chronic myeloid leukemia: A case report. Chronic myeloid leukemia (CML) is a hematologic malignancy associated with increased circulating myeloid cells and platelets in the peripheral blood, with accompanying bone marrow hyperplasia. The Philadelphia chromosome, t(9;22)(q34;q11), is present in 95% of CML patients, resulting in constitutive tyrosine kinase activity; however, ~5% of CML patients possess a Philadelphia variant. A novel three-way Philadelphia translocation variant, t(9;22;17)(q34;q11.2;q11.2), was identified in a 54-year old man who presented with leukocytosis, anemia and thrombocytosis that was diagnosed with chronic myeloid leukemia, chronic phase. Cytogenetic analysis by G-banding revealed the presence of a three-way translocation involving the long arms of chromosomes 9, 22 and 17. Fluorescence is situ hybridization utilizing a dual-color fusion probe confirmed the presence of the Bcr-Abl fusion gene.", 
+          "qas": [
+            {
+              "question": "Is the Philadelphia chromosome a fusion between parts of chromosomes 1 and 9?", 
+              "id": "5ca10fefecadf2e73f00004a_000"
+            }
+          ]
+        }, 
+        {
+          "context": "An uncommon case of chronic myeloid leukemia with variant cytogenetic. Chronic Myeloid Leukemia (CML) is myeloproliferative neoplasm characterized by Philadelphia chromosome which is a balanced translocation between chromosome 9 and 22 in 90% of cases. However, variant cytogenetic still happens in 5-10 % of cases, the importance of which is controversial as well as its response to therapy, prognosis and progression to acute leukemias. Here we report a male patient with CML and variant cytogenetic who responded to low dose of Dasatinib (50 mg daily).", 
+          "qas": [
+            {
+              "question": "Is the Philadelphia chromosome a fusion between parts of chromosomes 1 and 9?", 
+              "id": "5ca10fefecadf2e73f00004a_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Membrane perturbation through novel cell-penetrating peptides influences intracellular accumulation of imatinib mesylate in CML cells. Chronic myeloid leukemia is a stem cell disease with the presence of Philadelphia chromosome generated through reciprocal translocation of chromosome 9 and 22. The use of first- and second-generation tyrosine kinase inhibitors has been successful to an extent. However, resistance against such drugs is an emerging problem. Apart from several drug-resistant mechanisms, drug influx/efflux ratio appears to be one of the key determinants of therapeutic outcomes. In addition, intracellular accumulation of drug critically depends on cell membrane fluidity and lipid raft dynamics. Previously, we reported two novel cell-penetrating peptides (CPPs), namely, cationic IR15 and anionic SR11 present in tryptic digest of Abrus agglutinin. Here, the potential of IR15 and SR11 to influence intracellular concentration of imatinib has been evaluated. Fluorescent correlation spectroscopy and lifetime imaging were employed to map membrane fluidity and lipid raft distribution following peptide-drug co-administration. Results show that IR15 and SR11 are the two CPPs which can modulate membrane fluidity and lipid raft distribution in K562 cells. Both IR15 and SR11 significantly reduce the viability of CML cells in the presence of imatinib by increasing the intracellular accumulation of the drug.", 
+          "qas": [
+            {
+              "question": "Is the Philadelphia chromosome a fusion between parts of chromosomes 1 and 9?", 
+              "id": "5ca10fefecadf2e73f00004a_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Vedolizumab Levels in Breast Milk of Nursing Mothers With Inflammatory Bowel Disease. Introduction: There are no data on the transfer of vedolizumab in breast milk of nursing mothers. We aimed to assess the presence of vedolizumab in breast milk of nursing inflammatory bowel disease [IBD] patients. Methods: This was a prospective observational study of vedolizumab-treated breastfeeding patients with IBD. Serum and breast milk samples were obtained at pre-defined tim -points. The in-house developed enzyme-linked immunosorbent assay [ELISA] for measuring vedolizumab in blood was adapted and validated for measurement of the drug in breast milk. The level of vedolizumab was also measured in breast milk of a control group of nursing healthy mothers. Results: Vedolizumab was undetectable in breast milk in IBD patients before the first infusion of vedolizumab [n = 3] and in all of the healthy controls [n = 5]. Vedolizumab was measurable in all lactating women who received vedolizumab [n = 5]. However, on serial measurements in breast milk after an infusion, drug levels did not surpass 480 ng/ml, which was roughly 1/100 of the comparable serum levels. Conclusions: Vedolizumab can be detected in the breast milk of nursing mothers. Although more data are imperative, the concentrations of vedolizumab in breast milk are minute and are therefore unlikely to result in systemic or gastro-intestinal immune-suppression of the infant.", 
+          "qas": [
+            {
+              "question": "Can therapeutic levels of  Vedolizumab be found in the breast milk of nursing mothers following treatment for Inflammatory bowel disease?", 
+              "id": "5c9f7bb6ecadf2e73f00003e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "A Generalized Gene-Regulatory Network Model of Stem Cell Differentiation for Predicting Lineage Specifiers. Identification of cell-fate determinants for directing stem cell differentiation remains a challenge. Moreover, little is known about how cell-fate determinants are regulated in functionally important subnetworks in large gene-regulatory networks (i.e., GRN motifs). Here we propose a model of stem cell differentiation in which cell-fate determinants work synergistically to determine different cellular identities, and reside in a class of GRN motifs known as feedback loops. Based on this model, we develop a computational method that can systematically predict cell-fate determinants and their GRN motifs. The method was able to recapitulate experimentally validated cell-fate determinants, and validation of two predicted cell-fate determinants confirmed that overexpression of ESR1 and RUNX2 in mouse neural stem cells induces neuronal and astrocyte differentiation, respectively. Thus, the presented GRN-based model of stem cell differentiation and computational method can guide differentiation experiments in stem cell research and regenerative medicine.", 
+          "qas": [
+            {
+              "question": "Does RUNX2 inhibit astrocyte differentiation?", 
+              "id": "5c8fe71b0101eac87000000b_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Toxicity of the spiny thick-foot Pachypodium. PREMISE OF THE STUDY: Pachypodium (Apocynaceae) is a genus of iconic stem-succulent and poisonous plants endemic to Madagascar and southern Africa. We tested hypotheses about the mode of action and macroevolution of toxicity in this group. We further hypothesized that while monarch butterflies are highly resistant to cardenolide toxins (a type of cardiac glycoside) from American Asclepias, they may be negatively affected by Pachypodium defenses, which evolved independently. METHODS: We grew 16 of 21 known Pachypodium spp. and quantified putative cardenolides by HPLC and also by inhibition of animal Na /K -ATPase (the physiological target of cardiac glycosides) using an in vitro assay. Pachypodium extracts were tested against monarch caterpillars in a feeding bioassay. We also tested four Asclepias spp. and five Pachypodium spp. extracts, contrasting inhibition of the cardenolide-sensitive porcine Na /K -ATPase to the monarch's resistant form. KEY RESULTS: We found evidence for low cardenolides by HPLC, but substantial toxicity when extracts were assayed on Na /K -ATPases. Toxicity showed phylogenetic signal, and taller species showed greater toxicity (this was marginal after phylogenetic correction). Application\u00a0of Pachypodium extracts to milkweed leaves reduced monarch growth, and this was predicted by inhibition of the sensitive Na /K -ATPase in phylogenetic analyses. Asclepias extracts were 100-fold less potent against the monarch compared to the porcine Na /K -ATPase, but this difference was absent for Pachypodium extracts. CONCLUSIONS: Pachypodium contains potent toxicity capable of inhibiting sensitive and cardenolide-adapted Na /K -ATPases. Given the monarch's sensitivity to Pachypodium, we suggest that these plants contain novel cardiac glycosides or other compounds that facilitate toxicity by binding to Na /K -ATPases.", 
+          "qas": [
+            {
+              "question": "Are cardenolides inhibitors of Na+/K+ ATPase?", 
+              "id": "5c9906dcecadf2e73f00002f_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Long-circulating and fusogenic liposomes loaded with a glucoevatromonoside derivative induce potent antitumor response. Cancer is an important public health problem, being one of the leading causes of death worldwide. Most antineoplastic agents cause severe toxic effects and some types of cancer do not respond or are resistant to the existing pharmacotherapy, necessitating the research and development of new therapeutic strategies. Cardenolides have shown significant antitumor activity due to their ability to inhibit the NaKATPase enzyme, and the expression of this enzyme is increased in tumor cells. Glucoevatromonoside containing peracetylated glucose hydroxyl groups (GEVPG) is a cardenolide derivative that has low solubility in aqueous media, which constitutes a barrier to its potential biological applications. In this context, the use of liposomes represents a promising strategy to deliver GEVPG, thus allowing its intravenous administration. In this study, long-circulating and fusogenic liposomes containing GEVPG (SpHL-GEVPG) were developed, and their chemical and physicochemical properties were evaluated. SpHL-GEVPG presented adequate properties, including a mean diameter of 182.2 \u00b1 2.7 nm, a polydispersity index equal to 0.36 \u00b1 0.03, a zeta potential of -2.37 \u00b1 0.31 mV, and a GEVPG entrapment of 0.38 \u00b1 0.04 mg/mL. Moreover, this formulation showed a good stability after having been stored for 30 days at 4 \u00b0C. The cytotoxic studies against breast (MDA-MB-231, MCF-7, and SKBR-3) and lung (A549) cancer cell lines demonstrated that SpHL-GEVPG treatment significantly reduced the cell viability. In addition, the SpHL-GEVPG formulation presented a good selectivity toward these cancer cells. The evaluation of the therapeutic efficacy of the treatment with SpHL-GEVPG showed a potent anticancer effect in an A549 human lung cancer xenograft model. SpHL-GEVPG administered at doses of 1.0 and 2.0 mg/kg (i.v.) induced antitumor effect comparable to paclitaxel given at dose of 10 mg/kg (i.v.) to mice. Therefore, the results of the present work indicate the potential applicability of SpHL-GEVPG as a new anticancer formulation.", 
+          "qas": [
+            {
+              "question": "Are cardenolides inhibitors of Na+/K+ ATPase?", 
+              "id": "5c9906dcecadf2e73f00002f_001"
+            }
+          ]
+        }, 
+        {
+          "context": "The cardenolide ouabain suppresses coronaviral replication via augmenting a Na/K-ATPase-dependent PI3K_PDK1 axis signaling. Cardenolides are plant-derived toxic substances. Their cytotoxicity and the underlying mechanistic signaling axes have been extensively documented, but only a few anti-viral activities of cardenolides and the associated signaling pathways have been reported. Previously, we reported that a variety of cardenolides impart anti-transmissible gastroenteritis coronavirus (TGEV) activity in swine testicular (ST) cells, through targeting of the cell membrane sodium/potassium pump, Na/K-ATPase. Herein, we further explore the potential signaling cascades associated with this anti-TGEV activity in ST cells. Ouabain, a representative cardenolide, was found to potently diminish TGEV titers and inhibit the TGEV-induced production of IL-6 in a dose dependent manner, with 50% inhibitory concentrations of 37 nM and 23 nM respectively. By pharmacological inhibition and gene silencing, we demonstrated that PI3K_PDK1_RSK2 signaling was induced in TGEV-infected ST cells, and ouabain imparted a degree of anti-TGEV activity via further augmentation of this existing PI3K_PDK1 axis signaling, in a manner dependent upon its association with the Na/K-ATPase. Finally, inhibition of PI3K by LY294002 or PDK1 by BX795 antagonized the anti-viral activity of ouabain and restored the TGEV virus titer and yields. This finding is the first report of a PI3K_PDK1 signaling axis further induced by ouabain and implicated in the suppression of TGEV activity and replication; greatly illuminates the underlying mechanism of cardenolide toxicity; and is expected to result in one or more anti-viral applications for the cardenolides in the future.", 
+          "qas": [
+            {
+              "question": "Are cardenolides inhibitors of Na+/K+ ATPase?", 
+              "id": "5c9906dcecadf2e73f00002f_002"
+            }
+          ]
+        }, 
+        {
+          "context": "\"Huntingtin holiday\": progress toward an antisense therapy for Huntington's disease. Lowering mutant Huntingtin is a consensus therapeutic strategy for Huntington's disease. In this issue of Neuron, Kordasiewicz et\u00a0al. (2012) show the benefit of transient antisense oligonucleotide (ASO) therapy to degrade Huntingtin mRNA and elicit sustained therapeutic benefit in HD mice.", 
+          "qas": [
+            {
+              "question": "Can antisense threapy be used for Huntington's disease?", 
+              "id": "5c900779ecadf2e73f000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Modification of the composition of articular cartilage collagen fibrils with increasing age. Recent studies have identified a range of interactions between type IX collagen and other cartilage matrix components. To determine the extent to which these interactions are important in maintaining the integrity of ageing articular cartilage, we analyzed an age range of normal healthy articular cartilage samples by Western blotting, immunohistochemical, and PCR analyses. Reduced levels of type IX collagen were detected in post adolescence cartilage. Type IX collagen epitopes were evident throughout the matrix in all cartilage samples up to 19 years of age. Post adolescence, however, the pattern of immunoreactivity revealed territorial staining only. Type IX collagen expression at the transcriptional level is maintained at all ages. Type IX collagen fragments were extracted from young tissue, supporting the hypothesis that young cartilage is continually remodelled, while mature cartilage maintains relatively low levels of collagen turnover. Clearly the age changes we observed may have significant effects on the integrity of the tissue as the chondrocytes in ageing articular cartilage have limited capacity to turnover the interterritorial matrix. However, this study provides evidence that even in old age, the chondrocyte attempts to maintain its pericellular environment and hence its mechanical role. Therefore, the potential of type IX collagen to interact with other matrix components continues to be of importance in the territorial environment, and these interactions may have significant roles in mechanotransduction.", 
+          "qas": [
+            {
+              "question": "Is collagen matrix of human articular cartilage changing with disease?", 
+              "id": "5ca5127eecadf2e73f00004c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Biomarkers of cartilage turnover. Part 1: Markers of collagen degradation and synthesis. Type II collagen is a major component of articular cartilage and its breakdown is a key feature of osteoarthritis. Products of cartilage collagen metabolism can be detected in the blood, synovial fluid and urine. Several biomarker assays have been developed which can be used to measure the synthesis and degradation of collagen, and therefore provide information regarding cartilage turnover. This is the first part of a two-part review and describes the need for accurate, reliable information regarding collagen turnover, the processes by which the biomarker epitopes are generated, their application to the study of both healthy and diseased cartilage and the results of currently published studies, with particular reference to the veterinary species. The second part of the review considers the non-collagenous biomarkers of cartilage matrix turnover.", 
+          "qas": [
+            {
+              "question": "Is collagen matrix of human articular cartilage changing with disease?", 
+              "id": "5ca5127eecadf2e73f00004c_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Radiocarbon dating reveals minimal collagen turnover in both healthy and osteoarthritic human cartilage. The poor regenerative capacity of articular cartilage presents a major clinical challenge and may relate to a limited turnover of the cartilage collagen matrix. However, the collagen turnover rate during life is not clear, and it is debated whether osteoarthritis (OA) can influence it. Using the carbon-14 ((14)C) bomb-pulse method, life-long replacement rates of collagen were measured in tibial plateau cartilage from 23 persons born between 1935 and1997 (15 and 8 persons with OA and healthy cartilage, respectively). The (14)C levels observed in cartilage collagen showed that, virtually, no replacement of the collagen matrix happened after skeletal maturity and that neither OA nor tissue damage, per se, influenced collagen turnover. Regional differences in (14)C content across the joint surface showed that cartilage collagen located centrally on the joint surface is formed several years earlier than collagen located peripherally. The collagen matrix of human articular cartilage is an essentially permanent structure that has no significant turnover in adults, even with the occurrence of disease.", 
+          "qas": [
+            {
+              "question": "Is collagen matrix of human articular cartilage changing with disease?", 
+              "id": "5ca5127eecadf2e73f00004c_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Relationship of matrix metalloproteinases and their inhibitors to cartilage proteoglycan and collagen turnover: analyses of synovial fluid from patients with osteoarthritis. OBJECTIVE: To determine the relationship between matrix metalloproteinases (MMPs), their inhibitors, and the turnover of matrix molecules in articular cartilage from patients with osteoarthritis (OA). METHODS: Synovial fluid samples were collected from the knees of 54 patients with OA. Radiographic evaluations and magnetic resonance imaging were performed on the knees of 34 OA patients to classify the stage of the disease. Biochemical analyses and immunoassays were used to measure the concentrations of MMP-1, MMP-3, tissue inhibitor of metalloproteinases 1 (TIMP-1), TIMP-2, the disaccharide of hyaluronic acid, the proteoglycan glycosaminoglycan disaccharides of chondroitin 4-sulfate (delta di-CS4) and chondroitin 6-sulfate (delta di-CS6), the 846 epitope on chondroitin sulfate of cartilage proteoglycan aggrecan (putative biosynthetic marker), the keratan sulfate (KS) epitope of aggrecan (putative degradation marker), and the C-propeptide of cartilage type II procollagen (CPII) (biosynthetic marker). RESULTS: The concentration of TIMP-1 was directly correlated with the levels of MMP-1 and MMP-3 (both were also correlated with each other), confirming earlier results. There was an inverse correlation between the delta di-CS6:delta di-CS4 ratio and the concentration of MMP-3. The level of delta di-CS6 was correlated with that of the KS epitope, and to a lesser degree, with that of the 846 epitope (the latter was also correlated with the level of delta di-CS4). The concentration of TIMP-1 correlated with that of the 846 epitope, whereas TIMP-2 levels correlated with those of CPII. There were significantly lower concentrations of delta di-CS6, delta di-CS4, the 846 epitope, and CPII in synovial fluid from patients with late-stage OA. CONCLUSION: These observations suggest a link between proteolysis and inhibitor concentrations in OA cartilage. Production of TIMPs appears to be individually linked to the synthesis of specific cartilage molecules. The reduction in the amount of cartilage-matrix structural components suggests that there is a measurable loss of cartilage in the late stages of the disease, as suggested previously. The resultant composition of the cartilage suggests that the loss may primarily involve \"resident\" molecules originally present in healthy cartilage.", 
+          "qas": [
+            {
+              "question": "Is collagen matrix of human articular cartilage changing with disease?", 
+              "id": "5ca5127eecadf2e73f00004c_003"
+            }
+          ]
+        }, 
+        {
+          "context": "A systematic review of ustekinumab in the treatment of atopic dermatitis. AIM: Ustekinumab, a human monoclonal IgG1 antibody targeting the p40-subunit shared by interleukin (IL)12 and IL-23, represents a potential treatment for atopic dermatitis (AD). We evaluated the efficacy and safety of ustekinumab in the treatment of AD. METHODS: We reviewed the published literature by searching from PubMed, EMBASE, Web of Science and ClinicalTrial.gov then retrieved and analyzed several variables from patients records. RESULTS: Ten studies including eight cases and two RCT, comprising 107 patients, were included in the systematic review. Analysis all studies, a total of 58 patients (54.2%) gained an effective treatment with little adverse events. CONCLUSIONS: Ustekinumab is a well-tolerated and safe treatment with no significant difference in effect from placebo in patients with AD. Further, larger randomized controlled trials need to be conducted to identify a suitable regimen for AD and provide more evidence for clinical application.", 
+          "qas": [
+            {
+              "question": "Is ustekinumab a polyclonal antibody?", 
+              "id": "5c9162b5ecadf2e73f00000e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Identification and molecular characterization of the Pim1 serine/threonine kinase homolog in Litopenaeus vannamei. The Pim1 serine/threonine kinase is associated with multiple cellular functions including proliferation, survival, differentiation, apoptosis, tumorigenesis, immune regulation and inflammation in vertebrates. However, little is known about the role of Pim1 in invertebrate immunity. In this study, we identified and characterized for the first time, a Pim1 (LvPim1) gene in Litopenaeus vannamei, with a full-length cDNA of 2352 bp and a 1119 bp open reading frame (ORF) encoding a putative protein of 372 amino acids, which contains a typical serine/threonine kinase domain. Sequence and phylogenetic analysis revealed that LvPim1 shared a close evolutionary relationship with Pim1 from vertebrates. Real-time qPCR analysis showed that LvPim1 was widely expressed in all tissues tested; with its transcript level induced in hepatopancreas and hemocytes upon challenge with Vibrio parahaemolyticus, Streptoccocus iniae, lipopolysaccharide (LPS), and white spot syndrome virus (WSSV), thus, suggesting its probable involvement in shrimp immune response. Moreover, knockdown of LvPim1 resulted in increased hemocytes apoptosis; shown by high caspase3/7 activity, coupled with increase in pro-apoptotic LvCaspase3 and LvCytochrome C, and decrease in pro-survival LvBcl2, LvIAP1, and LvIAP2 mRNA expression in hemocytes. Finally, LvPim1 knockdown renders shrimps more susceptible to V. parahaemolyticus infection. Taken together, our present data strongly suggest that LvPim1 is involved in modulating shrimp resistance to pathogen infection, promote hemocytes survival, and therefore plays a role in shrimp immune response.", 
+          "qas": [
+            {
+              "question": "Is Pim-1 a protein phosphatase?", 
+              "id": "5cb37f76ecadf2e73f00005c_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Expression of PIM-1 in salivary gland adenoid cystic carcinoma: Association with tumor progression and patients' prognosis. Pim-1 proto-oncogene, serine/threonine kinase (PIM-1) phosphorylates a series of substrates to exert its oncogenic function in numerous malignancies. The present study investigated the clinical significance of the PIM-1 protein, apoptosis status and apoptosis-associated proteins, including forkhead box O3a (FOXO3a), B cell lymphoma-2 (BCL-2) and BCL-2-associted agonist of cell death (BAD), were investigated in salivary gland adenoid cystic carcinoma (ACC) tissues. PIM-1 expression levels in 4 pairs of ACC tissues and corresponding normal salivary gland tissues were determined by western blot analysis. PIM-1, FOXO3a, BAD and BCL-2 expression levels in 60 ACC tissues were evaluated by immunohistochemistry (IHC). A terminal deoxynucleotidyl-transferase-mediated dUTP nick end labeling assay was performed to detect the apoptosis status of ACC tissues. PIM-1 was revealed to be highly expressed in ACC tissues compared with adjacent normal tissues. IHC staining results demonstrated high expression ratios of PIM-1, FOXO3a, BCL-2 and BAD [33.33% (20/60), 51.67% (31/60), 51.67% (31/60) and 55% (33/60)], respectively, and significant correlations between the expression of PIM-1 and FOXO3a and BCL-2 (P<0.05). Apoptotic rates were significantly associated with PIM-1, FOXO3a, BCL-2 and BAD expression levels (P<0.05). PIM-1 expression levels were significantly associated with tumor size, lymph node involvement, nerve invasion, distant metastasis and weakly associated with tumor node metastasis stage. Kaplan-Meier survival curves revealed that PIM-1 expression level was significantly associated with disease-free survival of patients with ACC (P=0.009). Cox regression multivariate analysis results revealed that histotype, distant metastasis and apoptotic rate were independent prognosis factors for ACC. Assessment of PIM-1 may be useful in investigating the malignant behaviors of ACC and predicting the outcome of patients with ACC.", 
+          "qas": [
+            {
+              "question": "Is Pim-1 a protein phosphatase?", 
+              "id": "5cb37f76ecadf2e73f00005c_001"
+            }
+          ]
+        }, 
+        {
+          "context": "A flexible-protein molecular docking study of the binding of ruthenium complex compounds to PIM1, GSK-3\u03b2, and CDK2/Cyclin A protein kinases. We employ ensemble docking simulations to characterize the interactions of two enantiomeric forms of a Ru-complex compound (1-R and 1-S) with three protein kinases, namely PIM1, GSK-3\u03b2, and CDK2/cyclin A. We show that our ensemble docking computational protocol adequately models the structural features of these interactions and discriminates between competing conformational clusters of ligand-bound protein structures. Using the determined X-ray crystal structure of PIM1 complexed to the compound 1-R as a control, we discuss the importance of including the protein flexibility inherent in the ensemble docking protocol, for the accuracy of the structure prediction of the bound state. A comparison of our ensemble docking results suggests that PIM1 and GSK-3\u03b2 bind the two enantiomers in similar fashion, through two primary binding modes: conformation I, which is very similar to the conformation presented in the existing PIM1/compound 1-R crystal structure; conformation II, which represents a 180\u00b0 flip about an axis through the NH group of the pyridocarbazole moiety, relative to conformation I. In contrast, the binding of the enantiomers to CDK2 is found to have a different structural profile including a suggested bound conformation, which lacks the conserved hydrogen bond between the kinase and the ligand (i.e., ATP, staurosporine, Ru-complex compound). The top scoring conformation of the inhibitor bound to CDK2 is not present among the top-scoring conformations of the inhibitor bound to either PIM1 or GSK-3\u03b2 and vice-versa. Collectively, our results help provide atomic-level insights into inhibitor selectivity among the three kinases.", 
+          "qas": [
+            {
+              "question": "Is the crystal structure of Pim-1 available?", 
+              "id": "5cb380b8ecadf2e73f00005d_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Implications of promiscuous Pim-1 kinase fragment inhibitor hydrophobic interactions for fragment-based drug design. We have studied the subtleties of fragment docking and binding using data generated in a Pim-1 kinase inhibitor program. Crystallographic and docking data analyses have been undertaken using inhibitor complexes derived from an in-house surface plasmon resonance (SPR) fragment screen, a virtual needle screen, and a de novo designed fragment inhibitor hybrid. These investigations highlight that fragments that do not fill their binding pocket can exhibit promiscuous hydrophobic interactions due to the lack of steric constraints imposed on them by the boundaries of said pocket. As a result, docking modes that disagree with an observed crystal structure but maintain key crystallographically observed hydrogen bonds still have potential value in ligand design and optimization. This observation runs counter to the lore in fragment-based drug design that all fragment elaboration must be based on the parent crystal structure alone.", 
+          "qas": [
+            {
+              "question": "Is the crystal structure of Pim-1 available?", 
+              "id": "5cb380b8ecadf2e73f00005d_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Structure-based design of low-nanomolar PIM kinase inhibitors. PIM kinases are implicated in variety of cancers by promoting cell survival and proliferation and are targets of interest for therapeutic intervention. We have identified a low-nanomolar pan-PIM inhibitor (PIM1/2/3 potency 5:14:2nM) using structure based modeling. The crystal structure of this compound with PIM1 confirmed the predicted binding mode and protein-ligand interactions except those in the acidic ribose pocket. We show the SAR suggesting the importance of having a hydrogen bond donor in this pocket for inhibiting PIM2; however, this interaction is not important for inhibiting PIM1 or PIM3. In addition, we report the discovery of a new class of PIM inhibitors by using computational de novo design tool implemented in MOE software (Chemical Computing Group). These inhibitors have a different interaction profile.", 
+          "qas": [
+            {
+              "question": "Is the crystal structure of Pim-1 available?", 
+              "id": "5cb380b8ecadf2e73f00005d_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Targeting Pim Kinases and DAPK3 to Control Hypertension. Sustained vascular smooth muscle hypercontractility promotes hypertension and cardiovascular disease. The etiology of hypercontractility is not completely understood. New therapeutic targets remain vitally important for drug discovery. Here we report that Pim kinases, in combination with DAPK3, regulate contractility and control hypertension. Using a co-crystal structure of lead molecule (HS38) in complex with DAPK3, a dual Pim/DAPK3 inhibitor (HS56) and selective DAPK3 inhibitors (HS94 and HS148) were developed to provide mechanistic insight into the polypharmacology of hypertension. In\u00a0vitro and ex\u00a0vivo studies indicated that Pim kinases directly phosphorylate smooth muscle targets and that Pim/DAPK3 inhibition, unlike selective DAPK3 inhibition, significantly reduces contractility. In\u00a0vivo, HS56 decreased blood pressure in spontaneously hypertensive mice in a dose-dependent manner without affecting heart rate. These findings suggest including Pim kinase inhibition within a multi-target engagement strategy for hypertension management.\u00a0HS56 represents a significant step in the development of molecularly targeted antihypertensive medications.", 
+          "qas": [
+            {
+              "question": "Is the crystal structure of Pim-1 available?", 
+              "id": "5cb380b8ecadf2e73f00005d_003"
+            }
+          ]
+        }, 
+        {
+          "context": "Structure and substrate specificity of the Pim-1 kinase. The Pim kinases are a family of three vertebrate protein serine/threonine kinases (Pim-1, -2, and -3) belonging to the CAMK (calmodulin-dependent protein kinase-related) group. Pim kinases are emerging as important mediators of cytokine signaling pathways in hematopoietic cells, and they contribute to the progression of certain leukemias and solid tumors. A number of cytoplasmic and nuclear proteins are phosphorylated by Pim kinases and may act as their effectors in normal physiology and in disease. Recent crystallographic studies of Pim-1 have identified unique structural features but have not provided insight into how the kinase recognizes its target substrates. Here, we have conducted peptide library screens to exhaustively determine the sequence specificity of active site-mediated phosphorylation by Pim-1 and Pim-3. We have identified the major site of Pim-1 autophosphorylation and find surprisingly that it maps to a novel site that diverges from its consensus phosphorylation motif. We have solved the crystal structure of Pim-1 bound to a high affinity peptide substrate in complexes with either the ATP analog AMP-PNP or the bisindolylmaleimide kinase inhibitor 2-[1-(3-dimethylaminopropyl)-1H-indol-3-yl]-3-(1H-indol-3-yl)maleimide HCl. These structures reveal an unanticipated mode of recognition for basic residues upstream of the phosphorylation site, distinct from that of other kinases with similar substrate specificity. The structures provide a rationale for the unusually high affinity of Pim kinases for peptide substrates and suggest a general mode for substrate binding to members of the CAMK group.", 
+          "qas": [
+            {
+              "question": "Is the crystal structure of Pim-1 available?", 
+              "id": "5cb380b8ecadf2e73f00005d_004"
+            }
+          ]
+        }, 
+        {
+          "context": "Crystal structures of proto-oncogene kinase Pim1: a target of aberrant somatic hypermutations in diffuse large cell lymphoma. Pim1, a serine/threonine kinase, is involved in several biological functions including cell survival, proliferation, and differentiation. While pim1 has been shown to be involved in several hematopoietic cancers, it was also recently identified as a target of aberrant somatic hypermutation in diffuse large cell lymphoma (DLCL), the most common form of non-Hodgkin's lymphoma. The crystal structures of Pim1 in apo form and bound with AMPPNP have been solved and several unique features of Pim1 were identified, including the presence of an extra beta-hairpin in the N-terminal lobe and an unusual conformation of the hinge connecting the two lobes of the enzyme. While the apo Pim1 structure is nearly identical with that reported recently, the structure of AMPPNP bound to Pim1 is significantly different. Pim1 is unique among protein kinases due to the presence of a proline residue at position 123 that precludes the formation of the canonical second hydrogen bond between the hinge backbone and the adenine moiety of ATP. One crystal structure reported here shows that changing P123 to methionine, a common residue that offers the backbone hydrogen bond to ATP, does not restore the ATP binding pocket of Pim1 to that of a typical kinase. These unique structural features in Pim1 result in novel binding modes of AMP and a known kinase inhibitor scaffold, as shown by co-crystallography. In addition, the kinase activities of five Pim1 mutants identified in DLCL patients have been determined. In each case, the observed effects on kinase activity are consistent with the predicted consequences of the mutation on the Pim1 structure. Finally, 70 co-crystal structures of low molecular mass, low-affinity compounds with Pim1 have been solved in order to identify novel chemical classes as potential Pim1 inhibitors. Based on the structural information, opportunities for optimization of one specific example are discussed.", 
+          "qas": [
+            {
+              "question": "Is the crystal structure of Pim-1 available?", 
+              "id": "5cb380b8ecadf2e73f00005d_005"
+            }
+          ]
+        }, 
+        {
+          "context": "Crystal structure of pim1 kinase in complex with a pyrido[4,3-d]pyrimidine derivative suggests a unique binding mode. Human Pim1 kinase is a serine/threonine protein kinase that plays important biological roles in cell survival, apoptosis, proliferation, and differentiation. Moreover, Pim1 is up-regulated in various hematopoietic malignancies and solid tumors. Thus, Pim1 is an attractive target for cancer therapeutics, and there has been growing interest in developing small molecule inhibitors for Pim1. Here, we describe the crystal structure of Pim1 in complex with a newly developed pyrido[4,3-d]pyrimidine-derivative inhibitor (SKI-O-068). Our inhibitor exhibits a half maximum inhibitory concentration (IC50) of 123 (\u00b114) nM and has an unusual binding mode in complex with Pim1 kinase. The interactions between SKI-O-068 and the Pim1 active site pocket residue are different from those of other scaffold inhibitor-bound structures. The binding mode analysis suggests that the SKI-O-068 inhibitor can be improved by introducing functional groups that facilitate direct interaction with Lys67, which aid in the design of an optimized inhibitor.", 
+          "qas": [
+            {
+              "question": "Is the crystal structure of Pim-1 available?", 
+              "id": "5cb380b8ecadf2e73f00005d_006"
+            }
+          ]
+        }, 
+        {
+          "context": "Myc requires RhoA/SRF to reprogram glutamine metabolism. RhoA regulates actin cytoskeleton but recent evidence suggest a role for this conserved Rho GTPase also in other cellular processes, including transcriptional control of cell proliferation and survival. Interestingy, loss of RhoA is synthetic lethal with oncogenic Myc, a master transcription factor that turns on anabolic metabolism to promote cell growth in many cancers. We show evidence indicating that the synthetic lethal interaction between RhoA loss and Myc arises from deficiency in glutamine utilization, resulting from impaired co-regulation of glutaminase expression and anaplerosis by Myc and RhoA - serum response factor (SRF) pathway. The results suggest metabolic coordination between Myc and RhoA/SRF in sustaining cancer cell viability and indicate RhoA/SRF as a potential vulnerability in cancer cells for therapeutic targeting.", 
+          "qas": [
+            {
+              "question": "Is myc a tumour suppressor gene?", 
+              "id": "5cb38a56ecadf2e73f00005e_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Suppression of c-Myc enhances p21 -mediated G1 cell cycle arrest through the modulation of ERK phosphorylation by ascochlorin. Numerous anti-cancer agents inhibit cell cycle progression via a p53-dependent mechanism; however, other genes such as the proto-oncogene c-Myc are promising targets for anticancer therapy. In the present study, we provide evidence that ascochlorin, an isoprenoid antibiotic, is a non-toxic anti-cancer agent that induces G1 cell cycle arrest and p21 expression by downregulating of c-Myc protein expression. Ascochlorin promoted the G1 arrest, upregulated p53 and p21 , and downregulated c-Myc in HCT116 cells. In p53-deficient cells, ascochlorin enhanced the expression of G1 arrest-related genes except p53. Small interfering RNA (siRNA) mediated c-Myc silencing indicated that the transcriptional repression of c-Myc was related to ascochlorin-mediated modulation of p21 expression. Ascochlorin suppressed the stabilization of the c-Myc protein by inhibiting ERK and P70S6K/4EBP1 phosphorylation, whereas it had no effect on c-Myc degradation mediated by PI3K/Akt/GSK3\u03b2. The ERK inhibitor PD98059 and siRNA-mediated ERK silencing induced G1 arrest and p21 expression by downregulating c-Myc in p53-deficient cells. These results indicated that ascochlorin-induced G1 arrest is associated with the repression of ERK phosphorylation and c-Myc expression. Thus, we reveal a role for ascochlorin in inhibiting tumor growth via G1 arrest, and identify a novel regulatory mechanism for ERK/c-Myc.", 
+          "qas": [
+            {
+              "question": "Is myc a tumour suppressor gene?", 
+              "id": "5cb38a56ecadf2e73f00005e_001"
+            }
+          ]
+        }, 
+        {
+          "context": "ZO-1 expression is suppressed by GM-CSF via miR-96/ERG in brain microvascular endothelial cells. The level of granulocyte-macrophage colony-stimulating factor (GM-CSF) increases in some disorders such as vascular dementia, Alzheimer's disease, and multiple sclerosis. We previously reported that in Alzheimer's disease patients, a high level of GM-CSF in the brain parenchyma downregulated expression of ZO-1, a blood-brain barrier tight junction protein, and facilitated the infiltration of peripheral monocytes across the blood-brain barrier. However, the molecular mechanism underlying regulation of ZO-1 expression by GM-CSF is unclear. Herein, we found that the erythroblast transformation-specific (ETS) transcription factor ERG cooperated with the proto-oncogene protein c-MYC in regulation of ZO-1 transcription in brain microvascular endothelial cells (BMECs). The ERG expression was suppressed by miR-96 which was increased by GM-CSF through the phosphoinositide-3 kinase (PI3K)/Akt pathway. Inhibition of miR-96 prevented ZO-1 down-regulation induced by GM-CSF both in\u00a0vitro and in\u00a0vivo. Our results revealed the mechanism of ZO-1 expression reduced by GM-CSF, and provided a potential target, miR-96, which could block ZO-1 down-regulation caused by GM-CSF in BMECs.", 
+          "qas": [
+            {
+              "question": "Is myc a tumour suppressor gene?", 
+              "id": "5cb38a56ecadf2e73f00005e_002"
+            }
+          ]
+        }, 
+        {
+          "context": "Oncogenic KRAS and the EGFR loop in pancreatic carcinogenesis-A connection to licensing nodes. EGFR signaling has a critical role in oncogenic KRAS-driven tumorigenesis of the pancreas, whereas it is dispensable in other organs. The complex signaling network engaged by oncogenic KRAS and its modulation by EGFR signaling, remains incompletely understood. In order to study early signaling events activated by oncogenic KRAS in the pancreas, we recently developed a novel model system based on murine primary pancreatic epithelial cells enabling the time-specific expression of mutant Kras from its endogenous promoter. Here, we discuss our findings of a Kras-induced autocrine EGFR loop, how this loop is integrated by the MYC oncogene, and point to possible translational implications.", 
+          "qas": [
+            {
+              "question": "Is myc a tumour suppressor gene?", 
+              "id": "5cb38a56ecadf2e73f00005e_003"
+            }
+          ]
+        }, 
+        {
+          "context": "The role of exosomes derived from cerebrospinal fluid of spinal cord injury in neuron proliferation in vitro. Exosomes is a key component of cell paracrine secretion and can exert important effects in various disease models. However, the role of exosomes in neuron repair of spinal cord injury (SCI) has rarely been reported. In this study, Exosomes were isolated from cerebrospinal fluid of SCI and normal, and incubated neuron in vitro respectively to research its biological function in cell proliferation. The results demonstrated these exosomes all expressed CD9, CD63, CD81, Alix and Tsg101; however, only exosomes derived from cerebrospinal fluid of SCI could promote proliferation of neuron via ERK signaling pathway, and decrease cell apoptosis. Exosomes contain cytosolic content, including proteins, mRNAs and non-cording RNAs, and play a role in important biological function. Our research showed exosomes derived from cerebrospinal fluid of SCI, they can influence neuron cell proliferation in vitro, we did not observe these characters in exosome derived from normal cerebrospinal fluid.", 
+          "qas": [
+            {
+              "question": "Is CD63 an exosomal marker?", 
+              "id": "5cb3a2dd99d1e53537000001_000"
+            }
+          ]
+        }, 
+        {
+          "context": "Vacuole-inducing compounds that disrupt endolysosomal trafficking stimulate production of exosomes by glioblastoma cells. Exosomes are produced from mammalian cells when multivesicular endosomes fuse with the plasma membrane, releasing their intralumenal vesicles. In this study we assessed the effects of MOPIPP, a novel indole-based chalcone, and vacuolin-1, a distinct triazine-based compound, on exosome production in cultured glioblastoma and 293T cells. Both compounds promote vacuolization of late endosome compartments and interfere with trafficking of late endosomes to lysosomes, without significant cytotoxicity. The results show\u00a0that vacuolated cells treated with these compounds release exosomes with morphologies similar to untreated controls. However, both compounds trigger multi-fold increases in release of exosome marker proteins (e.g., CD63, Alix) in exosome fractions collected from equivalent numbers of cells. Despite the marked increase in exosome production, the profiles of selected miRNA cargoes carried by the exosomes were generally similar in cells treated with the compounds. Insofar as MOPIPP and vacuolin-1 seem able to increase the overall yield of exosomes from cultured cells, they might be useful for efforts to develop exosome-based therapeutics.", 
+          "qas": [
+            {
+              "question": "Is CD63 an exosomal marker?", 
+              "id": "5cb3a2dd99d1e53537000001_001"
+            }
+          ]
+        }, 
+        {
+          "context": "Circulating extracellular vesicles in the aging process: impact of aerobic exercise. Our aim was to investigate transitory and delayed exercise effects on serum extracellular vesicles (EVs) in aging process. Male Wistar rats of 3-, 21-, and 26-month old were allocated into exercised and sedentary groups. The exercise protocol consisted in a daily moderate treadmill exercise (20\u00a0min daily during 2\u00a0weeks). Trunk blood was collected 1 and 18\u00a0h after the last exercise session, and circulating EVs were obtained. CD63 levels and acetylcholinesterase (AChE) activity were used as markers of exosome, a subtype of EVs. In addition, the quantification of amyloid-\u03b2 (A\u03b2) levels and the oxidative status parameters, specifically reactive species content, superoxide dismutase (SOD) activity, and SOD1 content were evaluated. Aged rats showed reduced CD63 levels and increased AChE activity in circulating exosomes compared to young ones. Moreover, higher reactive species levels were found in circulating EVs of aged rats. Delayed exercise effects were observed on peripheral EVs, since CD63, reactive species content, and AChE activity were altered 18\u00a0h after the last exercise session. Our results suggest that the healthy aging process can modify circulating EVs profile, and exercise-induced beneficial effects may be related to its modulation on EVs.", 
+          "qas": [
+            {
+              "question": "Is CD63 an exosomal marker?", 
+              "id": "5cb3a2dd99d1e53537000001_002"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

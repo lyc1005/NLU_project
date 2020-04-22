@@ -1,0 +1,1018 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c76e6d27c78d694710000ac_001",
+              "question": "List phagosomal markers."
+            }
+          ],
+          "context": "Monitoring of intracellular trafficking of H. somni with monoclonal antibodies to phagosomal markers indicated that the early phagosomal marker early endosome antigen 1 colocalized with all isolates tested, but only strains that could survive intracellularly did not colocalize with the late lysosomal marker lysosome-associated membrane protein 2 and prevented the acidification of phagosomes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c76e6d27c78d694710000ac_002",
+              "question": "List phagosomal markers."
+            }
+          ],
+          "context": "late phagosomal markers viz. Rab7, Lysosomal Associated Membrane Protein 1, Cathepsin D, Rab9, and V-ATPase which indicate phagosome maturation. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c76e6d27c78d694710000ac_003",
+              "question": "List phagosomal markers."
+            }
+          ],
+          "context": "early phagosomal markers [such as, Ras-related proteins in the brain 5 (Rab5) and Transferrin receptor (TfR)], and a failure to acquire late phagosomal and lysosomal markers (such as Rab7 and LAMP1)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c76e6d27c78d694710000ac_004",
+              "question": "List phagosomal markers."
+            }
+          ],
+          "context": "late phagosomal markers CD63 and Rab7"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c76e6d27c78d694710000ac_005",
+              "question": "List phagosomal markers."
+            }
+          ],
+          "context": " late phagosomal markers mannose-6-phosphate receptor (M6PR) and Rab7"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0119f3133db5eb7800002b_001",
+              "question": "List bacterial families for which delafloxacin has been shown to be effective."
+            }
+          ],
+          "context": "In this study, 200 Streptococcus pneumoniae (plus 30 levofloxacin-resistant isolates), 200 Haemophilus influenzae, and 100 Moraxella catarrhalis isolates selected primarily from the United States (2014) were tested against delafloxacin and comparator agents. Delafloxacin was the most potent agent tested."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0119f3133db5eb7800002b_002",
+              "question": "List bacterial families for which delafloxacin has been shown to be effective."
+            }
+          ],
+          "context": "Delafloxacin demonstrated in vitro and in vivo potency against a diverse group of pathogens, including those with phenotypic drug resistance to other classes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c0119f3133db5eb7800002b_003",
+              "question": "List bacterial families for which delafloxacin has been shown to be effective."
+            }
+          ],
+          "context": "The goal of the study was to determine the pharmacokinetic/pharmacodynamic (PK/PD) targets in the murine lung infection model for Staphylococcus aureus, Streptococcus pneumoniae, and Klebsiella pneumoniae "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c78174b7c78d694710000b1_001",
+              "question": "List search engines used in proteomics."
+            }
+          ],
+          "context": "We compared the contribution of each of the eight search engines (X!Tandem, MS-GF[Formula: see text], MS Amanda, MyriMatch, Comet, Tide, Andromeda, and OMSSA) integrated in an open-source graphical user interface SearchGUI ( http://searchgui.googlecode.com ) into total result of proteoforms identification and optimized set of engines working simultaneously. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c78174b7c78d694710000b1_002",
+              "question": "List search engines used in proteomics."
+            }
+          ],
+          "context": " This software is also highly compatible with the identification and quantification results of various frequently used search engines, such as MaxQuant, Proteome Discoverer, or Mascot. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c78174b7c78d694710000b1_003",
+              "question": "List search engines used in proteomics."
+            }
+          ],
+          "context": " database search engines: Mascot, X!Tandem, and MS-GF+."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c78174b7c78d694710000b1_004",
+              "question": "List search engines used in proteomics."
+            }
+          ],
+          "context": "applied an integrative approach based on the results obtained from Comet, Mascot, OMSSA, and X!Tandem."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7daa7c78d6947100002b_001",
+              "question": "List major features of TEMPI Syndrome."
+            }
+          ],
+          "context": "TEMPI Syndrome: Erythrocytosis in Plasma Cell Dyscrasia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7daa7c78d6947100002b_002",
+              "question": "List major features of TEMPI Syndrome."
+            }
+          ],
+          "context": "TEMPI (telangiectasias, erythrocytosis with elevated erythropoietin, monoclonal gammopathy, perinephric fluid collections, intrapulmonary shunting) syndrome is a newly described clinical entity that is generally considered a plasma cell dyscrasia with multiple system involvement. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7daa7c78d6947100002b_003",
+              "question": "List major features of TEMPI Syndrome."
+            }
+          ],
+          "context": "In other MGCS, such as scleromyxedema, Clarkson syndrome, TEMPI syndrome, cutis laxa and the neutrophilic dermatoses, the link between the monoclocal component and the entity is clearly established, but not understood so far."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7daa7c78d6947100002b_004",
+              "question": "List major features of TEMPI Syndrome."
+            }
+          ],
+          "context": "TEMPI syndrome (telangiectasias, elevated erythropoietin level and erythrocytosis, monoclonal gammopathy, perinephric fluid collections, and intrapulmonary shunting) is a recently described syndrome that, owing to erythrocytosis, may be confused with polycythemia vera."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b7daa7c78d6947100002b_005",
+              "question": "List major features of TEMPI Syndrome."
+            }
+          ],
+          "context": "In conclusion, TEMPI syndrome should be considered when erythrocytosis and plasma cell dyscrasia coexist."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7ab080d774d0424000000b_001",
+              "question": "List STING agonists."
+            }
+          ],
+          "context": " CDN 3'3'-cGAMP (cGAMP)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7ab080d774d0424000000b_002",
+              "question": "List STING agonists."
+            }
+          ],
+          "context": " STING agonist, dimethylxanthenone-4-acetic acid (DMXAA)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7ab080d774d0424000000b_003",
+              "question": "List STING agonists."
+            }
+          ],
+          "context": " various cyclic dinucleotide (CDN) STING agonists"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7ab080d774d0424000000b_004",
+              "question": "List STING agonists."
+            }
+          ],
+          "context": "The xanthone derivate 5',6'-dimethylxanthenone-4-acetic acid (DMXAA, also known as ASA404 or vadimezan) is a potent agonist of murine STING (stimulator of interferon genes), "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7ab080d774d0424000000b_005",
+              "question": "List STING agonists."
+            }
+          ],
+          "context": "\u03b1-Mangostin as an Agonist of Human STING"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c57041807647bbc4b000015_001",
+              "question": "What 2 biological processes are regulated by STAMP2 in adipocytes?"
+            }
+          ],
+          "context": "Recently, we found that Stamp2 has a critical role in the integration of inflammatory and metabolic signals in adipose tissue where it is highly expressed and regulated by nutritional and metabolic cues."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c57041807647bbc4b000015_002",
+              "question": "What 2 biological processes are regulated by STAMP2 in adipocytes?"
+            }
+          ],
+          "context": "we identified the six-transmembrane protein STAMP2 as a critical modulator of this integrated response system of inflammation and metabolism in adipocytes. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c57041807647bbc4b000015_003",
+              "question": "What 2 biological processes are regulated by STAMP2 in adipocytes?"
+            }
+          ],
+          "context": "Six transmembrane protein of prostate 2 (STAMP2) is a counterregulator of adipose inflammation and insulin resistance in mice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5205137e3cb0e231000001_001",
+              "question": "What type of data does the UK biobank resource contain?"
+            }
+          ],
+          "context": "The UK Biobank resource with deep phenotyping and genomic data."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5205137e3cb0e231000001_002",
+              "question": "What type of data does the UK biobank resource contain?"
+            }
+          ],
+          "context": "The UK Biobank project is a prospective cohort study with deep genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom, aged between 40 and 69 at recruitment. The open resource is unique in its size and scope. A rich variety of phenotypic and health-related information is available on each participant, including biological measurements, lifestyle indicators, biomarkers in blood and urine, and imaging of the body and brain. Follow-up information is provided by linking health and medical records. Genome-wide genotype data have been collected on all participants, providing many opportunities for the discovery of new genetic associations and the genetic bases of complex traits."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5214207e3cb0e231000003_001",
+              "question": "List potential reasons regarding why potentially important genes are ignored"
+            }
+          ],
+          "context": "Here, we demonstrate that these differences in attention can be explained, to a large extent, exclusively from a small set of identifiable chemical, physical, and biological properties of genes. Together with knowledge about homologous genes from model organisms, these features allow us to accurately predict the number of publications on individual human genes, the year of their first report, the levels of funding awarded by the National Institutes of Health (NIH), and the development of drugs against disease-associated genes."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6dfdf27c78d69471000047_001",
+              "question": "List drugs that were tested in the CheckMate 214 trial."
+            }
+          ],
+          "context": " In 2015, the pivotal phase III study CheckMate 025 led to the Food and Drug Administration approval of nivolumab in patients with aRCC who had received prior anti-angiogenic therapy, and in 2017, the phase III study CheckMate 214 showed that combined immunotherapy with nivolumab plus ipilimumab resulted in greater objective response rate and prolonged progression-free survival when compared with sunitinib in intermediate- and poor-risk patients with previously untreated aRCC"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6dfdf27c78d69471000047_002",
+              "question": "List drugs that were tested in the CheckMate 214 trial."
+            }
+          ],
+          "context": "Nivolumab plus Ipilimumab versus Sunitinib in Advanced Renal-Cell Carcinoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6dfdf27c78d69471000047_003",
+              "question": "List drugs that were tested in the CheckMate 214 trial."
+            }
+          ],
+          "context": "BACKGROUND: Nivolumab plus ipilimumab produced objective responses in patients with advanced renal-cell carcinoma in a pilot study. This phase 3 trial compared nivolumab plus ipilimumab with sunitinib for previously untreated clear-cell advanced renal-cell carcinoma.METHODS: We randomly assigned adults in a 1:1 ratio to receive either nivolumab (3 mg per kilogram of body weight) plus ipilimumab (1 mg per kilogram) intravenously every 3 weeks for four doses, followed by nivolumab (3 mg per kilogram) every 2 weeks, or sunitinib (50 mg) orally once daily for 4 weeks (6-week cycle). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6dfdf27c78d69471000047_004",
+              "question": "List drugs that were tested in the CheckMate 214 trial."
+            }
+          ],
+          "context": "CONCLUSIONS: Overall survival and objective response rates were significantly higher with nivolumab plus ipilimumab than with sunitinib among intermediate- and poor-risk patients with previously untreated advanced renal-cell carcinoma. (Funded by Bristol-Myers Squibb and Ono Pharmaceutical; CheckMate 214 ClinicalTrials.gov number, NCT02231749 .)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6dfdf27c78d69471000047_005",
+              "question": "List drugs that were tested in the CheckMate 214 trial."
+            }
+          ],
+          "context": "Out of these CheckMate 214, a randomized phase-3 trial is the first to demonstrate a significant higher objective response rate (42\u200a% vs. 27\u200a%, p\u200a<\u200a0.0001) and overall survival (Sunitinib 26.0 month, median for Nivo\u200a+\u200aIpi has been not yet reached (28.2\u200a-\u200aNR); Hazard ratio 0.63) for the combination of Nivolumab and the CTLA-4 antibody Ipilimumab in IMDC intermediate and high risk patients. Furthermore, CheckMate 214 shows better side effect profile and quality of life in patients receiving Nivolumab and Ipilimumab compared with Sunitinib."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6dfdf27c78d69471000047_006",
+              "question": "List drugs that were tested in the CheckMate 214 trial."
+            }
+          ],
+          "context": "CheckMate 214, a phase III trial, demonstrated superior overall survival and objective response with combined checkpoint inhibitors compared to sunitinib in Treatment-Na\u00efve Advanced RCC among intermediate- and poor-risk group (Motzer et al. in N Engl J Med. 378(14):1277-1290, 2018)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e01af7c78d69471000048_001",
+              "question": "List two indications of Letermovir?"
+            }
+          ],
+          "context": "Latanoprostene bunod ophthalmic solution (Vyzulta) for the reduction of intraocular pressure; letermovir (Prevymis) for prophylaxis of cytomegalovirus infection and disease after stem cell transplant; benralizumab (Fasenra) for the add-on maintenance treatment of severe asthma of an eosinophilic phenotype."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e01af7c78d69471000048_002",
+              "question": "List two indications of Letermovir?"
+            }
+          ],
+          "context": "Letermovir has been approved in Canada and the USA for the prophylaxis of CMV infection and disease in adult CMV-seropositive recipients of an allogeneic haematopoietic stem cell transplant (HSCT)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e01af7c78d69471000048_003",
+              "question": "List two indications of Letermovir?"
+            }
+          ],
+          "context": "This article summarizes the milestones in the development of letermovir leading to its first global approval in Canada as well as the USA for the prophylaxis of CMV infection and disease in adult CMV-seropositive recipients of an allogeneic HSCT."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e01af7c78d69471000048_004",
+              "question": "List two indications of Letermovir?"
+            }
+          ],
+          "context": "A new terminase inhibitor, letermovir, recently proved effective against HCMV in phase III clinical trials, but the mechanism of action is unclear. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e01af7c78d69471000048_005",
+              "question": "List two indications of Letermovir?"
+            }
+          ],
+          "context": "Letermovir is being developed for human cytomegalovirus infection treatment and prophylaxis. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e01af7c78d69471000048_006",
+              "question": "List two indications of Letermovir?"
+            }
+          ],
+          "context": "Letermovir is a human cytomegalovirus terminase inhibitor for cytomegalovirus infection prophylaxis in hematopoietic stem cell transplant recipients. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e01af7c78d69471000048_007",
+              "question": "List two indications of Letermovir?"
+            }
+          ],
+          "context": "Role of letermovir for prevention of cytomegalovirus infection after allogeneic haematopoietic stem cell transplantation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e01af7c78d69471000048_008",
+              "question": "List two indications of Letermovir?"
+            }
+          ],
+          "context": "In this article, the role of the newly approved antiviral compound, letermovir, is reviewed.RECENT FINDINGS: Letermovir inhibits CMV by interfering viral terminase complex. In a phase 3 randomized placebo-controlled clinical study that enrolled 495 CMV-seropositive HSCT recipients, the primary end point of clinically significant CMV infection was significantly reduced by letermovir prophylaxis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6e01af7c78d69471000048_009",
+              "question": "List two indications of Letermovir?"
+            }
+          ],
+          "context": "SUMMARY: Letermovir is an important addition to the current strategies for CMV prevention after allogeneic HSCT. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c54224807647bbc4b000001_001",
+              "question": "What are the roles of LEM-3?"
+            }
+          ],
+          "context": "LEM-3 is a midbody-tethered DNA nuclease that resolves chromatin bridges during late mitosis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c54224807647bbc4b000001_002",
+              "question": "What are the roles of LEM-3?"
+            }
+          ],
+          "context": "Using C. elegans embryos we show that the LEM-3/Ankle1 nuclease defines a previously undescribed genome integrity mechanism by processing DNA bridges right before cells divide. LEM-3 acts at the midbody, the structure where abscission occurs at the end of cytokinesis. LEM-3 localization depends on factors needed for midbody assembly, and LEM-3 accumulation is increased and prolonged when chromatin bridges are trapped at the cleavage plane. LEM-3 locally processes chromatin bridges that arise from incomplete DNA replication, unresolved recombination intermediates, or the perturbance of chromosome structure. Proper LEM-3 midbody localization and function is regulated by AIR-2/Aurora B kinase. Strikingly, LEM-3 acts cooperatively with the BRC-1/BRCA1 homologous recombination factor to promote genome integrity. These findings provide a molecular basis for the suspected role of the LEM-3 orthologue Ankle1 in human breast cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c54224807647bbc4b000001_003",
+              "question": "What are the roles of LEM-3?"
+            }
+          ],
+          "context": "The conserved LEM-3/Ankle1 nuclease is involved in the combinatorial regulation of meiotic recombination repair and chromosome segregation in Caenorhabditis elegans."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c54224807647bbc4b000001_004",
+              "question": "What are the roles of LEM-3?"
+            }
+          ],
+          "context": "Here we show that the LEM-3 nuclease, mutation of which by itself does not have an overt meiotic phenotype, genetically interacts with slx-1 and mus-81 mutants, the respective double mutants displaying 100% embryonic lethality. The combined loss of LEM-3 and MUS-81 leads to altered processing of recombination intermediates, a delayed disassembly of foci associated with CO designated sites, and the formation of univalents linked by SPO-11 dependent chromatin bridges (dissociated bivalents). However, LEM-3 foci do not colocalize with ZHP-3, a marker that congresses into CO designated sites. In addition, neither CO frequency nor distribution is altered in lem-3 single mutants or in combination with mus-81 or slx-4 mutations. Finally, we found persistent chromatin bridges during meiotic divisions in lem-3; slx-4 double mutants. Supported by the localization of LEM-3 between dividing meiotic nuclei, this data suggest that LEM-3 is able to process erroneous recombination intermediates that persist into the second meiotic division."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c544c1707647bbc4b000003_001",
+              "question": "List uniparental disomy (UPD) detection algorithms"
+            }
+          ],
+          "context": "UPDtool: a tool for detection of iso- and heterodisomy in parent-child trios using SNP microarrays."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c544c1707647bbc4b000003_002",
+              "question": "List uniparental disomy (UPD) detection algorithms"
+            }
+          ],
+          "context": "UPDtool is a computational tool for detection and classification of uniparental disomy (UPD) in trio SNP-microarray experiments."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c544c1707647bbc4b000003_003",
+              "question": "List uniparental disomy (UPD) detection algorithms"
+            }
+          ],
+          "context": "The performance of the new algorithm, called \"AsCNAR\" (allele-specific copy-number analysis using anonymous references), was demonstrated by detecting the copy-number neutral LOH, or uniparental disomy (UPD), in a large number of acute leukemia samples. We next applied this technique to detection of UPD involving the 9p arm in myeloproliferative disorders (MPDs), which is tightly associated with a homozygous JAK2 mutation. It revealed an unexpectedly high frequency of 9p UPD that otherwise would have been undetected and also disclosed the existence of multiple subpopulations having distinct 9p UPD within the same MPD specimen. In conclusion, AsCNAR should substantially improve our ability to dissect the complexity of cancer genomes and should contribute to our understanding of the genetic basis of human cancers."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c561da707647bbc4b00000f_001",
+              "question": "List the releases of tmVar"
+            }
+          ],
+          "context": "Here, we report tmVar, a text-mining approach based on conditional random field (CRF) for extracting a wide range of sequence variants described at protein, DNA and RNA levels according to a standard nomenclature developed by the Human Genome Variation Society. By doing so, we cover several important types of mutations that were not considered in past studies. Using a novel CRF label model and feature set, our method achieves higher performance than a state-of-the-art method on both our corpus (91.4 versus 78.1% in F-measure) and their own gold standard (93.9 versus 89.4% in F-measure). These results suggest that tmVar is a high-performance method for mutation extraction from biomedical literature."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c561da707647bbc4b00000f_002",
+              "question": "List the releases of tmVar"
+            }
+          ],
+          "context": "tmVar 2.0: integrating genomic variant information from literature with dbSNP and ClinVar for precision medicine."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c561da707647bbc4b00000f_003",
+              "question": "List the releases of tmVar"
+            }
+          ],
+          "context": "tmVar: a text mining approach for extracting sequence variants in biomedical literature."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c561da707647bbc4b00000f_004",
+              "question": "List the releases of tmVar"
+            }
+          ],
+          "context": "To our knowledge, this is the first large-scale study to analyze and integrate text-mined variant data with curated knowledge in existing databases. Our results suggest that databases can be significantly enriched by text mining and that the combined information can greatly assist human efforts in evaluating/prioritizing variants in genomic research.Availability and implementation: The tmVar 2.0 source code and corpus are freely available at https://www.ncbi.nlm.nih.gov/research/bionlp/Tools/tmvar/"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c56bbb107647bbc4b000011_001",
+              "question": "Which methods have been developed for extracting sequence variants from the literature?"
+            }
+          ],
+          "context": "tmVar: a text mining approach for extracting sequence variants in biomedical literature."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c56bbb107647bbc4b000011_002",
+              "question": "Which methods have been developed for extracting sequence variants from the literature?"
+            }
+          ],
+          "context": "Here, we report tmVar, a text-mining approach based on conditional random field (CRF) for extracting a wide range of sequence variants described at protein, DNA and RNA levels according to a standard nomenclature developed by the Human Genome Variation Society. By doing so, we cover several important types of mutations that were not considered in past studies. Using a novel CRF label model and feature set, our method achieves higher performance than a state-of-the-art method on both our corpus (91.4 versus 78.1% in F-measure) and their own gold standard (93.9 versus 89.4% in F-measure). These results suggest that tmVar is a high-performance method for mutation extraction from biomedical literature."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c56bbb107647bbc4b000011_003",
+              "question": "Which methods have been developed for extracting sequence variants from the literature?"
+            }
+          ],
+          "context": "nala: text mining natural language mutation mentions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c56bbb107647bbc4b000011_004",
+              "question": "Which methods have been developed for extracting sequence variants from the literature?"
+            }
+          ],
+          "context": " The extraction of sequence variants from the literature remains an important task. Existing methods primarily target standard (ST) mutation mentions (e.g. 'E6V'), leaving relevant mentions natural language (NL) largely untapped (e.g. 'glutamic acid was substituted by valine at residue 6').Results: We introduced three new corpora suggesting named-entity recognition (NER) to be more challenging than anticipated: 28-77% of all articles contained mentions only available in NL. Our new method nala captured NL and ST by combining conditional random fields with word embedding features learned unsupervised from the entire PubMed. In our hands, nala substantially outperformed the state-of-the-art."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f107c7c78d69471000051_001",
+              "question": "Which molecules are targeted by defactinib?"
+            }
+          ],
+          "context": "LC-ESI-MS/MS determination of defactinib, a novel FAK inhibitor in mice plasma and its application to a pharmacokinetic study in mice."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f107c7c78d69471000051_002",
+              "question": "Which molecules are targeted by defactinib?"
+            }
+          ],
+          "context": "Effect of FAK inhibitor VS-6063 (defactinib) on docetaxel efficacy in prostate cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f107c7c78d69471000051_003",
+              "question": "Which molecules are targeted by defactinib?"
+            }
+          ],
+          "context": "Focal Adhesion Kinase (FAK) activation is a mediator of docetaxel resistance in prostate cancer cells. The aim of this study was to investigate the effect of the second generation FAK inhibitor VS-6063 on docetaxel efficacy in pre-clinical CRPC and CSPC models."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f107c7c78d69471000051_004",
+              "question": "Which molecules are targeted by defactinib?"
+            }
+          ],
+          "context": "Here, we report the development of a selective and potent Fak degrader, PROTAC-3, which outperforms a clinical candidate, defactinib, with respect to Fak activation as well as Fak-mediated cell migration and invasion. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f107c7c78d69471000051_005",
+              "question": "Which molecules are targeted by defactinib?"
+            }
+          ],
+          "context": "Prompted by our observation of a correlation between PTEN loss and FAK phosphorylation in a cohort of patients with stage IV SCC, we evaluated the relevance of PTEN loss in cancer progression as well as the efficacy of a new combined treatment with the pan PI3K inhibitor buparlisip and the FAK inhibitor defactinib."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f107c7c78d69471000051_006",
+              "question": "Which molecules are targeted by defactinib?"
+            }
+          ],
+          "context": "PURPOSE: VS-6063 (also known as defactinib or PF-04554878) is a second-generation inhibitor of focal adhesion kinase and proline-rich tyrosine kinase-2. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f107c7c78d69471000051_007",
+              "question": "Which molecules are targeted by defactinib?"
+            }
+          ],
+          "context": "OBJECTIVE: VS-6063 (also known as defactinib or PF-04554878) is a second-generation inhibitor of focal adhesion kinase (FAK) and proline-rich tyrosine kinase-2 (Pyk2). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f107c7c78d69471000051_008",
+              "question": "Which molecules are targeted by defactinib?"
+            }
+          ],
+          "context": "Accordingly, treatment of C4-2B4 cells with integrin ligands resulted in increased pFAK-Y397 expression and cell survival, whereas targeting integrins with FAK inhibitors PF-562271 or defactinib inhibited FAK phosphorylation and reduced the survival of PC3-mm2 cells. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6ffa257c78d69471000056_001",
+              "question": "Please list the 4 genes involved in Sanfilippo syndrome, also known as mucopolysaccharidosis III (MPS-III)."
+            }
+          ],
+          "context": "This disease is a complex of four conditions caused by dysfunctions of one of genes coding for lysosomal enzymes involved in degradation of heparan sulfate: SGSH (coding for heparan N-sulfatase) - causing MPS IIIA, NAGLU (coding for alpha-N-acetylglucosaminidase) - causing MPS IIIB, HGSNAT (coding for acetyl CoA alpha-glucosaminide acetyltransferase) - causing MPS IIIC), and GNS (coding for N-acetylglucosamine-6-sulfatase) - causing MPS IIID."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6ffa257c78d69471000056_002",
+              "question": "Please list the 4 genes involved in Sanfilippo syndrome, also known as mucopolysaccharidosis III (MPS-III)."
+            }
+          ],
+          "context": "MPS III results from a deficiency in one of the four enzymes involved in the heparan sulfate degradation, with sulfamidase (SGSH), \u03b1-N-acetylglucosaminidase (NAGLU), acetyl-coenzyme A: \u03b1-glucosaminide N-acetyltransferase (HGSNAT), and N-acetylglucosamine-6-sulfatase (GNS) being deficient respectively in MPS IIIA, MPS IIIB, MPS IIIC and MPS IIID. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f14297c78d69471000052_001",
+              "question": "What is the triad of Melkersson-Rosenthal syndrome?"
+            }
+          ],
+          "context": "Melkersson-Rosenthal syndrome (MRS) is a rare syndrome of facial nerve palsy, facial edema, and lingua plicata that can be difficult to treat."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f14297c78d69471000052_002",
+              "question": "What is the triad of Melkersson-Rosenthal syndrome?"
+            }
+          ],
+          "context": "BACKGROUND AND OBJECTIVE: Melkersson Rosenthal syndrome (MRS) is a rare disorder of unknown etiology and comprises the triad: orofacial edema, recurrent facial paralysis and lingua plicata. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f14297c78d69471000052_003",
+              "question": "What is the triad of Melkersson-Rosenthal syndrome?"
+            }
+          ],
+          "context": "Melkersson Rosenthal syndromes (MRS) is a rare autosomal dominantly inherited neurocutaneous syndrome characterised by a triad of facial (seventh cranial) nerve palsy, recurrent orofacial swelling and fissuring of the tongue. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f14297c78d69471000052_004",
+              "question": "What is the triad of Melkersson-Rosenthal syndrome?"
+            }
+          ],
+          "context": "Melkersson-Rosenthal Syndrome (MRS) is a rare disorder consisting of a triad of persistent or recurrent orofacial edema, relapsing facial paralysis and fissured tongue. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f14297c78d69471000052_005",
+              "question": "What is the triad of Melkersson-Rosenthal syndrome?"
+            }
+          ],
+          "context": "When it presents in a triad encompassing facial nerve palsy, lip swelling, and fissured or furrowed tongue it is called Melkersson-Rosenthal syndrome while monosymptomatic or oligosymptomatic forms are referred to as granulomatous cheilitis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f14297c78d69471000052_006",
+              "question": "What is the triad of Melkersson-Rosenthal syndrome?"
+            }
+          ],
+          "context": "Melkersson-Rosenthal syndrome (MRS) is an uncommon granulomatous disease characterized by the triad of relapsing facial paralysis, orofacial swelling, and fissured tongue. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6f14297c78d69471000052_007",
+              "question": "What is the triad of Melkersson-Rosenthal syndrome?"
+            }
+          ],
+          "context": "Melkersson Rosenthal Syndrome is a rare neuro-mucocutaneous disorder characterized by the classic triad of facial swelling, recurrent facial nerve palsy and fissured tongue. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c580fe107647bbc4b00001b_001",
+              "question": "List clinical disorders or diseases where uc.189 is involved?"
+            }
+          ],
+          "context": "Expression of uc.189 and its clinicopathologic significance in gynecological cancers."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c580fe107647bbc4b00001b_002",
+              "question": "List clinical disorders or diseases where uc.189 is involved?"
+            }
+          ],
+          "context": "Until now, the role of uc.189 in human cancers remains undefined and the clinical significance of uc.189 in gynecological cancers remains unknown. This study was to identify the prognostic value of uc.189 expression in gynecological cancers."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c580fe107647bbc4b00001b_003",
+              "question": "List clinical disorders or diseases where uc.189 is involved?"
+            }
+          ],
+          "context": "Tissue microarrays were constructed with 243 samples including 116 cervical squamous cell carcinomas (CSCCs), 98 endometrial adenocarcinomas (EACs), 29 ovarian cystoadenocarcinomas(OCAs), and corresponding normal tissues. In CSCC, uc.189 expression was increased in 78.5% of cases (91/116), decreased in 4.3% (5/116), and unchanged in 17.2% (20/116). In EAC its expression was increased in 74.5% (73/98), decreased in 3.1% (3/98), and unchanged in 22.4% (22/98). Expression of uc.189 was increased in 23, and unchanged/decreased in 6, of 29 cases of ovarian cystoadenocarcinomas. Univariate and multivariate Cox regression analysis demonstrated that over-expression of uc.189 predicted poor prognosis in CSCC and EAC. Thus, these findings suggested uc.189 might be an evaluating prognosis marker of gynecological tumors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c580fe107647bbc4b00001b_004",
+              "question": "List clinical disorders or diseases where uc.189 is involved?"
+            }
+          ],
+          "context": "Upregulation of uc.189 in patients with esophageal squamous cell carcinoma and its clinicopathologic value."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c580fe107647bbc4b00001b_005",
+              "question": "List clinical disorders or diseases where uc.189 is involved?"
+            }
+          ],
+          "context": "Ultraconserved elements (UCEs) encoding noncoding RNAs serve as important regulators in cancer biology. Until now, the role of the UCE uc.189 in human cancers remains undefined and the clinical significance of uc.189 in esophageal cancers remains unknown. This study was to identify the prognostic value of uc.189 expression in esophageal squamous cell carcinomas (ESCC). Quantitative real-time polymerase chain reaction (qRT-PCR) was used to detect the expression level of uc.189 in matched cancerous tissues and adjacent noncancerous tissues from 152 patients with ESCC. The correlation of uc.189 with clinicopathological features and prognosis were also analyzed. The expression of uc.189 was significantly higher in human ESCC compared with the adjacent noncancerous tissues (122/152, 80.3%, p<0.01), and the high level of uc.189 expression was significantly correlated with invasion of the tumor (p=0.009), advanced clinical stage (p=0.000), lymph node metastasis (p=0.000), and poor prognosis. High expression of uc.189 might reflect poor prognosis of ESCC and indicate a potential diagnostic target in ESCC patients. Uc.189 might be considered as a novel molecule involved in ESCC progression, which provides a potential prognostic biomarker and therapeutic target."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58282e07647bbc4b00001e_001",
+              "question": "Name the algorithms for counting multi-mapping reads"
+            }
+          ],
+          "context": "mmquant: how to count multi-mapping reads?"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58282e07647bbc4b00001e_002",
+              "question": "Name the algorithms for counting multi-mapping reads"
+            }
+          ],
+          "context": "RNA-Seq is currently used routinely, and it provides accurate information on gene transcription. However, the method cannot accurately estimate duplicated genes expression. Several strategies have been previously used (drop duplicated genes, distribute uniformly the reads, or estimate expression), but all of them provide biased results.RESULTS: We provide here a tool, called mmquant, for computing gene expression, included duplicated genes. If a read maps at different positions, the tool detects that the corresponding genes are duplicated; it merges the genes and creates a merged gene. The counts of ambiguous reads is then based on the input genes and the merged genes.CONCLUSION: mmquant is a drop-in replacement of the widely used tools htseq-count and featureCounts that handles multi-mapping reads in an unabiased way."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c58282e07647bbc4b00001e_003",
+              "question": "Name the algorithms for counting multi-mapping reads"
+            }
+          ],
+          "context": "Allele-specific expression (ASE) refers to the differential abundance of the allelic copies of a transcript. RNA sequencing (RNA-seq) can provide quantitative estimates of ASE for genes with transcribed polymorphisms. When short-read sequences are aligned to a diploid transcriptome, read-mapping ambiguities confound our ability to directly count reads. Multi-mapping reads aligning equally well to multiple genomic locations, isoforms or alleles can comprise the majority (>85%) of reads. Discarding them can result in biases and substantial loss of information. Methods have been developed that use weighted allocation of read counts but these methods treat the different types of multi-reads equivalently. We propose a hierarchical approach to allocation of read counts that first resolves ambiguities among genes, then among isoforms, and lastly between alleles. We have implemented our model in EMASE software (Expectation-Maximization for Allele Specific Expression) to estimate total gene expression, isoform usage and ASE based on this hierarchical allocation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7034ae7c78d69471000063_001",
+              "question": "List drugs included in the TRIUMEQ pill."
+            }
+          ],
+          "context": "A patient with human immunodeficiency virus-1 infection presented with sub-acute liver failure, temporally related to commencement of an antiretroviral therapy regimen containing dolutegravir (Triumeq)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7034ae7c78d69471000063_002",
+              "question": "List drugs included in the TRIUMEQ pill."
+            }
+          ],
+          "context": "Newer STRs include dolutegravir (DTG)/lamivudine (3TC)/abacavir (ABC) (Triumeq; Viiv Healthcare, Research Triangle Park, NC), rilpivirine (RPV)/emtricitabine (FTC)/tenofovir alafenamide (TAF) (Odefsey; Gilead, Foster City, CA), RPV/FTC/tenofovir disoproxil fumarate (TDF) (Complera; Gilead), elvitegravir (EVG)/cobicistat (COBI)/FTC/TDF (Stribild; Gilead), and EVG/COBI/FTC/TAF (Genvoya; Gilead). Recently approved FDCs, such as atazanavir (ATV)/COBI (Evotaz; Bristol-Myers Squibb, Princeton, NJ), darunavir (DRV)/COBI (Prezcobix; Janssen Products, Titusville NJ), and FTC/TAF (Descovy; Gilead), are also now available. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7034ae7c78d69471000063_003",
+              "question": "List drugs included in the TRIUMEQ pill."
+            }
+          ],
+          "context": "Intentional overdose of dolutegravir/abacavir/lamivudine (Triumeq) in a 26-year-old man."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7034ae7c78d69471000063_004",
+              "question": "List drugs included in the TRIUMEQ pill."
+            }
+          ],
+          "context": "Triumeq is a single-tablet regimen for patients with HIV infection comprising dolutegravir, abacavir and lamivudine. Overdoses with Triumeq have not been reported previously. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7034ae7c78d69471000063_005",
+              "question": "List drugs included in the TRIUMEQ pill."
+            }
+          ],
+          "context": "Currently, there is no information about crushing of the branded fixed-dose combination of dolutegravir/abacavir/lamivudine (Triumeq\u00ae, referred to as TRI); therefore, crushing of TRI is not recommended."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7034ae7c78d69471000063_006",
+              "question": "List drugs included in the TRIUMEQ pill."
+            }
+          ],
+          "context": "On running short of medication, he admitted to sharing his partner's treatment (Triumeq; abacavir, lamivudine and dolutegravir). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c596ad686df2b9174000015_001",
+              "question": "Which integrin genes are activated by the immune system in inflammatory bowel disease?"
+            }
+          ],
+          "context": "Genetic association studies have identified 215 risk loci for inflammatory bowel disease, thereby uncovering fundamental aspects of its molecular biology. We performed a genome-wide association study of 25,305 individuals and conducted a meta-analysis with published summary statistics, yielding a total sample size of 59,957 subjects. We identified 25 new susceptibility loci, 3 of which contain integrin genes that encode proteins in pathways that have been identified as important therapeutic targets in inflammatory bowel disease. The associated variants are correlated with expression changes in response to immune stimulus at two of these genes (ITGA4 and ITGB8) and at previously implicated loci (ITGAL and ICAM1). In all four cases, the expression-increasing allele also increases disease risk. We also identified likely causal missense variants in a gene implicated in primary immune deficiency, PLCG2, and a negative regulator of inflammation, SLAMF8. Our results demonstrate that new associations at common variants continue to identify genes relevant to therapeutic target identification and prioritization."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7036127c78d69471000064_001",
+              "question": "Which two surgical methods were compared in the RAZOR trial?"
+            }
+          ],
+          "context": "Robot-assisted radical cystectomy versus open radical cystectomy in patients with bladder cancer (RAZOR): an open-label, randomised, phase 3, non-inferiority trial."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7036127c78d69471000064_002",
+              "question": "Which two surgical methods were compared in the RAZOR trial?"
+            }
+          ],
+          "context": "METHODS: The RAZOR study is a randomised, open-label, non-inferiority, phase 3 trial done in 15 medical centres in the USA. Eligible participants (aged \u226518 years) had biopsy-proven clinical stage T1-T4, N0-N1, M0 bladder cancer or refractory carcinoma in situ. Individuals who had previously had open abdominal or pelvic surgery, or who had any pre-existing health conditions that would preclude safe initiation or maintenance of pneumoperitoneum were excluded. Patients were centrally assigned (1:1) via a web-based system, with block randomisation by institution, stratified by type of urinary diversion, clinical T stage, and Eastern Cooperative Oncology Group performance status, to receive robot-assisted radical cystectomy or open radical cystectomy with extracorporeal urinary diversion."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7036127c78d69471000064_003",
+              "question": "Which two surgical methods were compared in the RAZOR trial?"
+            }
+          ],
+          "context": "Results: Evidence from four single-centre randomised controlled trials and now the multicentre Randomized Trial of Open versus Robotic Cystectomy (RAZOR) trial demonstrate the oncological equivalence of RARC to ORC. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7036127c78d69471000064_004",
+              "question": "Which two surgical methods were compared in the RAZOR trial?"
+            }
+          ],
+          "context": "The RAZOR (randomized open vs robotic cystectomy) trial: study design and trial update."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7036127c78d69471000064_005",
+              "question": "Which two surgical methods were compared in the RAZOR trial?"
+            }
+          ],
+          "context": "The purpose of the RAZOR (randomized open vs robotic cystectomy) study is to compare open radical cystectomy (ORC) vs robot-assisted RC (RARC), pelvic lymph node dissection (PLND) and urinary diversion for oncological outcomes, complications and health-related quality of life (HRQL) measures with a primary endpoint of 2-year progression-free survival (PFS). RAZOR is a multi-institutional, randomized, non-inferior, phase III trial that will enrol at least 320 patients with T1-T4, N0-N1, M0 bladder cancer with \u2248160 patients in both the RARC and ORC arms at 15 participating institutions. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7036127c78d69471000064_006",
+              "question": "Which two surgical methods were compared in the RAZOR trial?"
+            }
+          ],
+          "context": "AZOR is a multi-institutional, non-inferiority trial evaluating cancer outcomes, surgical complications and HRQL measures of ORC vs RARC with a primary endpoint of 2-year PFS. Full data from the RAZOR trial are not expected until 2016-2017."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72a9147c78d6947100006e_001",
+              "question": "Which drugs are included in the Lonsurf pill?"
+            }
+          ],
+          "context": "The National Institute for Health and Care Excellence (NICE) invited Servier, the company manufacturing trifluridine and tipiracil (T/T; trade name: Lonsurf\u00ae), to submit evidence for the clinical and cost effectiveness of T/T compared with best supportive care (BSC) for metastatic colorectal cancer (third-line or later). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72a9147c78d6947100006e_002",
+              "question": "Which drugs are included in the Lonsurf pill?"
+            }
+          ],
+          "context": "PURPOSE: Trifluridine/tipiracil (FTD/TPI; TAS-102, Lonsurf\u00ae), a novel form of chemotherapy for metastatic colorectal cancer (mCRC), has shown clinical benefit in the global, phase III RECOURSE trial, regardless of patient age. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72a9147c78d6947100006e_003",
+              "question": "Which drugs are included in the Lonsurf pill?"
+            }
+          ],
+          "context": "BACKGROUND: Trifluridine/tipiracil (TAS-102, Lonsurf\u00ae), a novel oral anti-tumor agent combining an anti-neoplastic thymidine-based nucleoside analogue (trifluridine, FTD) with a thymidine phosphorylase inhibitor (tipiracil hydrochloride, TPI) presents a new treatment option for metastatic colorectal cancer (mCRC) patients refractory or intolerant to standard therapies. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72a9147c78d6947100006e_004",
+              "question": "Which drugs are included in the Lonsurf pill?"
+            }
+          ],
+          "context": "These AEs may affect patient adherence, particularly with completely oral regimens, such as trifluridine/tipiracil (TAS-102, Lonsurf\u00ae), an antimetabolite agent for patients with mCRC refractory or intolerant to standard therapies.\u2029"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b6be7c78d69471000072_001",
+              "question": "Which enzymes are inhibited by Duvelisib?"
+            }
+          ],
+          "context": "Duvelisib (IPI-145) is an oral inhibitor of phosphatidylinositol 3-kinase (PI3K)-\u03b4/\u03b3 isoforms currently in clinical development. PI3K-\u03b4/\u03b3 inhibition may directly inhibit malignant T-cell growth, making duvelisib a promising candidate for patients with peripheral (PTCL) or cutaneous (CTCL) T-cell lymphoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b6be7c78d69471000072_002",
+              "question": "Which enzymes are inhibited by Duvelisib?"
+            }
+          ],
+          "context": "Activity of the PI3K-\u03b4,\u03b3 inhibitor duvelisib in a phase 1 trial and preclinical models of T-cell lymphoma."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b6be7c78d69471000072_003",
+              "question": "Which enzymes are inhibited by Duvelisib?"
+            }
+          ],
+          "context": "Duvelisib, a novel oral dual inhibitor of PI3K-\u03b4,\u03b3, is clinically active in advanced hematologic malignancies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b6be7c78d69471000072_004",
+              "question": "Which enzymes are inhibited by Duvelisib?"
+            }
+          ],
+          "context": "Duvelisib is an oral dual inhibitor of phosphoinositide 3-kinase-\u03b4 (PI3K-\u03b4) and PI3K-\u03b3 in late-stage clinical development for hematologic malignancy treatment."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b6be7c78d69471000072_005",
+              "question": "Which enzymes are inhibited by Duvelisib?"
+            }
+          ],
+          "context": "We observed that pharmaceutical PI3K\u03b3 inhibition with CZC24832 significantly impaired CLL\u00a0cell migration, while dual PI3K\u03b4/\u03b3 inhibitor duvelisib had a greater impact than single isoform-selective inhibitors. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b6be7c78d69471000072_006",
+              "question": "Which enzymes are inhibited by Duvelisib?"
+            }
+          ],
+          "context": "An oral dual inhibitor of PI3K\u03b3 and PI3K\u03b4, duvelisib, is in clinical trials for the treatment of lymphoid malignancies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b6be7c78d69471000072_007",
+              "question": "Which enzymes are inhibited by Duvelisib?"
+            }
+          ],
+          "context": "Duvelisib, an oral dual PI3K-\u03b4, \u03b3 inhibitor, shows clinical activity in indolent non-Hodgkin lymphoma in a phase 1 study."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b6be7c78d69471000072_008",
+              "question": "Which enzymes are inhibited by Duvelisib?"
+            }
+          ],
+          "context": "Duvelisib (IPI-145) is an oral dual inhibitor of phosphoinositide-3-kinase (PI3K)-\u03b4 and -\u03b3 in clinical development for the treatment of hematologic malignancies, including indolent non-Hodgkin lymphoma (iNHL). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b6be7c78d69471000072_009",
+              "question": "Which enzymes are inhibited by Duvelisib?"
+            }
+          ],
+          "context": "Duvelisib, an oral dual PI3K-\u03b4,\u03b3 inhibitor, shows clinical and pharmacodynamic activity in chronic lymphocytic leukemia and small lymphocytic lymphoma in a phase 1 study."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72b6be7c78d69471000072_010",
+              "question": "Which enzymes are inhibited by Duvelisib?"
+            }
+          ],
+          "context": "Duvelisib (IPI-145), an oral, dual inhibitor of phosphoinositide-3-kinase (PI3K)-\u03b4 and -\u03b3, was evaluated in a Phase 1 study in advanced hematologic malignancies, which included expansion cohorts in relapsed/refractory (RR) chronic lymphocytic leukemia (CLL)/small lymphocytic lymphoma (SLL) and treatment-na\u00efve (TN) CLL."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c62a276e842deac6700000a_001",
+              "question": "De novo mutations in which novel genes are involved in systemic lupus erythematosus?"
+            }
+          ],
+          "context": "De novo mutations implicate novel genes in systemic lupus erythematosus."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c62a276e842deac6700000a_002",
+              "question": "De novo mutations in which novel genes are involved in systemic lupus erythematosus?"
+            }
+          ],
+          "context": " Rare variant associations, expected to explain far less of the heritability, may be enriched in core disease genes and thus will be instrumental in the understanding of complex disease pathogenesis and their potential therapeutic targets. Here, using complementary whole-exome sequencing, high-density imputation, and in vitro cellular assays, we identify candidate core genes in the pathogenesis of systemic lupus erythematosus (SLE). Using extreme-phenotype sampling, we sequenced the exomes of 30 SLE parent-affected-offspring trios and identified 14 genes with missense de novo mutations (DNM), none of which are within the\u2009>80 SLE susceptibility loci implicated through genome-wide association studies. In a follow-up cohort of 10, 995 individuals of matched European ancestry, we imputed genotype data to the density of the combined UK10K-1000 genomes Phase III reference panel across the 14 candidate genes. Gene-level analyses indicate three functional candidates: DNMT3A, PRKCD, and C1QTNF4. We identify a burden of rare variants across PRKCD associated with SLE risk (P\u2009=\u20090.0028), and across DNMT3A associated with two severe disease prognosis sub-phenotypes (P\u2009=\u20090.0005 and P\u2009=\u20090.0033). We further characterise the TNF-dependent functions of the third candidate gene C1QTNF4 on NF-\u03baB activation and apoptosis, which are inhibited by the p.His198Gln DNM. Our results identify three novel genes in SLE susceptibility and support extreme-phenotype sampling and DNM gene discovery to aid the search for core disease genes implicated through rare variation."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

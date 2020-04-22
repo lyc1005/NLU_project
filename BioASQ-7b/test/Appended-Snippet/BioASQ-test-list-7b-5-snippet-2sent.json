@@ -1,0 +1,388 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c8c095e0101eac870000002_001",
+              "question": "Which cells secrete lactotransferrin?"
+            }
+          ],
+          "context": "We found that lactotransferrin-reporter labels a majority of neutrophils, monocytes, macrophages and distinct subtypes of dendritic cells, while excluding T, B, natural killer cells, interferon-producing killer dendritic cells, plasmacytoid dendritic cells, erythrocytes and eosinophils. Lactotransferrin-reporter(-) bone marrow cells retain lymphoid, erythroid and long-term repopulating potential, while lactotransferrin-reporter(+) bone marrow cells confer only myeloid, but not lymphoid potential. We conclude that lactotransferrin represents a late stage differentiation marker of neutrophils, macrophages and distinct subtypes of dendritic cells."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9d18f1ecadf2e73f000033_001",
+              "question": "List targets of classical analgesics."
+            }
+          ],
+          "context": "Pharmacogenetics of new analgesics. Patient phenotypes in pharmacological pain treatment varies between individuals, which could be partly assigned to their genotypes regarding the targets of classical analgesics (OPRM1, PTGS2) or associated signalling pathways (KCNJ6). Translational and genetic research have identified new targets, for which new analgesics are being developed. This addresses voltage-gated sodium, calcium and potassium channels, for which SCN9A, CACNA1B, KCNQ2 and KCNQ3, respectively, are primary gene candidates because they code for the subunits of the respective channels targeted by analgesics currently in clinical development. Mutations in voltage gated transient receptor potential (TRPV) channels are known from genetic pain research and may modulate the effects of analgesics under development targeting TRPV1 or TRPV3."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9d18f1ecadf2e73f000033_002",
+              "question": "List targets of classical analgesics."
+            }
+          ],
+          "context": "Opioid receptors are currently classified as mu (mu: mOP), delta (delta: dOP), kappa (kappa: kOP) with a fourth related non-classical opioid receptor for nociceptin/orphainin FQ, NOP. Morphine is the current gold standard analgesic acting at MOP receptors but produces a range of variably troublesome side-effects, in particular tolerance. There is now good laboratory evidence to suggest that blocking DOP while activating MOP produces analgesia (or antinociception) without the development of tolerance. Simultaneous targeting of MOP and DOP can be accomplished by: (i) co-administering two selective drugs, (ii) administering one non-selective drug, or (iii) designing a single drug that specifically targets both receptors; a bivalent ligand."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961281ecadf2e73f000021_001",
+              "question": "List 3 indications for rituximab."
+            }
+          ],
+          "context": "A Multicenter Retrospective Case Review. OBJECTIVE: To assess clinical outcomes including imaging findings on computed tomography (CT), pulmonary function testing (PFT), and glucocorticoid (GC) use in patients with the antisynthetase syndrome (AS) and interstitial lung disease (ILD) treated with rituximab (RTX). METHODS: We retrospectively identified all patients at 2 institutions with AS-ILD who were treated with RTX."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961281ecadf2e73f000021_002",
+              "question": "List 3 indications for rituximab."
+            }
+          ],
+          "context": "In 2\u00a0of 10\u00a0patients, lung disease was stable during treatment. CONCLUSION: RIX is the preferred off-label biologic drug for poly- and dermatomyositis in Germany. In spite of a\u00a0strongly pretreated group of patients, the tolerability is acceptable, although the patient number in this investigation is small. Moreover, the results lead to the assumption that the majority of the patients had a\u00a0good or even very good therapeutic response to RIX."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961281ecadf2e73f000021_003",
+              "question": "List 3 indications for rituximab."
+            }
+          ],
+          "context": "Use and effectiveness of rituximab in children and young people with juvenile idiopathic arthritis in a cohort study in the United Kingdom. Objectives: Rituximab (RTX) may be a treatment option for children and young people with JIA, although it is not licensed for this indication. The aim of this study was to describe RTX use and outcomes among children with JIA. Methods: This analysis included all JIA patients within the UK Biologics for Children with Rheumatic Diseases study starting RTX."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961281ecadf2e73f000021_004",
+              "question": "List 3 indications for rituximab."
+            }
+          ],
+          "context": "Use and effectiveness of rituximab in children and young people with juvenile idiopathic arthritis in a cohort study in the United Kingdom. Objectives: Rituximab (RTX) may be a treatment option for children and young people with JIA, although it is not licensed for this indication. The aim of this study was to describe RTX use and outcomes among children with JIA."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961281ecadf2e73f000021_005",
+              "question": "List 3 indications for rituximab."
+            }
+          ],
+          "context": "chronic lymphocytic leukemia (CLL) patients, including the Bruton's tyrosine kinase (BTK) inhibitor ibrutinib, phosphatidylinositol-3-kinase (PI3K) delta isoform inhibitor idelalisib combined with rituximab"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961281ecadf2e73f000021_006",
+              "question": "List 3 indications for rituximab."
+            }
+          ],
+          "context": "As PF is restricted to the superficial epidermis, it is considered more benign than other pemphigus diseases. However, progression to severe disease is not uncommon. Although rituximab's efficacy has been well-documented in adults with refractory PF, little data is available on its role in adolescents. PurposeWe describe a patient with juvenile PF treated with rituximab and review the literature for similar cases. MethodsPubMed was searched for the terms: antibody, B cells, blistering, CD20, foliaceus, juvenile, pemphigus, rituximab, immunosuppression."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961281ecadf2e73f000021_007",
+              "question": "List 3 indications for rituximab."
+            }
+          ],
+          "context": "Rituximab in the management of juvenile pemphigus foliaceus. BackgroundPemphigus foliaceus (PF) is a blistering disorder most commonly presenting in middle age. As PF is restricted to the superficial epidermis, it is considered more benign than other pemphigus diseases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961603ecadf2e73f000022_001",
+              "question": "List off label uses for Rituximab."
+            }
+          ],
+          "context": "Analysis of the data of the GRAID-2 registry for poly- and dermatomyositis.RESULTS: In 22 of the 23 patients in the GRAID-2 registry, rituximab (RIX) was administered, while 1 patient was given tocilizumab as off-label therapy"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961603ecadf2e73f000022_002",
+              "question": "List off label uses for Rituximab."
+            }
+          ],
+          "context": "Rapidly increasing off-label use of rituximab in multiple sclerosis in Sweden - Outlier or predecessor? OBJECTIVES: Off-label use of rituximab to treat MS patients in Sweden is high, and the need for long-term safety data may not be met. Our objectives were to assess the rate of rituximab prescription in patients with multiple sclerosis in Sweden and, in addition, to evaluate the safety of rituximab in a single centre for patients with multiple sclerosis. MATERIAL AND METHODS:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961603ecadf2e73f000022_003",
+              "question": "List off label uses for Rituximab."
+            }
+          ],
+          "context": "Off-label use of rituximab in autoimmune disease in the Top End of the Northern Territory, 2008-2016. BACKGROUND: Rituximab, an anti-CD20 B-cell depleting monoclonal antibody, is increasingly prescribed off-label for a range of autoimmune diseases."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961603ecadf2e73f000022_004",
+              "question": "List off label uses for Rituximab."
+            }
+          ],
+          "context": "immune thrombocytopenia who do not adequately respond to first-line therapy, there is no clear consensus on which second-line therapy to initiate and when. This situation leads to suboptimal approaches, including prolonged exposure to treatments that are not intended for long-term use (eg, corticosteroids) and overuse of off-label therapies (eg, rituximab)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961603ecadf2e73f000022_005",
+              "question": "List off label uses for Rituximab."
+            }
+          ],
+          "context": "Conventional treatment of systemic lupus erythematosus (SLE) and lupus nephritis (LN) is associated with damage accrual, hence increased morbidity rate. Off-label use of rituximab (RTX) has shown significant promise in this patient group; however, data are still controversial."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c961603ecadf2e73f000022_006",
+              "question": "List off label uses for Rituximab."
+            }
+          ],
+          "context": "Outcomes of rituximab therapy in refractory lupus: A meta-analysis. OBJECTIVE: Conventional treatment of systemic lupus erythematosus (SLE) and lupus nephritis (LN) is associated with damage accrual, hence increased morbidity rate."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c890ff475a4a5d219000010_001",
+              "question": "Name the uses of Sideritis scardica in traditional medicine."
+            }
+          ],
+          "context": "ETHNOPHARMACOLOGICAL RELEVANCE: Sideritis scardica Griseb. is an endemic species in the Balkan Peninsula. It is used in traditional medicine as a loosening agent in bronchitis and bronchial asthma; against the common cold and lung emphysema; in the treatment of inflammation, gastrointestinal disorders and coughs; and as an active constituent of dietary supplements for the prevention of anemia. This review aims to provide a comprehensive overview of the traditional use, phytochemistry, biological activity, cultivation, and extraction of Sideritis scardica and to highlight the gaps in our knowledge which deserves further research. MATERIALS AND METHODS:"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c890ff475a4a5d219000010_002",
+              "question": "Name the uses of Sideritis scardica in traditional medicine."
+            }
+          ],
+          "context": "identified so far have been summarized. A comparative study on the effectiveness of different methods, solvents, and parameters of extraction has also been discussed. A broad range of activities of plant extracts and fractions as antimicrobial, anti-inflammatory, cytotoxic, antioxidant, gastroprotective, antiglioma, and triple monoamine reuptake inhibition as well as cultivation of the species as an approach for conservation of the natural habitats and provision of herb with high and permanent quality has also been presented. CONCLUSIONS: Sideritis scardica has become very popular and widely advertised herb in Europe."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c979ffcecadf2e73f000028_001",
+              "question": "What are 2 organisms that can cause Human toxocariasis?"
+            }
+          ],
+          "context": "Molecular characterization of Toxocara spp. eggs isolated from public parks and playgrounds in Shiraz, Iran. Human toxocariasis, a worldwide parasitic disease, is caused by the larval stage of intestinal nematodes of dogs and cats, namely Toxocara canis and Toxocara cati. Human infection occurs by the accidental ingestion of embryonated eggs present in the soil, vegetables or on other contaminated surfaces, as well as via consumption of uncooked paratenic hosts, such as bird meat and giblets. The objective of this study was to evaluate the contamination of soil in public parks and playgrounds in Shiraz using microscopy and molecular methods."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c97f579ecadf2e73f00002a_001",
+              "question": "List places in the body where somatostatin is produced."
+            }
+          ],
+          "context": "Somatostatin prevents lipopolysaccharide-induced neurodegeneration in the rat substantia nigra by inhibiting the activation of microglia. Somatostatin (SST) is a neuromodulator which is abundant throughout the central nervous system (CNS) and has a crucial role in neurodegenerative disorders. However, little is known about the effects and mechanisms of SST in dopaminergic (DA) neurons in the context of Parkinson's disease (PD). In the present study, a model of PD was generated by injecting lipopolysaccharide (LPS) into the substantia nigra (SN) of rats in order to investigate the effects of SST on LPS-induced degeneration of DA in vivo. Intramural injection of LPS resulted in a significant loss of DA neurons, while reduction of neuronal death by SST pretreatment was confirmed using immunohistochemical staining for tyrosine hydroxylase and Nissl."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c97f579ecadf2e73f00002a_002",
+              "question": "List places in the body where somatostatin is produced."
+            }
+          ],
+          "context": "Somatostatin and diabetic retinopathy: current concepts and new therapeutic perspectives. Somatostatin (SST) is abundantly produced by the human retina, and the main source is the retinal pigment epithelium (RPE). SST exerts relevant functions in the retina (neuromodulation, angiostatic, and anti-permeability actions) by interacting with SST receptors (SSTR) that are also expressed in the retina. In the diabetic retina, a downregulation of SST production does exist. In this article, we give an overview of the mechanisms by which this deficit of SST participates in the main pathogenic mechanisms involved in diabetic retinopathy (DR): neurodegeneration, neovascularization, and vascular leakage."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c97f579ecadf2e73f00002a_003",
+              "question": "List places in the body where somatostatin is produced."
+            }
+          ],
+          "context": "The production of somatostatin interneurons in the olfactory bulb is regulated by the transcription factor sp8. Somatostatin (Som), one of the most concentrated neuropeptides in the brain, is highly expressed in the olfactory bulb (OB). However, the temporal profile by which OB somatostatin-expressing (Som+) interneurons are produced and the molecular mechanisms controlling this profile are totally unknown. In the present study, we found that all the Som+ interneurons in the mouse external plexiform layer (EPL) and the rat glomerular layer (GL) express the transcription factor Sp8.Using the 5-bromo-2'-deoxyuridine (BrdU) birth dating method, combined with immunostaining, we showed that the generation of Som+ interneurons in the mouse and rat OB is confined to the later embryonic and earlier postnatal stages. Within the mouse OB, the production of Som+ interneurons is maximal during late embryogenesis and decreases after birth, whereas the generation of Som+ interneurons is low during embryogenesis and increases gradually after birth in the rat OB."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c97f579ecadf2e73f00002a_004",
+              "question": "List places in the body where somatostatin is produced."
+            }
+          ],
+          "context": "The production of somatostatin interneurons in the olfactory bulb is regulated by the transcription factor sp8. Somatostatin (Som), one of the most concentrated neuropeptides in the brain, is highly expressed in the olfactory bulb (OB). However, the temporal profile by which OB somatostatin-expressing (Som+) interneurons are produced and the molecular mechanisms controlling this profile are totally unknown."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c97f579ecadf2e73f00002a_005",
+              "question": "List places in the body where somatostatin is produced."
+            }
+          ],
+          "context": "Somatostatin expression in human hair follicles and its potential role in immune privilege. Immune privilege (IP) is believed to exist in the anagen hair follicle (HF). Studies have shown that downregulation of major histocompatibility complex"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c97f579ecadf2e73f00002a_006",
+              "question": "List places in the body where somatostatin is produced."
+            }
+          ],
+          "context": "Glucose generates coincident insulin and somatostatin pulses and antisynchronous glucagon pulses from human pancreatic islets. The kinetics of insulin, glucagon and somatostatin release was studied in human pancreatic islets. Batches of 10-15 islets were perifused and the hormones measured with RIA in 30-sec fractions. Increase of glucose from 3 to 20 mm resulted in a brief pulse of glucagon coinciding with suppression of basal insulin and somatostatin release. There was a subsequent drop of glucagon release concomitant with the appearance of a pronounced pulse of insulin and a slightly delayed pulse of somatostatin."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c97f579ecadf2e73f00002a_007",
+              "question": "List places in the body where somatostatin is produced."
+            }
+          ],
+          "context": "Glucose generates coincident insulin and somatostatin pulses and antisynchronous glucagon pulses from human pancreatic islets. The kinetics of insulin, glucagon and somatostatin release was studied in human pancreatic islets. Batches of 10-15 islets were perifused and the hormones measured with RIA in 30-sec fractions."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9f79c3ecadf2e73f00003d_001",
+              "question": "What are the 3 types of immunoglobulin heavy chain containing antibodies found in human breast milk?"
+            }
+          ],
+          "context": "This is a descriptive cross-sectional study of a convenience sample of 67 donated colostrum samples at different days after delivery, both raw and pasteurized. Antibody profiles were analyzed at different times during breastfeeding, and total and specific antibodies (IgM, IgA, and IgG subclasses)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9fb583ecadf2e73f000042_001",
+              "question": "What are 5 key questions in human performance modeling?"
+            }
+          ],
+          "context": "the five key questions of human performance modeling: 1) Why we build models of human performance; 2) What the expectations of a good human performance model are; 3) What the procedures and requirements in building and verifying a human performance model are; 4) How we integrate a human performance model with system design; and 5) What the possible future directions of human performance modeling research are."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca64b5becadf2e73f000051_001",
+              "question": "List the ERM proteins."
+            }
+          ],
+          "context": "This phospholipid elicits a wide range of cancer cell responses, such as proliferation, trans-differentiation, migration, and invasion, via various G-protein-coupled LPA receptors (LPARs). Here, we explored the cellular signaling pathway via which LPA induces migration of ovarian cancer cells. LPA induced robust phosphorylation of ezrin/radixin/moesin (ERM) proteins, which are membrane-cytoskeleton linkers, in the ovarian cancer cell line OVCAR-3. Among the LPAR subtypes expressed in these cells, LPA and LPA, but not LPA, induced phosphorylation of ERM proteins at their C-termini. This phosphorylation was dependent on the G\u03b1/RhoA pathway, but not on the G\u03b1/Ca/PKC or G\u03b1/adenylate cyclase/PKA pathway."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca64b5becadf2e73f000051_002",
+              "question": "List the ERM proteins."
+            }
+          ],
+          "context": "This review deals with recent advances in studies on P-glycoprotein (P-gp) and its expression regulators, focusing especially on our own research. Firstly, we describe findings demonstrating that the distribution of P-gp along the small intestine is heterogeneous, which explains why orally administered P-gp substrate drugs often show bimodal changes of plasma concentration. Secondly, we discuss the post-translational regulation of P-gp localization and function by the scaffold proteins ezrin, radixin and moesin (ERM proteins), together with recent reports indicating that tissue-specific differences in regulation by ERM proteins in normal tissues might be retained in corresponding cancerous tissues. Thirdly, we review evidence that P-gp activity is enhanced in the process of epithelial-to-mesenchymal transition (EMT), which is associated with cancer progression, without any increase in expression of P-gp mRNA. Finally, we describe two examples in which P-gp critically influences the brain distribution of drugs, i.e., oseltamivir, where low levels of P-gp associated with early development allow oseltamivir to enter the brain, potentially resulting in neuropsychiatric side effects in children, and cilnidipine, where impairment of P-gp function in ischemia allows cilnidipine to enter the ischemic brain, where it exerts a neuroprotective action."
+        },
+        {
+          "qas": [
+            {
+              "id": "5ca64b5becadf2e73f000051_003",
+              "question": "List the ERM proteins."
+            }
+          ],
+          "context": "Sequential binding of ezrin and moesin to L-selectin regulates monocyte protrusive behaviour during transendothelial migration. Leukocyte transendothelial migration (TEM) is absolutely fundamental to the inflammatory response, and involves initial pseudopod protrusion and subsequent polarised migration across inflamed endothelium. Ezrin/radixin/moesin (ERM) proteins are expressed in leukocytes and mediate cell shape changes and polarity. The spatio-temporal organisation of ERM proteins with their targets, and their individual contribution to protrusion during TEM, has never been explored. Here, we show that blocking binding of moesin to phosphatidylinositol 4,5-bisphosphate (PIP) reduces its C-terminal phosphorylation during monocyte TEM, and that on-off cycling of ERM activity is essential for pseudopod protrusion into the subendothelial space."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9007460101eac870000012_001",
+              "question": "Name three binding partners of cofilin 2."
+            }
+          ],
+          "context": "Cofilin-2 (Cfl2) was identified as one of the potential targets of miR-301a using prediction databases, which we validated by luciferase assay and mutation of predicted binding sites."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9007460101eac870000012_002",
+              "question": "Name three binding partners of cofilin 2."
+            }
+          ],
+          "context": "Cofilin weakly interacts with 14-3-3 and therefore can only indirectly participate in regulation of cell motility by small heat shock protein HspB6 (Hsp20). It has been previously reported that phosphorylated cofilin interacted with 14-3-3\u03b6 protein to generate a sub-micromolar K(d) binary complex. Here we challenge this hypothesis by analyzing the direct association of recombinant cofilin with 14-3-3\u03b6 using different in vitro biochemical methods."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9007460101eac870000012_003",
+              "question": "Name three binding partners of cofilin 2."
+            }
+          ],
+          "context": "In contrast to other isoforms, cofilin-2 efficiently binds and disassembles both ADP- and ATP/ADP-Pi-actin filaments. We mapped surface-exposed cofilin-2-specific residues required for ATP-actin binding and propose that these residues function as an \"actin nucleotide-state sensor\" among ADF/cofilins."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990afbecadf2e73f000030_001",
+              "question": "List proteins with RING domain."
+            }
+          ],
+          "context": "In this study, we report that RING1 is a critical negative regulator of p53 homeostasis in human hepatocellular and colorectal carcinomas. RING1 acts as an E3 ubiquitin (Ub) ligase to directly interact with and ubiquitinate p53, resulting in its proteasome-dependent degradation. The RING domain of RING1 was required for its E3 Ub ligase activity. RING1 depletion inhibited the proliferation and survival of the p53 wild-type cancer cells by inducing cell-cycle arrest, apoptosis, and senescence, with only modest effects on p53-deficient cells. Its growth inhibitory effect was partially rescued by p53 silencing, suggesting an important role for the RING1-p53 complex in human cancer."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990afbecadf2e73f000030_002",
+              "question": "List proteins with RING domain."
+            }
+          ],
+          "context": "Autophagy is the process of degradation of intracellular proteins through the lysosome. Members of the tripartite motif (TRIM) proteins have shown to directly recognize autophagic cargo and also to act as a hub for the phagophore nucleation complex. The TRIM proteins are classically characterized by the presence of an amino-terminal RING domain and a B-box domain followed by a coiled coil domain. Although regarded as ubiquitin E3 ligases, this activity has been shown only for a minor set of the 79 human TRIM proteins. Additionally, the role of each domain in the E3 ligase activity is unknown."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990afbecadf2e73f000030_003",
+              "question": "List proteins with RING domain."
+            }
+          ],
+          "context": "Mechanism of ubiquitin transfer promoted by TRAF6. Tumor necrosis factor (TNF) receptor-associated factor 6 (TRAF6) plays a vital role in immune signal transduction pathways by acting as a ubiquitin ligase (E3) for Lys63-linked polyubiquitin chain synthesis. However, the detailed mechanism by which the TRAF6 RING dimer promotes ubiquitin transfer was unknown. Through structural modeling and biochemical analysis, we here show that the TRAF6 RING dimer employs a concerted allosteric mechanism using both subunits of the TRAF6 dimer to promote ubiquitin (Ub) transfer. In particular, we reveal the importance of the C-terminal extension of the TRAF6 RING domain that mediates trans-interactions with the donor-Ub."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990afbecadf2e73f000030_004",
+              "question": "List proteins with RING domain."
+            }
+          ],
+          "context": "CTLs, a new class of RING-H2 ubiquitin ligases uncovered by YEELL, a motif close to the RING domain that is present across eukaryotes. RING ubiquitin E3 ligases enclose a RING domain for ubiquitin ligase activity and associated domains and/or conserved motifs outside the RING domain that collectively facilitate their classification and usually reveal some of key information related to mechanism of action. Here we describe a new family of E3 ligases that encodes a RING-H2 domain related in sequence to the ATL and BTL RING-H2 domains. This family, named CTL, encodes a motif designed as YEELL that expands 21 amino acids next to the RING-H2 domain that is present across most eukaryotic lineages. E3 ubiquitin ligase BIG BROTHER is a plant CTL that regulates organ size, and SUMO-targeted ubiquitin E3 ligase RNF111/ARKADIA is a vertebrate CTL."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990afbecadf2e73f000030_005",
+              "question": "List proteins with RING domain."
+            }
+          ],
+          "context": "N-terminal ubiquitin-like domain (UBL) also binds directly to DNMT1. Despite sharing a high degree of structural similarity, UHRF1 UBL and ubiquitin bind to DNMT1 in a very distinct fashion and exert different impacts on DNMT1 enzymatic activity. We further show that the UHRF1 UBL-mediated interaction between UHRF1 and DNMT1, and the binding of DNMT1 to ubiquitinated histone H3 that is catalyzed by UHRF1 RING domain are critical for the proper subnuclear localization of DNMT1 and maintenance of DNA methylation. Collectively, our study adds another layer of complexity to the regulatory mechanism of DNMT1 activation by UHRF1 and supports that individual domains of UHRF1 participate and act in concert to maintain DNA methylation patterns."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990afbecadf2e73f000030_006",
+              "question": "List proteins with RING domain."
+            }
+          ],
+          "context": "The activity of p53 is mainly controlled by the ubiquitin E3 ligase Mdm2, which targets p53 for proteasomal degradation. However, the regulation of Mdm2 remains not well understood. Here, we show that MARCH7, a RING domain-containing ubiquitin E3 ligase, physically interacts with Mdm2 and is essential for maintaining the stability of Mdm2. MARCH7 catalyzes Lys-linked polyubiquitination of Mdm2, which impedes Mdm2 autoubiquitination and degradation, thereby leading to the stabilization of Mdm2. MARCH7 also promotes Mdm2-dependent polyubiquitination and degradation of p53."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990afbecadf2e73f000030_007",
+              "question": "List proteins with RING domain."
+            }
+          ],
+          "context": "Seven in absentia (SINA) protein is one subgroup of ubiquitin ligases possessing an N-terminal cysteine-rich really interesting new gene (RING) domain,"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c990afbecadf2e73f000030_008",
+              "question": "List proteins with RING domain."
+            }
+          ],
+          "context": "BARD1 is necessary for ubiquitylation of nucleosomal histone H2A and for transcriptional regulation of estrogen metabolism genes. Missense mutations that disrupt the RING domain of the tumor suppressor gene BRCA1 lead to increased risk of breast and ovarian cancer. The BRCA1 RING domain is a ubiquitin ligase, whose structure and function rely critically on forming a heterodimer with BARD1, which also harbors a RING domain. The function of the BARD1 RING domain is unknown. In families severely affected with breast cancer, we identified inherited BARD1 missense mutations Cys53Trp, Cys71Tyr, and Cys83Arg"
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}

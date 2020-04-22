@@ -1,0 +1,793 @@
+{
+  "data": [
+    {
+      "paragraphs": [
+        {
+          "qas": [
+            {
+              "id": "5c6c497d7c78d69471000036_001",
+              "question": "Which tools have been developed for computing split-networks?"
+            }
+          ],
+          "context": "SPECTRE: a suite of phylogenetic tools for reticulate evolution."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6c497d7c78d69471000036_002",
+              "question": "Which tools have been developed for computing split-networks?"
+            }
+          ],
+          "context": "Split-networks are a generalization of phylogenetic trees that have proven to be a powerful tool in phylogenetics. Various ways have been developed for computing such networks, including split-decomposition, NeighborNet, QNet and FlatNJ. Some of these approaches are implemented in the user-friendly SplitsTree software package. However, to give the user the option to adjust and extend these approaches and to facilitate their integration into analysis pipelines, there is a need for robust, open-source implementations of associated data structures and algorithms. Here, we present SPECTRE, a readily available, open-source library of data structures written in Java, that comes complete with new implementations of several pre-published algorithms and a basic interactive graphical interface for visualizing planar split networks. SPECTRE also supports the use of longer running algorithms by providing command line interfaces, which can be executed on servers or in High Performance Computing environments."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6c497d7c78d69471000036_003",
+              "question": "Which tools have been developed for computing split-networks?"
+            }
+          ],
+          "context": "FlatNJ: a novel network-based approach to visualize evolutionary and biogeographical relationships."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6c497d7c78d69471000036_004",
+              "question": "Which tools have been developed for computing split-networks?"
+            }
+          ],
+          "context": "Split networks are a type of phylogenetic network that allow visualization of conflict in evolutionary data. We present a new method for constructing such networks called FlatNetJoining (FlatNJ)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6c497d7c78d69471000036_005",
+              "question": "Which tools have been developed for computing split-networks?"
+            }
+          ],
+          "context": "QNet: an agglomerative method for the construction of phylogenetic networks from weighted quartets."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6c497d7c78d69471000036_006",
+              "question": "Which tools have been developed for computing split-networks?"
+            }
+          ],
+          "context": "We present QNet, a method for constructing split networks from weighted quartet trees. QNet can be viewed as a quartet analogue of the distance-based Neighbor-Net (NNet) method for network construction. Just as NNet, QNet works by agglomeratively computing a collection of circular weighted splits of the taxa set which is subsequently represented by a planar split network."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace67c78d69471000083_001",
+              "question": "List features of the DOOR syndrome."
+            }
+          ],
+          "context": "DOOR syndrome is a rare multisystem genetic disorder, consisting of deafness (sensorineural), onychodystrophy, osteodystrophy, and mental retardation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace67c78d69471000083_002",
+              "question": "List features of the DOOR syndrome."
+            }
+          ],
+          "context": "We report the anaesthetic management of a 48-year-old male patient with Deafness, Onycho-Osteodystrophy and mental Retardation syndrome, epilepsy and cerebral palsy who had two dental procedures under anaesthetic care."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace67c78d69471000083_003",
+              "question": "List features of the DOOR syndrome."
+            }
+          ],
+          "context": "We present the case of a 9-year-old boy with DOOR syndrome recognized in the first year of his life because of a delayed development of speech. The diagnosis was based on characteristic abnormalities, including congenital deafness, nail and bone abnormalities, and mild mental retardation."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace67c78d69471000083_004",
+              "question": "List features of the DOOR syndrome."
+            }
+          ],
+          "context": "DOOR syndrome (deafness, onychodystrophy, osteodystrophy, and mental retardation) is a rarely described disorder with less than 35 reports in the literature. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ace67c78d69471000083_005",
+              "question": "List features of the DOOR syndrome."
+            }
+          ],
+          "context": "[DOOR (deafness, onychodystrophy, osteodystrophy, mental retardation) syndrome]."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d6b377c78d69471000039_001",
+              "question": "Which web-based pedigree editors are available?"
+            }
+          ],
+          "context": "pedigreejs: a web-based graphical pedigree editor."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d6b377c78d69471000039_002",
+              "question": "Which web-based pedigree editors are available?"
+            }
+          ],
+          "context": "Several standalone graphical pedigree editors and drawing applications exist but there are no freely available lightweight graphical pedigree editors that can be easily configured and incorporated into web applications.Results: We developed 'pedigreejs', an interactive graphical pedigree editor written in JavaScript, which uses standard pedigree nomenclature. Pedigreejs provides an easily configurable, extensible and lightweight pedigree editor. It makes use of an open-source Javascript library to define a hierarchical layout and to produce images in scalable vector graphics (SVG) format that can be viewed and edited in web browsers.Availability and implementation: The software is freely available under GPL licence (https://ccge-boadicea.github.io/pedigreejs/)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d6b377c78d69471000039_003",
+              "question": "Which web-based pedigree editors are available?"
+            }
+          ],
+          "context": "Madeline 2.0 PDE: a new program for local and web-based pedigree drawing."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d6b377c78d69471000039_004",
+              "question": "Which web-based pedigree editors are available?"
+            }
+          ],
+          "context": "The Madeline 2.0 Pedigree Drawing Engine (PDE) is a pedigree drawing program for use in linkage and family-based association studies. The program is designed to handle large and complex pedigrees with an emphasis on readability and aesthetics. For complex pedigrees, we use a hybrid algorithm in which consanguinous loops are drawn as cyclic graphs whenever possible, but we resort to acyclic graphs when matings can no longer be connected without line crossings. A similar hybrid approach is used to avoid line crossings for matings between distant descendants of different founding groups. Written in object-oriented C++ and released under the GNU General Public License (GPL), Madeline 2.0 PDE reads input files specified on the command line and generates pedigree drawings without user interaction. Pedigree output in scalable vector graphics (SVG) format can be viewed in browsers with native SVG rendering support or in vector graphics editors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d783e7c78d6947100003a_001",
+              "question": "Which curated databases exist for spider-venom toxins?"
+            }
+          ],
+          "context": "ArachnoServer: a database of protein toxins from spiders."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d783e7c78d6947100003a_002",
+              "question": "Which curated databases exist for spider-venom toxins?"
+            }
+          ],
+          "context": "We have developed ArachnoServer, a manually curated database that provides detailed information about proteinaceous toxins from spiders. Key features of ArachnoServer include a new molecular target ontology designed especially for venom toxins, the most up-to-date taxonomic information available, and a powerful advanced search interface. Toxin information can be browsed through dynamic trees, and each toxin has a dedicated page summarising all available information about its sequence, structure, and biological activity. ArachnoServer currently manages 567 protein sequences, 334 nucleic acid sequences, and 51 protein structures.CONCLUSION: ArachnoServer provides a single source of high-quality information about proteinaceous spider toxins that will be an invaluable resource for pharmacologists, neuroscientists, toxinologists, medicinal chemists, ion channel scientists, clinicians, and structural biologists. ArachnoServer is available online at http://www.arachnoserver.org."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d783e7c78d6947100003a_003",
+              "question": "Which curated databases exist for spider-venom toxins?"
+            }
+          ],
+          "context": "ArachnoServer 2.0, an updated online resource for spider toxin sequences and structures."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6d783e7c78d6947100003a_004",
+              "question": "Which curated databases exist for spider-venom toxins?"
+            }
+          ],
+          "context": "ArachnoServer (www.arachnoserver.org) is a manually curated database providing information on the sequence, structure and biological activity of protein toxins from spider venoms. These proteins are of interest to a wide range of biologists due to their diverse applications in medicine, neuroscience, pharmacology, drug discovery and agriculture. ArachnoServer currently manages 1078 protein sequences, 759 nucleic acid sequences and 56 protein structures. Key features of ArachnoServer include a molecular target ontology designed specifically for venom toxins, current and historic taxonomic information and a powerful advanced search interface. The following significant improvements have been implemented in version 2.0: (i) the average and monoisotopic molecular masses of both the reduced and oxidized form of each mature toxin are provided; (ii) the advanced search feature now enables searches on the basis of toxin mass, external database accession numbers and publication date in ArachnoServer; (iii) toxins can now be browsed on the basis of their phyletic specificity; (iv) rapid BLAST searches based on the mature toxin sequence can be performed directly from the toxin card; (v) private silos can be requested from research groups engaged in venoms-based research, enabling them to easily manage and securely store data during the process of toxin discovery; and (vi) a detailed user manual is now available."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c928958ecadf2e73f000017_001",
+              "question": "List the four advances integrated into the SHERLOCKv2 platform."
+            }
+          ],
+          "context": "Through characterization of CRISPR enzymology and application development, we report here four advances integrated into SHERLOCK version 2 (SHERLOCKv2) (i) four-channel single-reaction multiplexing with orthogonal CRISPR enzymes; (ii) quantitative measurement of input as low as 2 attomolar; (iii) 3.5-fold increase in signal sensitivity by combining Cas13 with Csm6, an auxiliary CRISPR-associated enzyme; and (iv) lateral-flow readout. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c63286ae842deac6700000e_001",
+              "question": "List clinical symptoms of the MECOM-associated syndrome"
+            }
+          ],
+          "context": "MECOM-associated syndrome: a heterogeneous inherited bone marrow failure syndrome with amegakaryocytic thrombocytopenia."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c63286ae842deac6700000e_002",
+              "question": "List clinical symptoms of the MECOM-associated syndrome"
+            }
+          ],
+          "context": "Heterozygous mutations in MECOM (MDS1 and EVI1 complex locus) have been reported to be causative of a rare association of congenital amegakaryocytic thrombocytopenia and radioulnar synostosis. Here we report on 12 patients with congenital hypomegakaryocytic thrombocytopenia caused by MECOM mutations (including 10 novel mutations). The mutations affected different functional domains of the EVI1 protein. The spectrum of phenotypes was much broader than initially reported for the first 3 patients; we found familial as well as sporadic cases, and the clinical spectrum ranged from isolated radioulnar synostosis with no or mild hematological involvement to severe bone marrow failure without obvious skeletal abnormality. The clinical picture included radioulnar synostosis, bone marrow failure, clinodactyly, cardiac and renal malformations, B-cell deficiency, and presenile hearing loss. No single clinical manifestation was detected in all patients affected by MECOM mutations. Radioulnar synostosis and B-cell deficiency were observed only in patients with mutations affecting a short region in the C-terminal zinc finger domain of EVI1. We propose the term MECOM-associated syndrome for this heterogeneous hereditary disease and inclusion of MECOM sequencing in the diagnostic workup of congenital bone marrow failure."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72fb4a7c78d69471000082_001",
+              "question": "List features of the Triple A syndrome."
+            }
+          ],
+          "context": "Triple A syndrome (TAS) or Allgrove syndrome (OMIM #231550) is a rare autosomal recessive disorder characterised by adrenocorticotropic hormone-resistant adrenal insufficiency, alacrima, achalasia, and neurological and dermatological abnormalities. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72fb4a7c78d69471000082_002",
+              "question": "List features of the Triple A syndrome."
+            }
+          ],
+          "context": "Background Triple A syndrome is characterized by achalasia, alacrima and adrenal insufficiency with neurological manifestations occurring later in the course of the disease. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72fb4a7c78d69471000082_003",
+              "question": "List features of the Triple A syndrome."
+            }
+          ],
+          "context": "Allgrove or triple A syndrome (AS or AAA) is a rare autosomal recessive syndrome with variable phenotype due to mutations in AAAS gene which encodes a protein called ALADIN. Generally, it's characterized by of adrenal insufficiency in consequence of adrenocorticotropic hormone (ACTH) resistance, besides of achalasia, and alacrimia. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72fb4a7c78d69471000082_004",
+              "question": "List features of the Triple A syndrome."
+            }
+          ],
+          "context": "Triple-A syndrome, also known as Allgrove syndrome, is a rare autosomal recessive disorder. The 3 features of this syndrome are achalasia, adrenal insufficiency, and alacrima. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c72fb4a7c78d69471000082_005",
+              "question": "List features of the Triple A syndrome."
+            }
+          ],
+          "context": "Allgrove (Triple A) syndrome is a rare autosomal recessive disorder characterized by cardinal features of adrenal insufficiency due to adrenocorticotropic hormone (ACTH) resistance, achalasia, and alacrimia. It is frequently associated with neurological manifestations like polyneuropathy."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c88550075a4a5d219000008_001",
+              "question": "List 3 apoE mimetics."
+            }
+          ],
+          "context": "Using a murine experimental autoimmune encephalomyelitis (EAE) model of human multiple sclerosis, we found that a peptidomimetic of apoE protein, COG133, substantially reduces the clinical symptoms of EAE and promotes remission from the disability when administered before or after onset of disease. Most notably, fusion of COG133 to a protein transduction domain creates COG112, a modified apoE-mimetic peptide with significantly enhanced anti-inflammatory bioactivities in vitro, and improved therapeutic effects on EAE in vivo, which renders a nearly full remission from the disability. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c88550075a4a5d219000008_002",
+              "question": "List 3 apoE mimetics."
+            }
+          ],
+          "context": "Toward this end, we describe the design and studies of a dual-domain apoE mimetic peptide, Ac-hE18A-NH(2). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c88550075a4a5d219000008_003",
+              "question": "List 3 apoE mimetics."
+            }
+          ],
+          "context": "ApoE mimetics such as Ac-hE18A-NH(2) may therefore restore or replace ligands in genetically induced hyperlipidemias to enable reduction in atherogenic lipoproteins via HSPG even in the absence of functional low-density lipoprotein receptors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d00980101eac870000006_001",
+              "question": "List sirtuin inhibitors."
+            }
+          ],
+          "context": " Sirtinol, a commonly employed sirtuin inhibitor"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d00980101eac870000006_002",
+              "question": "List sirtuin inhibitors."
+            }
+          ],
+          "context": "sirtuin inhibitor nicotinamide"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d00980101eac870000006_003",
+              "question": "List sirtuin inhibitors."
+            }
+          ],
+          "context": " pan-sirtuin inhibitor nicotinamide (NAM)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d00980101eac870000006_004",
+              "question": "List sirtuin inhibitors."
+            }
+          ],
+          "context": "of a novel sirtuin inhibitor (BZD9L1) "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d00980101eac870000006_005",
+              "question": "List sirtuin inhibitors."
+            }
+          ],
+          "context": " Sirtuin inhibitor nicotinamide."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8d00980101eac870000006_006",
+              "question": "List sirtuin inhibitors."
+            }
+          ],
+          "context": "A Novel Sirtuin-3 Inhibitor, LC-0296"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acf57c78d6947100008c_001",
+              "question": "Which features are evaluated with the CRAFFT screening test?"
+            }
+          ],
+          "context": " The New Mexico Department of Health school-based health centers (SBHCs) universally administer a validated screen, the CRAFFT (Car, Relax, Alone, Forget, Friends, Trouble), for adolescent substance use concerns; however, quality assurance efforts revealed that SBHC providers needed more information at the point of screening to initiate brief interventions for students with positive CRAFFT screens."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acf57c78d6947100008c_002",
+              "question": "Which features are evaluated with the CRAFFT screening test?"
+            }
+          ],
+          "context": "We present the results of the reliability and concurrent validity of the CRAFFT (acronym for Car, Relax, Alone, Forget, Friends, and Trouble) substance abuse screening instrument among residents of youth correctional facilities in Lagos, Nigeria. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acf57c78d6947100008c_003",
+              "question": "Which features are evaluated with the CRAFFT screening test?"
+            }
+          ],
+          "context": "The Problem Oriented Screening Instrument for Teenagers (POSIT) and the Car, Relax, Alone, Forget, Family/Friends, Trouble questionnaire (CRAFFT) are used to this end."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acf57c78d6947100008c_004",
+              "question": "Which features are evaluated with the CRAFFT screening test?"
+            }
+          ],
+          "context": "The aim of this study was to compare the performance of the Alcohol Use Disorders Identification Test (AUDIT), its short form AUDIT-C, the Substance Module of the Problem Oriented Screening Instrument for Teenagers (POSIT), and CRAFFT (acronym for car, relax, alone, forget, family, and friends)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73acf57c78d6947100008c_005",
+              "question": "Which features are evaluated with the CRAFFT screening test?"
+            }
+          ],
+          "context": "INTRODUCTION: Alcohol (AUD) and other substance use disorders (SUD) are common among adolescents. The CRAFFT (Car, Relax, Alone, Forget, Friends, Trouble, 1999) was developed as a brief screening instrument for adolescents to measure AUD and SUD. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f0f581a4c55d80b000012_001",
+              "question": "List lymphocytes that are analyzed by a flow cytometer."
+            }
+          ],
+          "context": " Quantitation of lymphocyte subsets (B cells, T cells, CD4 and CD8 T cells and NK cells) classically relies on quantitation of lymphocytes and immunophenotyping by flow cytometry. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f0f581a4c55d80b000012_002",
+              "question": "List lymphocytes that are analyzed by a flow cytometer."
+            }
+          ],
+          "context": "The distributions of Th17 cells, regulatory Treg-cells, CD4+ T-cells, CD8+ T-cells, and CD3+ T-cells were determined by flow cytometer. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f0f581a4c55d80b000012_003",
+              "question": "List lymphocytes that are analyzed by a flow cytometer."
+            }
+          ],
+          "context": " main lymphocyte subsets (T, B and NK cell "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad057c78d6947100008f_001",
+              "question": "List two drugs that are included in the Akynzeo pill?"
+            }
+          ],
+          "context": "OBJECTIVES: To review the latest antiemetic guideline recommendations and provide an update on the use of NEPA, a fixed combination antiemetic composed of the neurokinin-1 receptor antagonist (RA) netupitant and the 5-hydroxytryptamine-3 RA palonosetron (Akynzeo\u00ae)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad057c78d6947100008f_002",
+              "question": "List two drugs that are included in the Akynzeo pill?"
+            }
+          ],
+          "context": "An oral fixed combination of netupitant/palonosetron (NEPA; Akynzeo(\u00ae)) with >85% antiemetic efficacy is available for use in the prevention of acute and delayed chemotherapy-induced nausea and vomiting (CINV)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad057c78d6947100008f_003",
+              "question": "List two drugs that are included in the Akynzeo pill?"
+            }
+          ],
+          "context": "An oral fixed combination of netupitant/palonosetron (NEPA; Akynzeo(\u00ae)) is available for use in the prevention of acute and delayed chemotherapy-induced nausea and vomiting (CINV)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad057c78d6947100008f_004",
+              "question": "List two drugs that are included in the Akynzeo pill?"
+            }
+          ],
+          "context": "Ledipasvir/sofosbuvir (Harvoni) for hepatitis C virus genotype 1 infection; dulaglutide (Trulicity) for glycemic control in type-2 diabetes; netupitant/palonosetron (Akynzeo) for prevention of nausea and vomiting related to chemotherapy; and naloxegol (Movantik) for opioid-induced constipation in patients with chronic noncancer pain."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f2dc21a4c55d80b000024_001",
+              "question": "List some substances important for proper nervous system function that gut microbes produce."
+            }
+          ],
+          "context": " Gut microorganisms are capable of producing and delivering neuroactive substances such as serotonin and gamma-aminobutyric acid, which act on the gut-brain axis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f2dc21a4c55d80b000024_002",
+              "question": "List some substances important for proper nervous system function that gut microbes produce."
+            }
+          ],
+          "context": "Prebiotic compounds are appealing for this purpose as they are generally food-grade substances only degraded by microbes, such as bifidobacteria and lactobacilli, from which beneficial short-chain fatty acids are produced."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c5f2dc21a4c55d80b000024_003",
+              "question": "List some substances important for proper nervous system function that gut microbes produce."
+            }
+          ],
+          "context": "Moreover, gut microbiota are considerable sources of NTs. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c851a8175a4a5d219000005_001",
+              "question": "List 3 enterotoxins produced by Clostridium difficile."
+            }
+          ],
+          "context": "The toxins produced by the C. diff. (toxin A, toxin B, and binary toxin) are the agents that cause injury and disease. Only toxin producing C. diff. Strains will cause disease. Binary toxin by itself is not thought to produce disease"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c851a8175a4a5d219000005_002",
+              "question": "List 3 enterotoxins produced by Clostridium difficile."
+            }
+          ],
+          "context": "Binary toxin causes disease in humans when present with toxin A and B producing bacteria, "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c851a8175a4a5d219000005_003",
+              "question": "List 3 enterotoxins produced by Clostridium difficile."
+            }
+          ],
+          "context": " The main virulence factor is related to the release of two major exotoxins, toxin A (TcdA) and toxin B (TcdB). Recent C. difficile-associated disease (CDAD) outbreaks have been caused by hypervirulent strains which secrete an additional binary toxin (CDTa/CDTb). V"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c851a8175a4a5d219000005_004",
+              "question": "List 3 enterotoxins produced by Clostridium difficile."
+            }
+          ],
+          "context": "The exotoxins toxin A (TcdA) and toxin B (TcdB) are produced by the bacterial pathogen Clostridium difficile and are responsible for the pathology associated with C. difficile infection (CDI)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d520ed774d0424000000f_001",
+              "question": "List adipokines."
+            }
+          ],
+          "context": "adipokines (adiponectin and leptin)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d520ed774d0424000000f_002",
+              "question": "List adipokines."
+            }
+          ],
+          "context": " number of adipokines, like Resistin (RETN)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d520ed774d0424000000f_003",
+              "question": "List adipokines."
+            }
+          ],
+          "context": "Plasma adipokine levels were measured before exercise, and at 5 and 90\u2009min after exercise on the first and the last training days. Adiponectin was higher at 5\u2009min than 90\u2009min post-exercise (11.7\u2009\u00b1\u20097.3 and 10.5\u2009\u00b1\u20095.8\u2009ng/ml; p\u2009=\u2009.01) in the first exercise day. Leptin decreased 5\u2009min after exercise (23.6\u2009\u00b1\u200913.2 vs. baseline 27.8\u2009\u00b1\u200914.4\u2009ng/ml; p\u2009<\u2009.01) and remained depressed following 90\u2009min (p\u2009<\u2009.01)"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c7d520ed774d0424000000f_004",
+              "question": "List adipokines."
+            }
+          ],
+          "context": " leptin, adiponectin, resistin, "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c851c2675a4a5d219000006_001",
+              "question": "Please list 2 antitoxin antibodies approved by the FDA for reducing the recurrence of Clostridium difficile infection"
+            }
+          ],
+          "context": "The exotoxins toxin A (TcdA) and toxin B (TcdB) are produced by the bacterial pathogen Clostridium difficile and are responsible for the pathology associated with C. difficile infection (CDI). The antitoxin antibodies actoxumab and bezlotoxumab bind to and neutralize TcdA and TcdB, respectively. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c851c2675a4a5d219000006_002",
+              "question": "Please list 2 antitoxin antibodies approved by the FDA for reducing the recurrence of Clostridium difficile infection"
+            }
+          ],
+          "context": "Clostridium difficile continues to be one of the most prevalent hospital-acquired bacterial infections in the developed world, despite the recent introduction of a novel and effective antibiotic agent (fidaxomici"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8bfe25d558e5f23200000f_001",
+              "question": "List the functions of the protein lactotransferrin."
+            }
+          ],
+          "context": "It has numerous biological roles, including the regulation of iron absorption and modulation of immune responses, and has anti-microbial, anti-viral, antioxidant, anti-cancer, and anti-inflammatory activities."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8bfe25d558e5f23200000f_002",
+              "question": "List the functions of the protein lactotransferrin."
+            }
+          ],
+          "context": "The tumor suppressor function of lactotransferrin (LTF) has been reported in a variety of tumors, including GC, nasopharyngeal carcinoma (NPC) and prostate cancer. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c8bfe25d558e5f23200000f_003",
+              "question": "List the functions of the protein lactotransferrin."
+            }
+          ],
+          "context": "Lactotransferrin (LTF) is a pleiotropic protein, expressed in various body tissues and fluids, which modulates the host immune-inflammatory response and bone metabolism, and might be involved in dental implant osseointegration"
+        },
+        {
+          "qas": [
+            {
+              "id": "5c900983ecadf2e73f000002_001",
+              "question": "Name siRNA drugs that have entered phase 2-3 clinical trials (by 2019)."
+            }
+          ],
+          "context": " This review addresses nine small-interfering RNAs (siRNAs) and one unique microRNA (miRNA) inhibitor, which entered the phase 2-3 clinical trials. The siRNAs in focus are PF-04523655, TKM-080301, Atu027, SYL040012, SYL1001, siG12D-LODER (phase 2), QPI-1002, QPI-1007, and patisiran (phase 3). "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b15467c78d69471000024_001",
+              "question": "Mention computational tools that have been developed for alternative polyadenylation (APA) sites analysis"
+            }
+          ],
+          "context": "TAPAS: tool for alternative polyadenylation site analysis."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b15467c78d69471000024_002",
+              "question": "Mention computational tools that have been developed for alternative polyadenylation (APA) sites analysis"
+            }
+          ],
+          "context": "We propose a new tool, called TAPAS, for detecting novel APA sites from RNA-Seq data. It can deal with more than two APA sites in a gene as well as APA sites that occur before the last exon. The tool is based on an existing method for finding change points in time series data, but some filtration techniques are also adopted to remove change points that are likely false APA sites. It is then extended to identify APA sites that are expressed differently between two biological samples and genes that contain 3' UTRs with shortening/lengthening events. Our extensive experiments on simulated and real RNA-Seq data demonstrate that TAPAS outperforms the existing tools for APA site detection or shortening/lengthening analysis significantly."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b15467c78d69471000024_003",
+              "question": "Mention computational tools that have been developed for alternative polyadenylation (APA) sites analysis"
+            }
+          ],
+          "context": "PlantAPA: A Portal for Visualization and Analysis of Alternative Polyadenylation in Plants."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b15467c78d69471000024_004",
+              "question": "Mention computational tools that have been developed for alternative polyadenylation (APA) sites analysis"
+            }
+          ],
+          "context": "Increasing numbers of poly(A) sites collected in various plant species demand new methods and tools to access and mine these data. We have created an open-access web service called PlantAPA (http://bmi.xmu.edu.cn/plantapa) to visualize and analyze genome-wide poly(A) sites in plants. PlantAPA provides various interactive and dynamic graphics and seamlessly integrates a genome browser that can profile heterogeneous cleavage sites and quantify expression patterns of poly(A) sites across different conditions. Particularly, through PlantAPA, users can analyze poly(A) sites in extended 3' UTR regions, intergenic regions, and ambiguous regions owing to alternative transcription or RNA processing. In addition, it also provides tools for analyzing poly(A) site selections, 3' UTR lengthening or shortening, non-canonical APA site switching, and differential gene expression between conditions, making it more powerful for the study of APA-mediated gene expression regulation. More importantly, PlantAPA offers a bioinformatics pipeline that allows users to upload their own short reads or ESTs for poly(A) site extraction, enabling users to further explore poly(A) site selection using stored PlantAPA poly(A) sites together with their own poly(A) site datasets. To date, PlantAPA hosts the largest database of APA sites in plants, including Oryza sativa, Arabidopsis thaliana, Medicago truncatula, and Chlamydomonas reinhardtii. As a user-friendly web service, PlantAPA will be a valuable addition to the community of biologists studying APA mechanisms and gene expression regulation in plants."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6b15467c78d69471000024_005",
+              "question": "Mention computational tools that have been developed for alternative polyadenylation (APA) sites analysis"
+            }
+          ],
+          "context": "In our recent RNA-seq experiments using cells with hyper-activated mammalian target of rapamycin (mTOR), we found that cellular mTOR activation leads to transcriptome-wide alternative polyadenylation (APA), resulting in the activation of multiple cellular pathways. Here, we developed a novel bioinformatics algorithm, IntMAP, which integrates RNA-Seq and PolyA Site (PAS)-Seq data for a comprehensive characterization of APA events. By applying IntMAP to the datasets from cells with hyper-activated mTOR, we identified novel APA events that could otherwise not be identified by either profiling method alone. Several transcription factors including Cebpg (CCAAT/enhancer binding protein gamma) were among the newly discovered APA transcripts, indicating that diverse transcriptional networks may be regulated by mTOR-coordinated APA. The prevention of APA in Cebpg using the CRISPR/cas9-mediated genome editing tool showed that mTOR-driven 3'-UTR shortening in Cebpg is critical in protecting cells from endoplasmic reticulum (ER) stress. Taken together, we present IntMAP as a new bioinformatics algorithm for APA analysis by which we expand our understanding of the physiological role of mTOR-coordinated APA events to ER stress response. IntMAP toolbox is available at http://compbio.cs.umn.edu/IntMAP/."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bda9d7c78d69471000031_001",
+              "question": "Which curated data resources for ChIP-seq data are available?"
+            }
+          ],
+          "context": "MGA repository: a curated data resource for ChIP-seq and other genome annotated data."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bda9d7c78d69471000031_002",
+              "question": "Which curated data resources for ChIP-seq data are available?"
+            }
+          ],
+          "context": "The Mass Genome Annotation (MGA) repository is a resource designed to store published next generation sequencing data and other genome annotation data (such as gene start sites, SNPs, etc.) in a completely standardised format."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bda9d7c78d69471000031_003",
+              "question": "Which curated data resources for ChIP-seq data are available?"
+            }
+          ],
+          "context": "Cistrome Data Browser: a data portal for ChIP-Seq and chromatin accessibility data in human and mouse."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bda9d7c78d69471000031_004",
+              "question": "Which curated data resources for ChIP-seq data are available?"
+            }
+          ],
+          "context": "To overcome this challenge, we built the Cistrome database, a collection of ChIP-seq and chromatin accessibility data (DNase-seq and ATAC-seq) published before January 1, 2016, including 13 366 human and 9953 mouse samples. All the data have been carefully curated and processed with a streamlined analysis pipeline and evaluated with comprehensive quality control metrics. We have also created a user-friendly web server for data query, exploration and visualization. The resulting Cistrome DB (Cistrome Data Browser), available online at http://cistrome.org/db, is expected to become a valuable resource for transcriptional and epigenetic regulation studies."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bda9d7c78d69471000031_005",
+              "question": "Which curated data resources for ChIP-seq data are available?"
+            }
+          ],
+          "context": "CR Cistrome: a ChIP-Seq database for chromatin regulators and histone modification linkages in human and mouse."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c6bda9d7c78d69471000031_006",
+              "question": "Which curated data resources for ChIP-seq data are available?"
+            }
+          ],
+          "context": "GeneProf data: a resource of curated, integrated and reusable high-throughput genomics experiments."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad0f7c78d69471000096_001",
+              "question": "Which diseases are treated with netarsudil?"
+            }
+          ],
+          "context": "Two Phase 3 Clinical Trials Comparing the Safety and Efficacy of Netarsudil to Timolol in Patients With Elevated Intraocular Pressure: Rho Kinase\u00a0Elevated IOP Treatment Trial 1 and 2 (ROCKET-1 and ROCKET-2)."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad0f7c78d69471000096_002",
+              "question": "Which diseases are treated with netarsudil?"
+            }
+          ],
+          "context": "CONCLUSIONS: In 2 large, randomized, double-masked trials reported here, once-daily dosing of netarsudil 0.02% was found to be effective and well tolerated for the treatment of patients with ocular hypertension and open-angle glaucoma. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad0f7c78d69471000096_003",
+              "question": "Which diseases are treated with netarsudil?"
+            }
+          ],
+          "context": "Netarsudil ophthalmic solution 0.02% (hereafter referred to as netarsudil 0.02%) [Rhopressa\u00ae] is a Rho-associated protein kinase inhibitor that is thought to lower intraocular pressure (IOP) by increasing aqueous humour outflow through the trabecular meshwork. It has been developed by Aerie Pharmaceuticals and was recently approved in the USA for the reduction of elevated IOP in patients with open-angle glaucoma or ocular hypertension."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad0f7c78d69471000096_004",
+              "question": "Which diseases are treated with netarsudil?"
+            }
+          ],
+          "context": "PURPOSE: Netarsudil, an inhibitor of Rho kinase and a norepinephrine transporter, has been shown to lower elevated intraocular pressure (IOP) in controlled studies of patients with open-angle glaucoma and ocular hypertension, and in healthy volunteers."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad0f7c78d69471000096_005",
+              "question": "Which diseases are treated with netarsudil?"
+            }
+          ],
+          "context": "CONCLUSIONS: Once-daily dosing of netarsudil ophthalmic solution 0.02% lowered IOP through increasing trabecular outflow facility and reducing EVP."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad0f7c78d69471000096_006",
+              "question": "Which diseases are treated with netarsudil?"
+            }
+          ],
+          "context": "Netarsudil ophthalmic solution (Rhopressa) for the reduction of elevated intraocular pressure; ertugliflozin (Steglatro) for adults with type-2 diabetes; and lutetium lu 177 dotatate (Lutathera) for certain gastroenteropancreatic neuroendocrine tumors."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad0f7c78d69471000096_007",
+              "question": "Which diseases are treated with netarsudil?"
+            }
+          ],
+          "context": "Two recently approved multi-pharmacophoric drugs (e.g., rho kinase inhibitor, Netarsudil; a drug conjugate, Latanoprostene Bunod) and novel aqueous humor drainage devices (iStent and CyPass) are also gaining acceptance for treating POAG/ NTG. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad0f7c78d69471000096_008",
+              "question": "Which diseases are treated with netarsudil?"
+            }
+          ],
+          "context": "Ultimately, a search for Rho kinase inhibitors led to the discovery of several molecules of therapeutic interest, leaving us today with 2 new ocular hypotensive agents approved for clinical use: ripasudil in Japan and netarsudil in the United States. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad0f7c78d69471000096_009",
+              "question": "Which diseases are treated with netarsudil?"
+            }
+          ],
+          "context": "Netarsudil ophthalmic solution 0.02% for the treatment of patients with open-angle glaucoma or ocular hypertension."
+        },
+        {
+          "qas": [
+            {
+              "id": "5c73ad0f7c78d69471000096_010",
+              "question": "Which diseases are treated with netarsudil?"
+            }
+          ],
+          "context": "Once-daily (p.m.) netarsudil ophthalmic solution 0.02% (Rhopressa) is approved in the United States for lowering elevated intraocular pressure (IOP) in patients with open-angle glaucoma or ocular hypertension. "
+        },
+        {
+          "qas": [
+            {
+              "id": "5c9158a5ecadf2e73f000008_001",
+              "question": "Which malignancies is Keytruda approved for before 2017?"
+            }
+          ],
+          "context": "FDA previously approved Keytruda for treatment of several types of malignancies, such as metastatic melanoma, metastatic non-small-cell lung cancer, recurrent or metastatic head and neck cancer, refractory Hodgkin lymphoma, and urothelial carcinoma, all of which carry positive programmed death-1/programmed death-ligand 1 biomarkers."
+        }
+      ],
+      "title": "BioASQ6b"
+    }
+  ],
+  "version": "BioASQ6b"
+}
