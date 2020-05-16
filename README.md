@@ -17,7 +17,7 @@ albert_fine_tune.txt
 
 ### pre-training COVIDBert
 
-To process the COVID-19 corpora into the format suitable for pre-traing, we run the following notebook.
+To process the COVID-19 corpora into the format suitable for pre-traing and a sample pretraining usage on Goole Cloud, we run the following notebook.
 
 ```
 Data_processing.ipynb
