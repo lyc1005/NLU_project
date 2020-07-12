@@ -16,11 +16,11 @@ With the spread of COVID-19 and intensively accumulated research papers, it is i
 
 The following figure shows an example of question-answer pair with its context in the Covid-19 QA dataset.
 
-<img src="https://github.com/lyc1005/NLU_project/blob/master/image/example.png" width="500" height="250">
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/example.png" width="480" height="250">
 
 The following figure shows the distribution of each answer type in the Covid-19 QA dataset.
 
-<img src="https://github.com/lyc1005/NLU_project/blob/master/image/answer type.png" width="500" height="300">
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/answer type.png" width="450" height="300">
 
 ## Method
 
@@ -56,15 +56,19 @@ Fine_tuning_for_Question_Answering.ipynb
 
 ## Results
 
-<img src="https://github.com/lyc1005/NLU_project/blob/master/image/model_result.png" width="300" height="450">
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/model_result.png" width="300" height="430">
 
 The performances for different models and different fine-tuning strategies on our manually labeled test set is shown in Table 1. We could see that the performances of ALBERT and BioBERT are similar and they both significantly outperform our pretrained COVID-ALBERT model.
 
 The results in the table also show that fine-tuning on the BioASQ dataset harms the model’s performance no matter where we choose to use it.
 
-<img src="https://github.com/lyc1005/NLU_project/blob/master/image/error_analysis.png" width="350" height="200">
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/error_analysis.png" width="400" height="240">
 
 We use the prediction of ALBERT model (fine-tuned solely on SQuAD) that reaps the highest EM (exact match) to evaluate how well it could predict answers for different answer types. The result is showed at Table 2
+
+## Discussion
+
+Based on the results showed in previous section, we conclude that ALBERT is comprehensive enough for doing starter works at a new domain. We also want to point out that although our pretrained COVID-ALBERT performs the worst compared to ALBERT and BioBERT, it is still too early to determine that COVID-19 specific BERT model is not useful at all as the significant gap of F1/EM score between biomedical term answers and general term answer indicate those biomedical term requires better representation. The failure of COVID-ALBERT could be due to various design choices we make, different distribution in pre-training, fine-tuning and testing phases, or lack of computation power in pre_training. Hence in the future, when we have enough resources, we want to utilize larger text corpus and larger dupe factor to pretrain another more comprehensive COVID-19 BERT model and replicate our experiments in this work.
 
 ## Contributors (names in alphabetical order)
 
