@@ -14,9 +14,13 @@ With the spread of COVID-19 and intensively accumulated research papers, it is i
 
 [Covid-19 QA dataset](/COVID19_QA_testset.csv): This dataset was manually labelled by our team members and it contains question-answer pairs with the corresponding context sampled from CORD-19 articles.
 
-<img src="https://github.com/lyc1005/NLU_project/blob/master/image/example.png" width="400" height="300">
+The following figure shows an example of question-answer pair with its context in the Covid-19 QA dataset.
 
-<img src="https://github.com/lyc1005/NLU_project/blob/master/image/answer type.png" width="400" height="400">
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/example.png" width="500" height="250">
+
+The following figure shows the distribution of each answer type in the Covid-19 QA dataset.
+
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/answer type.png" width="500" height="300">
 
 ## Method
 
@@ -52,13 +56,13 @@ Fine_tuning_for_Question_Answering.ipynb
 
 ## Results
 
-<img src="https://github.com/lyc1005/NLU_project/blob/master/image/model_result.png" width="300" height="500">
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/model_result.png" width="300" height="450">
 
 The performances for different models and different fine-tuning strategies on our manually labeled test set is shown in Table 1. We could see that the performances of ALBERT and BioBERT are similar and they both significantly outperform our pretrained COVID-ALBERT model.
 
 The results in the table also show that fine-tuning on the BioASQ dataset harms the model’s performance no matter where we choose to use it.
 
-<img src="https://github.com/lyc1005/NLU_project/blob/master/image/error_analysis.png" width="300" height="250">
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/error_analysis.png" width="350" height="200">
 
 We use the prediction of ALBERT model (fine-tuned solely on SQuAD) that reaps the highest EM (exact match) to evaluate how well it could predict answers for different answer types. The result is showed at Table 2
 
