@@ -1,6 +1,6 @@
-# COVIDBert: A Pre-trained Language Model for COVID-19 research papers
+# Find the Optimal Model for Covid-19 QA
 
-![wordcloud](/image/covidalbert.png)
+![wordcloud](/image/covidalbert.png =50x50)
 
 With the spread of COVID-19 and intensively accumulated research papers, it is important for researchers and users to efficiently get their questions answered. We would like to find out what are the optimal question and answering (QA) models in this specific do- main. Recently, BERT (Devlin et al., 2018) based models achieved the state-of-the-art results in multiple tasks including the QA task. And there are also domain specific BERT models existing, e.g., BioBert (Lee et al., 2019). Hence based on the ALBERT model (Lan et al., 2019), we build COVID-ALBERT, a COVID-19 specific model to explore whether it could help to improve the downstream QA task performance in this area. Finally, we compare the performance of 3 models: ALBERT, BioBert and COVID-ALBERT on our manually-labeled test Covid-19 QA dataset.
 
@@ -12,29 +12,67 @@ With the spread of COVID-19 and intensively accumulated research papers, it is i
 
 [BioASQ](http://bioasq.org/): BioASQ is a challenge on large-scale biomedical data semantic indexing and question answering.
 
-[Covid-19 QA dataset](/COVID19_QA_testset.csv)
+[Covid-19 QA dataset](/COVID19_QA_testset.csv): This dataset was manually labelled by our team members and it contains question-answer pairs with the corresponding context sampled from CORD-19 articles.
+
+![example](/image/example.png)
+
+![answer_type](/image/answer type.png)
 
 ## Method
 
-We  use  Albert and  SQuad v2.0 dataset to get the baseline result. The baseline model can be run on
+### Baseline model
+
+1. ALBERT(https://arxiv.org/abs/1909.11942)
+
+2. BioBERT(https://arxiv.org/abs/1901.08746)
+
+### Pre-training COVID-Albert
+
+we choose to use ALBERT-base as our starting point and we then use the CORD-19 corpus to continue pre-training.
 
 ```
+Data_processing.ipynb
 Question_Answering_with_ALBERT.ipynb
 albert_fine_tune.txt
 ```
 
-### pre-training COVIDBert
+### Fine-tuning the Models and Test on Our Custom QA Dataset
 
-To process the COVID-19 corpora into the format suitable for pre-traing and a sample pretraining usage on Goole Cloud, we run the following notebook.
+For fine-tuning the 3 models we choose, we use 3 different strategies:
+
+1. Fine-tune the models solely on SQuAD.
+
+2. Fine-tune the models firstly on SQuAD and then use BioASQ to do further fine-tuning.
+
+3. Fine-tune the models firstly on BioASQ and then use SQuAD to do further fine-tuning.
+
+After the fine-tuning is done, we then apply the models on our manually labeled COVID-19 QA dataset and use their performances as indicators on how well these models could generalize on larger COVID-19 QA tasks in the future.
 
 ```
-Data_processing.ipynb
+Fine_tuning_for_Question_Answering.ipynb
 ```
 
+## Results
 
+![model_result](/image/model_result.png)
+
+The performances for different models and different fine-tuning strategies on our manually labeled test set is shown in Table 1. We could see that the performances of ALBERT and BioBERT are similar and they both significantly outperform our pretrained COVID-ALBERT model.
+
+The results in the table also show that fine-tuning on the BioASQ dataset harms the model’s performance no matter where we choose to use it.
+
+![error_analysis](/image/error_analysis.png)
+
+We use the prediction of ALBERT model (fine-tuned solely on SQuAD) that reaps the highest EM (exact match) to evaluate how well it could predict answers for different answer types. The result is showed at Table 2
+
+## Contributor (names in alphabetical order)
+Xiao Li (xl998@nyu.edu)
+Yanyan Xu (yx2193@nyu.edu)
+Yichen Liu (yl7043@nyu.edu)
+Zian Chen (zc674@nyu.edu)
 
 ## Acknowledgments
 
-* Thanks for @techno246 and the codes our baseline model is based on.
-* Thanks for @wonjininfo and the codes for cleaning BioASQ datasets which we use for finetuning.
+* Thanks [Professor Sam Bowman](https://cims.nyu.edu/~sbowman/) for providing valuable advice and suggestion to this project.
+* Thanks @techno246 and the codes our baseline model is based on.
+* Thanks @wonjininfo and the codes for cleaning BioASQ datasets which we use for finetuning.
 
