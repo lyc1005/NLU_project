@@ -1,7 +1,6 @@
 # Find the Optimal Model for Covid-19 QA
 
-![wordcloud](https://github.com/lyc1005/NLU_project/blob/master/image/covidalbert.png =100x100)
-<img src="https://github.com/lyc1005/NLU_project/blob/master/image/covidalbert.png" width="480" height="480">
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/covidalbert.png" width="600" height="600">
 
 With the spread of COVID-19 and intensively accumulated research papers, it is important for researchers and users to efficiently get their questions answered. We would like to find out what are the optimal question and answering (QA) models in this specific do- main. Recently, BERT (Devlin et al., 2018) based models achieved the state-of-the-art results in multiple tasks including the QA task. And there are also domain specific BERT models existing, e.g., BioBert (Lee et al., 2019). Hence based on the ALBERT model (Lan et al., 2019), we build COVID-ALBERT, a COVID-19 specific model to explore whether it could help to improve the downstream QA task performance in this area. Finally, we compare the performance of 3 models: ALBERT, BioBert and COVID-ALBERT on our manually-labeled test Covid-19 QA dataset.
 
@@ -15,9 +14,9 @@ With the spread of COVID-19 and intensively accumulated research papers, it is i
 
 [Covid-19 QA dataset](/COVID19_QA_testset.csv): This dataset was manually labelled by our team members and it contains question-answer pairs with the corresponding context sampled from CORD-19 articles.
 
-![example](/image/example.png)
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/example.png" width="400" height="300">
 
-![answer_type](/image/answer type.png)
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/answer type.png" width="400" height="400">
 
 ## Method
 
@@ -53,13 +52,13 @@ Fine_tuning_for_Question_Answering.ipynb
 
 ## Results
 
-![model_result](/image/model_result.png)
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/model_result.png" width="300" height="500">
 
 The performances for different models and different fine-tuning strategies on our manually labeled test set is shown in Table 1. We could see that the performances of ALBERT and BioBERT are similar and they both significantly outperform our pretrained COVID-ALBERT model.
 
 The results in the table also show that fine-tuning on the BioASQ dataset harms the model’s performance no matter where we choose to use it.
 
-![error_analysis](/image/error_analysis.png)
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/error_analysis.png" width="300" height="250">
 
 We use the prediction of ALBERT model (fine-tuned solely on SQuAD) that reaps the highest EM (exact match) to evaluate how well it could predict answers for different answer types. The result is showed at Table 2
 
