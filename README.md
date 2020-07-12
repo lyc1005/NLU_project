@@ -1,6 +1,7 @@
 # Find the Optimal Model for Covid-19 QA
 
 ![wordcloud](/image/covidalbert.png =50x50)
+<img src="https://github.com/lyc1005/NLU_project/blob/master/image/covidalbert.png" width="48" height="48">
 
 With the spread of COVID-19 and intensively accumulated research papers, it is important for researchers and users to efficiently get their questions answered. We would like to find out what are the optimal question and answering (QA) models in this specific do- main. Recently, BERT (Devlin et al., 2018) based models achieved the state-of-the-art results in multiple tasks including the QA task. And there are also domain specific BERT models existing, e.g., BioBert (Lee et al., 2019). Hence based on the ALBERT model (Lan et al., 2019), we build COVID-ALBERT, a COVID-19 specific model to explore whether it could help to improve the downstream QA task performance in this area. Finally, we compare the performance of 3 models: ALBERT, BioBert and COVID-ALBERT on our manually-labeled test Covid-19 QA dataset.
 
@@ -32,8 +33,6 @@ we choose to use ALBERT-base as our starting point and we then use the CORD-19 c
 
 ```
 Data_processing.ipynb
-Question_Answering_with_ALBERT.ipynb
-albert_fine_tune.txt
 ```
 
 ### Fine-tuning the Models and Test on Our Custom QA Dataset
@@ -64,10 +63,14 @@ The results in the table also show that fine-tuning on the BioASQ dataset harms 
 
 We use the prediction of ALBERT model (fine-tuned solely on SQuAD) that reaps the highest EM (exact match) to evaluate how well it could predict answers for different answer types. The result is showed at Table 2
 
-## Contributor (names in alphabetical order)
+## Contributors (names in alphabetical order)
+
 Xiao Li (xl998@nyu.edu)
+
 Yanyan Xu (yx2193@nyu.edu)
+
 Yichen Liu (yl7043@nyu.edu)
+
 Zian Chen (zc674@nyu.edu)
 
 ## Acknowledgments
