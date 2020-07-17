@@ -26,9 +26,9 @@ The following figure shows the distribution of each answer type in the Covid-19 
 
 ### Baseline model
 
-1. ALBERT(https://arxiv.org/abs/1909.11942)
+1. [ALBERT](https://arxiv.org/abs/1909.11942): ALBERT uses a very similar backbone architecture as BERT while it improve BERT by implementing factorized embedding parameters, cross-layer parameter sharing and inter-sentence coherence loss. The first two design choices provide the advantage of fewer parameters than BERT which enables faster training speed and less memory usage. The inter-sentence coherence loss enables ALBERT to change the next sentence prediction(NSP) task of BERT to a harder version - sentence-order prediction(SOP) which lets ALBERT achieve improvement on several down- stream tasks.
 
-2. BioBERT(https://arxiv.org/abs/1901.08746)
+2. [BioBERT](https://arxiv.org/abs/1901.08746): BioBERT has focused on the biomedical domain. It significantly improves the performance on complex biomedical text mining tasks including biomedical named entity recognition, biomedical relation extraction, and biomedical question answering.
 
 ### Pre-training COVID-Albert
 
